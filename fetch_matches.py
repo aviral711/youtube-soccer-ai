@@ -67,23 +67,27 @@ match_data = {
 print ("Match_Data: ", match_data);
 
 ## Data for Match Stats table
-match_stats = {
-    "match_id": match_data["match_id"],
+stat_records = []
 
-    "possession_home": 60,
-    "possession_away": 40,
+stat_groups = data_details["content"]["stats"]["Periods"]["All"]["stats"]
 
-    "xg_home": 1.46,
-    "xg_away": 0.07,
+for group in stat_groups:
 
-    "shots_home": 16,
-    "shots_away": 3,
+    if isinstance(group.get("stats"), list):
 
-    "shots_on_target_home": 4,
-    "shots_on_target_away": 2
-}
+        for stat in group["stats"]:
 
-print ("Match_Stats: ", match_stats);
+            record = {
+                "match_id": match_data["match_id"],
+                "stat_key": stat.get("key"),
+                "stat_title": stat.get("title"),
+                "home_value": str(stat["stats"][0]),
+                "away_value": str(stat["stats"][1])
+            }
+
+            stat_records.append(record)
+
+print ("Match_Stats: ", stat_records[0]);
 
 ## Data for Match Events table
 event_list = data_details["content"]["matchFacts"]["events"]["events"]
@@ -94,52 +98,36 @@ for event in event_list:
 
     record = {
         "event_id": event.get("eventId"),
-
         "match_id": match_data["match_id"],
-
         "minute": event.get("time"),
-
         "minute_added": event.get("overloadTime"),
-
         "event_type": event.get("type"),
-
         "player_id": event.get("playerId"),
-
         "player_name": event.get("fullName"),
-
         "team_side": "HOME" if event.get("isHome") else "AWAY",
-
         "home_score_before": event.get("homeScore"),
-
         "away_score_before": event.get("awayScore"),
-
         "home_score_after": (
             event.get("newScore")[0]
             if event.get("newScore")
             else None
         ),
-
         "away_score_after": (
             event.get("newScore")[1]
             if event.get("newScore")
             else None
         ),
-
         "assist_player_id": event.get("assistPlayerId"),
-
         "assist_player_name": event.get("assistInput"),
-
         "is_own_goal": (
             event.get("ownGoal")
             if event.get("ownGoal") is not None
             else False
         ),
-
         "expected_goals": (
             event.get("shotmapEvent", {})
                  .get("expectedGoals")
         ),
-
         "event_description": (
             event.get("assistStr")
         )
