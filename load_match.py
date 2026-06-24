@@ -21,6 +21,7 @@ def load_match(
     (
         match_id,
         country_code,
+        country_name,
         competition,
         match_date,
         home_team,
@@ -33,6 +34,7 @@ def load_match(
     (
         :match_id,
         :country_code,
+        :country_name,
         :competition,
         :match_date,
         :home_team,

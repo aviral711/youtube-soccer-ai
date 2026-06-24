@@ -1,0 +1,1680 @@
+{
+    "general": {
+        "matchId": "4951114",
+        "matchName": "Kinondoni MC-vs-Namungo FC_Wed, Jun 24, 2026, 13:00 UTC",
+        "matchRound": "28",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 9066,
+        "leagueName": "Premier League",
+        "leagueRoundName": "28",
+        "parentLeagueId": 9066,
+        "countryCode": "TAN",
+        "homeTeam": {
+            "name": "Kinondoni MC",
+            "id": 1045551
+        },
+        "awayTeam": {
+            "name": "Namungo FC",
+            "id": 1084108
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Wed, Jun 24, 2026, 13:00 UTC",
+        "matchTimeUTCDate": "2026-06-24T13:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Kinondoni MC",
+                "id": 1045551,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1045551_small.png",
+                "pageUrl": "/teams/1045551/overview/kinondoni-mc"
+            },
+            {
+                "name": "Namungo FC",
+                "id": 1084108,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1084108_small.png",
+                "pageUrl": "/teams/1084108/overview/namungo-fc"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-24T13:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "24.06.2026 15:06:12",
+                "firstHalfEnded": "24.06.2026 15:53:59",
+                "secondHalfStarted": "24.06.2026 16:07:43",
+                "secondHalfEnded": "24.06.2026 17:03:34",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "24.06.2026 17:03:34"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Mwijage": [
+                    {
+                        "reactKey": "1421345236Goal1210629undefinedtrue",
+                        "timeStr": 36,
+                        "type": "Goal",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14213452,
+                        "player": {
+                            "id": 1210629,
+                            "name": "Erick Mwijage",
+                            "profileUrl": "/players/1210629/erick-mwijage"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1210629/erick-mwijage",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Erick Mwijage",
+                        "firstName": "Erick",
+                        "lastName": "Mwijage",
+                        "fullName": "Erick Mwijage",
+                        "playerId": 1210629,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Chambo": [
+                    {
+                        "reactKey": "1421346470Goal1343809undefinedtrue",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14213464,
+                        "player": {
+                            "id": 1343809,
+                            "name": "Rashid Chambo",
+                            "profileUrl": "/players/1343809/rashid-chambo"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1343809/rashid-chambo",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Rashid Chambo",
+                        "firstName": "Rashid",
+                        "lastName": "Chambo",
+                        "fullName": "Rashid Chambo",
+                        "playerId": 1343809,
+                        "newScore": [
+                            2,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Ngoye": [
+                    {
+                        "reactKey": "1421344918Goal1531339undefinedfalse",
+                        "timeStr": 18,
+                        "type": "Goal",
+                        "time": 18,
+                        "overloadTime": null,
+                        "eventId": 14213449,
+                        "player": {
+                            "id": 1531339,
+                            "name": "Fabrice Ngoye",
+                            "profileUrl": "/players/1531339/fabrice-ngoye"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1531339/fabrice-ngoye",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabrice Ngoye",
+                        "firstName": "Fabrice",
+                        "lastName": "Ngoye",
+                        "fullName": "Fabrice Ngoye",
+                        "playerId": 1531339,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421345024Goal1531339undefinedfalse",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 14213450,
+                        "player": {
+                            "id": 1531339,
+                            "name": "Fabrice Ngoye",
+                            "profileUrl": "/players/1531339/fabrice-ngoye"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1531339/fabrice-ngoye",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabrice Ngoye",
+                        "firstName": "Fabrice",
+                        "lastName": "Ngoye",
+                        "fullName": "Fabrice Ngoye",
+                        "playerId": 1531339,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421345952Goal1531339undefinedfalse",
+                        "timeStr": 52,
+                        "type": "Goal",
+                        "time": 52,
+                        "overloadTime": null,
+                        "eventId": 14213459,
+                        "player": {
+                            "id": 1531339,
+                            "name": "Fabrice Ngoye",
+                            "profileUrl": "/players/1531339/fabrice-ngoye"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1531339/fabrice-ngoye",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabrice Ngoye",
+                        "firstName": "Fabrice",
+                        "lastName": "Ngoye",
+                        "fullName": "Fabrice Ngoye",
+                        "playerId": 1531339,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 4951114,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421344918Goal1531339undefinedfalse",
+                        "timeStr": 18,
+                        "type": "Goal",
+                        "time": 18,
+                        "overloadTime": null,
+                        "eventId": 14213449,
+                        "player": {
+                            "id": 1531339,
+                            "name": "Fabrice Ngoye",
+                            "profileUrl": "/players/1531339/fabrice-ngoye"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1531339/fabrice-ngoye",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabrice Ngoye",
+                        "firstName": "Fabrice",
+                        "lastName": "Ngoye",
+                        "fullName": "Fabrice Ngoye",
+                        "playerId": 1531339,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421345024Goal1531339undefinedfalse",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 14213450,
+                        "player": {
+                            "id": 1531339,
+                            "name": "Fabrice Ngoye",
+                            "profileUrl": "/players/1531339/fabrice-ngoye"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1531339/fabrice-ngoye",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabrice Ngoye",
+                        "firstName": "Fabrice",
+                        "lastName": "Ngoye",
+                        "fullName": "Fabrice Ngoye",
+                        "playerId": 1531339,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421345236Goal1210629undefinedtrue",
+                        "timeStr": 36,
+                        "type": "Goal",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14213452,
+                        "player": {
+                            "id": 1210629,
+                            "name": "Erick Mwijage",
+                            "profileUrl": "/players/1210629/erick-mwijage"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1210629/erick-mwijage",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Erick Mwijage",
+                        "firstName": "Erick",
+                        "lastName": "Mwijage",
+                        "fullName": "Erick Mwijage",
+                        "playerId": 1210629,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421345952Goal1531339undefinedfalse",
+                        "timeStr": 52,
+                        "type": "Goal",
+                        "time": 52,
+                        "overloadTime": null,
+                        "eventId": 14213459,
+                        "player": {
+                            "id": 1531339,
+                            "name": "Fabrice Ngoye",
+                            "profileUrl": "/players/1531339/fabrice-ngoye"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1531339/fabrice-ngoye",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabrice Ngoye",
+                        "firstName": "Fabrice",
+                        "lastName": "Ngoye",
+                        "fullName": "Fabrice Ngoye",
+                        "playerId": 1531339,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421346470Goal1343809undefinedtrue",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14213464,
+                        "player": {
+                            "id": 1343809,
+                            "name": "Rashid Chambo",
+                            "profileUrl": "/players/1343809/rashid-chambo"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1343809/rashid-chambo",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Rashid Chambo",
+                        "firstName": "Rashid",
+                        "lastName": "Chambo",
+                        "fullName": "Rashid Chambo",
+                        "playerId": 1343809,
+                        "newScore": [
+                            2,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-24T13:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 9066,
+                    "parentLeagueId": 9066,
+                    "link": "/leagues/9066/overview/premier-league",
+                    "leagueName": "Premier League",
+                    "roundName": "28",
+                    "round": "28"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165088_xsmall.png",
+                        "linkToMatch": "/matches/mtibwa-sugar-vs-kinondoni-mc/9cnkl49k#4951073",
+                        "date": {
+                            "utcTime": "2026-05-14T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/165088/overview/mtibwa-sugar",
+                        "tooltipText": {
+                            "utcTime": "2026-05-14T11:00:00.000Z",
+                            "homeTeam": "Mtibwa Sugar",
+                            "homeTeamId": 165088,
+                            "homeScore": "4",
+                            "awayTeam": "Kinondoni MC",
+                            "awayTeamId": 1045551,
+                            "awayScore": "3"
+                        },
+                        "score": "4 - 3",
+                        "home": {
+                            "id": "165088",
+                            "name": "Mtibwa Sugar",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1045551",
+                            "name": "Kinondoni MC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1056183_xsmall.png",
+                        "linkToMatch": "/matches/kinondoni-mc-vs-pamba-jiji/s6my7oxo#4951080",
+                        "date": {
+                            "utcTime": "2026-05-20T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1056183/overview/pamba-jiji",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T15:30:00.000Z",
+                            "homeTeam": "Kinondoni MC",
+                            "homeTeamId": 1045551,
+                            "homeScore": "0",
+                            "awayTeam": "Pamba Jiji",
+                            "awayTeamId": 1056183,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "1045551",
+                            "name": "Kinondoni MC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1056183",
+                            "name": "Pamba Jiji",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165091_xsmall.png",
+                        "linkToMatch": "/matches/azam-fc-vs-kinondoni-mc/9cnmqyoe#4951091",
+                        "date": {
+                            "utcTime": "2026-05-25T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/165091/overview/azam-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T18:00:00.000Z",
+                            "homeTeam": "Azam FC",
+                            "homeTeamId": 165091,
+                            "homeScore": "3",
+                            "awayTeam": "Kinondoni MC",
+                            "awayTeamId": 1045551,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "165091",
+                            "name": "Azam FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1045551",
+                            "name": "Kinondoni MC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1524586_xsmall.png",
+                        "linkToMatch": "/matches/kinondoni-mc-vs-tra-united/165acrlyn#4951097",
+                        "date": {
+                            "utcTime": "2026-06-12T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1524586/overview/tra-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T17:00:00.000Z",
+                            "homeTeam": "Kinondoni MC",
+                            "homeTeamId": 1045551,
+                            "homeScore": "0",
+                            "awayTeam": "TRA United",
+                            "awayTeamId": 1524586,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "1045551",
+                            "name": "Kinondoni MC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1524586",
+                            "name": "TRA United",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/287669_xsmall.png",
+                        "linkToMatch": "/matches/coastal-union-vs-kinondoni-mc/bca43jfz#4951105",
+                        "date": {
+                            "utcTime": "2026-06-15T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/287669/overview/coastal-union",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T13:00:00.000Z",
+                            "homeTeam": "Kinondoni MC",
+                            "homeTeamId": 1045551,
+                            "homeScore": "1",
+                            "awayTeam": "Coastal Union",
+                            "awayTeamId": 287669,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "1045551",
+                            "name": "Kinondoni MC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "287669",
+                            "name": "Coastal Union",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1171766_xsmall.png",
+                        "linkToMatch": "/matches/namungo-fc-vs-singida-black-stars/wgx5aqt5#4951078",
+                        "date": {
+                            "utcTime": "2026-05-12T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1171766/overview/singida-black-stars",
+                        "tooltipText": {
+                            "utcTime": "2026-05-12T11:00:00.000Z",
+                            "homeTeam": "Singida Black Stars",
+                            "homeTeamId": 1171766,
+                            "homeScore": "1",
+                            "awayTeam": "Namungo FC",
+                            "awayTeamId": 1084108,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "1171766",
+                            "name": "Singida Black Stars",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1084108",
+                            "name": "Namungo FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/465620_xsmall.png",
+                        "linkToMatch": "/matches/mbeya-city-vs-namungo-fc/fbnizh5w#4951082",
+                        "date": {
+                            "utcTime": "2026-05-21T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/465620/overview/mbeya-city",
+                        "tooltipText": {
+                            "utcTime": "2026-05-21T18:00:00.000Z",
+                            "homeTeam": "Namungo FC",
+                            "homeTeamId": 1084108,
+                            "homeScore": "1",
+                            "awayTeam": "Mbeya City",
+                            "awayTeamId": 465620,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1084108",
+                            "name": "Namungo FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "465620",
+                            "name": "Mbeya City",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/165084_xsmall.png",
+                        "linkToMatch": "/matches/young-africans-vs-namungo-fc/9yfrey8g#4951095",
+                        "date": {
+                            "utcTime": "2026-05-25T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/165084/overview/young-africans",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:30:00.000Z",
+                            "homeTeam": "Young Africans",
+                            "homeTeamId": 165084,
+                            "homeScore": "3",
+                            "awayTeam": "Namungo FC",
+                            "awayTeamId": 1084108,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "165084",
+                            "name": "Young Africans",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1084108",
+                            "name": "Namungo FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/287669_xsmall.png",
+                        "linkToMatch": "/matches/coastal-union-vs-namungo-fc/c08juoae#4951099",
+                        "date": {
+                            "utcTime": "2026-06-12T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/287669/overview/coastal-union",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T13:00:00.000Z",
+                            "homeTeam": "Coastal Union",
+                            "homeTeamId": 287669,
+                            "homeScore": "1",
+                            "awayTeam": "Namungo FC",
+                            "awayTeamId": 1084108,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "287669",
+                            "name": "Coastal Union",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1084108",
+                            "name": "Namungo FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1524586_xsmall.png",
+                        "linkToMatch": "/matches/namungo-fc-vs-tra-united/17f5izpyv#4951110",
+                        "date": {
+                            "utcTime": "2026-06-16T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1524586/overview/tra-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-16T13:00:00.000Z",
+                            "homeTeam": "Namungo FC",
+                            "homeTeamId": 1084108,
+                            "homeScore": "0",
+                            "awayTeam": "TRA United",
+                            "awayTeamId": 1524586,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "1084108",
+                            "name": "Namungo FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1524586",
+                            "name": "TRA United",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-4951114",
+                    "MatchId": 4951114,
+                    "HomeTeamId": 1045551,
+                    "AwayTeamId": 1084108,
+                    "HomeTeam": "Kinondoni MC",
+                    "AwayTeam": "Namungo FC",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have lost their last {1} matches.",
+                            "TextTemplateId": "bad_form_team",
+                            "StatValues": [
+                                "home_team",
+                                "8"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Kinondoni MC have lost their last 8 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.33",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Kinondoni MC have an average of 0.33 goals in their last three matches and Namungo FC have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.33",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Kinondoni MC have an average of 0.33 goals in their last three matches and Namungo FC have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Kinondoni MC haven't won a match in 12 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1045551,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 4 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1045551,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 14,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 14 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1045551,
+                    "priority": 8,
+                    "defaultText": "Haven't won a match in {0} attempts",
+                    "localizedTextId": "insights_not_won_team",
+                    "statValues": [
+                        {
+                            "value": 14,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't won a match in 14 attempts",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1084108,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 3 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1084108,
+                    "priority": 8,
+                    "defaultText": "{0} have won the previous {2} matches against {1}.",
+                    "localizedTextId": "h2h_winstreak",
+                    "statValues": [
+                        {
+                            "value": 1084108,
+                            "name": "Namungo FC",
+                            "type": "team"
+                        },
+                        {
+                            "value": 1045551,
+                            "name": "Kinondoni MC",
+                            "type": "team"
+                        },
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Namungo FC have won the previous 2 matches against Kinondoni MC.",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1084108,
+                    "priority": 8,
+                    "defaultText": "Haven't won a match in {0} attempts",
+                    "localizedTextId": "insights_not_won_team",
+                    "statValues": [
+                        {
+                            "value": 17,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't won a match in 17 attempts",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "TAN",
+            "QAData": [
+                {
+                    "question": "Who won between Kinondoni MC and Namungo FC on Wed, 24 Jun 2026 13:00:00 GMT?",
+                    "answer": "Namungo FC won 3\u20132 over Kinondoni MC on Wed, 24 Jun 2026 13:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "9066",
+            "url": "https://data.fotmob.com/tables.ext.9066.fot.gz",
+            "teams": [
+                1045551,
+                1084108
+            ],
+            "tournamentNameForUrl": "Premier League",
+            "parentLeagueId": 9066,
+            "countryCode": "TAN"
+        },
+        "h2h": {
+            "summary": [
+                2,
+                6,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-01-31T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#4950982",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    },
+                    "status": {
+                        "utcTime": "2026-01-31T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-04-06T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#4603128",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    },
+                    "status": {
+                        "utcTime": "2025-04-06T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-10-31T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#4602999",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-31T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-02-24T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#4289646",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    },
+                    "status": {
+                        "utcTime": "2024-02-24T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-08-19T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#4288424",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    },
+                    "status": {
+                        "utcTime": "2023-08-19T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-01-24T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#3999731",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    },
+                    "status": {
+                        "utcTime": "2023-01-24T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-10-01T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#3999622",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    },
+                    "status": {
+                        "utcTime": "2022-10-01T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-04-03T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#3726002",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    },
+                    "status": {
+                        "utcTime": "2022-04-03T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-10-23T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#3725874",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    },
+                    "status": {
+                        "utcTime": "2021-10-23T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-05-09T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#3478235",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    },
+                    "status": {
+                        "utcTime": "2021-05-09T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-02-04T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kinondoni-mc-vs-namungo-fc/sxs1fpee#3410151",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "9066",
+                        "pageUrl": "/leagues/9066/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kinondoni MC",
+                        "id": "1045551"
+                    },
+                    "status": {
+                        "utcTime": "2021-02-04T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Namungo FC",
+                        "id": "1084108"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "kinondoni-mc-vs-namungo-fc",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/4951114",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Kinondoni MC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1045551.png",
+                "url": "https://www.fotmob.com/teams/1045551/overview/kinondoni-mc",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Namungo FC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1084108.png",
+                "url": "https://www.fotmob.com/teams/1084108/overview/namungo-fc",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Kinondoni MC vs Namungo FC",
+            "description": "Follow Kinondoni MC vs Namungo FC live on fotmob.com",
+            "startDate": "2026-06-24T13:00:00.000Z",
+            "endDate": "2026-06-24T15:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1045551.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1084108.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/4951114",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-24T13:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Kinondoni MC",
+                    "url": "https://www.fotmob.com/teams/1045551/overview/kinondoni-mc"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Namungo FC",
+                    "url": "https://www.fotmob.com/teams/1084108/overview/namungo-fc"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/9066/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kinondoni MC - Namungo FC",
+                        "item": "https://www.fotmob.com/match/4951114"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/9066/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Namungo FC",
+                        "item": "https://www.fotmob.com/teams/1084108/overview/namungo-fc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Kinondoni MC - Namungo FC",
+                        "item": "https://www.fotmob.com/match/4951114"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/9066/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kinondoni MC",
+                        "item": "https://www.fotmob.com/teams/1045551/overview/kinondoni-mc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Kinondoni MC - Namungo FC",
+                        "item": "https://www.fotmob.com/match/4951114"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Kinondoni MC and Namungo FC on Wed, 24 Jun 2026 13:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Namungo FC won 3\u20132 over Kinondoni MC on Wed, 24 Jun 2026 13:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

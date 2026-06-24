@@ -1,5 +1,7 @@
 import json
 import requests
+import pycountry
+import country_converter as coco
 
 
 def fetch_from_api(url):
@@ -36,3 +38,31 @@ def build_daily_matches_url(match_date):
         f"&ccode3=USA"
         f"&includeNextDayLateNight=true"
     )
+
+def get_country_name(code):
+    """Return the country name for a given ISO 3166-1 alpha-3 code."""
+    
+    ## Handle special cases which FOTMOB stores differently than ISO 3166-1 alpha-3 standard.
+    SPECIAL_CODES = {
+    "INT": "International",
+    "ENG": "England",
+    "SCO": "Scotland",
+    "WAL": "Wales",
+    "NIR": "Northern Ireland",
+    }
+
+    if not code:
+        return None
+
+    code = code.strip().upper()
+
+    if code in SPECIAL_CODES:
+        return SPECIAL_CODES[code]
+
+    converter = coco.CountryConverter()
+    country_name = converter.convert(code, src="FIFA", to="name")
+
+    if country_name and country_name != "not found":
+        return country_name
+
+    return code

@@ -4,7 +4,7 @@ from sqlalchemy import text
 from common_utils import save_json_to_file
 from database import engine
 
-MATCH_ID = "5147581"
+MATCH_ID = "5821691"
 
 ## Fetch Match details
 url_details = (
@@ -17,7 +17,7 @@ response_details = requests.get(url_details)
 # print(response_details.status_code)
 
 data_details = response_details.json()
-save_json_to_file(data_details, "sample_match_5147581.json")
+save_json_to_file(data_details, "sample_match_5821691.json")
 ## Data for Match Stats table
 # stat_records = []
 

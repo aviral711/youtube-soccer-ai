@@ -8,6 +8,7 @@ from common_utils import (
     build_match_json_filename,
     fetch_from_api,
     save_json_to_file,
+    get_country_name
 )
 
 
@@ -15,7 +16,8 @@ def extract_match_data(data_details):
     """Extract match-level fields from the API response."""
     return {
         "match_id": data_details["general"]["matchId"],
-        "country_code": data_details["general"]["countryCode"],
+        "country_code": data_details["general"]["countryCode"] if data_details["general"].get("countryCode") else None,
+        "country_name": get_country_name(data_details["general"]["countryCode"]) if data_details["general"].get("countryCode") else None,
         "competition": data_details["general"]["leagueName"],
         "match_date": data_details["general"]["matchTimeUTCDate"],
         "home_team": data_details["general"]["homeTeam"]["name"],
