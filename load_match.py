@@ -1,3 +1,6 @@
+from sqlalchemy import text
+from database import engine
+
 def load_match(
     match_data,
     event_records,
@@ -11,14 +14,13 @@ def load_match(
         event_records: List of dictionaries containing event details.
         stat_records: List of dictionaries containing match stats.
     """
-    from sqlalchemy import text
-    from database import engine
-    
+        
     ## Database insert statement for Matches table
     match_insert = text("""
     INSERT INTO soccer.matches
     (
         match_id,
+        country_code,
         competition,
         match_date,
         home_team,
@@ -30,6 +32,7 @@ def load_match(
     VALUES
     (
         :match_id,
+        :country_code,
         :competition,
         :match_date,
         :home_team,
@@ -125,7 +128,7 @@ def load_match(
         :away_value
     );
     """)
-
+    
     ## Insert data into the database
     with engine.begin() as conn:
 
