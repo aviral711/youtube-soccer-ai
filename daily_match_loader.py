@@ -77,7 +77,6 @@ def load_daily_matches(match_date):
     for match in matches:
         load_match_if_new(match)
 
-
 def normalize_match_date(match_date):
     """Normalize the input date string to YYYYMMDD, defaulting to today."""
     if not match_date:
