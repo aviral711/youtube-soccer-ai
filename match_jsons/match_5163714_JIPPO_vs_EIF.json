@@ -1,0 +1,1823 @@
+{
+    "general": {
+        "matchId": "5163714",
+        "matchName": "JIPPO-vs-EIF_Sat, Jun 27, 2026, 13:00 UTC",
+        "matchRound": "1",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#007838"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#007838"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 920261,
+        "leagueName": "Ykkosliiga",
+        "leagueRoundName": "1",
+        "parentLeagueId": 251,
+        "countryCode": "FIN",
+        "homeTeam": {
+            "name": "JIPPO",
+            "id": 2362
+        },
+        "awayTeam": {
+            "name": "EIF",
+            "id": 162142
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 13:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T13:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "JIPPO",
+                "id": 2362,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2362_small.png",
+                "pageUrl": "/teams/2362/overview/jippo"
+            },
+            {
+                "name": "EIF",
+                "id": 162142,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162142_small.png",
+                "pageUrl": "/teams/162142/overview/eif"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T13:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 15:03:53",
+                "firstHalfEnded": "27.06.2026 15:53:33",
+                "secondHalfStarted": "27.06.2026 16:09:17",
+                "secondHalfEnded": "27.06.2026 16:57:09",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 16:57:09"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Tykkyl\u00e4inen": [
+                    {
+                        "reactKey": "1421609437Goal930976undefinedtrue",
+                        "timeStr": 37,
+                        "type": "Goal",
+                        "time": 37,
+                        "overloadTime": null,
+                        "eventId": 14216094,
+                        "player": {
+                            "id": 930976,
+                            "name": "Nuutti Tykkyl\u00e4inen",
+                            "profileUrl": "/players/930976/nuutti-tykkylainen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/930976/nuutti-tykkylainen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nuutti Tykkyl\u00e4inen",
+                        "firstName": "Nuutti",
+                        "lastName": "Tykkyl\u00e4inen",
+                        "fullName": "Nuutti Tykkyl\u00e4inen",
+                        "playerId": 930976,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Bah": [
+                    {
+                        "reactKey": "1421641288Goal1425164undefinedfalse",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14216412,
+                        "player": {
+                            "id": 1425164,
+                            "name": "Mamadou Bah",
+                            "profileUrl": "/players/1425164/mamadou-bah"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1425164/mamadou-bah",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mamadou Bah",
+                        "firstName": "Mamadou",
+                        "lastName": "Bah",
+                        "fullName": "Mamadou Bah",
+                        "playerId": 1425164,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {
+                "Etu": [
+                    {
+                        "reactKey": "1421643419Card1537684undefinedfalse",
+                        "timeStr": 19,
+                        "type": "Card",
+                        "time": 19,
+                        "overloadTime": null,
+                        "eventId": 14216434,
+                        "player": {
+                            "id": 1537684,
+                            "name": "Francis Etu",
+                            "profileUrl": "/players/1537684/francis-etu"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1537684/francis-etu",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Francis Etu",
+                        "firstName": "Francis",
+                        "lastName": "Etu",
+                        "fullName": "Francis Etu",
+                        "playerId": 1537684,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5163714,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421643419Card1537684undefinedfalse",
+                        "timeStr": 19,
+                        "type": "Card",
+                        "time": 19,
+                        "overloadTime": null,
+                        "eventId": 14216434,
+                        "player": {
+                            "id": 1537684,
+                            "name": "Francis Etu",
+                            "profileUrl": "/players/1537684/francis-etu"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1537684/francis-etu",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Francis Etu",
+                        "firstName": "Francis",
+                        "lastName": "Etu",
+                        "fullName": "Francis Etu",
+                        "playerId": 1537684,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421609437Goal930976undefinedtrue",
+                        "timeStr": 37,
+                        "type": "Goal",
+                        "time": 37,
+                        "overloadTime": null,
+                        "eventId": 14216094,
+                        "player": {
+                            "id": 930976,
+                            "name": "Nuutti Tykkyl\u00e4inen",
+                            "profileUrl": "/players/930976/nuutti-tykkylainen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/930976/nuutti-tykkylainen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nuutti Tykkyl\u00e4inen",
+                        "firstName": "Nuutti",
+                        "lastName": "Tykkyl\u00e4inen",
+                        "fullName": "Nuutti Tykkyl\u00e4inen",
+                        "playerId": 930976,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421641288Goal1425164undefinedfalse",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14216412,
+                        "player": {
+                            "id": 1425164,
+                            "name": "Mamadou Bah",
+                            "profileUrl": "/players/1425164/mamadou-bah"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1425164/mamadou-bah",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mamadou Bah",
+                        "firstName": "Mamadou",
+                        "lastName": "Bah",
+                        "fullName": "Mamadou Bah",
+                        "playerId": 1425164,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Goal",
+                    "Half",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T13:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 920261,
+                    "parentLeagueId": 251,
+                    "link": "/leagues/251/overview/ykkosliiga",
+                    "leagueName": "Ykkosliiga",
+                    "roundName": "1",
+                    "round": "1"
+                },
+                "Stadium": {
+                    "name": "Mehtim\u00e4ki tekonurmi",
+                    "city": "Joensuu",
+                    "country": "Finland",
+                    "lat": 62.601942478,
+                    "long": 29.736535549,
+                    "capacity": 1000,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6003_xsmall.png",
+                        "linkToMatch": "/matches/jippo-vs-mp/ku3pa#5163689",
+                        "date": {
+                            "utcTime": "2026-05-17T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6003/overview/mp",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T15:30:00.000Z",
+                            "homeTeam": "MP",
+                            "homeTeamId": 6003,
+                            "homeScore": "1",
+                            "awayTeam": "JIPPO",
+                            "awayTeamId": 2362,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "6003",
+                            "name": "MP",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2362",
+                            "name": "JIPPO",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/260273_xsmall.png",
+                        "linkToMatch": "/matches/jippo-vs-pk-35/fudu6bn#5163693",
+                        "date": {
+                            "utcTime": "2026-05-23T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/260273/overview/pk-35",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T13:00:00.000Z",
+                            "homeTeam": "JIPPO",
+                            "homeTeamId": 2362,
+                            "homeScore": "0",
+                            "awayTeam": "PK-35",
+                            "awayTeamId": 260273,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "2362",
+                            "name": "JIPPO",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "260273",
+                            "name": "PK-35",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7870_xsmall.png",
+                        "linkToMatch": "/matches/jippo-vs-haka/v695m#5163698",
+                        "date": {
+                            "utcTime": "2026-05-29T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7870/overview/haka",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T15:30:00.000Z",
+                            "homeTeam": "Haka",
+                            "homeTeamId": 7870,
+                            "homeScore": "2",
+                            "awayTeam": "JIPPO",
+                            "awayTeamId": 2362,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "7870",
+                            "name": "Haka",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2362",
+                            "name": "JIPPO",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/741816_xsmall.png",
+                        "linkToMatch": "/matches/jippo-vs-sjk-akatemia/3j7g1ggj#5163705",
+                        "date": {
+                            "utcTime": "2026-06-09T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/741816/overview/sjk-akatemia",
+                        "tooltipText": {
+                            "utcTime": "2026-06-09T16:00:00.000Z",
+                            "homeTeam": "SJK Akatemia",
+                            "homeTeamId": 741816,
+                            "homeScore": "0",
+                            "awayTeam": "JIPPO",
+                            "awayTeamId": 2362,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "741816",
+                            "name": "SJK Akatemia",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2362",
+                            "name": "JIPPO",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2159_xsmall.png",
+                        "linkToMatch": "/matches/kapa-vs-jippo/6355j#5163708",
+                        "date": {
+                            "utcTime": "2026-06-13T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2159/overview/kapa",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:00:00.000Z",
+                            "homeTeam": "JIPPO",
+                            "homeTeamId": 2362,
+                            "homeScore": "3",
+                            "awayTeam": "K\u00e4Pa",
+                            "awayTeamId": 2159,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "2362",
+                            "name": "JIPPO",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2159",
+                            "name": "K\u00e4Pa",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/741816_xsmall.png",
+                        "linkToMatch": "/matches/eif-vs-sjk-akatemia/57p0rc51#5163687",
+                        "date": {
+                            "utcTime": "2026-05-17T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/741816/overview/sjk-akatemia",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T13:00:00.000Z",
+                            "homeTeam": "EIF",
+                            "homeTeamId": 162142,
+                            "homeScore": "3",
+                            "awayTeam": "SJK Akatemia",
+                            "awayTeamId": 741816,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "162142",
+                            "name": "EIF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "741816",
+                            "name": "SJK Akatemia",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2159_xsmall.png",
+                        "linkToMatch": "/matches/kapa-vs-eif/67824q2#5163694",
+                        "date": {
+                            "utcTime": "2026-05-23T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2159/overview/kapa",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T14:00:00.000Z",
+                            "homeTeam": "EIF",
+                            "homeTeamId": 162142,
+                            "homeScore": "1",
+                            "awayTeam": "K\u00e4Pa",
+                            "awayTeamId": 2159,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "162142",
+                            "name": "EIF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2159",
+                            "name": "K\u00e4Pa",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6003_xsmall.png",
+                        "linkToMatch": "/matches/mp-vs-eif/6hshess#5163701",
+                        "date": {
+                            "utcTime": "2026-05-31T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6003/overview/mp",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:30:00.000Z",
+                            "homeTeam": "MP",
+                            "homeTeamId": 6003,
+                            "homeScore": "1",
+                            "awayTeam": "EIF",
+                            "awayTeamId": 162142,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "6003",
+                            "name": "MP",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "162142",
+                            "name": "EIF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6003_xsmall.png",
+                        "linkToMatch": "/matches/mp-vs-eif/6hshess#5163704",
+                        "date": {
+                            "utcTime": "2026-06-06T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6003/overview/mp",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T13:00:00.000Z",
+                            "homeTeam": "EIF",
+                            "homeTeamId": 162142,
+                            "homeScore": "1",
+                            "awayTeam": "MP",
+                            "awayTeamId": 6003,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "162142",
+                            "name": "EIF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6003",
+                            "name": "MP",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6701_xsmall.png",
+                        "linkToMatch": "/matches/fc-ktp-vs-eif/6jqi75b#5163706",
+                        "date": {
+                            "utcTime": "2026-06-12T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6701/overview/fc-ktp",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T15:30:00.000Z",
+                            "homeTeam": "FC KTP",
+                            "homeTeamId": 6701,
+                            "homeScore": "5",
+                            "awayTeam": "EIF",
+                            "awayTeamId": 162142,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "6701",
+                            "name": "FC KTP",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "162142",
+                            "name": "EIF",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5163714",
+                    "MatchId": 5163714,
+                    "HomeTeamId": 2362,
+                    "AwayTeamId": 162142,
+                    "HomeTeam": "JIPPO",
+                    "AwayTeam": "EIF",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4",
+                                "2",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "JIPPO haven't lost to EIF in their last 4 meetings (2W, 2D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1.33",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "JIPPO have an average of 1.33 goals in their last three matches and EIF have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1.33",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "JIPPO have an average of 1.33 goals in their last three matches and EIF have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "EIF haven't drawn in their last 12 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2362,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 7 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2362,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (6)",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 162142,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#007838"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 162142,
+                    "priority": 4,
+                    "defaultText": "Average {0} goals per match",
+                    "localizedTextId": "insights_average_goals_per_match",
+                    "statValues": [
+                        {
+                            "value": 1.7,
+                            "name": null,
+                            "type": "double"
+                        }
+                    ],
+                    "text": "Average 1.7 goals per match",
+                    "color": "#007838"
+                }
+            ],
+            "countryCode": "FIN",
+            "QAData": [
+                {
+                    "question": "Who won between JIPPO and EIF on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "answer": "JIPPO vs EIF on Sat, 27 Jun 2026 13:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 21,
+            "windSpeed": 4,
+            "windDirectionCardinal": "WNW",
+            "iconCode": 30,
+            "relativeHumidity": 54,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 45,
+            "description": "Partly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T14:30:01Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": {
+            "matchId": 5163714,
+            "lineupType": "simple",
+            "source": "optaSdapiLegacyIntegration",
+            "availableFilters": [
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 2362,
+                "name": "JIPPO",
+                "starters": [
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Eemeli Honkola",
+                        "shirtNumber": "28",
+                        "firstName": "Eemeli",
+                        "lastName": "Honkola",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Junnosuke Watanabe",
+                        "shirtNumber": "6",
+                        "firstName": "Junnosuke",
+                        "lastName": "Watanabe",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Miro Turunen",
+                        "shirtNumber": "9",
+                        "firstName": "Miro",
+                        "lastName": "Turunen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Nuutti Tykkyl\u00e4inen",
+                        "shirtNumber": "21",
+                        "firstName": "Nuutti",
+                        "lastName": "Tykkyl\u00e4inen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Niklas Haataja",
+                        "shirtNumber": "24",
+                        "firstName": "Niklas",
+                        "lastName": "Haataja",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Lassi Forss",
+                        "shirtNumber": "20",
+                        "firstName": "Lassi",
+                        "lastName": "Forss",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Pyry Piirainen",
+                        "shirtNumber": "1",
+                        "firstName": "Pyry",
+                        "lastName": "Piirainen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 835938,
+                        "age": 27,
+                        "optaId": "225041",
+                        "name": "Valtteri Vesiaho",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 170498,
+                        "firstName": "Valtteri",
+                        "lastName": "Vesiaho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1455612,
+                        "age": 23,
+                        "optaId": "530766",
+                        "name": "Juho Lehtiranta",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "12",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 223130,
+                        "firstName": "Juho",
+                        "lastName": "Lehtiranta",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1093845,
+                        "age": 30,
+                        "optaId": "510508",
+                        "name": "Yoshiaki Kikuchi",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "41",
+                        "countryName": "Japan",
+                        "countryCode": "JPN",
+                        "marketValue": 98141,
+                        "firstName": "Yoshiaki",
+                        "lastName": "Kikuchi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1373421,
+                        "age": 21,
+                        "optaId": "610167",
+                        "name": "Lauri Sahimaa",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 280199,
+                        "firstName": "Lauri",
+                        "lastName": "Sahimaa",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1197643,
+                        "age": 28,
+                        "optaId": "464303",
+                        "name": "Karlos Mahugo",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Spain",
+                        "countryCode": "ESP",
+                        "firstName": "Karlos",
+                        "lastName": "Mahugo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 919206,
+                        "age": 26,
+                        "optaId": "444655",
+                        "name": "Jyri Kiuru",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 186966,
+                        "firstName": "Jyri",
+                        "lastName": "Kiuru",
+                        "rankings": null
+                    },
+                    {
+                        "id": 629729,
+                        "age": 31,
+                        "optaId": "208590",
+                        "name": "Aleksi Tarvonen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "90",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 154986,
+                        "firstName": "Aleksi",
+                        "lastName": "Tarvonen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Eeli Kinnunen",
+                        "shirtNumber": "18",
+                        "firstName": "Eeli",
+                        "lastName": "Kinnunen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Verneri Vainikainen",
+                        "shirtNumber": "22",
+                        "firstName": "Verneri",
+                        "lastName": "Vainikainen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Joona Malinen",
+                        "shirtNumber": "7",
+                        "firstName": "Joona",
+                        "lastName": "Malinen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Atte Nuutinen",
+                        "shirtNumber": "14",
+                        "firstName": "Atte",
+                        "lastName": "Nuutinen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Victor Matheus de Paula",
+                        "shirtNumber": "4",
+                        "firstName": "Victor Matheus",
+                        "lastName": "de Paula",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Terrence Smith",
+                        "shirtNumber": "8",
+                        "firstName": "Terrence",
+                        "lastName": "Smith",
+                        "shortName": 0,
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.8
+            },
+            "awayTeam": {
+                "id": 162142,
+                "name": "EIF",
+                "starters": [
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Francis Etu Gerrald",
+                        "shirtNumber": "17",
+                        "firstName": "Francis Etu",
+                        "lastName": "Gerrald",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "469375",
+                        "name": "Oded Kaleba",
+                        "shirtNumber": "22",
+                        "firstName": "Oded",
+                        "lastName": "Kaleba",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Asla Peltola",
+                        "shirtNumber": "8",
+                        "firstName": "Asla",
+                        "lastName": "Peltola",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Nils Henrijs Veinbergs",
+                        "shirtNumber": "9",
+                        "firstName": "Nils Henrijs",
+                        "lastName": "Veinbergs",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Antto Mikkonen",
+                        "shirtNumber": "12",
+                        "firstName": "Antto",
+                        "lastName": "Mikkonen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Roope Pakkanen",
+                        "shirtNumber": "5",
+                        "firstName": "Roope",
+                        "lastName": "Pakkanen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 1342771,
+                        "age": 26,
+                        "optaId": "540524",
+                        "name": "Fahad Mohamed",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "29",
+                        "countryName": "Somalia",
+                        "countryCode": "SOM",
+                        "marketValue": 316069,
+                        "firstName": "Fahad",
+                        "lastName": "Mohamed",
+                        "rankings": null
+                    },
+                    {
+                        "id": 641811,
+                        "age": 35,
+                        "optaId": "224922",
+                        "name": "Lucas Paz Kaufmann",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Lucas Paz",
+                        "lastName": "Kaufmann",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1167536,
+                        "age": 23,
+                        "optaId": "580664",
+                        "name": "Oliver G\u00fcnes",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "30",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 234477,
+                        "firstName": "Oliver",
+                        "lastName": "G\u00fcnes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1352483,
+                        "age": 26,
+                        "optaId": "572490",
+                        "name": "David Agbo",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "19",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "marketValue": 242663,
+                        "firstName": "David",
+                        "lastName": "Agbo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1425164,
+                        "age": 22,
+                        "optaId": "493076",
+                        "name": "Mamadou Bah",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "23",
+                        "countryName": "Guinea",
+                        "countryCode": "GUI",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 88
+                                }
+                            ]
+                        },
+                        "firstName": "Mamadou",
+                        "lastName": "Bah",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1626919,
+                        "age": 21,
+                        "optaId": "648157",
+                        "name": "Oliver Heino",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 96716,
+                        "firstName": "Oliver",
+                        "lastName": "Heino",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Ralph Max Alexander Kerrebijn",
+                        "shirtNumber": "34",
+                        "firstName": "Ralph Max Alexander",
+                        "lastName": "Kerrebijn",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Nico Pelkonen",
+                        "shirtNumber": "24",
+                        "firstName": "Nico",
+                        "lastName": "Pelkonen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "August Bj\u00f6rklund",
+                        "shirtNumber": "15",
+                        "firstName": "August",
+                        "lastName": "Bj\u00f6rklund",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "650958",
+                        "name": "Dylan Georges-Francis Maes",
+                        "shirtNumber": "3",
+                        "firstName": "Dylan Georges-Francis",
+                        "lastName": "Maes",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Axel Sandbacka",
+                        "shirtNumber": "21",
+                        "firstName": "Axel",
+                        "lastName": "Sandbacka",
+                        "shortName": 0,
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.8
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "920261",
+            "url": "https://data.fotmob.com/tables.ext.920261.fot.gz",
+            "teams": [
+                2362,
+                162142
+            ],
+            "tournamentNameForUrl": "Ykkosliiga",
+            "parentLeagueId": 251,
+            "countryCode": "FIN"
+        },
+        "h2h": {
+            "summary": [
+                4,
+                2,
+                1
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-04-11T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/jippo-vs-eif/67rxg9y#5163664",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "EIF",
+                        "id": "162142"
+                    },
+                    "status": {
+                        "utcTime": "2026-04-11T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "JIPPO",
+                        "id": "2362"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-19T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/jippo-vs-eif/67rxg9y#4915037",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "JIPPO",
+                        "id": "2362"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-19T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "EIF",
+                        "id": "162142"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-07-16T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/jippo-vs-eif/67rxg9y#4753480",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "JIPPO",
+                        "id": "2362"
+                    },
+                    "status": {
+                        "utcTime": "2025-07-16T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "EIF",
+                        "id": "162142"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-25T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/jippo-vs-eif/67rxg9y#4753438",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "EIF",
+                        "id": "162142"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-25T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "JIPPO",
+                        "id": "2362"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-07-24T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/jippo-vs-eif/67rxg9y#3525482",
+                    "league": {
+                        "name": "Ykkonen",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkonen"
+                    },
+                    "home": {
+                        "name": "JIPPO",
+                        "id": "2362"
+                    },
+                    "status": {
+                        "utcTime": "2021-07-24T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "EIF",
+                        "id": "162142"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-05-16T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/jippo-vs-eif/67rxg9y#3525470",
+                    "league": {
+                        "name": "Ykkonen",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkonen"
+                    },
+                    "home": {
+                        "name": "EIF",
+                        "id": "162142"
+                    },
+                    "status": {
+                        "utcTime": "2021-05-16T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "JIPPO",
+                        "id": "2362"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-04-22T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/jippo-vs-eif/67rxg9y#1192625",
+                    "league": {
+                        "name": "Cup",
+                        "id": "143",
+                        "pageUrl": "/leagues/143/overview/cup"
+                    },
+                    "home": {
+                        "name": "EIF",
+                        "id": "162142"
+                    },
+                    "status": {
+                        "utcTime": "2012-04-22T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "JIPPO",
+                        "id": "2362"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "jippo-vs-eif",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5163714",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "JIPPO",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2362.png",
+                "url": "https://www.fotmob.com/teams/2362/overview/jippo",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "EIF",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/162142.png",
+                "url": "https://www.fotmob.com/teams/162142/overview/eif",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "JIPPO vs EIF",
+            "description": "Follow JIPPO vs EIF live on fotmob.com",
+            "startDate": "2026-06-27T13:00:00.000Z",
+            "endDate": "2026-06-27T15:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Mehtim\u00e4ki tekonurmi",
+                "latitude": 62.601942478,
+                "longitude": 29.736535549,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Finland",
+                    "addressLocality": "Joensuu"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2362.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/162142.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5163714",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T13:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "JIPPO",
+                    "url": "https://www.fotmob.com/teams/2362/overview/jippo"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "EIF",
+                    "url": "https://www.fotmob.com/teams/162142/overview/eif"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ykkosliiga",
+                        "item": "https://www.fotmob.com/leagues/251/overview/ykkosliiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "JIPPO - EIF",
+                        "item": "https://www.fotmob.com/match/5163714"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ykkosliiga",
+                        "item": "https://www.fotmob.com/leagues/251/overview/ykkosliiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "EIF",
+                        "item": "https://www.fotmob.com/teams/162142/overview/eif"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "JIPPO - EIF",
+                        "item": "https://www.fotmob.com/match/5163714"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ykkosliiga",
+                        "item": "https://www.fotmob.com/leagues/251/overview/ykkosliiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "JIPPO",
+                        "item": "https://www.fotmob.com/teams/2362/overview/jippo"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "JIPPO - EIF",
+                        "item": "https://www.fotmob.com/match/5163714"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between JIPPO and EIF on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "JIPPO vs EIF on Sat, 27 Jun 2026 13:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

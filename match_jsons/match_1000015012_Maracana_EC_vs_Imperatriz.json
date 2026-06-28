@@ -1,0 +1,988 @@
+{
+    "general": {
+        "matchId": "1000015012",
+        "matchName": "Maracana EC-vs-Imperatriz_Sat, Jun 27, 2026, 18:30 UTC",
+        "matchRound": "16th Finals",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 9464,
+        "leagueName": "Serie D",
+        "leagueRoundName": "16th Finals",
+        "parentLeagueId": 9464,
+        "countryCode": "BRA",
+        "homeTeam": {
+            "name": "Maracana EC",
+            "id": 410825
+        },
+        "awayTeam": {
+            "name": "Imperatriz",
+            "id": 197782
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 18:30 UTC",
+        "matchTimeUTCDate": "2026-06-27T18:30:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Maracana EC",
+                "id": 410825,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/410825_small.png",
+                "pageUrl": "/teams/410825/overview/maracana-ec"
+            },
+            {
+                "name": "Imperatriz",
+                "id": 197782,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197782_small.png",
+                "pageUrl": "/teams/197782/overview/imperatriz"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T18:30:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 20:33:50",
+                "firstHalfEnded": "27.06.2026 21:23:59",
+                "secondHalfStarted": "27.06.2026 21:41:58",
+                "secondHalfEnded": "27.06.2026 22:32:35",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 22:32:35"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "0 - 0",
+            "reason": {
+                "short": "Pen",
+                "shortKey": "penalties_short",
+                "long": "Pen 6 - 7",
+                "longKey": "afterpenalties",
+                "penalties": [
+                    6,
+                    7
+                ]
+            },
+            "whoLostOnPenalties": "Maracana EC",
+            "whoLostOnAggregated": ""
+        },
+        "events": null
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000015012,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45AddedTimeNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "AddedTime",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "minutesAddedStr": "+ 5 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 5
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined90AddedTimeNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "AddedTime",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "minutesAddedStr": "+ 5 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 5
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    },
+                    {
+                        "type": "PenaltyShootout",
+                        "card": null,
+                        "cardDescription": null,
+                        "time": 121,
+                        "addedTime": null,
+                        "overloadTime": null,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "penaltyScore": [
+                            6,
+                            7
+                        ],
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "swap": [
+                            {},
+                            {}
+                        ],
+                        "VAR": null
+                    }
+                ],
+                "eventTypes": [
+                    "AddedTime",
+                    "Half",
+                    "PenaltyShootout"
+                ],
+                "penaltyShootoutEvents": []
+            },
+            "infoBox": {
+                "legInfo": {
+                    "bestOf": 2,
+                    "bestOfNum": 2,
+                    "localizedString": {
+                        "key": "second_leg",
+                        "fallback": "2nd leg"
+                    }
+                },
+                "Match Date": {
+                    "utcTime": "2026-06-27T18:30:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 9464,
+                    "parentLeagueId": 9464,
+                    "link": "/leagues/9464/overview/serie-d",
+                    "leagueName": "Serie D",
+                    "roundName": "16th Finals",
+                    "round": "16th Finals"
+                },
+                "Stadium": {
+                    "name": "Est\u00e1dio Almir Dutra",
+                    "city": "Maracana\u00fa, Cear\u00e1",
+                    "country": "Brazil",
+                    "lat": -3.881937768,
+                    "long": -38.629865984
+                },
+                "Referee": null,
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584281_xsmall.png",
+                        "linkToMatch": "/matches/maracana-ec-vs-iguatu/6bgd3prg#1000010696",
+                        "date": {
+                            "utcTime": "2026-05-16T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/584281/overview/iguatu",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T18:30:00.000Z",
+                            "homeTeam": "Maracana EC",
+                            "homeTeamId": 410825,
+                            "homeScore": "1",
+                            "awayTeam": "Iguatu",
+                            "awayTeamId": 584281,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "410825",
+                            "name": "Maracana EC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "584281",
+                            "name": "Iguatu",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197641_xsmall.png",
+                        "linkToMatch": "/matches/parnahyba-vs-maracana-ec/2d1hdkr8#1000010425",
+                        "date": {
+                            "utcTime": "2026-05-24T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197641/overview/parnahyba",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T19:00:00.000Z",
+                            "homeTeam": "Parnahyba",
+                            "homeTeamId": 197641,
+                            "homeScore": "0",
+                            "awayTeam": "Maracana EC",
+                            "awayTeamId": 410825,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "197641",
+                            "name": "Parnahyba",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "410825",
+                            "name": "Maracana EC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197778_xsmall.png",
+                        "linkToMatch": "/matches/moto-club-ma-vs-maracana-ec/2d2v0gwz#1000010750",
+                        "date": {
+                            "utcTime": "2026-05-30T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197778/overview/moto-club-ma",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T20:00:00.000Z",
+                            "homeTeam": "Moto Club MA",
+                            "homeTeamId": 197778,
+                            "homeScore": "1",
+                            "awayTeam": "Maracana EC",
+                            "awayTeamId": 410825,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "197778",
+                            "name": "Moto Club MA",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "410825",
+                            "name": "Maracana EC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197777_xsmall.png",
+                        "linkToMatch": "/matches/iape-vs-maracana-ec/2d2unfbc#1000010376",
+                        "date": {
+                            "utcTime": "2026-06-07T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197777/overview/iape",
+                        "tooltipText": {
+                            "utcTime": "2026-06-07T18:30:00.000Z",
+                            "homeTeam": "Maracana EC",
+                            "homeTeamId": 410825,
+                            "homeScore": "2",
+                            "awayTeam": "Iape",
+                            "awayTeamId": 197777,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "410825",
+                            "name": "Maracana EC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197777",
+                            "name": "Iape",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197782_xsmall.png",
+                        "linkToMatch": "/matches/imperatriz-vs-maracana-ec/2d2wgnbt#1000015011",
+                        "date": {
+                            "utcTime": "2026-06-20T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197782/overview/imperatriz",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T19:00:00.000Z",
+                            "homeTeam": "Imperatriz",
+                            "homeTeamId": 197782,
+                            "homeScore": "1",
+                            "awayTeam": "Maracana EC",
+                            "awayTeamId": 410825,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "197782",
+                            "name": "Imperatriz",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "410825",
+                            "name": "Maracana EC",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197394_xsmall.png",
+                        "linkToMatch": "/matches/tocantinopolis-vs-imperatriz/zvc9h8q#1000010692",
+                        "date": {
+                            "utcTime": "2026-05-16T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197394/overview/tocantinopolis",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T19:00:00.000Z",
+                            "homeTeam": "Tocantinopolis",
+                            "homeTeamId": 197394,
+                            "homeScore": "2",
+                            "awayTeam": "Imperatriz",
+                            "awayTeamId": 197782,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "197394",
+                            "name": "Tocantinopolis",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "197782",
+                            "name": "Imperatriz",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162177_xsmall.png",
+                        "linkToMatch": "/matches/aguia-de-maraba-vs-imperatriz/trfon8q#1000010423",
+                        "date": {
+                            "utcTime": "2026-05-23T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/162177/overview/aguia-de-maraba",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T22:30:00.000Z",
+                            "homeTeam": "Imperatriz",
+                            "homeTeamId": 197782,
+                            "homeScore": "0",
+                            "awayTeam": "Aguia de Maraba",
+                            "awayTeamId": 162177,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "197782",
+                            "name": "Imperatriz",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "162177",
+                            "name": "Aguia de Maraba",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/215629_xsmall.png",
+                        "linkToMatch": "/matches/imperatriz-vs-oratorio/1399juxv#1000010747",
+                        "date": {
+                            "utcTime": "2026-05-31T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/215629/overview/oratorio",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T18:30:00.000Z",
+                            "homeTeam": "Oratorio",
+                            "homeTeamId": 215629,
+                            "homeScore": "0",
+                            "awayTeam": "Imperatriz",
+                            "awayTeamId": 197782,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "215629",
+                            "name": "Oratorio",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "197782",
+                            "name": "Imperatriz",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/239707_xsmall.png",
+                        "linkToMatch": "/matches/imperatriz-vs-tuna-luso/17yoksas#1000010373",
+                        "date": {
+                            "utcTime": "2026-06-06T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/239707/overview/tuna-luso",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T19:00:00.000Z",
+                            "homeTeam": "Imperatriz",
+                            "homeTeamId": 197782,
+                            "homeScore": "4",
+                            "awayTeam": "Tuna Luso",
+                            "awayTeamId": 239707,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "197782",
+                            "name": "Imperatriz",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "239707",
+                            "name": "Tuna Luso",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/410825_xsmall.png",
+                        "linkToMatch": "/matches/imperatriz-vs-maracana-ec/2d2wgnbt#1000015011",
+                        "date": {
+                            "utcTime": "2026-06-20T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/410825/overview/maracana-ec",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T19:00:00.000Z",
+                            "homeTeam": "Imperatriz",
+                            "homeTeamId": 197782,
+                            "homeScore": "1",
+                            "awayTeam": "Maracana EC",
+                            "awayTeamId": 410825,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "197782",
+                            "name": "Imperatriz",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "410825",
+                            "name": "Maracana EC",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000015012",
+                    "MatchId": 1000015012,
+                    "HomeTeamId": 410825,
+                    "AwayTeamId": 197782,
+                    "HomeTeam": "Maracana EC",
+                    "AwayTeam": "Imperatriz",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "3",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Imperatriz haven't lost to Maracana EC in their last 3 meetings (1W, 2D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Maracana EC have scored in their last 5 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "5",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Maracana EC have scored 5 goals in their last 3 matches, while Imperatriz have scored 6."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "2",
+                                "0",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Maracana EC have 3W, 2D, 0L in five matches while Imperatriz have 2W, 1D, 2L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "BRA",
+            "QAData": [
+                {
+                    "question": "Who won between Maracana EC and Imperatriz on Sat, 27 Jun 2026 18:30:00 GMT?",
+                    "answer": "Imperatriz won 0\u20130 (7\u20136) over Maracana EC after penalties on Sat, 27 Jun 2026 18:30:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 27,
+            "windSpeed": 4,
+            "windDirectionCardinal": "E",
+            "iconCode": 33,
+            "relativeHumidity": 76,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 25,
+            "description": "Fair",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T20:45:00Z",
+            "localizedKey": "weather_condition_clear",
+            "defaultTitle": "Clear"
+        },
+        "lineup": null,
+        "hasPlayoff": true,
+        "table": false,
+        "h2h": {
+            "summary": [
+                0,
+                2,
+                1
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-06-20T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/imperatriz-vs-maracana-ec/2d2wgnbt#1000015011",
+                    "league": {
+                        "name": "Serie D",
+                        "id": "9464",
+                        "pageUrl": "/leagues/9464/overview/serie-d"
+                    },
+                    "home": {
+                        "name": "Imperatriz",
+                        "id": "197782"
+                    },
+                    "status": {
+                        "utcTime": "2026-06-20T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Maracana EC",
+                        "id": "410825"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-08T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/imperatriz-vs-maracana-ec/2d2wgnbt#1000002317",
+                    "league": {
+                        "name": "Serie D",
+                        "id": "9464",
+                        "pageUrl": "/leagues/9464/overview/serie-d"
+                    },
+                    "home": {
+                        "name": "Maracana EC",
+                        "id": "410825"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-08T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Imperatriz",
+                        "id": "197782"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-31T22:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/imperatriz-vs-maracana-ec/2d2wgnbt#1000002285",
+                    "league": {
+                        "name": "Serie D",
+                        "id": "9464",
+                        "pageUrl": "/leagues/9464/overview/serie-d"
+                    },
+                    "home": {
+                        "name": "Imperatriz",
+                        "id": "197782"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-31T22:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Maracana EC",
+                        "id": "410825"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "maracana-ec-vs-imperatriz",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000015012",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Maracana EC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/410825.png",
+                "url": "https://www.fotmob.com/teams/410825/overview/maracana-ec",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Imperatriz",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/197782.png",
+                "url": "https://www.fotmob.com/teams/197782/overview/imperatriz",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Maracana EC vs Imperatriz",
+            "description": "Follow Maracana EC vs Imperatriz live on fotmob.com",
+            "startDate": "2026-06-27T18:30:00.000Z",
+            "endDate": "2026-06-27T20:30:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Est\u00e1dio Almir Dutra",
+                "latitude": -3.881937768,
+                "longitude": -38.629865984,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Brazil",
+                    "addressLocality": "Maracana\u00fa, Cear\u00e1"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/410825.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/197782.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000015012",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T18:30:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Maracana EC",
+                    "url": "https://www.fotmob.com/teams/410825/overview/maracana-ec"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Imperatriz",
+                    "url": "https://www.fotmob.com/teams/197782/overview/imperatriz"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Serie D",
+                        "item": "https://www.fotmob.com/leagues/9464/overview/serie-d"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Maracana EC - Imperatriz",
+                        "item": "https://www.fotmob.com/match/1000015012"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Serie D",
+                        "item": "https://www.fotmob.com/leagues/9464/overview/serie-d"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Imperatriz",
+                        "item": "https://www.fotmob.com/teams/197782/overview/imperatriz"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Maracana EC - Imperatriz",
+                        "item": "https://www.fotmob.com/match/1000015012"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Serie D",
+                        "item": "https://www.fotmob.com/leagues/9464/overview/serie-d"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Maracana EC",
+                        "item": "https://www.fotmob.com/teams/410825/overview/maracana-ec"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Maracana EC - Imperatriz",
+                        "item": "https://www.fotmob.com/match/1000015012"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Maracana EC and Imperatriz on Sat, 27 Jun 2026 18:30:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Imperatriz won 0\u20130 (7\u20136) over Maracana EC after penalties on Sat, 27 Jun 2026 18:30:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

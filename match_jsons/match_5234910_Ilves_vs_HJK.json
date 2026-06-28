@@ -1,0 +1,1566 @@
+{
+    "general": {
+        "matchId": "5234910",
+        "matchName": "Ilves-vs-HJK_Sat, Jun 27, 2026, 15:30 UTC",
+        "matchRound": "10",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 923619,
+        "leagueName": "Kansallinen Liiga",
+        "leagueRoundName": "10",
+        "parentLeagueId": 10174,
+        "countryCode": "FIN",
+        "homeTeam": {
+            "name": "Ilves",
+            "id": 553296
+        },
+        "awayTeam": {
+            "name": "HJK",
+            "id": 545023
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 15:30 UTC",
+        "matchTimeUTCDate": "2026-06-27T15:30:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Ilves",
+                "id": 553296,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/553296_small.png",
+                "pageUrl": "/teams/553296/overview/ilves"
+            },
+            {
+                "name": "HJK",
+                "id": 545023,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/545023_small.png",
+                "pageUrl": "/teams/545023/overview/hjk"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T15:30:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 17:30:29",
+                "firstHalfEnded": "27.06.2026 18:18:00",
+                "secondHalfStarted": "27.06.2026 18:37:01",
+                "secondHalfEnded": "27.06.2026 19:25:12",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 19:25:12"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Rasinen": [
+                    {
+                        "reactKey": "1421691877Goal1179978undefinedtrue",
+                        "timeStr": 77,
+                        "type": "Goal",
+                        "time": 77,
+                        "overloadTime": null,
+                        "eventId": 14216918,
+                        "player": {
+                            "id": 1179978,
+                            "name": "Aino Rasinen",
+                            "profileUrl": "/players/1179978/aino-rasinen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1179978/aino-rasinen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aino Rasinen",
+                        "firstName": "Aino",
+                        "lastName": "Rasinen",
+                        "fullName": "Aino Rasinen",
+                        "playerId": 1179978,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "<TBD>": [
+                    {
+                        "reactKey": "142166428Goal0undefinedfalse",
+                        "timeStr": 8,
+                        "type": "Goal",
+                        "time": 8,
+                        "overloadTime": null,
+                        "eventId": 14216642,
+                        "player": {
+                            "id": 0,
+                            "name": "<TBD>",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "<TBD>",
+                        "firstName": "",
+                        "lastName": "<TBD>",
+                        "fullName": "<TBD>",
+                        "playerId": 0,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Forst\u00e9n": [
+                    {
+                        "reactKey": "1421678528Goal1179969undefinedfalse",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14216785,
+                        "player": {
+                            "id": 1179969,
+                            "name": "Alma Forst\u00e9n",
+                            "profileUrl": "/players/1179969/alma-forsten"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1179969/alma-forsten",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alma Forst\u00e9n",
+                        "firstName": "Alma",
+                        "lastName": "Forst\u00e9n",
+                        "fullName": "Alma Forst\u00e9n",
+                        "playerId": 1179969,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Sarelius": [
+                    {
+                        "reactKey": "1421680942Goal1781869undefinedfalse",
+                        "timeStr": 42,
+                        "type": "Goal",
+                        "time": 42,
+                        "overloadTime": null,
+                        "eventId": 14216809,
+                        "player": {
+                            "id": 1781869,
+                            "name": "Kerttu Sarelius",
+                            "profileUrl": "/players/1781869/kerttu-sarelius"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1781869/kerttu-sarelius",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kerttu Sarelius",
+                        "firstName": "Kerttu",
+                        "lastName": "Sarelius",
+                        "fullName": "Kerttu Sarelius",
+                        "playerId": 1781869,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5234910,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142166428Goal0undefinedfalse",
+                        "timeStr": 8,
+                        "type": "Goal",
+                        "time": 8,
+                        "overloadTime": null,
+                        "eventId": 14216642,
+                        "player": {
+                            "id": 0,
+                            "name": "<TBD>",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "<TBD>",
+                        "firstName": "",
+                        "lastName": "<TBD>",
+                        "fullName": "<TBD>",
+                        "playerId": 0,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421678528Goal1179969undefinedfalse",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14216785,
+                        "player": {
+                            "id": 1179969,
+                            "name": "Alma Forst\u00e9n",
+                            "profileUrl": "/players/1179969/alma-forsten"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1179969/alma-forsten",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alma Forst\u00e9n",
+                        "firstName": "Alma",
+                        "lastName": "Forst\u00e9n",
+                        "fullName": "Alma Forst\u00e9n",
+                        "playerId": 1179969,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421680942Goal1781869undefinedfalse",
+                        "timeStr": 42,
+                        "type": "Goal",
+                        "time": 42,
+                        "overloadTime": null,
+                        "eventId": 14216809,
+                        "player": {
+                            "id": 1781869,
+                            "name": "Kerttu Sarelius",
+                            "profileUrl": "/players/1781869/kerttu-sarelius"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1781869/kerttu-sarelius",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kerttu Sarelius",
+                        "firstName": "Kerttu",
+                        "lastName": "Sarelius",
+                        "fullName": "Kerttu Sarelius",
+                        "playerId": 1781869,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421691877Goal1179978undefinedtrue",
+                        "timeStr": 77,
+                        "type": "Goal",
+                        "time": 77,
+                        "overloadTime": null,
+                        "eventId": 14216918,
+                        "player": {
+                            "id": 1179978,
+                            "name": "Aino Rasinen",
+                            "profileUrl": "/players/1179978/aino-rasinen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1179978/aino-rasinen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aino Rasinen",
+                        "firstName": "Aino",
+                        "lastName": "Rasinen",
+                        "fullName": "Aino Rasinen",
+                        "playerId": 1179978,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T15:30:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 923619,
+                    "parentLeagueId": 10174,
+                    "link": "/leagues/10174/overview/kansallinen-liiga",
+                    "leagueName": "Kansallinen Liiga",
+                    "roundName": "10",
+                    "round": "10"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1179352_xsmall.png",
+                        "linkToMatch": "/matches/ilves-vs-kups/j5ke23k4#5234888",
+                        "date": {
+                            "utcTime": "2026-05-09T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1179352/overview/kups",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T11:00:00.000Z",
+                            "homeTeam": "Ilves",
+                            "homeTeamId": 553296,
+                            "homeScore": "2",
+                            "awayTeam": "KuPS",
+                            "awayTeamId": 1179352,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "553296",
+                            "name": "Ilves",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1179352",
+                            "name": "KuPS",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1923928_xsmall.png",
+                        "linkToMatch": "/matches/ilves-vs-if-gnistan/135kf7744#5234892",
+                        "date": {
+                            "utcTime": "2026-05-17T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1923928/overview/if-gnistan",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T10:00:00.000Z",
+                            "homeTeam": "IF Gnistan",
+                            "homeTeamId": 1923928,
+                            "homeScore": "2",
+                            "awayTeam": "Ilves",
+                            "awayTeamId": 553296,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "1923928",
+                            "name": "IF Gnistan",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "553296",
+                            "name": "Ilves",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1228814_xsmall.png",
+                        "linkToMatch": "/matches/ilves-vs-hps/k9hy2h4x#5234897",
+                        "date": {
+                            "utcTime": "2026-05-22T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1228814/overview/hps",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T16:00:00.000Z",
+                            "homeTeam": "Ilves",
+                            "homeTeamId": 553296,
+                            "homeScore": "1",
+                            "awayTeam": "HPS",
+                            "awayTeamId": 1228814,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "553296",
+                            "name": "Ilves",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1228814",
+                            "name": "HPS",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/394120_xsmall.png",
+                        "linkToMatch": "/matches/pk-35-vantaa-vs-ilves/5q6bo924#5234903",
+                        "date": {
+                            "utcTime": "2026-05-31T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/394120/overview/pk-35-vantaa",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T12:00:00.000Z",
+                            "homeTeam": "PK-35 Vantaa",
+                            "homeTeamId": 394120,
+                            "homeScore": "0",
+                            "awayTeam": "Ilves",
+                            "awayTeamId": 553296,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "394120",
+                            "name": "PK-35 Vantaa",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "553296",
+                            "name": "Ilves",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/553297_xsmall.png",
+                        "linkToMatch": "/matches/ilves-vs-vifk/7t9wt5xe#5234907",
+                        "date": {
+                            "utcTime": "2026-06-14T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/553297/overview/vifk",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T11:00:00.000Z",
+                            "homeTeam": "VIFK",
+                            "homeTeamId": 553297,
+                            "homeScore": "0",
+                            "awayTeam": "Ilves",
+                            "awayTeamId": 553296,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "553297",
+                            "name": "VIFK",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "553296",
+                            "name": "Ilves",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1923928_xsmall.png",
+                        "linkToMatch": "/matches/hjk-vs-if-gnistan/12w61xa0j#5234890",
+                        "date": {
+                            "utcTime": "2026-05-09T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1923928/overview/if-gnistan",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T13:00:00.000Z",
+                            "homeTeam": "HJK",
+                            "homeTeamId": 545023,
+                            "homeScore": "5",
+                            "awayTeam": "IF Gnistan",
+                            "awayTeamId": 1923928,
+                            "awayScore": "0"
+                        },
+                        "score": "5 - 0",
+                        "home": {
+                            "id": "545023",
+                            "name": "HJK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1923928",
+                            "name": "IF Gnistan",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1228814_xsmall.png",
+                        "linkToMatch": "/matches/hjk-vs-hps/k2qoljoa#5234895",
+                        "date": {
+                            "utcTime": "2026-05-17T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1228814/overview/hps",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T14:00:00.000Z",
+                            "homeTeam": "HPS",
+                            "homeTeamId": 1228814,
+                            "homeScore": "1",
+                            "awayTeam": "HJK",
+                            "awayTeamId": 545023,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "1228814",
+                            "name": "HPS",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "545023",
+                            "name": "HJK",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/394120_xsmall.png",
+                        "linkToMatch": "/matches/pk-35-vantaa-vs-hjk/5ml9iifv#5234898",
+                        "date": {
+                            "utcTime": "2026-05-23T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/394120/overview/pk-35-vantaa",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T11:00:00.000Z",
+                            "homeTeam": "HJK",
+                            "homeTeamId": 545023,
+                            "homeScore": "5",
+                            "awayTeam": "PK-35 Vantaa",
+                            "awayTeamId": 394120,
+                            "awayScore": "0"
+                        },
+                        "score": "5 - 0",
+                        "home": {
+                            "id": "545023",
+                            "name": "HJK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "394120",
+                            "name": "PK-35 Vantaa",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/553297_xsmall.png",
+                        "linkToMatch": "/matches/hjk-vs-vifk/7p32mha1#5234900",
+                        "date": {
+                            "utcTime": "2026-05-29T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/553297/overview/vifk",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T15:30:00.000Z",
+                            "homeTeam": "HJK",
+                            "homeTeamId": 545023,
+                            "homeScore": "4",
+                            "awayTeam": "VIFK",
+                            "awayTeamId": 553297,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "545023",
+                            "name": "HJK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "553297",
+                            "name": "VIFK",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/552493_xsmall.png",
+                        "linkToMatch": "/matches/hjk-vs-aland-united/7ooh2kjv#5234905",
+                        "date": {
+                            "utcTime": "2026-06-12T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/552493/overview/aland-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T16:00:00.000Z",
+                            "homeTeam": "\u00c5land United",
+                            "homeTeamId": 552493,
+                            "homeScore": "2",
+                            "awayTeam": "HJK",
+                            "awayTeamId": 545023,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "552493",
+                            "name": "\u00c5land United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "545023",
+                            "name": "HJK",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5234910",
+                    "MatchId": 5234910,
+                    "HomeTeamId": 553296,
+                    "AwayTeamId": 545023,
+                    "HomeTeam": "Ilves (W)",
+                    "AwayTeam": "HJK (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "HJK (W) have won the previous 6 matches against Ilves (W)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "12",
+                                "away_team",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Ilves (W) have scored in their last 12 matches and HJK (W) have scored in their last 12 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "12",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "HJK (W) have scored 12 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {2} matches and {1} in their last {3}.",
+                            "TextTemplateId": "draw_streak_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "12",
+                                "11"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Ilves (W) haven't drawn in their last 12 matches and HJK (W) in their last 11."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 553296,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 11,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 11 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 553296,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (4)",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 545023,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 19,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 19 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 545023,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (4)",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "FIN",
+            "QAData": [
+                {
+                    "question": "Who won between Ilves and HJK on Sat, 27 Jun 2026 15:30:00 GMT?",
+                    "answer": "HJK won 3\u20131 over Ilves on Sat, 27 Jun 2026 15:30:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "923619",
+            "url": "https://data.fotmob.com/tables.ext.923619.fot.gz",
+            "teams": [
+                553296,
+                545023
+            ],
+            "tournamentNameForUrl": "Kansallinen Liiga",
+            "parentLeagueId": 10174,
+            "countryCode": "FIN"
+        },
+        "h2h": {
+            "summary": [
+                0,
+                0,
+                11
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-04-25T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#5234882",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "HJK",
+                        "id": "545023"
+                    },
+                    "status": {
+                        "utcTime": "2026-04-25T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-07-31T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#4412881",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-31T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "HJK",
+                        "id": "545023"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-12T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#4412808",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "HJK",
+                        "id": "545023"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-12T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-07-29T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#4113656",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    },
+                    "status": {
+                        "utcTime": "2023-07-29T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "HJK",
+                        "id": "545023"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-06T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#4113584",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "HJK",
+                        "id": "545023"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-06T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-08-20T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#3829332",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "HJK",
+                        "id": "545023"
+                    },
+                    "status": {
+                        "utcTime": "2022-08-20T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-05-21T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#3829260",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-21T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "HJK",
+                        "id": "545023"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-08-21T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#3529403",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "HJK",
+                        "id": "545023"
+                    },
+                    "status": {
+                        "utcTime": "2021-08-21T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-05-29T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#3529357",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    },
+                    "status": {
+                        "utcTime": "2021-05-29T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "HJK",
+                        "id": "545023"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-08-25T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#3418707",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "HJK",
+                        "id": "545023"
+                    },
+                    "status": {
+                        "utcTime": "2020-08-25T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-06-17T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hjk-vs-ilves/7p31yxt4#3418739",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "Ilves",
+                        "id": "553296"
+                    },
+                    "status": {
+                        "utcTime": "2020-06-17T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "HJK",
+                        "id": "545023"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "ilves-vs-hjk",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5234910",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Ilves",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/553296.png",
+                "url": "https://www.fotmob.com/teams/553296/overview/ilves",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "HJK",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/545023.png",
+                "url": "https://www.fotmob.com/teams/545023/overview/hjk",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Ilves vs HJK",
+            "description": "Follow Ilves vs HJK live on fotmob.com",
+            "startDate": "2026-06-27T15:30:00.000Z",
+            "endDate": "2026-06-27T17:30:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/553296.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/545023.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5234910",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T15:30:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Ilves",
+                    "url": "https://www.fotmob.com/teams/553296/overview/ilves"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "HJK",
+                    "url": "https://www.fotmob.com/teams/545023/overview/hjk"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kansallinen Liiga",
+                        "item": "https://www.fotmob.com/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ilves - HJK",
+                        "item": "https://www.fotmob.com/match/5234910"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kansallinen Liiga",
+                        "item": "https://www.fotmob.com/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "HJK",
+                        "item": "https://www.fotmob.com/teams/545023/overview/hjk"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Ilves - HJK",
+                        "item": "https://www.fotmob.com/match/5234910"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kansallinen Liiga",
+                        "item": "https://www.fotmob.com/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ilves",
+                        "item": "https://www.fotmob.com/teams/553296/overview/ilves"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Ilves - HJK",
+                        "item": "https://www.fotmob.com/match/5234910"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Ilves and HJK on Sat, 27 Jun 2026 15:30:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "HJK won 3\u20131 over Ilves on Sat, 27 Jun 2026 15:30:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

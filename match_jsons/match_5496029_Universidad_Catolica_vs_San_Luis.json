@@ -1,0 +1,2597 @@
+{
+    "general": {
+        "matchId": "5496029",
+        "matchName": "Universidad Catolica-vs-San Luis_Sun, Jun 28, 2026, 00:00 UTC",
+        "matchRound": "4",
+        "teamColors": {
+            "darkMode": {
+                "home": "#1050A0",
+                "away": "#D8D000"
+            },
+            "lightMode": {
+                "home": "#1050A0",
+                "away": "#D8D000"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            }
+        },
+        "leagueId": 920443,
+        "leagueName": "Cup Grp. B",
+        "leagueRoundName": "4",
+        "parentLeagueId": 9091,
+        "countryCode": "CHI",
+        "homeTeam": {
+            "name": "Universidad Catolica",
+            "id": 6458
+        },
+        "awayTeam": {
+            "name": "San Luis",
+            "id": 191607
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 00:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T00:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Universidad Catolica",
+                "id": 6458,
+                "score": 4,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6458_small.png",
+                "pageUrl": "/teams/6458/overview/universidad-catolica"
+            },
+            {
+                "name": "San Luis",
+                "id": 191607,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/191607_small.png",
+                "pageUrl": "/teams/191607/overview/san-luis"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T00:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 02:00:32",
+                "firstHalfEnded": "28.06.2026 02:48:15",
+                "secondHalfStarted": "28.06.2026 03:03:50",
+                "secondHalfEnded": "28.06.2026 03:55:12",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 03:55:12"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "4 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Zampedri": [
+                    {
+                        "reactKey": "1421741129Goal203530undefinedtrue",
+                        "timeStr": 29,
+                        "type": "Goal",
+                        "time": 29,
+                        "overloadTime": null,
+                        "eventId": 14217411,
+                        "player": {
+                            "id": 203530,
+                            "name": "Fernando Zampedri",
+                            "profileUrl": "/players/203530/fernando-zampedri"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/203530/fernando-zampedri",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fernando Zampedri",
+                        "firstName": "Fernando",
+                        "lastName": "Zampedri",
+                        "fullName": "Fernando Zampedri",
+                        "playerId": 203530,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Corral": [
+                    {
+                        "reactKey": "1421741433Goal1445306undefinedtrue",
+                        "timeStr": 33,
+                        "type": "Goal",
+                        "time": 33,
+                        "overloadTime": null,
+                        "eventId": 14217414,
+                        "player": {
+                            "id": 1445306,
+                            "name": "Diego Corral",
+                            "profileUrl": "/players/1445306/diego-corral"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1445306/diego-corral",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Diego Corral",
+                        "firstName": "Diego",
+                        "lastName": "Corral",
+                        "fullName": "Diego Corral",
+                        "playerId": 1445306,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Cerezo": [
+                    {
+                        "reactKey": "1421745352Goal424158undefinedtrue",
+                        "timeStr": 52,
+                        "type": "Goal",
+                        "time": 52,
+                        "overloadTime": null,
+                        "eventId": 14217453,
+                        "player": {
+                            "id": 424158,
+                            "name": "Bernardo Cerezo",
+                            "profileUrl": "/players/424158/bernardo-cerezo"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/424158/bernardo-cerezo",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bernardo Cerezo",
+                        "firstName": "Bernardo",
+                        "lastName": "Cerezo",
+                        "fullName": "Bernardo Cerezo",
+                        "playerId": 424158,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Ampuero": [
+                    {
+                        "reactKey": "1421747482Goal577635undefinedtrue",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 14217474,
+                        "player": {
+                            "id": 577635,
+                            "name": "Branco Ampuero",
+                            "profileUrl": "/players/577635/branco-ampuero"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/577635/branco-ampuero",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Branco Ampuero",
+                        "firstName": "Branco",
+                        "lastName": "Ampuero",
+                        "fullName": "Branco Ampuero",
+                        "playerId": 577635,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "L.\u00a0Mu\u00f1oz": [
+                    {
+                        "reactKey": "142174013Goal1361919undefinedfalse",
+                        "timeStr": 3,
+                        "type": "Goal",
+                        "time": 3,
+                        "overloadTime": null,
+                        "eventId": 14217401,
+                        "player": {
+                            "id": 1361919,
+                            "name": "Luis Mu\u00f1oz",
+                            "profileUrl": "/players/1361919/luis-munoz"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1361919/luis-munoz",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Luis Mu\u00f1oz",
+                        "firstName": "Luis",
+                        "lastName": "Mu\u00f1oz",
+                        "fullName": "Luis Mu\u00f1oz",
+                        "playerId": 1361919,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Ampuero": [
+                    {
+                        "reactKey": "1421747690Goal577635undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14217476,
+                        "player": {
+                            "id": 577635,
+                            "name": "Branco Ampuero",
+                            "profileUrl": "/players/577635/branco-ampuero"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "profileUrl": "/players/577635/branco-ampuero",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Branco Ampuero",
+                        "firstName": "Branco",
+                        "lastName": "Ampuero",
+                        "fullName": "Branco Ampuero",
+                        "playerId": 577635,
+                        "newScore": [
+                            4,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "liveticker",
+        "lineup",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5496029,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142174013Goal1361919undefinedfalse",
+                        "timeStr": 3,
+                        "type": "Goal",
+                        "time": 3,
+                        "overloadTime": null,
+                        "eventId": 14217401,
+                        "player": {
+                            "id": 1361919,
+                            "name": "Luis Mu\u00f1oz",
+                            "profileUrl": "/players/1361919/luis-munoz"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1361919/luis-munoz",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Luis Mu\u00f1oz",
+                        "firstName": "Luis",
+                        "lastName": "Mu\u00f1oz",
+                        "fullName": "Luis Mu\u00f1oz",
+                        "playerId": 1361919,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421741129Goal203530undefinedtrue",
+                        "timeStr": 29,
+                        "type": "Goal",
+                        "time": 29,
+                        "overloadTime": null,
+                        "eventId": 14217411,
+                        "player": {
+                            "id": 203530,
+                            "name": "Fernando Zampedri",
+                            "profileUrl": "/players/203530/fernando-zampedri"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/203530/fernando-zampedri",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fernando Zampedri",
+                        "firstName": "Fernando",
+                        "lastName": "Zampedri",
+                        "fullName": "Fernando Zampedri",
+                        "playerId": 203530,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421741433Goal1445306undefinedtrue",
+                        "timeStr": 33,
+                        "type": "Goal",
+                        "time": 33,
+                        "overloadTime": null,
+                        "eventId": 14217414,
+                        "player": {
+                            "id": 1445306,
+                            "name": "Diego Corral",
+                            "profileUrl": "/players/1445306/diego-corral"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1445306/diego-corral",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Diego Corral",
+                        "firstName": "Diego",
+                        "lastName": "Corral",
+                        "fullName": "Diego Corral",
+                        "playerId": 1445306,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421745352Goal424158undefinedtrue",
+                        "timeStr": 52,
+                        "type": "Goal",
+                        "time": 52,
+                        "overloadTime": null,
+                        "eventId": 14217453,
+                        "player": {
+                            "id": 424158,
+                            "name": "Bernardo Cerezo",
+                            "profileUrl": "/players/424158/bernardo-cerezo"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/424158/bernardo-cerezo",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bernardo Cerezo",
+                        "firstName": "Bernardo",
+                        "lastName": "Cerezo",
+                        "fullName": "Bernardo Cerezo",
+                        "playerId": 424158,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421747482Goal577635undefinedtrue",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 14217474,
+                        "player": {
+                            "id": 577635,
+                            "name": "Branco Ampuero",
+                            "profileUrl": "/players/577635/branco-ampuero"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/577635/branco-ampuero",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Branco Ampuero",
+                        "firstName": "Branco",
+                        "lastName": "Ampuero",
+                        "fullName": "Branco Ampuero",
+                        "playerId": 577635,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421747690Goal577635undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14217476,
+                        "player": {
+                            "id": 577635,
+                            "name": "Branco Ampuero",
+                            "profileUrl": "/players/577635/branco-ampuero"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "profileUrl": "/players/577635/branco-ampuero",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Branco Ampuero",
+                        "firstName": "Branco",
+                        "lastName": "Ampuero",
+                        "fullName": "Branco Ampuero",
+                        "playerId": 577635,
+                        "newScore": [
+                            4,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Injuries"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T00:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 920443,
+                    "parentLeagueId": 9091,
+                    "link": "/leagues/9091/overview/cup-grp-b",
+                    "leagueName": "Cup Grp. B",
+                    "roundName": "4",
+                    "round": "4"
+                },
+                "Stadium": {
+                    "name": "Claro Arena",
+                    "city": "Santiago de Chile",
+                    "country": "Chile",
+                    "lat": -33.395955035,
+                    "long": -70.500624776,
+                    "capacity": 20249,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/chi.png",
+                    "text": "Piero Maza Gomez",
+                    "countryCode": "CHI",
+                    "country": "Chile"
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10077_xsmall.png",
+                        "linkToMatch": "/matches/universidad-catolica-vs-boca-juniors/29ec5q#5261542",
+                        "date": {
+                            "utcTime": "2026-05-29T00:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10077/overview/boca-juniors",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T00:30:00.000Z",
+                            "homeTeam": "Boca Juniors",
+                            "homeTeamId": 10077,
+                            "homeScore": "0",
+                            "awayTeam": "Universidad Catolica",
+                            "awayTeamId": 6458,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "10077",
+                            "name": "Boca Juniors",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6458",
+                            "name": "Universidad Catolica",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4056_xsmall.png",
+                        "linkToMatch": "/matches/huachipato-vs-universidad-catolica/wwx9h#5140523",
+                        "date": {
+                            "utcTime": "2026-05-31T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4056/overview/huachipato",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T19:00:00.000Z",
+                            "homeTeam": "Huachipato",
+                            "homeTeamId": 4056,
+                            "homeScore": "0",
+                            "awayTeam": "Universidad Catolica",
+                            "awayTeamId": 6458,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "4056",
+                            "name": "Huachipato",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6458",
+                            "name": "Universidad Catolica",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4054_xsmall.png",
+                        "linkToMatch": "/matches/universidad-de-concepcion-vs-universidad-catolica/wwh1e#5140536",
+                        "date": {
+                            "utcTime": "2026-06-14T21:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4054/overview/universidad-de-concepcion",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T21:30:00.000Z",
+                            "homeTeam": "Universidad Catolica",
+                            "homeTeamId": 6458,
+                            "homeScore": "5",
+                            "awayTeam": "Universidad de Concepcion",
+                            "awayTeamId": 4054,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "6458",
+                            "name": "Universidad Catolica",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4054",
+                            "name": "Universidad de Concepcion",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/192436_xsmall.png",
+                        "linkToMatch": "/matches/universidad-catolica-vs-deportes-copiapo/9347peb#5496025",
+                        "date": {
+                            "utcTime": "2026-06-20T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/192436/overview/deportes-copiapo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T19:00:00.000Z",
+                            "homeTeam": "Deportes Copiapo",
+                            "homeTeamId": 192436,
+                            "homeScore": "0",
+                            "awayTeam": "Universidad Catolica",
+                            "awayTeamId": 6458,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "192436",
+                            "name": "Deportes Copiapo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6458",
+                            "name": "Universidad Catolica",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1890_xsmall.png",
+                        "linkToMatch": "/matches/everton-cd-vs-universidad-catolica/kr2fk#5496027",
+                        "date": {
+                            "utcTime": "2026-06-24T00:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1890/overview/everton-cd",
+                        "tooltipText": {
+                            "utcTime": "2026-06-24T00:30:00.000Z",
+                            "homeTeam": "Everton CD",
+                            "homeTeamId": 1890,
+                            "homeScore": "1",
+                            "awayTeam": "Universidad Catolica",
+                            "awayTeamId": 6458,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "1890",
+                            "name": "Everton CD",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6458",
+                            "name": "Universidad Catolica",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4059_xsmall.png",
+                        "linkToMatch": "/matches/puerto-montt-vs-san-luis/8sl2cyu#5180109",
+                        "date": {
+                            "utcTime": "2026-05-17T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4059/overview/puerto-montt",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T19:00:00.000Z",
+                            "homeTeam": "San Luis",
+                            "homeTeamId": 191607,
+                            "homeScore": "4",
+                            "awayTeam": "Puerto Montt",
+                            "awayTeamId": 4059,
+                            "awayScore": "1"
+                        },
+                        "score": "4 - 1",
+                        "home": {
+                            "id": "191607",
+                            "name": "San Luis",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4059",
+                            "name": "Puerto Montt",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/246503_xsmall.png",
+                        "linkToMatch": "/matches/san-luis-vs-magallanes/1836g4pk#5180119",
+                        "date": {
+                            "utcTime": "2026-05-25T00:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/246503/overview/magallanes",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T00:00:00.000Z",
+                            "homeTeam": "San Luis",
+                            "homeTeamId": 191607,
+                            "homeScore": "2",
+                            "awayTeam": "Magallanes",
+                            "awayTeamId": 246503,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "191607",
+                            "name": "San Luis",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "246503",
+                            "name": "Magallanes",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1264972_xsmall.png",
+                        "linkToMatch": "/matches/san-luis-vs-deportes-recoleta/djbw53tp#5180124",
+                        "date": {
+                            "utcTime": "2026-05-30T16:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1264972/overview/deportes-recoleta",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T16:30:00.000Z",
+                            "homeTeam": "Deportes Recoleta",
+                            "homeTeamId": 1264972,
+                            "homeScore": "0",
+                            "awayTeam": "San Luis",
+                            "awayTeamId": 191607,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "1264972",
+                            "name": "Deportes Recoleta",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "191607",
+                            "name": "San Luis",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/192433_xsmall.png",
+                        "linkToMatch": "/matches/san-luis-vs-san-marcos/xvl4e05#5180134",
+                        "date": {
+                            "utcTime": "2026-06-06T00:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/192433/overview/san-marcos",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T00:00:00.000Z",
+                            "homeTeam": "San Luis",
+                            "homeTeamId": 191607,
+                            "homeScore": "1",
+                            "awayTeam": "San Marcos",
+                            "awayTeamId": 192433,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "191607",
+                            "name": "San Luis",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "192433",
+                            "name": "San Marcos",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1890_xsmall.png",
+                        "linkToMatch": "/matches/everton-cd-vs-san-luis/8llwf30#5496026",
+                        "date": {
+                            "utcTime": "2026-06-20T22:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1890/overview/everton-cd",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T22:00:00.000Z",
+                            "homeTeam": "Everton CD",
+                            "homeTeamId": 1890,
+                            "homeScore": "2",
+                            "awayTeam": "San Luis",
+                            "awayTeamId": 191607,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "1890",
+                            "name": "Everton CD",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "191607",
+                            "name": "San Luis",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5496029",
+                    "MatchId": 5496029,
+                    "HomeTeamId": 6458,
+                    "AwayTeamId": 191607,
+                    "HomeTeam": "Universidad Catolica",
+                    "AwayTeam": "San Luis",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won their last {1} matches.",
+                            "TextTemplateId": "good_form_team",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Universidad Catolica have won their last 5 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Universidad Catolica have scored in their last 3 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "11",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Universidad Catolica have scored 11 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "8"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Universidad Catolica haven't drawn in their last 8 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 6458,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 15,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 15 goals in their last 5 matches",
+                    "color": "#1050A0"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 6458,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (2)",
+                    "color": "#1050A0"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 191607,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#D8D000"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 191607,
+                    "priority": 6,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 5 matches",
+                    "color": "#D8D000"
+                }
+            ],
+            "countryCode": "CHI",
+            "QAData": [
+                {
+                    "question": "Who won between Universidad Catolica and San Luis on Sun, 28 Jun 2026 00:00:00 GMT?",
+                    "answer": "Universidad Catolica won 4\u20132 over San Luis on Sun, 28 Jun 2026 00:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": {
+            "langs": "de_gen,en_gen,es_gen,it_gen",
+            "teams": [
+                "Universidad Catolica",
+                "San Luis"
+            ]
+        },
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 4,
+            "windSpeed": 3,
+            "windDirectionCardinal": "ESE",
+            "iconCode": 31,
+            "relativeHumidity": 53,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 0,
+            "description": "Clear",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-28T01:30:00Z",
+            "localizedKey": "weather_condition_clear",
+            "defaultTitle": "Clear"
+        },
+        "lineup": {
+            "matchId": 5496029,
+            "lineupType": "standard",
+            "source": "optaSdapiLegacyIntegration",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 6458,
+                "name": "Universidad Catolica",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 1242010,
+                        "age": 25,
+                        "optaId": "502411",
+                        "name": "Vicente Bernedo",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 603015,
+                        "firstName": "Vicente",
+                        "lastName": "Bernedo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 424158,
+                        "age": 31,
+                        "optaId": "152043",
+                        "name": "Bernardo Cerezo",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "28",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 194719,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 52
+                                }
+                            ]
+                        },
+                        "firstName": "Bernardo",
+                        "lastName": "Cerezo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 577635,
+                        "age": 32,
+                        "optaId": "194311",
+                        "name": "Branco Ampuero",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 255696,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "ownGoal",
+                                    "time": 90
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 82
+                                }
+                            ]
+                        },
+                        "firstName": "Branco",
+                        "lastName": "Ampuero",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1019476,
+                        "age": 28,
+                        "optaId": "434087",
+                        "name": "Juan D\u00edaz",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "26",
+                        "countryName": "Argentina",
+                        "countryCode": "ARG",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Juan",
+                        "lastName": "D\u00edaz",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1780075,
+                        "age": 21,
+                        "optaId": "650736",
+                        "name": "Nicol\u00e1s L'Huillier",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "39",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 277956,
+                        "firstName": "Nicol\u00e1s",
+                        "lastName": "L'Huillier",
+                        "rankings": null
+                    },
+                    {
+                        "id": 324723,
+                        "age": 34,
+                        "optaId": "119158",
+                        "name": "Fernando Zuqui",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Argentina",
+                        "countryCode": "ARG",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 154250,
+                        "firstName": "Fernando",
+                        "lastName": "Zuqui",
+                        "rankings": null
+                    },
+                    {
+                        "id": 579407,
+                        "age": 38,
+                        "optaId": "191869",
+                        "name": "Agust\u00edn Far\u00edas",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "5",
+                        "countryName": "Argentina",
+                        "countryCode": "ARG",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 136747,
+                        "firstName": "Agust\u00edn",
+                        "lastName": "Far\u00edas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 609529,
+                        "age": 29,
+                        "optaId": "177847",
+                        "name": "Jimmy Mart\u00ednez",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "14",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 210364,
+                        "firstName": "Jimmy",
+                        "lastName": "Mart\u00ednez",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1445306,
+                        "age": 21,
+                        "optaId": "613531",
+                        "name": "Diego Corral",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "25",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 397931,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 33
+                                }
+                            ]
+                        },
+                        "firstName": "Diego",
+                        "lastName": "Corral",
+                        "rankings": null
+                    },
+                    {
+                        "id": 203530,
+                        "age": 38,
+                        "optaId": "192209",
+                        "name": "Fernando Zampedri",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "isCaptain": true,
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 408723,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 29
+                                }
+                            ]
+                        },
+                        "firstName": "Fernando",
+                        "lastName": "Zampedri",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1003370,
+                        "age": 27,
+                        "optaId": "435373",
+                        "name": "Justo Giani",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Argentina",
+                        "countryCode": "ARG",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 1469204,
+                        "firstName": "Justo",
+                        "lastName": "Giani",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 533401,
+                        "age": 33,
+                        "optaId": "137212",
+                        "name": "Dar\u00edo Melo",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "27",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 132165,
+                        "firstName": "Dar\u00edo",
+                        "lastName": "Melo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1614364,
+                        "age": 20,
+                        "optaId": "616314",
+                        "name": "Ignacio P\u00e9rez",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 338304,
+                        "firstName": "Ignacio",
+                        "lastName": "P\u00e9rez",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1790194,
+                        "age": 18,
+                        "optaId": "702153",
+                        "name": "Jos\u00e9 Salas",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "44",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "firstName": "Jos\u00e9",
+                        "lastName": "Salas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1128768,
+                        "age": 26,
+                        "optaId": "502419",
+                        "name": "Alfred Canales",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "13",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 276770,
+                        "firstName": "Alfred",
+                        "lastName": "Canales",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1717439,
+                        "age": 20,
+                        "optaId": "694833",
+                        "name": "Mart\u00edn G\u00f3mez",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Argentina",
+                        "countryCode": "ARG",
+                        "firstName": "Mart\u00edn",
+                        "lastName": "G\u00f3mez",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1028444,
+                        "age": 28,
+                        "optaId": "106898",
+                        "name": "Mat\u00edas Palavecino",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Argentina",
+                        "countryCode": "ARG",
+                        "marketValue": 565368,
+                        "firstName": "Mat\u00edas",
+                        "lastName": "Palavecino",
+                        "rankings": null
+                    },
+                    {
+                        "id": 274456,
+                        "age": 31,
+                        "optaId": "138816",
+                        "name": "Cristi\u00e1n Cuevas",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 366596,
+                        "firstName": "Cristi\u00e1n",
+                        "lastName": "Cuevas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 860908,
+                        "age": 29,
+                        "optaId": "209742",
+                        "name": "Jhojan Valencia",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Colombia",
+                        "countryCode": "COL",
+                        "marketValue": 551662,
+                        "firstName": "Jhojan",
+                        "lastName": "Valencia",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "692549",
+                        "name": "Amaro Alejandro P\u00e9rez Cabrera",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "43",
+                        "firstName": "Amaro Alejandro P\u00e9rez",
+                        "lastName": "Cabrera",
+                        "shortName": 0,
+                        "rankings": null
+                    }
+                ],
+                "unavailable": [
+                    {
+                        "id": 888750,
+                        "age": 26,
+                        "name": "Diego Valencia",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 361896,
+                        "unavailability": {
+                            "injuryId": 76,
+                            "type": "injury",
+                            "expectedReturn": "Out for season"
+                        },
+                        "firstName": "Diego",
+                        "lastName": "Valencia"
+                    },
+                    {
+                        "id": 1813494,
+                        "age": 19,
+                        "name": "Jeffrey Sekgota",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "unavailability": {
+                            "injuryId": 30,
+                            "type": "injury",
+                            "expectedReturn": "Unknown"
+                        },
+                        "firstName": "Jeffrey",
+                        "lastName": "Sekgota"
+                    },
+                    {
+                        "id": 465841,
+                        "age": 29,
+                        "name": "Tom\u00e1s Asta-Buruaga",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 172458,
+                        "unavailability": {
+                            "injuryId": 76,
+                            "type": "injury",
+                            "expectedReturn": "Out for season"
+                        },
+                        "firstName": "Tom\u00e1s",
+                        "lastName": "Asta-Buruaga"
+                    },
+                    {
+                        "id": 1363429,
+                        "age": 23,
+                        "name": "Carlos Arancibia",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "unavailability": {
+                            "injuryId": 87,
+                            "type": "injury",
+                            "expectedReturn": "Unknown"
+                        },
+                        "firstName": "Carlos",
+                        "lastName": "Arancibia"
+                    }
+                ],
+                "averageStarterAge": 29.9,
+                "totalStarterMarketValue": 4108605
+            },
+            "awayTeam": {
+                "id": 191607,
+                "name": "San Luis",
+                "formation": "4-4-2",
+                "starters": [
+                    {
+                        "id": 880246,
+                        "age": 41,
+                        "optaId": "202154",
+                        "name": "Nicol\u00e1s Peranic",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "isCaptain": true,
+                        "countryName": "Argentina",
+                        "countryCode": "ARG",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 90086,
+                        "firstName": "Nicol\u00e1s",
+                        "lastName": "Peranic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1415285,
+                        "age": 30,
+                        "optaId": "231264",
+                        "name": "Ignacio Meza",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 50000,
+                        "firstName": "Ignacio",
+                        "lastName": "Meza",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1361919,
+                        "age": 22,
+                        "optaId": "566455",
+                        "name": "Luis Mu\u00f1oz",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 3
+                                }
+                            ]
+                        },
+                        "firstName": "Luis",
+                        "lastName": "Mu\u00f1oz",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "728737",
+                        "name": "Diego Zamorano",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "16",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Diego",
+                        "lastName": "Zamorano",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 1129537,
+                        "age": 26,
+                        "optaId": "434687",
+                        "name": "Vicente Dur\u00e1n",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 71009,
+                        "firstName": "Vicente",
+                        "lastName": "Dur\u00e1n",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1765944,
+                        "age": 27,
+                        "optaId": "574783",
+                        "name": "Nicol\u00e1s Mu\u00f1oz",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "13",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Nicol\u00e1s",
+                        "lastName": "Mu\u00f1oz",
+                        "rankings": null
+                    },
+                    {
+                        "id": 823021,
+                        "age": 28,
+                        "optaId": "247360",
+                        "name": "Danilo Catal\u00e1n",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "34",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 108764,
+                        "firstName": "Danilo",
+                        "lastName": "Catal\u00e1n",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "728739",
+                        "name": "Joel Maximiliano Torres",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "5",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Joel Maximiliano",
+                        "lastName": "Torres",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 1626440,
+                        "age": 26,
+                        "optaId": "523099",
+                        "name": "Gonzalo Bustos",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 96655,
+                        "firstName": "Gonzalo",
+                        "lastName": "Bustos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1768878,
+                        "age": 20,
+                        "optaId": "659729",
+                        "name": "Fabi\u00e1n Pastenes",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "21",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "firstName": "Fabi\u00e1n",
+                        "lastName": "Pastenes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 964425,
+                        "age": 25,
+                        "optaId": "458182",
+                        "name": "Sebasti\u00e1n Parada",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 147460,
+                        "firstName": "Sebasti\u00e1n",
+                        "lastName": "Parada",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1626109,
+                        "age": 21,
+                        "optaId": "574616",
+                        "name": "Mateo Guerra",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "28",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 133528,
+                        "firstName": "Mateo",
+                        "lastName": "Guerra",
+                        "rankings": null
+                    },
+                    {
+                        "id": 445781,
+                        "age": 34,
+                        "optaId": "177385",
+                        "name": "Carlos Gael Acosta",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Mexico",
+                        "countryCode": "MEX",
+                        "firstName": "Carlos Gael",
+                        "lastName": "Acosta",
+                        "rankings": null
+                    },
+                    {
+                        "id": 292295,
+                        "age": 33,
+                        "optaId": "107437",
+                        "name": "Guillermo Madrigal",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Mexico",
+                        "countryCode": "MEX",
+                        "firstName": "Guillermo",
+                        "lastName": "Madrigal",
+                        "rankings": null
+                    },
+                    {
+                        "id": 819626,
+                        "age": 32,
+                        "optaId": "185658",
+                        "name": "Sergio Vergara",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Chile",
+                        "countryCode": "CHI",
+                        "marketValue": 50000,
+                        "firstName": "Sergio",
+                        "lastName": "Vergara",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "574572",
+                        "name": "Fernando Abarz\u00faa",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "firstName": "Fernando",
+                        "lastName": "Abarz\u00faa",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "728736",
+                        "name": "Alonso Alamett Villegas Munita",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "32",
+                        "firstName": "Alonso Alamett Villegas",
+                        "lastName": "Munita",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "742462",
+                        "name": "Juan Ignacio Tello Riquelme",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "35",
+                        "firstName": "Juan Ignacio Tello",
+                        "lastName": "Riquelme",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "742529",
+                        "name": "Benjamin Meneses",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "38",
+                        "firstName": "Benjamin",
+                        "lastName": "Meneses",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "742757",
+                        "name": "Kevin Velozo",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "40",
+                        "firstName": "Kevin",
+                        "lastName": "Velozo",
+                        "shortName": 0,
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 27.7
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "920443",
+            "url": "https://data.fotmob.com/tables.ext.920443.fot.gz",
+            "teams": [
+                6458,
+                191607
+            ],
+            "tournamentNameForUrl": "Cup Grp. B",
+            "parentLeagueId": 9091,
+            "countryCode": "CHI"
+        },
+        "h2h": {
+            "summary": [
+                4,
+                1,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2018-09-22T23:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#2776461",
+                    "league": {
+                        "name": "Primera Division",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division"
+                    },
+                    "home": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    },
+                    "status": {
+                        "utcTime": "2018-09-22T23:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-04-29T23:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#2704774",
+                    "league": {
+                        "name": "Primera Division",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division"
+                    },
+                    "home": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    },
+                    "status": {
+                        "utcTime": "2018-04-29T23:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-11-04T23:35:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#2544709",
+                    "league": {
+                        "name": "Primera Division Torneo de Transicion",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division-torneo-de-transicion"
+                    },
+                    "home": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    },
+                    "status": {
+                        "utcTime": "2017-11-04T23:35:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-02-05T23:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#2428542",
+                    "league": {
+                        "name": "Primera Division Clausura",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division-clausura"
+                    },
+                    "home": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    },
+                    "status": {
+                        "utcTime": "2017-02-05T23:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-09-25T15:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#2281838",
+                    "league": {
+                        "name": "Primera Division Apertura",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division-apertura"
+                    },
+                    "home": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    },
+                    "status": {
+                        "utcTime": "2016-09-25T15:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-04-26T23:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#2215749",
+                    "league": {
+                        "name": "Primera Division Clausura",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division-clausura"
+                    },
+                    "home": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    },
+                    "status": {
+                        "utcTime": "2016-04-26T23:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-11-29T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#2026720",
+                    "league": {
+                        "name": "Primera Division Apertura",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division-apertura"
+                    },
+                    "home": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    },
+                    "status": {
+                        "utcTime": "2015-11-29T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-08-21T22:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/universidad-catolica-vs-san-luis/90e91kz#827919",
+                    "league": {
+                        "name": "Primera Division Apertura",
+                        "id": "273",
+                        "pageUrl": "/leagues/273/overview/primera-division-apertura"
+                    },
+                    "home": {
+                        "name": "Universidad Catolica",
+                        "id": "6458"
+                    },
+                    "status": {
+                        "utcTime": "2010-08-21T22:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "San Luis",
+                        "id": "191607"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "universidad-catolica-vs-san-luis",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5496029",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Universidad Catolica",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6458.png",
+                "url": "https://www.fotmob.com/teams/6458/overview/universidad-catolica",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "San Luis",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/191607.png",
+                "url": "https://www.fotmob.com/teams/191607/overview/san-luis",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Universidad Catolica vs San Luis",
+            "description": "Follow Universidad Catolica vs San Luis live on fotmob.com",
+            "startDate": "2026-06-28T00:00:00.000Z",
+            "endDate": "2026-06-28T02:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Claro Arena",
+                "latitude": -33.395955035,
+                "longitude": -70.500624776,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Chile",
+                    "addressLocality": "Santiago de Chile"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/6458.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/191607.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5496029",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T00:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Universidad Catolica",
+                    "url": "https://www.fotmob.com/teams/6458/overview/universidad-catolica"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "San Luis",
+                    "url": "https://www.fotmob.com/teams/191607/overview/san-luis"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Cup Grp. B",
+                        "item": "https://www.fotmob.com/leagues/9091/overview/cup-grp-b"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Universidad Catolica - San Luis",
+                        "item": "https://www.fotmob.com/match/5496029"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Cup Grp. B",
+                        "item": "https://www.fotmob.com/leagues/9091/overview/cup-grp-b"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "San Luis",
+                        "item": "https://www.fotmob.com/teams/191607/overview/san-luis"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Universidad Catolica - San Luis",
+                        "item": "https://www.fotmob.com/match/5496029"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Cup Grp. B",
+                        "item": "https://www.fotmob.com/leagues/9091/overview/cup-grp-b"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Universidad Catolica",
+                        "item": "https://www.fotmob.com/teams/6458/overview/universidad-catolica"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Universidad Catolica - San Luis",
+                        "item": "https://www.fotmob.com/match/5496029"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Universidad Catolica and San Luis on Sun, 28 Jun 2026 00:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Universidad Catolica won 4\u20132 over San Luis on Sun, 28 Jun 2026 00:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

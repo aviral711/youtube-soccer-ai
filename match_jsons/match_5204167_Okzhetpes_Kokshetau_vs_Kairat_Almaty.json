@@ -1,0 +1,1987 @@
+{
+    "general": {
+        "matchId": "5204167",
+        "matchName": "Okzhetpes Kokshetau-vs-Kairat Almaty_Sat, Jun 27, 2026, 12:00 UTC",
+        "matchRound": "16",
+        "teamColors": {
+            "darkMode": {
+                "home": "#186080",
+                "away": "#FBBE2B"
+            },
+            "lightMode": {
+                "home": "#186080",
+                "away": "#e09d00"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 922739,
+        "leagueName": "Premier League",
+        "leagueRoundName": "16",
+        "parentLeagueId": 225,
+        "countryCode": "KAZ",
+        "homeTeam": {
+            "name": "Okzhetpes Kokshetau",
+            "id": 2128
+        },
+        "awayTeam": {
+            "name": "Kairat Almaty",
+            "id": 8037
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Okzhetpes Kokshetau",
+                "id": 2128,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2128_small.png",
+                "pageUrl": "/teams/2128/overview/okzhetpes-kokshetau"
+            },
+            {
+                "name": "Kairat Almaty",
+                "id": 8037,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8037_small.png",
+                "pageUrl": "/teams/8037/overview/kairat-almaty"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 14:01:35",
+                "firstHalfEnded": "27.06.2026 14:50:11",
+                "secondHalfStarted": "27.06.2026 15:02:58",
+                "secondHalfEnded": "27.06.2026 15:53:33",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 15:53:33"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Abdumannonov": [
+                    {
+                        "reactKey": "1421571124Goal1972982undefinedtrue",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 14215711,
+                        "player": {
+                            "id": 1972982,
+                            "name": "Bektemir Abdumannonov",
+                            "profileUrl": "/players/1972982/bektemir-abdumannonov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1972982/bektemir-abdumannonov",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bektemir Abdumannonov",
+                        "firstName": "Bektemir",
+                        "lastName": "Abdumannonov",
+                        "fullName": "Bektemir Abdumannonov",
+                        "playerId": 1972982,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Jukkola": [
+                    {
+                        "reactKey": "1421568316Goal1159195undefinedfalse",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14215683,
+                        "player": {
+                            "id": 1159195,
+                            "name": "Oiva Jukkola",
+                            "profileUrl": "/players/1159195/oiva-jukkola"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1159195/oiva-jukkola",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Oiva Jukkola",
+                        "firstName": "Oiva",
+                        "lastName": "Jukkola",
+                        "fullName": "Oiva Jukkola",
+                        "playerId": 1159195,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "\u00c1frico": [
+                    {
+                        "reactKey": "1421594257Goal953960undefinedfalse",
+                        "timeStr": 57,
+                        "type": "Goal",
+                        "time": 57,
+                        "overloadTime": null,
+                        "eventId": 14215942,
+                        "player": {
+                            "id": 953960,
+                            "name": "Lucas \u00c1frico",
+                            "profileUrl": "/players/953960/lucas-africo"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/953960/lucas-africo",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Lucas \u00c1frico",
+                        "firstName": "Lucas",
+                        "lastName": "\u00c1frico",
+                        "fullName": "Lucas \u00c1frico",
+                        "playerId": 953960,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Filho": [
+                    {
+                        "reactKey": "1421617390Goal1402626undefinedfalse",
+                        "timeStr": "90 + 5",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "eventId": 14216173,
+                        "player": {
+                            "id": 1402626,
+                            "name": "Edmilson Filho",
+                            "profileUrl": "/players/1402626/edmilson-filho"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1402626/edmilson-filho",
+                        "overloadTimeStr": "+5",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Edmilson Filho",
+                        "firstName": "Edmilson",
+                        "lastName": "Filho",
+                        "fullName": "Edmilson Filho",
+                        "playerId": 1402626,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5204167,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421568316Goal1159195undefinedfalse",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14215683,
+                        "player": {
+                            "id": 1159195,
+                            "name": "Oiva Jukkola",
+                            "profileUrl": "/players/1159195/oiva-jukkola"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1159195/oiva-jukkola",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Oiva Jukkola",
+                        "firstName": "Oiva",
+                        "lastName": "Jukkola",
+                        "fullName": "Oiva Jukkola",
+                        "playerId": 1159195,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421571124Goal1972982undefinedtrue",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 14215711,
+                        "player": {
+                            "id": 1972982,
+                            "name": "Bektemir Abdumannonov",
+                            "profileUrl": "/players/1972982/bektemir-abdumannonov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1972982/bektemir-abdumannonov",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bektemir Abdumannonov",
+                        "firstName": "Bektemir",
+                        "lastName": "Abdumannonov",
+                        "fullName": "Bektemir Abdumannonov",
+                        "playerId": 1972982,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421594257Goal953960undefinedfalse",
+                        "timeStr": 57,
+                        "type": "Goal",
+                        "time": 57,
+                        "overloadTime": null,
+                        "eventId": 14215942,
+                        "player": {
+                            "id": 953960,
+                            "name": "Lucas \u00c1frico",
+                            "profileUrl": "/players/953960/lucas-africo"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/953960/lucas-africo",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Lucas \u00c1frico",
+                        "firstName": "Lucas",
+                        "lastName": "\u00c1frico",
+                        "fullName": "Lucas \u00c1frico",
+                        "playerId": 953960,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421617390Goal1402626undefinedfalse",
+                        "timeStr": "90 + 5",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "eventId": 14216173,
+                        "player": {
+                            "id": 1402626,
+                            "name": "Edmilson Filho",
+                            "profileUrl": "/players/1402626/edmilson-filho"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1402626/edmilson-filho",
+                        "overloadTimeStr": "+5",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Edmilson Filho",
+                        "firstName": "Edmilson",
+                        "lastName": "Filho",
+                        "fullName": "Edmilson Filho",
+                        "playerId": 1402626,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 922739,
+                    "parentLeagueId": 225,
+                    "link": "/leagues/225/overview/premier-league",
+                    "leagueName": "Premier League",
+                    "roundName": "16",
+                    "round": "16"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/166865_xsmall.png",
+                        "linkToMatch": "/matches/okzhetpes-kokshetau-vs-fc-astana/6k5l6dd#5204117",
+                        "date": {
+                            "utcTime": "2026-05-16T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/166865/overview/fc-astana",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T12:00:00.000Z",
+                            "homeTeam": "Okzhetpes Kokshetau",
+                            "homeTeamId": 2128,
+                            "homeScore": "1",
+                            "awayTeam": "FC Astana",
+                            "awayTeamId": 166865,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "2128",
+                            "name": "Okzhetpes Kokshetau",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "166865",
+                            "name": "FC Astana",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/732295_xsmall.png",
+                        "linkToMatch": "/matches/okzhetpes-kokshetau-vs-altai-semey/3fw69lx7#5204122",
+                        "date": {
+                            "utcTime": "2026-05-22T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/732295/overview/altai-semey",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T10:00:00.000Z",
+                            "homeTeam": "Altai Semey",
+                            "homeTeamId": 732295,
+                            "homeScore": "0",
+                            "awayTeam": "Okzhetpes Kokshetau",
+                            "awayTeamId": 2128,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "732295",
+                            "name": "Altai Semey",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2128",
+                            "name": "Okzhetpes Kokshetau",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8000_xsmall.png",
+                        "linkToMatch": "/matches/okzhetpes-kokshetau-vs-aktobe/ujkaw#5204134",
+                        "date": {
+                            "utcTime": "2026-05-28T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8000/overview/aktobe",
+                        "tooltipText": {
+                            "utcTime": "2026-05-28T10:00:00.000Z",
+                            "homeTeam": "Okzhetpes Kokshetau",
+                            "homeTeamId": 2128,
+                            "homeScore": "2",
+                            "awayTeam": "Aktobe",
+                            "awayTeamId": 8000,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "2128",
+                            "name": "Okzhetpes Kokshetau",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8000",
+                            "name": "Aktobe",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2118_xsmall.png",
+                        "linkToMatch": "/matches/zhetysu-taldykorgan-vs-okzhetpes-kokshetau/5daq5#5204144",
+                        "date": {
+                            "utcTime": "2026-06-13T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2118/overview/zhetysu-taldykorgan",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T12:00:00.000Z",
+                            "homeTeam": "Zhetysu Taldykorgan",
+                            "homeTeamId": 2118,
+                            "homeScore": "2",
+                            "awayTeam": "Okzhetpes Kokshetau",
+                            "awayTeamId": 2128,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "2118",
+                            "name": "Zhetysu Taldykorgan",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2128",
+                            "name": "Okzhetpes Kokshetau",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7983_xsmall.png",
+                        "linkToMatch": "/matches/okzhetpes-kokshetau-vs-tobol-kostanay/ufvjj#5204150",
+                        "date": {
+                            "utcTime": "2026-06-21T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7983/overview/tobol-kostanay",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T12:00:00.000Z",
+                            "homeTeam": "Okzhetpes Kokshetau",
+                            "homeTeamId": 2128,
+                            "homeScore": "2",
+                            "awayTeam": "Tobol Kostanay",
+                            "awayTeamId": 7983,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "2128",
+                            "name": "Okzhetpes Kokshetau",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "7983",
+                            "name": "Tobol Kostanay",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2125_xsmall.png",
+                        "linkToMatch": "/matches/kaisar-kyzylorda-vs-kairat-almaty/uqyhs#5204124",
+                        "date": {
+                            "utcTime": "2026-05-23T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2125/overview/kaisar-kyzylorda",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T13:00:00.000Z",
+                            "homeTeam": "Kairat Almaty",
+                            "homeTeamId": 8037,
+                            "homeScore": "0",
+                            "awayTeam": "Kaisar Kyzylorda",
+                            "awayTeamId": 2125,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "8037",
+                            "name": "Kairat Almaty",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2125",
+                            "name": "Kaisar Kyzylorda",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2127_xsmall.png",
+                        "linkToMatch": "/matches/ordabasy-shymkent-vs-kairat-almaty/ure6f#5204135",
+                        "date": {
+                            "utcTime": "2026-05-28T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2127/overview/ordabasy-shymkent",
+                        "tooltipText": {
+                            "utcTime": "2026-05-28T15:00:00.000Z",
+                            "homeTeam": "Ordabasy Shymkent",
+                            "homeTeamId": 2127,
+                            "homeScore": "2",
+                            "awayTeam": "Kairat Almaty",
+                            "awayTeamId": 8037,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "2127",
+                            "name": "Ordabasy Shymkent",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8037",
+                            "name": "Kairat Almaty",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2349_xsmall.png",
+                        "linkToMatch": "/matches/atyrau-vs-kairat-almaty/w4ac0#5204139",
+                        "date": {
+                            "utcTime": "2026-06-13T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2349/overview/atyrau",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:00:00.000Z",
+                            "homeTeam": "Kairat Almaty",
+                            "homeTeamId": 8037,
+                            "homeScore": "1",
+                            "awayTeam": "Atyrau",
+                            "awayTeamId": 2349,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8037",
+                            "name": "Kairat Almaty",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2349",
+                            "name": "Atyrau",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2120_xsmall.png",
+                        "linkToMatch": "/matches/fc-kyzylzhar-petropavlovsk-vs-kairat-almaty/upvao#5204171",
+                        "date": {
+                            "utcTime": "2026-06-17T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2120/overview/fc-kyzylzhar-petropavlovsk",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T14:00:00.000Z",
+                            "homeTeam": "Kairat Almaty",
+                            "homeTeamId": 8037,
+                            "homeScore": "3",
+                            "awayTeam": "FC Kyzylzhar Petropavlovsk",
+                            "awayTeamId": 2120,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "8037",
+                            "name": "Kairat Almaty",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2120",
+                            "name": "FC Kyzylzhar Petropavlovsk",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2120_xsmall.png",
+                        "linkToMatch": "/matches/fc-kyzylzhar-petropavlovsk-vs-kairat-almaty/upvao#5204149",
+                        "date": {
+                            "utcTime": "2026-06-21T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2120/overview/fc-kyzylzhar-petropavlovsk",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T13:00:00.000Z",
+                            "homeTeam": "FC Kyzylzhar Petropavlovsk",
+                            "homeTeamId": 2120,
+                            "homeScore": "2",
+                            "awayTeam": "Kairat Almaty",
+                            "awayTeamId": 8037,
+                            "awayScore": "4"
+                        },
+                        "score": "2 - 4",
+                        "home": {
+                            "id": "2120",
+                            "name": "FC Kyzylzhar Petropavlovsk",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8037",
+                            "name": "Kairat Almaty",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5204167",
+                    "MatchId": 5204167,
+                    "HomeTeamId": 2128,
+                    "AwayTeamId": 8037,
+                    "HomeTeam": "Okzhetpes Kokshetau",
+                    "AwayTeam": "Kairat Almaty",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "home_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Okzhetpes Kokshetau haven't lost in 7 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "5",
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Okzhetpes Kokshetau have scored in their last 5 matches and Kairat Almaty have scored in their last 4 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "8",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Kairat Almaty have scored 8 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} and {1} have not drawn any of their last {2} matches against each other.",
+                            "TextTemplateId": "h2h_no_draws_v2",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Okzhetpes Kokshetau and Kairat Almaty have not drawn any of their last 4 matches against each other."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2128,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#186080"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2128,
+                    "priority": 6,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 7 matches",
+                    "color": "#186080"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2128,
+                    "priority": 6,
+                    "defaultText": "{0} and {1} have not drawn any of their last {2} matches against each other.",
+                    "localizedTextId": "h2h_no_draws_v2",
+                    "statValues": [
+                        {
+                            "value": 2128,
+                            "name": "Okzhetpes Kokshetau",
+                            "type": "team"
+                        },
+                        {
+                            "value": 8037,
+                            "name": "Kairat Almaty",
+                            "type": "team"
+                        },
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Okzhetpes Kokshetau and Kairat Almaty have not drawn any of their last 4 matches against each other.",
+                    "color": "#186080"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8037,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#e09d00"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8037,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (9)",
+                    "color": "#e09d00"
+                },
+                {
+                    "type": "player",
+                    "playerId": 1684584,
+                    "teamId": 8037,
+                    "priority": 10,
+                    "defaultText": "{0} is the competition's top scorer ({1})",
+                    "localizedTextId": "insights_player_goals_scored",
+                    "statValues": [
+                        {
+                            "value": 1684584,
+                            "name": "Dastan Satpaev",
+                            "type": "player"
+                        },
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Dastan Satpaev is the competition's top scorer (8)",
+                    "color": "#e09d00"
+                }
+            ],
+            "countryCode": "KAZ",
+            "QAData": [
+                {
+                    "question": "Who won between Okzhetpes Kokshetau and Kairat Almaty on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "answer": "Kairat Almaty won 3\u20131 over Okzhetpes Kokshetau on Sat, 27 Jun 2026 12:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "922739",
+            "url": "https://data.fotmob.com/tables.ext.922739.fot.gz",
+            "teams": [
+                2128,
+                8037
+            ],
+            "tournamentNameForUrl": "Premier League",
+            "parentLeagueId": 225,
+            "countryCode": "KAZ"
+        },
+        "h2h": {
+            "summary": [
+                2,
+                5,
+                15
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-31T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#4735519",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-31T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-24T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#4735316",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-24T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-07-15T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#4115109",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2023-07-15T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-06-03T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#4115056",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2023-06-03T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-09-27T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#3259535",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2020-09-27T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-03-11T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#3259585",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2020-03-11T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-08-25T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#3149834",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2019-08-25T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-06-16T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2987790",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2019-06-16T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-04-06T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2987706",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2019-04-06T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-08-13T11:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2598524",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2017-08-13T11:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-05-14T08:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2456589",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2017-05-14T08:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-03-12T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2456529",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2017-03-12T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-10-29T09:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2327951",
+                    "league": {
+                        "name": "Premier League Championship Group",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league-championship-group"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2016-10-29T09:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-08-13T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2327924",
+                    "league": {
+                        "name": "Premier League Championship Group",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league-championship-group"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2016-08-13T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-05-21T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2185840",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2016-05-21T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "6 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-03-19T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#2185781",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2016-03-19T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-06-06T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#1926492",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2015-06-06T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-04-05T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#1926432",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2015-04-05T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-06-24T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#1175590",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2012-06-24T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-03-18T09:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#1175276",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2012-03-18T09:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-11-01T09:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#921387",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    },
+                    "status": {
+                        "utcTime": "2010-11-01T09:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-09-30T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/okzhetpes-kokshetau-vs-kairat-almaty/urm0s#921361",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Okzhetpes Kokshetau",
+                        "id": "2128"
+                    },
+                    "status": {
+                        "utcTime": "2010-09-30T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kairat Almaty",
+                        "id": "8037"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "okzhetpes-kokshetau-vs-kairat-almaty",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5204167",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Okzhetpes Kokshetau",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2128.png",
+                "url": "https://www.fotmob.com/teams/2128/overview/okzhetpes-kokshetau",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Kairat Almaty",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8037.png",
+                "url": "https://www.fotmob.com/teams/8037/overview/kairat-almaty",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Okzhetpes Kokshetau vs Kairat Almaty",
+            "description": "Follow Okzhetpes Kokshetau vs Kairat Almaty live on fotmob.com",
+            "startDate": "2026-06-27T12:00:00.000Z",
+            "endDate": "2026-06-27T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2128.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8037.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5204167",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Okzhetpes Kokshetau",
+                    "url": "https://www.fotmob.com/teams/2128/overview/okzhetpes-kokshetau"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Kairat Almaty",
+                    "url": "https://www.fotmob.com/teams/8037/overview/kairat-almaty"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Okzhetpes Kokshetau - Kairat Almaty",
+                        "item": "https://www.fotmob.com/match/5204167"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kairat Almaty",
+                        "item": "https://www.fotmob.com/teams/8037/overview/kairat-almaty"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Okzhetpes Kokshetau - Kairat Almaty",
+                        "item": "https://www.fotmob.com/match/5204167"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Okzhetpes Kokshetau",
+                        "item": "https://www.fotmob.com/teams/2128/overview/okzhetpes-kokshetau"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Okzhetpes Kokshetau - Kairat Almaty",
+                        "item": "https://www.fotmob.com/match/5204167"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Okzhetpes Kokshetau and Kairat Almaty on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Kairat Almaty won 3\u20131 over Okzhetpes Kokshetau on Sat, 27 Jun 2026 12:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

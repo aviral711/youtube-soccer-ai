@@ -1,0 +1,1201 @@
+{
+    "general": {
+        "matchId": "1000015238",
+        "matchName": "Uberlandia-vs-Rio Branco ES_Sat, Jun 27, 2026, 20:00 UTC",
+        "matchRound": "16th Finals",
+        "teamColors": {
+            "darkMode": {
+                "home": "#018F48",
+                "away": "#DDDDDD"
+            },
+            "lightMode": {
+                "home": "#018F48",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 9464,
+        "leagueName": "Serie D",
+        "leagueRoundName": "16th Finals",
+        "parentLeagueId": 9464,
+        "countryCode": "BRA",
+        "homeTeam": {
+            "name": "Uberlandia",
+            "id": 197808
+        },
+        "awayTeam": {
+            "name": "Rio Branco ES",
+            "id": 197659
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 20:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T20:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Uberlandia",
+                "id": 197808,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197808_small.png",
+                "pageUrl": "/teams/197808/overview/uberlandia"
+            },
+            {
+                "name": "Rio Branco ES",
+                "id": 197659,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197659_small.png",
+                "pageUrl": "/teams/197659/overview/rio-branco-es"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T20:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 22:03:57",
+                "firstHalfEnded": "27.06.2026 22:51:56",
+                "secondHalfStarted": "27.06.2026 23:09:02",
+                "secondHalfEnded": "27.06.2026 23:59:05",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 23:59:05"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Kayke": [
+                    {
+                        "reactKey": "050Goal196941undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 196941,
+                            "name": "Kayke",
+                            "profileUrl": "/players/196941/kayke"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/196941/kayke",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kayke",
+                        "firstName": "",
+                        "lastName": "Kayke",
+                        "fullName": "Kayke",
+                        "playerId": 196941,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Bastos": [
+                    {
+                        "reactKey": "062Goal613413undefinedtrue",
+                        "timeStr": 62,
+                        "type": "Goal",
+                        "time": 62,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 613413,
+                            "name": "Tomas Bastos",
+                            "profileUrl": "/players/613413/tomas-bastos"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/613413/tomas-bastos",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tomas Bastos",
+                        "firstName": "Tomas",
+                        "lastName": "Bastos",
+                        "fullName": "Tomas Bastos",
+                        "playerId": 613413,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Almeida": [
+                    {
+                        "reactKey": "043Goal1791752undefinedfalse",
+                        "timeStr": 43,
+                        "type": "Goal",
+                        "time": 43,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1791752,
+                            "name": "Breno Ruan Melo Almeida",
+                            "profileUrl": "/players/1791752/breno-ruan-melo-almeida"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1791752/breno-ruan-melo-almeida",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Breno Ruan Melo Almeida",
+                        "firstName": "Breno Ruan Melo",
+                        "lastName": "Almeida",
+                        "fullName": "Breno Ruan Melo Almeida",
+                        "playerId": 1791752,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Geovane": [
+                    {
+                        "reactKey": "060Goal688272undefinedfalse",
+                        "timeStr": 60,
+                        "type": "Goal",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 688272,
+                            "name": "Geovane",
+                            "profileUrl": "/players/688272/geovane"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/688272/geovane",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Geovane",
+                        "firstName": "",
+                        "lastName": "Geovane",
+                        "fullName": "Geovane",
+                        "playerId": 688272,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000015238,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "043Goal1791752undefinedfalse",
+                        "timeStr": 43,
+                        "type": "Goal",
+                        "time": 43,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1791752,
+                            "name": "Breno Ruan Melo Almeida",
+                            "profileUrl": "/players/1791752/breno-ruan-melo-almeida"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1791752/breno-ruan-melo-almeida",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Breno Ruan Melo Almeida",
+                        "firstName": "Breno Ruan Melo",
+                        "lastName": "Almeida",
+                        "fullName": "Breno Ruan Melo Almeida",
+                        "playerId": 1791752,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45AddedTimeNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "AddedTime",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "minutesAddedStr": "+ 3 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 3
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "050Goal196941undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 196941,
+                            "name": "Kayke",
+                            "profileUrl": "/players/196941/kayke"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/196941/kayke",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kayke",
+                        "firstName": "",
+                        "lastName": "Kayke",
+                        "fullName": "Kayke",
+                        "playerId": 196941,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "060Goal688272undefinedfalse",
+                        "timeStr": 60,
+                        "type": "Goal",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 688272,
+                            "name": "Geovane",
+                            "profileUrl": "/players/688272/geovane"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/688272/geovane",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Geovane",
+                        "firstName": "",
+                        "lastName": "Geovane",
+                        "fullName": "Geovane",
+                        "playerId": 688272,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "062Goal613413undefinedtrue",
+                        "timeStr": 62,
+                        "type": "Goal",
+                        "time": 62,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 613413,
+                            "name": "Tomas Bastos",
+                            "profileUrl": "/players/613413/tomas-bastos"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/613413/tomas-bastos",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tomas Bastos",
+                        "firstName": "Tomas",
+                        "lastName": "Bastos",
+                        "fullName": "Tomas Bastos",
+                        "playerId": 613413,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90AddedTimeNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "AddedTime",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "minutesAddedStr": "+ 5 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 5
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "AddedTime",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": {
+                    "bestOf": 2,
+                    "bestOfNum": 2,
+                    "localizedString": {
+                        "key": "second_leg",
+                        "fallback": "2nd leg"
+                    }
+                },
+                "Match Date": {
+                    "utcTime": "2026-06-27T20:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 9464,
+                    "parentLeagueId": 9464,
+                    "link": "/leagues/9464/overview/serie-d",
+                    "leagueName": "Serie D",
+                    "roundName": "16th Finals",
+                    "round": "16th Finals"
+                },
+                "Stadium": {
+                    "name": "Est\u00e1dio Municipal Jo\u00e3o Havelange",
+                    "city": "Uberl\u00e2ndia, Minas Gerais",
+                    "country": "Brazil",
+                    "lat": -18.913036119,
+                    "long": -48.233043551
+                },
+                "Referee": null,
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/104815_xsmall.png",
+                        "linkToMatch": "/matches/betim-ec-vs-uberlandia/l1aldwg#1000010711",
+                        "date": {
+                            "utcTime": "2026-05-18T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/104815/overview/betim-ec",
+                        "tooltipText": {
+                            "utcTime": "2026-05-18T22:30:00.000Z",
+                            "homeTeam": "Uberlandia",
+                            "homeTeamId": 197808,
+                            "homeScore": "1",
+                            "awayTeam": "Betim EC",
+                            "awayTeamId": 104815,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "197808",
+                            "name": "Uberlandia",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "104815",
+                            "name": "Betim EC",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197769_xsmall.png",
+                        "linkToMatch": "/matches/crac-vs-uberlandia/zxyno9x#1000010460",
+                        "date": {
+                            "utcTime": "2026-05-24T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197769/overview/crac",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T19:00:00.000Z",
+                            "homeTeam": "CRAC",
+                            "homeTeamId": 197769,
+                            "homeScore": "0",
+                            "awayTeam": "Uberlandia",
+                            "awayTeamId": 197808,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "197769",
+                            "name": "CRAC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "197808",
+                            "name": "Uberlandia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197611_xsmall.png",
+                        "linkToMatch": "/matches/ivinhema-vs-uberlandia/zwxgbmy#1000010767",
+                        "date": {
+                            "utcTime": "2026-05-31T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197611/overview/ivinhema",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T20:00:00.000Z",
+                            "homeTeam": "Ivinhema",
+                            "homeTeamId": 197611,
+                            "homeScore": "1",
+                            "awayTeam": "Uberlandia",
+                            "awayTeamId": 197808,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "197611",
+                            "name": "Ivinhema",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "197808",
+                            "name": "Uberlandia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1696742_xsmall.png",
+                        "linkToMatch": "/matches/uberlandia-vs-ouvidorense/mwgetjal#1000010391",
+                        "date": {
+                            "utcTime": "2026-06-14T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1696742/overview/ouvidorense",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T19:00:00.000Z",
+                            "homeTeam": "Uberlandia",
+                            "homeTeamId": 197808,
+                            "homeScore": "0",
+                            "awayTeam": "Ouvidorense",
+                            "awayTeamId": 1696742,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "197808",
+                            "name": "Uberlandia",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1696742",
+                            "name": "Ouvidorense",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197659_xsmall.png",
+                        "linkToMatch": "/matches/rio-branco-es-vs-uberlandia/zx8r5oy#1000015237",
+                        "date": {
+                            "utcTime": "2026-06-21T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197659/overview/rio-branco-es",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T20:00:00.000Z",
+                            "homeTeam": "Rio Branco ES",
+                            "homeTeamId": 197659,
+                            "homeScore": "0",
+                            "awayTeam": "Uberlandia",
+                            "awayTeamId": 197808,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "197659",
+                            "name": "Rio Branco ES",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "197808",
+                            "name": "Uberlandia",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/298451_xsmall.png",
+                        "linkToMatch": "/matches/rio-branco-es-vs-real-noroeste/1kj8lld8#1000010714",
+                        "date": {
+                            "utcTime": "2026-05-16T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/298451/overview/real-noroeste",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T20:00:00.000Z",
+                            "homeTeam": "Real Noroeste",
+                            "homeTeamId": 298451,
+                            "homeScore": "0",
+                            "awayTeam": "Rio Branco ES",
+                            "awayTeamId": 197659,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "298451",
+                            "name": "Real Noroeste",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "197659",
+                            "name": "Rio Branco ES",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197666_xsmall.png",
+                        "linkToMatch": "/matches/rio-branco-es-vs-vitoria-es/zwbbqth#1000010634",
+                        "date": {
+                            "utcTime": "2026-05-24T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197666/overview/vitoria-es",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T19:00:00.000Z",
+                            "homeTeam": "Rio Branco ES",
+                            "homeTeamId": 197659,
+                            "homeScore": "0",
+                            "awayTeam": "Vitoria ES",
+                            "awayTeamId": 197666,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "197659",
+                            "name": "Rio Branco ES",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197666",
+                            "name": "Vitoria ES",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197805_xsmall.png",
+                        "linkToMatch": "/matches/rio-branco-es-vs-democrata-gv/zx81q9d#1000010769",
+                        "date": {
+                            "utcTime": "2026-05-31T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197805/overview/democrata-gv",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T20:00:00.000Z",
+                            "homeTeam": "Democrata GV",
+                            "homeTeamId": 197805,
+                            "homeScore": "3",
+                            "awayTeam": "Rio Branco ES",
+                            "awayTeamId": 197659,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "197805",
+                            "name": "Democrata GV",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "197659",
+                            "name": "Rio Branco ES",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1694586_xsmall.png",
+                        "linkToMatch": "/matches/rio-branco-es-vs-porto-sc/mug8ftc2#1000010395",
+                        "date": {
+                            "utcTime": "2026-06-14T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1694586/overview/porto-sc",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T20:00:00.000Z",
+                            "homeTeam": "Rio Branco ES",
+                            "homeTeamId": 197659,
+                            "homeScore": "4",
+                            "awayTeam": "Porto SC",
+                            "awayTeamId": 1694586,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "197659",
+                            "name": "Rio Branco ES",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1694586",
+                            "name": "Porto SC",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197808_xsmall.png",
+                        "linkToMatch": "/matches/rio-branco-es-vs-uberlandia/zx8r5oy#1000015237",
+                        "date": {
+                            "utcTime": "2026-06-21T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197808/overview/uberlandia",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T20:00:00.000Z",
+                            "homeTeam": "Rio Branco ES",
+                            "homeTeamId": 197659,
+                            "homeScore": "0",
+                            "awayTeam": "Uberlandia",
+                            "awayTeamId": 197808,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "197659",
+                            "name": "Rio Branco ES",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197808",
+                            "name": "Uberlandia",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000015238",
+                    "MatchId": 1000015238,
+                    "HomeTeamId": 197808,
+                    "AwayTeamId": 197659,
+                    "HomeTeam": "Uberlandia",
+                    "AwayTeam": "Rio Branco ES",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "1",
+                                "3",
+                                "1",
+                                "away_team",
+                                "1",
+                                "1",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Uberlandia have 1W, 3D, 1L in five matches while Rio Branco ES have 1W, 1D, 3L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "3",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Uberlandia have scored 3 goals in their last 3 matches, while Rio Branco ES have scored 5."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "3",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Uberlandia have scored 3 goals in their last 3 matches, while Rio Branco ES have scored 5."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Rio Branco ES haven't drawn in their last 4 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "BRA",
+            "QAData": [
+                {
+                    "question": "Who won between Uberlandia and Rio Branco ES on Sat, 27 Jun 2026 20:00:00 GMT?",
+                    "answer": "Uberlandia vs Rio Branco ES on Sat, 27 Jun 2026 20:00:00 GMT ended in a 2\u20132 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 23,
+            "windSpeed": 2,
+            "windDirectionCardinal": "E",
+            "iconCode": 33,
+            "relativeHumidity": 60,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 30,
+            "description": "Fair",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T21:30:01Z",
+            "localizedKey": "weather_condition_clear",
+            "defaultTitle": "Clear"
+        },
+        "lineup": null,
+        "hasPlayoff": true,
+        "table": false,
+        "h2h": {
+            "summary": [
+                1,
+                0,
+                0
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-06-21T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/rio-branco-es-vs-uberlandia/zx8r5oy#1000015237",
+                    "league": {
+                        "name": "Serie D",
+                        "id": "9464",
+                        "pageUrl": "/leagues/9464/overview/serie-d"
+                    },
+                    "home": {
+                        "name": "Rio Branco ES",
+                        "id": "197659"
+                    },
+                    "status": {
+                        "utcTime": "2026-06-21T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Uberlandia",
+                        "id": "197808"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "uberlandia-vs-rio-branco-es",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000015238",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Uberlandia",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/197808.png",
+                "url": "https://www.fotmob.com/teams/197808/overview/uberlandia",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Rio Branco ES",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/197659.png",
+                "url": "https://www.fotmob.com/teams/197659/overview/rio-branco-es",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Uberlandia vs Rio Branco ES",
+            "description": "Follow Uberlandia vs Rio Branco ES live on fotmob.com",
+            "startDate": "2026-06-27T20:00:00.000Z",
+            "endDate": "2026-06-27T22:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Est\u00e1dio Municipal Jo\u00e3o Havelange",
+                "latitude": -18.913036119,
+                "longitude": -48.233043551,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Brazil",
+                    "addressLocality": "Uberl\u00e2ndia, Minas Gerais"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/197808.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/197659.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000015238",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T20:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Uberlandia",
+                    "url": "https://www.fotmob.com/teams/197808/overview/uberlandia"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Rio Branco ES",
+                    "url": "https://www.fotmob.com/teams/197659/overview/rio-branco-es"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Serie D",
+                        "item": "https://www.fotmob.com/leagues/9464/overview/serie-d"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Uberlandia - Rio Branco ES",
+                        "item": "https://www.fotmob.com/match/1000015238"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Serie D",
+                        "item": "https://www.fotmob.com/leagues/9464/overview/serie-d"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Rio Branco ES",
+                        "item": "https://www.fotmob.com/teams/197659/overview/rio-branco-es"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Uberlandia - Rio Branco ES",
+                        "item": "https://www.fotmob.com/match/1000015238"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Serie D",
+                        "item": "https://www.fotmob.com/leagues/9464/overview/serie-d"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Uberlandia",
+                        "item": "https://www.fotmob.com/teams/197808/overview/uberlandia"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Uberlandia - Rio Branco ES",
+                        "item": "https://www.fotmob.com/match/1000015238"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Uberlandia and Rio Branco ES on Sat, 27 Jun 2026 20:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Uberlandia vs Rio Branco ES on Sat, 27 Jun 2026 20:00:00 GMT ended in a 2\u20132 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

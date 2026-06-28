@@ -1,0 +1,3419 @@
+{
+    "general": {
+        "matchId": "5125555",
+        "matchName": "GIF Sundsvall-vs-\u00d6stersunds FK_Sat, Jun 27, 2026, 15:00 UTC",
+        "matchRound": "14",
+        "teamColors": {
+            "darkMode": {
+                "home": "#006CB7",
+                "away": "#C2002A"
+            },
+            "lightMode": {
+                "home": "#006CB7",
+                "away": "#C2002A"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 168,
+        "leagueName": "Superettan",
+        "leagueRoundName": "14",
+        "parentLeagueId": 168,
+        "countryCode": "SWE",
+        "homeTeam": {
+            "name": "GIF Sundsvall",
+            "id": 8359
+        },
+        "awayTeam": {
+            "name": "\u00d6stersunds FK",
+            "id": 2004
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 15:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T15:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "GIF Sundsvall",
+                "id": 8359,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8359_small.png",
+                "pageUrl": "/teams/8359/overview/gif-sundsvall"
+            },
+            {
+                "name": "\u00d6stersunds FK",
+                "id": 2004,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2004_small.png",
+                "pageUrl": "/teams/2004/overview/ostersunds-fk"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T15:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 17:02:16",
+                "firstHalfEnded": "27.06.2026 17:46:27",
+                "secondHalfStarted": "27.06.2026 18:06:09",
+                "secondHalfEnded": "27.06.2026 18:51:45",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 18:51:45"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "0 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {},
+            "awayTeamGoals": {
+                "Edwards": [
+                    {
+                        "reactKey": "1421680755Goal763228undefinedfalse",
+                        "timeStr": 55,
+                        "type": "Goal",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 14216807,
+                        "player": {
+                            "id": 763228,
+                            "name": "Curtis Edwards",
+                            "profileUrl": "/players/763228/curtis-edwards"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/763228/curtis-edwards",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Curtis Edwards",
+                        "firstName": "Curtis",
+                        "lastName": "Edwards",
+                        "fullName": "Curtis Edwards",
+                        "playerId": 763228,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Abdulla Qasem",
+                        "assistProfileUrl": "/players/1362356/abdulla-qasem",
+                        "assistPlayerId": 1362356,
+                        "assistKey": "assist_by",
+                        "assistInput": "Abdulla Qasem"
+                    }
+                ],
+                "Marklund": [
+                    {
+                        "reactKey": "1421685371Goal690103undefinedfalse",
+                        "timeStr": 71,
+                        "type": "Goal",
+                        "time": 71,
+                        "overloadTime": null,
+                        "eventId": 14216853,
+                        "player": {
+                            "id": 690103,
+                            "name": "Simon Marklund",
+                            "profileUrl": "/players/690103/simon-marklund"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/690103/simon-marklund",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Simon Marklund",
+                        "firstName": "Simon",
+                        "lastName": "Marklund",
+                        "fullName": "Simon Marklund",
+                        "playerId": 690103,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Amar Begic",
+                        "assistProfileUrl": "/players/1269942/amar-begic",
+                        "assistPlayerId": 1269942,
+                        "assistKey": "assist_by",
+                        "assistInput": "Amar Begic"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5125555,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421665939Card1406692undefinedtrue",
+                        "timeStr": 39,
+                        "type": "Card",
+                        "time": 39,
+                        "overloadTime": null,
+                        "eventId": 14216659,
+                        "player": {
+                            "id": 1406692,
+                            "name": "Hugo Aviander",
+                            "profileUrl": "/players/1406692/hugo-aviander"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1406692/hugo-aviander",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Hugo Aviander",
+                        "firstName": "Hugo",
+                        "lastName": "Aviander",
+                        "fullName": "Hugo Aviander",
+                        "playerId": 1406692,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421680755Goal763228undefinedfalse",
+                        "timeStr": 55,
+                        "type": "Goal",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 14216807,
+                        "player": {
+                            "id": 763228,
+                            "name": "Curtis Edwards",
+                            "profileUrl": "/players/763228/curtis-edwards"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/763228/curtis-edwards",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Curtis Edwards",
+                        "firstName": "Curtis",
+                        "lastName": "Edwards",
+                        "fullName": "Curtis Edwards",
+                        "playerId": 763228,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Abdulla Qasem",
+                        "assistProfileUrl": "/players/1362356/abdulla-qasem",
+                        "assistPlayerId": 1362356,
+                        "assistKey": "assist_by",
+                        "assistInput": "Abdulla Qasem"
+                    },
+                    {
+                        "reactKey": "1421682256Card1388053undefinedfalse",
+                        "timeStr": 56,
+                        "type": "Card",
+                        "time": 56,
+                        "overloadTime": null,
+                        "eventId": 14216822,
+                        "player": {
+                            "id": 1388053,
+                            "name": "Hugo Azzi",
+                            "profileUrl": "/players/1388053/hugo-azzi"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1388053/hugo-azzi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Hugo Azzi",
+                        "firstName": "Hugo",
+                        "lastName": "Azzi",
+                        "fullName": "Hugo Azzi",
+                        "playerId": 1388053,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1259376true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Miguel Sandberg",
+                                "id": "1259376",
+                                "profileUrl": "/players/1259376/miguel-sandberg"
+                            },
+                            {
+                                "name": "Jeremiah Bj\u00f6rnler",
+                                "id": "1524202",
+                                "profileUrl": "/players/1524202/jeremiah-bjornler"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1800384true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Suwaibou Kebbeh",
+                                "id": "1800384",
+                                "profileUrl": "/players/1800384/suwaibou-kebbeh"
+                            },
+                            {
+                                "name": "Nils Eriksson",
+                                "id": "1064941",
+                                "profileUrl": "/players/1064941/nils-eriksson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1916758true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Joshua Mambu",
+                                "id": "1916758",
+                                "profileUrl": "/players/1916758/joshua-mambu"
+                            },
+                            {
+                                "name": "Jakob Hedenquist",
+                                "id": "1231604",
+                                "profileUrl": "/players/1231604/jakob-hedenquist"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined64SubstitutionNaN1940001false",
+                        "timeStr": 64,
+                        "type": "Substitution",
+                        "time": 64,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mario Palomino",
+                                "id": "1940001",
+                                "profileUrl": "/players/1940001/mario-palomino"
+                            },
+                            {
+                                "name": "Abel William Stensrud",
+                                "id": "1110551",
+                                "profileUrl": "/players/1110551/abel-william-stensrud"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421685371Goal690103undefinedfalse",
+                        "timeStr": 71,
+                        "type": "Goal",
+                        "time": 71,
+                        "overloadTime": null,
+                        "eventId": 14216853,
+                        "player": {
+                            "id": 690103,
+                            "name": "Simon Marklund",
+                            "profileUrl": "/players/690103/simon-marklund"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/690103/simon-marklund",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Simon Marklund",
+                        "firstName": "Simon",
+                        "lastName": "Marklund",
+                        "fullName": "Simon Marklund",
+                        "playerId": 690103,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Amar Begic",
+                        "assistProfileUrl": "/players/1269942/amar-begic",
+                        "assistPlayerId": 1269942,
+                        "assistKey": "assist_by",
+                        "assistInput": "Amar Begic"
+                    },
+                    {
+                        "reactKey": "undefined72SubstitutionNaN917221true",
+                        "timeStr": 72,
+                        "type": "Substitution",
+                        "time": 72,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Samuel Tammivuori",
+                                "id": "917221",
+                                "profileUrl": "/players/917221/samuel-tammivuori"
+                            },
+                            {
+                                "name": "Marc Manch\u00f3n",
+                                "id": "799218",
+                                "profileUrl": "/players/799218/marc-manchon"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421691176Card1940001undefinedfalse",
+                        "timeStr": 76,
+                        "type": "Card",
+                        "time": 76,
+                        "overloadTime": null,
+                        "eventId": 14216911,
+                        "player": {
+                            "id": 1940001,
+                            "name": "Mario Palomino",
+                            "profileUrl": "/players/1940001/mario-palomino"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1940001/mario-palomino",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Mario Palomino",
+                        "firstName": "Mario",
+                        "lastName": "Palomino",
+                        "fullName": "Mario Palomino",
+                        "playerId": 1940001,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1617096false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Michael Oluwayemi",
+                                "id": "1617096",
+                                "profileUrl": "/players/1617096/michael-oluwayemi"
+                            },
+                            {
+                                "name": "Emil \u00d6zkan",
+                                "id": "1256504",
+                                "profileUrl": "/players/1256504/emil-ozkan"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1625360false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jonathan Westerberg",
+                                "id": "1625360",
+                                "profileUrl": "/players/1625360/jonathan-westerberg"
+                            },
+                            {
+                                "name": "Abdulla Qasem",
+                                "id": "1362356",
+                                "profileUrl": "/players/1362356/abdulla-qasem"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1761453false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Eseg Yossief Worke",
+                                "id": "1761453",
+                                "profileUrl": "/players/1761453/eseg-yossief-worke"
+                            },
+                            {
+                                "name": "Hugo Azzi",
+                                "id": "1388053",
+                                "profileUrl": "/players/1388053/hugo-azzi"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN1910092true",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kawa Sulaiman",
+                                "id": "1910092",
+                                "profileUrl": "/players/1910092/kawa-sulaiman"
+                            },
+                            {
+                                "name": "Yaqub Finey",
+                                "id": "1603365",
+                                "profileUrl": "/players/1603365/yaqub-finey"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Half",
+                    "Goal",
+                    "Assist",
+                    "Substitution",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T15:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 168,
+                    "parentLeagueId": 168,
+                    "link": "/leagues/168/overview/superettan",
+                    "leagueName": "Superettan",
+                    "roundName": "14",
+                    "round": "14"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6692_xsmall.png",
+                        "linkToMatch": "/matches/varbergs-bois-fc-vs-gif-sundsvall/1vg13d#5125516",
+                        "date": {
+                            "utcTime": "2026-05-24T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6692/overview/varbergs-bois-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T13:00:00.000Z",
+                            "homeTeam": "Varbergs BoIS FC",
+                            "homeTeamId": 6692,
+                            "homeScore": "1",
+                            "awayTeam": "GIF Sundsvall",
+                            "awayTeamId": 8359,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "6692",
+                            "name": "Varbergs BoIS FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8359",
+                            "name": "GIF Sundsvall",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6241_xsmall.png",
+                        "linkToMatch": "/matches/sandvikens-if-vs-gif-sundsvall/1rgpqj#5125523",
+                        "date": {
+                            "utcTime": "2026-05-30T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6241/overview/sandvikens-if",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T13:00:00.000Z",
+                            "homeTeam": "GIF Sundsvall",
+                            "homeTeamId": 8359,
+                            "homeScore": "0",
+                            "awayTeam": "Sandvikens IF",
+                            "awayTeamId": 6241,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "8359",
+                            "name": "GIF Sundsvall",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6241",
+                            "name": "Sandvikens IF",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8527_xsmall.png",
+                        "linkToMatch": "/matches/gif-sundsvall-vs-orebro/2cw3ng#5125529",
+                        "date": {
+                            "utcTime": "2026-06-10T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8527/overview/orebro",
+                        "tooltipText": {
+                            "utcTime": "2026-06-10T17:00:00.000Z",
+                            "homeTeam": "\u00d6rebro",
+                            "homeTeamId": 8527,
+                            "homeScore": "0",
+                            "awayTeam": "GIF Sundsvall",
+                            "awayTeamId": 8359,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "8527",
+                            "name": "\u00d6rebro",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8359",
+                            "name": "GIF Sundsvall",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8641_xsmall.png",
+                        "linkToMatch": "/matches/gif-sundsvall-vs-osters-if/2e1i51#5125539",
+                        "date": {
+                            "utcTime": "2026-06-15T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8641/overview/osters-if",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T17:00:00.000Z",
+                            "homeTeam": "GIF Sundsvall",
+                            "homeTeamId": 8359,
+                            "homeScore": "0",
+                            "awayTeam": "\u00d6sters IF",
+                            "awayTeamId": 8641,
+                            "awayScore": "4"
+                        },
+                        "score": "0 - 4",
+                        "home": {
+                            "id": "8359",
+                            "name": "GIF Sundsvall",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8641",
+                            "name": "\u00d6sters IF",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9859_xsmall.png",
+                        "linkToMatch": "/matches/gif-sundsvall-vs-helsingborg/2qt8qy#5125542",
+                        "date": {
+                            "utcTime": "2026-06-21T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9859/overview/helsingborg",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T13:00:00.000Z",
+                            "homeTeam": "Helsingborg",
+                            "homeTeamId": 9859,
+                            "homeScore": "5",
+                            "awayTeam": "GIF Sundsvall",
+                            "awayTeamId": 8359,
+                            "awayScore": "2"
+                        },
+                        "score": "5 - 2",
+                        "home": {
+                            "id": "9859",
+                            "name": "Helsingborg",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8359",
+                            "name": "GIF Sundsvall",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6160_xsmall.png",
+                        "linkToMatch": "/matches/ostersunds-fk-vs-ik-oddevold/juhze#5125513",
+                        "date": {
+                            "utcTime": "2026-05-23T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6160/overview/ik-oddevold",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T13:00:00.000Z",
+                            "homeTeam": "IK Oddevold",
+                            "homeTeamId": 6160,
+                            "homeScore": "1",
+                            "awayTeam": "\u00d6stersunds FK",
+                            "awayTeamId": 2004,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "6160",
+                            "name": "IK Oddevold",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2004",
+                            "name": "\u00d6stersunds FK",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8527_xsmall.png",
+                        "linkToMatch": "/matches/ostersunds-fk-vs-orebro/x0sw5#5125522",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8527/overview/orebro",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "\u00d6stersunds FK",
+                            "homeTeamId": 2004,
+                            "homeScore": "3",
+                            "awayTeam": "\u00d6rebro",
+                            "awayTeamId": 8527,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "2004",
+                            "name": "\u00d6stersunds FK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8527",
+                            "name": "\u00d6rebro",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1144284_xsmall.png",
+                        "linkToMatch": "/matches/ostersunds-fk-vs-nordic-united-fc/8dte360c#5125527",
+                        "date": {
+                            "utcTime": "2026-06-09T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1144284/overview/nordic-united-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-06-09T17:00:00.000Z",
+                            "homeTeam": "Nordic United FC",
+                            "homeTeamId": 1144284,
+                            "homeScore": "1",
+                            "awayTeam": "\u00d6stersunds FK",
+                            "awayTeamId": 2004,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1144284",
+                            "name": "Nordic United FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2004",
+                            "name": "\u00d6stersunds FK",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8500_xsmall.png",
+                        "linkToMatch": "/matches/ostersunds-fk-vs-ljungskile/wupqw#5125535",
+                        "date": {
+                            "utcTime": "2026-06-14T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8500/overview/ljungskile",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T13:00:00.000Z",
+                            "homeTeam": "Ljungskile",
+                            "homeTeamId": 8500,
+                            "homeScore": "1",
+                            "awayTeam": "\u00d6stersunds FK",
+                            "awayTeamId": 2004,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8500",
+                            "name": "Ljungskile",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2004",
+                            "name": "\u00d6stersunds FK",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8449_xsmall.png",
+                        "linkToMatch": "/matches/ostersunds-fk-vs-ifk-norrkoping/wj9c8#5125547",
+                        "date": {
+                            "utcTime": "2026-06-21T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8449/overview/ifk-norrkoping",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T15:00:00.000Z",
+                            "homeTeam": "\u00d6stersunds FK",
+                            "homeTeamId": 2004,
+                            "homeScore": "0",
+                            "awayTeam": "IFK Norrk\u00f6ping",
+                            "awayTeamId": 8449,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "2004",
+                            "name": "\u00d6stersunds FK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8449",
+                            "name": "IFK Norrk\u00f6ping",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5125555",
+                    "MatchId": 5125555,
+                    "HomeTeamId": 8359,
+                    "AwayTeamId": 2004,
+                    "HomeTeam": "GIF Sundsvall",
+                    "AwayTeam": "\u00d6stersunds FK",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "5",
+                                "3",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "GIF Sundsvall haven't lost to \u00d6stersunds FK in their last 5 meetings (3W, 2D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "GIF Sundsvall have an average of 1 goals in their last three matches and \u00d6stersunds FK have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "GIF Sundsvall have an average of 1 goals in their last three matches and \u00d6stersunds FK have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "GIF Sundsvall haven't drawn in their last 12 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8359,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 3 goals in their last 5 matches",
+                    "color": "#006CB7"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8359,
+                    "priority": 9,
+                    "defaultText": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                    "localizedTextId": "h2h_undefeated",
+                    "statValues": [
+                        {
+                            "value": 8359,
+                            "name": "GIF Sundsvall",
+                            "type": "team"
+                        },
+                        {
+                            "value": 2004,
+                            "name": "\u00d6stersunds FK",
+                            "type": "team"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "GIF Sundsvall haven't lost to \u00d6stersunds FK in their last 5 meetings (3W, 2D).",
+                    "color": "#006CB7"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2004,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#C2002A"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2004,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 13,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 13 matches",
+                    "color": "#C2002A"
+                }
+            ],
+            "countryCode": "SWE",
+            "QAData": [
+                {
+                    "question": "Who won between GIF Sundsvall and \u00d6stersunds FK on Sat, 27 Jun 2026 15:00:00 GMT?",
+                    "answer": "\u00d6stersunds FK won 2\u20130 over GIF Sundsvall on Sat, 27 Jun 2026 15:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        50,
+                                        50
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "equal"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        3,
+                                        2
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        1,
+                                        2
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        4,
+                                        2
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#006CB7",
+                            "away": "#C2002A"
+                        },
+                        "lightMode": {
+                            "home": "#006CB7",
+                            "away": "#C2002A"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5125555,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 8359,
+                "name": "GIF Sundsvall",
+                "formation": "4-4-2",
+                "starters": [
+                    {
+                        "id": 657910,
+                        "age": 31,
+                        "name": "Jonas Olsson",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 98599,
+                        "firstName": "Jonas",
+                        "lastName": "Olsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1232446,
+                        "age": 23,
+                        "name": "Lucas Forsberg",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "18",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 231850,
+                        "firstName": "Lucas",
+                        "lastName": "Forsberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1735250,
+                        "age": 18,
+                        "name": "Malte Hallin",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 533947,
+                        "firstName": "Malte",
+                        "lastName": "Hallin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1231604,
+                        "age": 25,
+                        "name": "Jakob Hedenquist",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 90248,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Jakob",
+                        "lastName": "Hedenquist",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1064941,
+                        "age": 25,
+                        "name": "Nils Eriksson",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "17",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 137499,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Nils",
+                        "lastName": "Eriksson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1524202,
+                        "age": 20,
+                        "name": "Jeremiah Bj\u00f6rnler",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 255122,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Jeremiah",
+                        "lastName": "Bj\u00f6rnler",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1406692,
+                        "age": 21,
+                        "name": "Hugo Aviander",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 268188,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 39
+                                }
+                            ]
+                        },
+                        "firstName": "Hugo",
+                        "lastName": "Aviander",
+                        "rankings": null
+                    },
+                    {
+                        "id": 799218,
+                        "age": 28,
+                        "name": "Marc Manch\u00f3n",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Spain",
+                        "countryCode": "ESP",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Marc",
+                        "lastName": "Manch\u00f3n",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1056475,
+                        "age": 30,
+                        "name": "Taiki Kagayama",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "9",
+                        "countryName": "Japan",
+                        "countryCode": "JPN",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 113617,
+                        "firstName": "Taiki",
+                        "lastName": "Kagayama",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1603365,
+                        "age": 22,
+                        "name": "Yaqub Finey",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 284298,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Yaqub",
+                        "lastName": "Finey",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1733525,
+                        "age": 19,
+                        "name": "Mille Eriksson",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "22",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 269444,
+                        "firstName": "Mille",
+                        "lastName": "Eriksson",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1652352,
+                    "age": 31,
+                    "name": "Ion Doros",
+                    "countryName": "Moldova",
+                    "countryCode": "MDA",
+                    "firstName": "Ion",
+                    "lastName": "Doros",
+                    "primaryTeamId": 8359,
+                    "primaryTeamName": "GIF Sundsvall",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1916758,
+                        "age": 19,
+                        "name": "Joshua Mambu",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "30",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Joshua",
+                        "lastName": "Mambu",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1259376,
+                        "age": 23,
+                        "name": "Miguel Sandberg",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Taiwan",
+                        "countryCode": "TAI",
+                        "marketValue": 159962,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Miguel",
+                        "lastName": "Sandberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1800384,
+                        "age": 19,
+                        "name": "Suwaibou Kebbeh",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "15",
+                        "countryName": "Gambia",
+                        "countryCode": "GAM",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Suwaibou",
+                        "lastName": "Kebbeh",
+                        "rankings": null
+                    },
+                    {
+                        "id": 917221,
+                        "age": 25,
+                        "name": "Samuel Tammivuori",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "11",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 104066,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Samuel",
+                        "lastName": "Tammivuori",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1910092,
+                        "age": 19,
+                        "name": "Kawa Sulaiman",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "21",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 316794,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Kawa",
+                        "lastName": "Sulaiman",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1737894,
+                        "age": 17,
+                        "name": "Wilmer Bjuhr",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "34",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Wilmer",
+                        "lastName": "Bjuhr",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1354025,
+                        "age": 23,
+                        "name": "Alexandros Pantelidis",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 153789,
+                        "firstName": "Alexandros",
+                        "lastName": "Pantelidis",
+                        "rankings": null
+                    },
+                    {
+                        "id": 716425,
+                        "age": 27,
+                        "name": "Amaro Bahtijar",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "27",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 72000,
+                        "firstName": "Amaro",
+                        "lastName": "Bahtijar",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1612309,
+                        "age": 20,
+                        "name": "Elvis Hansson",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Elvis",
+                        "lastName": "Hansson",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 24.4,
+                "totalStarterMarketValue": 2332812
+            },
+            "awayTeam": {
+                "id": 2004,
+                "name": "\u00d6stersunds FK",
+                "formation": "3-5-2",
+                "starters": [
+                    {
+                        "id": 1350841,
+                        "age": 24,
+                        "name": "Melker Uppenberg",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 140540,
+                        "firstName": "Melker",
+                        "lastName": "Uppenberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1362356,
+                        "age": 19,
+                        "name": "Abdulla Qasem",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.79,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 55
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Abdulla",
+                        "lastName": "Qasem",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1584851,
+                        "age": 25,
+                        "name": "Sunday Anyanwu",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "14",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 105973,
+                        "firstName": "Sunday",
+                        "lastName": "Anyanwu",
+                        "rankings": null
+                    },
+                    {
+                        "id": 438893,
+                        "age": 32,
+                        "name": "Dennis Widgren",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.21,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 105080,
+                        "firstName": "Dennis",
+                        "lastName": "Widgren",
+                        "rankings": null
+                    },
+                    {
+                        "id": 935007,
+                        "age": 25,
+                        "name": "Daniel Miljanovic",
+                        "positionId": 71,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "27",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 91602,
+                        "firstName": "Daniel",
+                        "lastName": "Miljanovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1256504,
+                        "age": 22,
+                        "name": "Emil \u00d6zkan",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 95946,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Emil",
+                        "lastName": "\u00d6zkan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 763228,
+                        "age": 32,
+                        "name": "Curtis Edwards",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "England",
+                        "countryCode": "ENG",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 72000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 55
+                                }
+                            ]
+                        },
+                        "firstName": "Curtis",
+                        "lastName": "Edwards",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1269942,
+                        "age": 25,
+                        "name": "Amar Begic",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "16",
+                        "countryName": "Bosnia and Herzegovina",
+                        "countryCode": "BIH",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 146146,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 71
+                                }
+                            ]
+                        },
+                        "firstName": "Amar",
+                        "lastName": "Begic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1388053,
+                        "age": 22,
+                        "name": "Hugo Azzi",
+                        "positionId": 79,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.773
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 379874,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 56
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hugo",
+                        "lastName": "Azzi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1110551,
+                        "age": 24,
+                        "name": "Abel William Stensrud",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 64,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Abel William",
+                        "lastName": "Stensrud",
+                        "rankings": null
+                    },
+                    {
+                        "id": 690103,
+                        "age": 26,
+                        "name": "Simon Marklund",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 94221,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 71
+                                }
+                            ]
+                        },
+                        "firstName": "Simon",
+                        "lastName": "Marklund",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 884857,
+                    "age": 54,
+                    "name": "Nemanja Miljanovic",
+                    "countryName": "Sweden",
+                    "countryCode": "SWE",
+                    "firstName": "Nemanja",
+                    "lastName": "Miljanovic",
+                    "primaryTeamId": 2004,
+                    "primaryTeamName": "\u00d6stersunds FK",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1940001,
+                        "age": 20,
+                        "name": "Mario Palomino",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "Spain",
+                        "countryCode": "ESP",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 76
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 64,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mario",
+                        "lastName": "Palomino",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1761453,
+                        "age": 19,
+                        "name": "Eseg Yossief Worke",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "29",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Eseg Yossief",
+                        "lastName": "Worke",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1625360,
+                        "age": 24,
+                        "name": "Jonathan Westerberg",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 120927,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Jonathan",
+                        "lastName": "Westerberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1617096,
+                        "age": 20,
+                        "name": "Michael Oluwayemi",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Michael",
+                        "lastName": "Oluwayemi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1351584,
+                        "age": 23,
+                        "name": "Tyree Griffiths",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "30",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 173582,
+                        "firstName": "Tyree",
+                        "lastName": "Griffiths",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1269094,
+                        "age": 27,
+                        "name": "Donald Molls Ntchamda",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Cameroon",
+                        "countryCode": "CMR",
+                        "firstName": "Donald Molls",
+                        "lastName": "Ntchamda",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1916829,
+                        "age": 18,
+                        "name": "Elliot Caarls",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "2",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Elliot",
+                        "lastName": "Caarls",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1387098,
+                        "age": 22,
+                        "name": "Luka Bozickovic",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "21",
+                        "countryName": "Germany",
+                        "countryCode": "GER",
+                        "firstName": "Luka",
+                        "lastName": "Bozickovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1624630,
+                        "age": 22,
+                        "name": "Edgar Navassardian",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 160863,
+                        "firstName": "Edgar",
+                        "lastName": "Navassardian",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.6,
+                "totalStarterMarketValue": 1231382
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "168",
+            "url": "https://data.fotmob.com/tables.ext.168.fot.gz",
+            "teams": [
+                8359,
+                2004
+            ],
+            "tournamentNameForUrl": "Superettan",
+            "parentLeagueId": 168,
+            "countryCode": "SWE"
+        },
+        "h2h": {
+            "summary": [
+                10,
+                8,
+                8
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-16T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#4693470",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-16T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-28T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#4693460",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-28T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-09-18T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#4387249",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2024-09-18T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-30T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#4387077",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-30T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-07-29T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#4075271",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2023-07-29T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-04-18T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#4075129",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2023-04-18T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-03-26T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#3844930",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2022-03-26T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-02-15T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#3827910",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2022-02-15T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-03-28T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#3561577",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2021-03-28T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-01-25T15:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#3254652",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2020-01-25T15:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-08-10T16:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2946194",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2019-08-10T16:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-06-01T16:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2945816",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2019-06-01T16:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-08-26T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2680282",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2018-08-26T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-06-21T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2770675",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2018-06-21T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-05-19T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2680115",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2018-05-19T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-01-24T12:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2708730",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2018-01-24T12:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-08-06T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2421381",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2017-08-06T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-06-27T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2540366",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2017-06-27T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-06-03T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2421332",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2017-06-03T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-08-06T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2152183",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2016-08-06T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-05-21T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2152133",
+                    "league": {
+                        "name": "Allsvenskan",
+                        "id": "67",
+                        "pageUrl": "/leagues/67/overview/allsvenskan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2016-05-21T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-03-19T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#2204587",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2016-03-19T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-07-18T17:20:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#1630149",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2014-07-18T17:20:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-06-28T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#1629879",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2014-06-28T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-08-31T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#1381335",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    },
+                    "status": {
+                        "utcTime": "2013-08-31T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-05-11T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ostersunds-fk-vs-gif-sundsvall/vz6gh#1381297",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "GIF Sundsvall",
+                        "id": "8359"
+                    },
+                    "status": {
+                        "utcTime": "2013-05-11T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6stersunds FK",
+                        "id": "2004"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "gif-sundsvall-vs-ostersunds-fk",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5125555",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "GIF Sundsvall",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8359.png",
+                "url": "https://www.fotmob.com/teams/8359/overview/gif-sundsvall",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "\u00d6stersunds FK",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2004.png",
+                "url": "https://www.fotmob.com/teams/2004/overview/ostersunds-fk",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "GIF Sundsvall vs \u00d6stersunds FK",
+            "description": "Follow GIF Sundsvall vs \u00d6stersunds FK live on fotmob.com",
+            "startDate": "2026-06-27T15:00:00.000Z",
+            "endDate": "2026-06-27T17:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8359.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2004.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5125555",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T15:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "GIF Sundsvall",
+                    "url": "https://www.fotmob.com/teams/8359/overview/gif-sundsvall"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "\u00d6stersunds FK",
+                    "url": "https://www.fotmob.com/teams/2004/overview/ostersunds-fk"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Superettan",
+                        "item": "https://www.fotmob.com/leagues/168/overview/superettan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "GIF Sundsvall - \u00d6stersunds FK",
+                        "item": "https://www.fotmob.com/match/5125555"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Superettan",
+                        "item": "https://www.fotmob.com/leagues/168/overview/superettan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "\u00d6stersunds FK",
+                        "item": "https://www.fotmob.com/teams/2004/overview/ostersunds-fk"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "GIF Sundsvall - \u00d6stersunds FK",
+                        "item": "https://www.fotmob.com/match/5125555"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Superettan",
+                        "item": "https://www.fotmob.com/leagues/168/overview/superettan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "GIF Sundsvall",
+                        "item": "https://www.fotmob.com/teams/8359/overview/gif-sundsvall"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "GIF Sundsvall - \u00d6stersunds FK",
+                        "item": "https://www.fotmob.com/match/5125555"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between GIF Sundsvall and \u00d6stersunds FK on Sat, 27 Jun 2026 15:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "\u00d6stersunds FK won 2\u20130 over GIF Sundsvall on Sat, 27 Jun 2026 15:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1685 @@
+{
+    "general": {
+        "matchId": "5201094",
+        "matchName": "Ulsan Citizen-vs-FC Mokpo_Sat, Jun 27, 2026, 10:00 UTC",
+        "matchRound": "16",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 922584,
+        "leagueName": "K3 League",
+        "leagueRoundName": "16",
+        "parentLeagueId": 9537,
+        "countryCode": "KOR",
+        "homeTeam": {
+            "name": "Ulsan Citizen",
+            "id": 1150506
+        },
+        "awayTeam": {
+            "name": "FC Mokpo",
+            "id": 195451
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 10:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T10:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Ulsan Citizen",
+                "id": 1150506,
+                "score": 4,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1150506_small.png",
+                "pageUrl": "/teams/1150506/overview/ulsan-citizen"
+            },
+            {
+                "name": "FC Mokpo",
+                "id": 195451,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/195451_small.png",
+                "pageUrl": "/teams/195451/overview/fc-mokpo"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T10:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 12:03:07",
+                "firstHalfEnded": "27.06.2026 12:50:14",
+                "secondHalfStarted": "27.06.2026 13:09:03",
+                "secondHalfEnded": "27.06.2026 14:00:14",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 14:00:14"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "4 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Kim": [
+                    {
+                        "reactKey": "1421550623Goal1136204undefinedtrue",
+                        "timeStr": 23,
+                        "type": "Goal",
+                        "time": 23,
+                        "overloadTime": null,
+                        "eventId": 14215506,
+                        "player": {
+                            "id": 1136204,
+                            "name": "Jae-Cheol Kim",
+                            "profileUrl": "/players/1136204/jae-cheol-kim"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1136204/jae-cheol-kim",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jae-Cheol Kim",
+                        "firstName": "Jae-Cheol",
+                        "lastName": "Kim",
+                        "fullName": "Jae-Cheol Kim",
+                        "playerId": 1136204,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Park": [
+                    {
+                        "reactKey": "1421555360Goal1344878undefinedtrue",
+                        "timeStr": 60,
+                        "type": "Goal",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 14215553,
+                        "player": {
+                            "id": 1344878,
+                            "name": "Dong-Hyuk Park",
+                            "profileUrl": "/players/1344878/dong-hyuk-park"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1344878/dong-hyuk-park",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Dong-Hyuk Park",
+                        "firstName": "Dong-Hyuk",
+                        "lastName": "Park",
+                        "fullName": "Dong-Hyuk Park",
+                        "playerId": 1344878,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "H.\u00a0Lee": [
+                    {
+                        "reactKey": "1421558569Goal1455819undefinedtrue",
+                        "timeStr": 69,
+                        "type": "Goal",
+                        "time": 69,
+                        "overloadTime": null,
+                        "eventId": 14215585,
+                        "player": {
+                            "id": 1455819,
+                            "name": "Han-Sae Lee",
+                            "profileUrl": "/players/1455819/han-sae-lee"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1455819/han-sae-lee",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Han-Sae Lee",
+                        "firstName": "Han-Sae",
+                        "lastName": "Lee",
+                        "fullName": "Han-Sae Lee",
+                        "playerId": 1455819,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "K.\u00a0Lee": [
+                    {
+                        "reactKey": "1421560277Goal1779257undefinedtrue",
+                        "timeStr": 77,
+                        "type": "Goal",
+                        "time": 77,
+                        "overloadTime": null,
+                        "eventId": 14215602,
+                        "player": {
+                            "id": 1779257,
+                            "name": "Ki-Joon Lee",
+                            "profileUrl": "/players/1779257/ki-joon-lee"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1779257/ki-joon-lee",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ki-Joon Lee",
+                        "firstName": "Ki-Joon",
+                        "lastName": "Lee",
+                        "fullName": "Ki-Joon Lee",
+                        "playerId": 1779257,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Park": [
+                    {
+                        "reactKey": "1421554454Goal1836726undefinedfalse",
+                        "timeStr": 54,
+                        "type": "Goal",
+                        "time": 54,
+                        "overloadTime": null,
+                        "eventId": 14215544,
+                        "player": {
+                            "id": 1836726,
+                            "name": "Jeong-Woo Park",
+                            "profileUrl": "/players/1836726/jeong-woo-park"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1836726/jeong-woo-park",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jeong-Woo Park",
+                        "firstName": "Jeong-Woo",
+                        "lastName": "Park",
+                        "fullName": "Jeong-Woo Park",
+                        "playerId": 1836726,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5201094,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421550623Goal1136204undefinedtrue",
+                        "timeStr": 23,
+                        "type": "Goal",
+                        "time": 23,
+                        "overloadTime": null,
+                        "eventId": 14215506,
+                        "player": {
+                            "id": 1136204,
+                            "name": "Jae-Cheol Kim",
+                            "profileUrl": "/players/1136204/jae-cheol-kim"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1136204/jae-cheol-kim",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jae-Cheol Kim",
+                        "firstName": "Jae-Cheol",
+                        "lastName": "Kim",
+                        "fullName": "Jae-Cheol Kim",
+                        "playerId": 1136204,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421554454Goal1836726undefinedfalse",
+                        "timeStr": 54,
+                        "type": "Goal",
+                        "time": 54,
+                        "overloadTime": null,
+                        "eventId": 14215544,
+                        "player": {
+                            "id": 1836726,
+                            "name": "Jeong-Woo Park",
+                            "profileUrl": "/players/1836726/jeong-woo-park"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1836726/jeong-woo-park",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jeong-Woo Park",
+                        "firstName": "Jeong-Woo",
+                        "lastName": "Park",
+                        "fullName": "Jeong-Woo Park",
+                        "playerId": 1836726,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421555360Goal1344878undefinedtrue",
+                        "timeStr": 60,
+                        "type": "Goal",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 14215553,
+                        "player": {
+                            "id": 1344878,
+                            "name": "Dong-Hyuk Park",
+                            "profileUrl": "/players/1344878/dong-hyuk-park"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1344878/dong-hyuk-park",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Dong-Hyuk Park",
+                        "firstName": "Dong-Hyuk",
+                        "lastName": "Park",
+                        "fullName": "Dong-Hyuk Park",
+                        "playerId": 1344878,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421558569Goal1455819undefinedtrue",
+                        "timeStr": 69,
+                        "type": "Goal",
+                        "time": 69,
+                        "overloadTime": null,
+                        "eventId": 14215585,
+                        "player": {
+                            "id": 1455819,
+                            "name": "Han-Sae Lee",
+                            "profileUrl": "/players/1455819/han-sae-lee"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1455819/han-sae-lee",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Han-Sae Lee",
+                        "firstName": "Han-Sae",
+                        "lastName": "Lee",
+                        "fullName": "Han-Sae Lee",
+                        "playerId": 1455819,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421560277Goal1779257undefinedtrue",
+                        "timeStr": 77,
+                        "type": "Goal",
+                        "time": 77,
+                        "overloadTime": null,
+                        "eventId": 14215602,
+                        "player": {
+                            "id": 1779257,
+                            "name": "Ki-Joon Lee",
+                            "profileUrl": "/players/1779257/ki-joon-lee"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1779257/ki-joon-lee",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ki-Joon Lee",
+                        "firstName": "Ki-Joon",
+                        "lastName": "Lee",
+                        "fullName": "Ki-Joon Lee",
+                        "playerId": 1779257,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T10:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 922584,
+                    "parentLeagueId": 9537,
+                    "link": "/leagues/9537/overview/k3-league",
+                    "leagueName": "K3 League",
+                    "roundName": "16",
+                    "round": "16"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/739797_xsmall.png",
+                        "linkToMatch": "/matches/yangpyeong-vs-ulsan-citizen/msri1ej9#5201060",
+                        "date": {
+                            "utcTime": "2026-05-16T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/739797/overview/yangpyeong",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T10:00:00.000Z",
+                            "homeTeam": "Ulsan Citizen",
+                            "homeTeamId": 1150506,
+                            "homeScore": "0",
+                            "awayTeam": "Yangpyeong",
+                            "awayTeamId": 739797,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "1150506",
+                            "name": "Ulsan Citizen",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "739797",
+                            "name": "Yangpyeong",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187943_xsmall.png",
+                        "linkToMatch": "/matches/changwon-city-vs-ulsan-citizen/bfhmrxnk#5201068",
+                        "date": {
+                            "utcTime": "2026-05-23T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187943/overview/changwon-city",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T05:00:00.000Z",
+                            "homeTeam": "Changwon City",
+                            "homeTeamId": 187943,
+                            "homeScore": "2",
+                            "awayTeam": "Ulsan Citizen",
+                            "awayTeamId": 1150506,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "187943",
+                            "name": "Changwon City",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1150506",
+                            "name": "Ulsan Citizen",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/739791_xsmall.png",
+                        "linkToMatch": "/matches/pocheon-citizen-fc-vs-ulsan-citizen/msrbab50#5201074",
+                        "date": {
+                            "utcTime": "2026-05-30T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/739791/overview/pocheon-citizen-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T10:00:00.000Z",
+                            "homeTeam": "Ulsan Citizen",
+                            "homeTeamId": 1150506,
+                            "homeScore": "0",
+                            "awayTeam": "Pocheon Citizen FC",
+                            "awayTeamId": 739791,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "1150506",
+                            "name": "Ulsan Citizen",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "739791",
+                            "name": "Pocheon Citizen FC",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187952_xsmall.png",
+                        "linkToMatch": "/matches/gangneung-city-vs-ulsan-citizen/bfhty4hb#5201079",
+                        "date": {
+                            "utcTime": "2026-06-06T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187952/overview/gangneung-city",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T10:00:00.000Z",
+                            "homeTeam": "Ulsan Citizen",
+                            "homeTeamId": 1150506,
+                            "homeScore": "1",
+                            "awayTeam": "Gangneung City",
+                            "awayTeamId": 187952,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "1150506",
+                            "name": "Ulsan Citizen",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "187952",
+                            "name": "Gangneung City",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1335275_xsmall.png",
+                        "linkToMatch": "/matches/ulsan-citizen-vs-dangjin-citizen/13fblz0eq#5201089",
+                        "date": {
+                            "utcTime": "2026-06-20T08:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1335275/overview/dangjin-citizen",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T08:00:00.000Z",
+                            "homeTeam": "Dangjin Citizen",
+                            "homeTeamId": 1335275,
+                            "homeScore": "1",
+                            "awayTeam": "Ulsan Citizen",
+                            "awayTeamId": 1150506,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1335275",
+                            "name": "Dangjin Citizen",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1150506",
+                            "name": "Ulsan Citizen",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187959_xsmall.png",
+                        "linkToMatch": "/matches/gyeongju-h-n-vs-fc-mokpo/xrl6z3q#5201061",
+                        "date": {
+                            "utcTime": "2026-05-17T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187959/overview/gyeongju-h-n",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T05:00:00.000Z",
+                            "homeTeam": "FC Mokpo",
+                            "homeTeamId": 195451,
+                            "homeScore": "0",
+                            "awayTeam": "Gyeongju H & N",
+                            "awayTeamId": 187959,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "195451",
+                            "name": "FC Mokpo",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "187959",
+                            "name": "Gyeongju H & N",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187954_xsmall.png",
+                        "linkToMatch": "/matches/daejeon-korail-vs-fc-mokpo/xrk1vwm#5201067",
+                        "date": {
+                            "utcTime": "2026-05-23T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187954/overview/daejeon-korail",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T10:00:00.000Z",
+                            "homeTeam": "Daejeon Korail",
+                            "homeTeamId": 187954,
+                            "homeScore": "3",
+                            "awayTeam": "FC Mokpo",
+                            "awayTeamId": 195451,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "187954",
+                            "name": "Daejeon Korail",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "195451",
+                            "name": "FC Mokpo",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/930090_xsmall.png",
+                        "linkToMatch": "/matches/fc-mokpo-vs-siheung-citizen/82znk4vd#5201075",
+                        "date": {
+                            "utcTime": "2026-05-31T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/930090/overview/siheung-citizen",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T05:00:00.000Z",
+                            "homeTeam": "Siheung Citizen",
+                            "homeTeamId": 930090,
+                            "homeScore": "1",
+                            "awayTeam": "FC Mokpo",
+                            "awayTeamId": 195451,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "930090",
+                            "name": "Siheung Citizen",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "195451",
+                            "name": "FC Mokpo",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/739797_xsmall.png",
+                        "linkToMatch": "/matches/fc-mokpo-vs-yangpyeong/5kwwaepp#5201082",
+                        "date": {
+                            "utcTime": "2026-06-07T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/739797/overview/yangpyeong",
+                        "tooltipText": {
+                            "utcTime": "2026-06-07T10:00:00.000Z",
+                            "homeTeam": "FC Mokpo",
+                            "homeTeamId": 195451,
+                            "homeScore": "0",
+                            "awayTeam": "Yangpyeong",
+                            "awayTeamId": 739797,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "195451",
+                            "name": "FC Mokpo",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "739797",
+                            "name": "Yangpyeong",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187943_xsmall.png",
+                        "linkToMatch": "/matches/changwon-city-vs-fc-mokpo/xrhjhqm#5201084",
+                        "date": {
+                            "utcTime": "2026-06-20T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187943/overview/changwon-city",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T10:00:00.000Z",
+                            "homeTeam": "Changwon City",
+                            "homeTeamId": 187943,
+                            "homeScore": "1",
+                            "awayTeam": "FC Mokpo",
+                            "awayTeamId": 195451,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "187943",
+                            "name": "Changwon City",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "195451",
+                            "name": "FC Mokpo",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5201094",
+                    "MatchId": 5201094,
+                    "HomeTeamId": 1150506,
+                    "AwayTeamId": 195451,
+                    "HomeTeam": "Ulsan Citizen",
+                    "AwayTeam": "FC Mokpo",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Ulsan Citizen have won the previous 3 matches against FC Mokpo."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Ulsan Citizen have an average of 0.67 goals in their last three matches and FC Mokpo have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Ulsan Citizen have an average of 0.67 goals in their last three matches and FC Mokpo have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "10"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Ulsan Citizen haven't won a match in 10 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1150506,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 2 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1150506,
+                    "priority": 8,
+                    "defaultText": "{0} have won the previous {2} matches against {1}.",
+                    "localizedTextId": "h2h_winstreak",
+                    "statValues": [
+                        {
+                            "value": 1150506,
+                            "name": "Ulsan Citizen",
+                            "type": "team"
+                        },
+                        {
+                            "value": 195451,
+                            "name": "FC Mokpo",
+                            "type": "team"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Ulsan Citizen have won the previous 3 matches against FC Mokpo.",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 195451,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 2 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 195451,
+                    "priority": 8,
+                    "defaultText": "Haven't won a match in {0} attempts",
+                    "localizedTextId": "insights_not_won_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't won a match in 8 attempts",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "KOR",
+            "QAData": [
+                {
+                    "question": "Who won between Ulsan Citizen and FC Mokpo on Sat, 27 Jun 2026 10:00:00 GMT?",
+                    "answer": "Ulsan Citizen won 4\u20131 over FC Mokpo on Sat, 27 Jun 2026 10:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "922584",
+            "url": "https://data.fotmob.com/tables.ext.922584.fot.gz",
+            "teams": [
+                1150506,
+                195451
+            ],
+            "tournamentNameForUrl": "K3 League",
+            "parentLeagueId": 9537,
+            "countryCode": "KOR"
+        },
+        "h2h": {
+            "summary": [
+                5,
+                2,
+                5
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-03-21T05:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#5201004",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    },
+                    "status": {
+                        "utcTime": "2026-03-21T05:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-21T05:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#4729193",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-21T05:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-23T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#4728560",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-23T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-07-14T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#4425816",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-14T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-30T06:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#4425682",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-30T06:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-09-02T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#4118267",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    },
+                    "status": {
+                        "utcTime": "2023-09-02T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-06T06:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#4117602",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-06T06:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-09-24T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#3824315",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    },
+                    "status": {
+                        "utcTime": "2022-09-24T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-05-22T06:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#3824199",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-22T06:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-03-09T05:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#3831352",
+                    "league": {
+                        "name": "Cup",
+                        "id": "9551",
+                        "pageUrl": "/leagues/9551/overview/cup"
+                    },
+                    "home": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    },
+                    "status": {
+                        "utcTime": "2022-03-09T05:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": true,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "AW",
+                            "shortKey": "",
+                            "long": "Awarded win",
+                            "longKey": "awarded_win"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-09-12T08:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#3548284",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    },
+                    "status": {
+                        "utcTime": "2021-09-12T08:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-05-08T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-mokpo-vs-ulsan-citizen/bk4aiu0q#3548177",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Ulsan Citizen",
+                        "id": "1150506"
+                    },
+                    "status": {
+                        "utcTime": "2021-05-08T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Mokpo",
+                        "id": "195451"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "ulsan-citizen-vs-fc-mokpo",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5201094",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Ulsan Citizen",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1150506.png",
+                "url": "https://www.fotmob.com/teams/1150506/overview/ulsan-citizen",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "FC Mokpo",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/195451.png",
+                "url": "https://www.fotmob.com/teams/195451/overview/fc-mokpo",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Ulsan Citizen vs FC Mokpo",
+            "description": "Follow Ulsan Citizen vs FC Mokpo live on fotmob.com",
+            "startDate": "2026-06-27T10:00:00.000Z",
+            "endDate": "2026-06-27T12:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1150506.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/195451.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5201094",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T10:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Ulsan Citizen",
+                    "url": "https://www.fotmob.com/teams/1150506/overview/ulsan-citizen"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "FC Mokpo",
+                    "url": "https://www.fotmob.com/teams/195451/overview/fc-mokpo"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "K3 League",
+                        "item": "https://www.fotmob.com/leagues/9537/overview/k3-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ulsan Citizen - FC Mokpo",
+                        "item": "https://www.fotmob.com/match/5201094"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "K3 League",
+                        "item": "https://www.fotmob.com/leagues/9537/overview/k3-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "FC Mokpo",
+                        "item": "https://www.fotmob.com/teams/195451/overview/fc-mokpo"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Ulsan Citizen - FC Mokpo",
+                        "item": "https://www.fotmob.com/match/5201094"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "K3 League",
+                        "item": "https://www.fotmob.com/leagues/9537/overview/k3-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ulsan Citizen",
+                        "item": "https://www.fotmob.com/teams/1150506/overview/ulsan-citizen"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Ulsan Citizen - FC Mokpo",
+                        "item": "https://www.fotmob.com/match/5201094"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Ulsan Citizen and FC Mokpo on Sat, 27 Jun 2026 10:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ulsan Citizen won 4\u20131 over FC Mokpo on Sat, 27 Jun 2026 10:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

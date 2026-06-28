@@ -1,0 +1,2117 @@
+{
+    "general": {
+        "matchId": "1000009455",
+        "matchName": "Floresta-vs-Barra FC_Sat, Jun 27, 2026, 19:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#1D774B",
+                "away": "#DDDDDD"
+            },
+            "lightMode": {
+                "home": "#1D774B",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 8971,
+        "leagueName": "Brazilian Serie C",
+        "leagueRoundName": "12",
+        "parentLeagueId": 8971,
+        "countryCode": "BRA",
+        "homeTeam": {
+            "name": "Floresta",
+            "id": 899260
+        },
+        "awayTeam": {
+            "name": "Barra FC",
+            "id": 1320333
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 19:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T19:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Floresta",
+                "id": 899260,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/899260_small.png",
+                "pageUrl": "/teams/899260/overview/floresta"
+            },
+            {
+                "name": "Barra FC",
+                "id": 1320333,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320333_small.png",
+                "pageUrl": "/teams/1320333/overview/barra-fc"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T19:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 21:00:31",
+                "firstHalfEnded": "27.06.2026 21:50:24",
+                "secondHalfStarted": "27.06.2026 22:06:53",
+                "secondHalfEnded": "27.06.2026 22:57:53",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 22:57:53"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Garraty": [
+                    {
+                        "reactKey": "023Goal1523233undefinedtrue",
+                        "timeStr": 23,
+                        "type": "Goal",
+                        "time": 23,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1523233,
+                            "name": "Garraty",
+                            "profileUrl": "/players/1523233/garraty"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1523233/garraty",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Garraty",
+                        "firstName": "",
+                        "lastName": "Garraty",
+                        "fullName": "Garraty",
+                        "playerId": 1523233,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Islan": [
+                    {
+                        "reactKey": "083Goal1462432undefinedtrue",
+                        "timeStr": 83,
+                        "type": "Goal",
+                        "time": 83,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1462432,
+                            "name": "Islan",
+                            "profileUrl": "/players/1462432/islan"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1462432/islan",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Islan",
+                        "firstName": "",
+                        "lastName": "Islan",
+                        "fullName": "Islan",
+                        "playerId": 1462432,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Alem\u00e3o": [
+                    {
+                        "reactKey": "090Goal1279165undefinedfalse",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1279165,
+                            "name": "\u00c9verton Alem\u00e3o",
+                            "profileUrl": "/players/1279165/everton-alemao"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1279165/everton-alemao",
+                        "overloadTimeStr": "+3",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "\u00c9verton Alem\u00e3o",
+                        "firstName": "\u00c9verton",
+                        "lastName": "Alem\u00e3o",
+                        "fullName": "\u00c9verton Alem\u00e3o",
+                        "playerId": 1279165,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000009455,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "023Goal1523233undefinedtrue",
+                        "timeStr": 23,
+                        "type": "Goal",
+                        "time": 23,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1523233,
+                            "name": "Garraty",
+                            "profileUrl": "/players/1523233/garraty"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1523233/garraty",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Garraty",
+                        "firstName": "",
+                        "lastName": "Garraty",
+                        "fullName": "Garraty",
+                        "playerId": 1523233,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined34SubstitutionNaN1668337false",
+                        "timeStr": 34,
+                        "type": "Substitution",
+                        "time": 34,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Elvinho",
+                                "id": "1668337",
+                                "profileUrl": "/players/1668337/elvinho"
+                            },
+                            {
+                                "name": "Matheus Barbosa",
+                                "id": "267363",
+                                "profileUrl": "/players/267363/matheus-barbosa"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined45AddedTimeNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "AddedTime",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "minutesAddedStr": "+ 5 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 5
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1481879false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Renan Bernab\u00e9",
+                                "id": "1481879",
+                                "profileUrl": "/players/1481879/renan-bernabe"
+                            },
+                            {
+                                "name": "Da Rocha",
+                                "id": "1463349",
+                                "profileUrl": "/players/1463349/da-rocha"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1789996false",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Saymom",
+                                "id": "1789996",
+                                "profileUrl": "/players/1789996/saymom"
+                            },
+                            {
+                                "name": "Vinicius Pop\u00f3",
+                                "id": "1034657",
+                                "profileUrl": "/players/1034657/vinicius-popo"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1474338false",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Natan",
+                                "id": "1474338",
+                                "profileUrl": "/players/1474338/natan"
+                            },
+                            {
+                                "name": "Warley",
+                                "id": "994442",
+                                "profileUrl": "/players/994442/warley"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined65SubstitutionNaN450285true",
+                        "timeStr": 65,
+                        "type": "Substitution",
+                        "time": 65,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Rafinha",
+                                "id": "450285",
+                                "profileUrl": "/players/450285/rafinha"
+                            },
+                            {
+                                "name": "Matheus Martins",
+                                "id": "1448299",
+                                "profileUrl": "/players/1448299/matheus-martins"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined65SubstitutionNaN1341001true",
+                        "timeStr": 65,
+                        "type": "Substitution",
+                        "time": 65,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Matheusinho",
+                                "id": "1341001",
+                                "profileUrl": "/players/1341001/matheusinho"
+                            },
+                            {
+                                "name": "Jo\u00e3o Celeri",
+                                "id": "1432910",
+                                "profileUrl": "/players/1432910/joao-celeri"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1182392true",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Danrley",
+                                "id": "1182392",
+                                "profileUrl": "/players/1182392/danrley"
+                            },
+                            {
+                                "name": "Garraty",
+                                "id": "1523233",
+                                "profileUrl": "/players/1523233/garraty"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined71SubstitutionNaN1938614false",
+                        "timeStr": 71,
+                        "type": "Substitution",
+                        "time": 71,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Matheuzinho",
+                                "id": "1938614",
+                                "profileUrl": "/players/1938614/matheuzinho"
+                            },
+                            {
+                                "name": "Cl\u00e9o Silva",
+                                "id": "832442",
+                                "profileUrl": "/players/832442/cleo-silva"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined78SubstitutionNaN849502true",
+                        "timeStr": 78,
+                        "type": "Substitution",
+                        "time": 78,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jhony Douglas",
+                                "id": "849502",
+                                "profileUrl": "/players/849502/jhony-douglas"
+                            },
+                            {
+                                "name": "Buga",
+                                "id": "1653436",
+                                "profileUrl": "/players/1653436/buga"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined78SubstitutionNaN1462432true",
+                        "timeStr": 78,
+                        "type": "Substitution",
+                        "time": 78,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Islan",
+                                "id": "1462432",
+                                "profileUrl": "/players/1462432/islan"
+                            },
+                            {
+                                "name": "Eliandro",
+                                "id": "1908904",
+                                "profileUrl": "/players/1908904/eliandro"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "083Goal1462432undefinedtrue",
+                        "timeStr": 83,
+                        "type": "Goal",
+                        "time": 83,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1462432,
+                            "name": "Islan",
+                            "profileUrl": "/players/1462432/islan"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1462432/islan",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Islan",
+                        "firstName": "",
+                        "lastName": "Islan",
+                        "fullName": "Islan",
+                        "playerId": 1462432,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90AddedTimeNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "AddedTime",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "minutesAddedStr": "+ 6 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 6
+                    },
+                    {
+                        "reactKey": "090Goal1279165undefinedfalse",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1279165,
+                            "name": "\u00c9verton Alem\u00e3o",
+                            "profileUrl": "/players/1279165/everton-alemao"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1279165/everton-alemao",
+                        "overloadTimeStr": "+3",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "\u00c9verton Alem\u00e3o",
+                        "firstName": "\u00c9verton",
+                        "lastName": "Alem\u00e3o",
+                        "fullName": "\u00c9verton Alem\u00e3o",
+                        "playerId": 1279165,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Substitution",
+                    "AddedTime",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T19:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 8971,
+                    "parentLeagueId": 8971,
+                    "link": "/leagues/8971/overview/brazilian-serie-c",
+                    "leagueName": "Brazilian Serie C",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": {
+                    "name": "Est\u00e1dio Municipal Presidente Get\u00falio Vargas",
+                    "city": "Fortaleza, Cear\u00e1",
+                    "country": "Brazil",
+                    "lat": -3.745898108,
+                    "long": -38.536836505
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/bra.png",
+                    "text": "Thaillan Azevedo Gomes",
+                    "countryCode": "BRA",
+                    "country": "Brazil"
+                },
+                "Attendance": 200
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1340094_xsmall.png",
+                        "linkToMatch": "/matches/floresta-vs-amazonas-fc/vzv2jgqz#1000009405",
+                        "date": {
+                            "utcTime": "2026-05-16T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1340094/overview/amazonas-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T22:30:00.000Z",
+                            "homeTeam": "Floresta",
+                            "homeTeamId": 899260,
+                            "homeScore": "3",
+                            "awayTeam": "Amazonas FC",
+                            "awayTeamId": 1340094,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "899260",
+                            "name": "Floresta",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1340094",
+                            "name": "Amazonas FC",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6546_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-floresta/58gog91h#1000009419",
+                        "date": {
+                            "utcTime": "2026-05-25T23:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6546/overview/paysandu",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T23:00:00.000Z",
+                            "homeTeam": "Paysandu",
+                            "homeTeamId": 6546,
+                            "homeScore": "2",
+                            "awayTeam": "Floresta",
+                            "awayTeamId": 899260,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "899260",
+                            "name": "Floresta",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162167_xsmall.png",
+                        "linkToMatch": "/matches/confianca-vs-floresta/76s78wdm#1000009425",
+                        "date": {
+                            "utcTime": "2026-05-30T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/162167/overview/confianca",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T20:00:00.000Z",
+                            "homeTeam": "Floresta",
+                            "homeTeamId": 899260,
+                            "homeScore": "1",
+                            "awayTeam": "Confianca",
+                            "awayTeamId": 162167,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "899260",
+                            "name": "Floresta",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "162167",
+                            "name": "Confianca",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8631_xsmall.png",
+                        "linkToMatch": "/matches/figueirense-vs-floresta/59by68cq#1000009435",
+                        "date": {
+                            "utcTime": "2026-06-14T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8631/overview/figueirense",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T22:30:00.000Z",
+                            "homeTeam": "Floresta",
+                            "homeTeamId": 899260,
+                            "homeScore": "1",
+                            "awayTeam": "Figueirense",
+                            "awayTeamId": 8631,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "899260",
+                            "name": "Floresta",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8631",
+                            "name": "Figueirense",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197692_xsmall.png",
+                        "linkToMatch": "/matches/brusque-vs-floresta/7oe8u3x4#1000009443",
+                        "date": {
+                            "utcTime": "2026-06-21T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197692/overview/brusque",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T19:00:00.000Z",
+                            "homeTeam": "Brusque",
+                            "homeTeamId": 197692,
+                            "homeScore": "2",
+                            "awayTeam": "Floresta",
+                            "awayTeamId": 899260,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "197692",
+                            "name": "Brusque",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "899260",
+                            "name": "Floresta",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/412808_xsmall.png",
+                        "linkToMatch": "/matches/anapolis-fc-vs-barra-fc/j5yim2jz#1000009406",
+                        "date": {
+                            "utcTime": "2026-05-17T21:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/412808/overview/anapolis-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T21:00:00.000Z",
+                            "homeTeam": "Anapolis FC",
+                            "homeTeamId": 412808,
+                            "homeScore": "1",
+                            "awayTeam": "Barra FC",
+                            "awayTeamId": 1320333,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "412808",
+                            "name": "Anapolis FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1320333",
+                            "name": "Barra FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7817_xsmall.png",
+                        "linkToMatch": "/matches/guarani-vs-barra-fc/b96j70jq#1000009418",
+                        "date": {
+                            "utcTime": "2026-05-23T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7817/overview/guarani",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T20:00:00.000Z",
+                            "homeTeam": "Barra FC",
+                            "homeTeamId": 1320333,
+                            "homeScore": "0",
+                            "awayTeam": "Guarani",
+                            "awayTeamId": 7817,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "1320333",
+                            "name": "Barra FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "7817",
+                            "name": "Guarani",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197692_xsmall.png",
+                        "linkToMatch": "/matches/brusque-vs-barra-fc/epbao5qh#1000009428",
+                        "date": {
+                            "utcTime": "2026-06-01T23:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197692/overview/brusque",
+                        "tooltipText": {
+                            "utcTime": "2026-06-01T23:00:00.000Z",
+                            "homeTeam": "Barra FC",
+                            "homeTeamId": 1320333,
+                            "homeScore": "2",
+                            "awayTeam": "Brusque",
+                            "awayTeamId": 197692,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "1320333",
+                            "name": "Barra FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197692",
+                            "name": "Brusque",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581832_xsmall.png",
+                        "linkToMatch": "/matches/ferroviaria-vs-barra-fc/n33hrxn3#1000009431",
+                        "date": {
+                            "utcTime": "2026-06-15T23:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581832/overview/ferroviaria",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T23:30:00.000Z",
+                            "homeTeam": "Ferroviaria",
+                            "homeTeamId": 581832,
+                            "homeScore": "1",
+                            "awayTeam": "Barra FC",
+                            "awayTeamId": 1320333,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "581832",
+                            "name": "Ferroviaria",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1320333",
+                            "name": "Barra FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1340094_xsmall.png",
+                        "linkToMatch": "/matches/barra-fc-vs-amazonas-fc/195rknppc#1000009448",
+                        "date": {
+                            "utcTime": "2026-06-21T21:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1340094/overview/amazonas-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T21:30:00.000Z",
+                            "homeTeam": "Barra FC",
+                            "homeTeamId": 1320333,
+                            "homeScore": "1",
+                            "awayTeam": "Amazonas FC",
+                            "awayTeamId": 1340094,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1320333",
+                            "name": "Barra FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1340094",
+                            "name": "Amazonas FC",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000009455",
+                    "MatchId": 1000009455,
+                    "HomeTeamId": 899260,
+                    "AwayTeamId": 1320333,
+                    "HomeTeam": "Floresta",
+                    "AwayTeam": "Barra FC",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Barra FC haven't won a match in 7 attempts."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Floresta have scored in their last 4 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Floresta have an average of 1 goals in their last three matches and Barra FC have an average of 1."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Barra FC haven't won a match in 7 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "BRA",
+            "QAData": [
+                {
+                    "question": "Who won between Floresta and Barra FC on Sat, 27 Jun 2026 19:00:00 GMT?",
+                    "answer": "Floresta won 2\u20131 over Barra FC on Sat, 27 Jun 2026 19:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": null
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 28,
+            "windSpeed": 4,
+            "windDirectionCardinal": "E",
+            "iconCode": 34,
+            "relativeHumidity": 71,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 20,
+            "description": "Fair",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T20:30:00Z",
+            "localizedKey": "weather_condition_sunny",
+            "defaultTitle": "Sunny"
+        },
+        "lineup": {
+            "matchId": 1000009455,
+            "lineupType": "simple",
+            "source": "optaSdapi",
+            "availableFilters": [
+                "season",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 899260,
+                "name": "Floresta",
+                "starters": [
+                    {
+                        "id": 1448299,
+                        "age": 28,
+                        "optaId": "608325",
+                        "name": "Matheus Martins",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Matheus",
+                        "lastName": "Martins",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1909588,
+                        "age": 24,
+                        "optaId": "725721",
+                        "name": "Jo\u00e3o Victor",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Jo\u00e3o",
+                        "lastName": "Victor",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1462832,
+                        "age": 36,
+                        "optaId": "176118",
+                        "name": "Dheimison",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Dheimison",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1432910,
+                        "age": 27,
+                        "optaId": "614517",
+                        "name": "Jo\u00e3o Celeri",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Jo\u00e3o",
+                        "lastName": "Celeri",
+                        "rankings": null
+                    },
+                    {
+                        "id": 815359,
+                        "age": 34,
+                        "optaId": "176832",
+                        "name": "Valdo",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 74663,
+                        "firstName": "",
+                        "lastName": "Valdo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1523233,
+                        "age": 28,
+                        "optaId": "500847",
+                        "name": "Garraty",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 69693,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 23
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "",
+                        "lastName": "Garraty",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1908904,
+                        "age": 27,
+                        "optaId": "532448",
+                        "name": "Eliandro",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Eliandro",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1395962,
+                        "age": 32,
+                        "optaId": "448331",
+                        "name": "Afonso",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "firstName": "",
+                        "lastName": "Afonso",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1653436,
+                        "age": 25,
+                        "optaId": "695684",
+                        "name": "Buga",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Buga",
+                        "rankings": null
+                    },
+                    {
+                        "id": 762506,
+                        "age": 28,
+                        "optaId": "200911",
+                        "name": "Caique",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 83028,
+                        "firstName": "",
+                        "lastName": "Caique",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1227581,
+                        "age": 30,
+                        "optaId": "448421",
+                        "name": "Nonato",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Nonato",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1742500,
+                    "age": 45,
+                    "name": "Leston J\u00fanior",
+                    "countryName": "Brazil",
+                    "countryCode": "BRA",
+                    "firstName": "Leston",
+                    "lastName": "J\u00fanior",
+                    "primaryTeamId": 899260,
+                    "primaryTeamName": "Floresta",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 450285,
+                        "age": 34,
+                        "optaId": "162569",
+                        "name": "Rafinha",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Rafinha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1341001,
+                        "age": 27,
+                        "optaId": "444495",
+                        "name": "Matheusinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 115347,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Matheusinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1182392,
+                        "age": 25,
+                        "optaId": "502375",
+                        "name": "Danrley",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 258790,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Danrley",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1462432,
+                        "age": 29,
+                        "optaId": "566018",
+                        "name": "Islan",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 83
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "",
+                        "lastName": "Islan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 849502,
+                        "age": 29,
+                        "optaId": "226797",
+                        "name": "Jhony Douglas",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Jhony",
+                        "lastName": "Douglas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1813638,
+                        "age": 23,
+                        "optaId": "699733",
+                        "name": "Eduardo",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Eduardo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1656862,
+                        "age": 26,
+                        "optaId": "725738",
+                        "name": "Thailor",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Thailor",
+                        "rankings": null
+                    },
+                    {
+                        "id": 750095,
+                        "age": 28,
+                        "optaId": "431791",
+                        "name": "Tiepo",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Tiepo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 844737,
+                        "age": 28,
+                        "optaId": "227840",
+                        "name": "Cedric",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 87805,
+                        "firstName": "",
+                        "lastName": "Cedric",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1665198,
+                        "age": 22,
+                        "optaId": "725713",
+                        "name": "Diogo Mour\u00e3o",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Diogo",
+                        "lastName": "Mour\u00e3o",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1054266,
+                        "age": 29,
+                        "optaId": "448466",
+                        "name": "Diego Matos",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Diego",
+                        "lastName": "Matos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1653452,
+                        "age": 32,
+                        "optaId": "725716",
+                        "name": "J\u00e9ferson Souza",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "J\u00e9ferson",
+                        "lastName": "Souza",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 29.3
+            },
+            "awayTeam": {
+                "id": 1320333,
+                "name": "Barra FC",
+                "starters": [
+                    {
+                        "id": 1790356,
+                        "age": 35,
+                        "optaId": "684188",
+                        "name": "Tet\u00ea",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Tet\u00ea",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1282311,
+                        "age": 28,
+                        "optaId": "479272",
+                        "name": "Ewerton",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Ewerton",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1034657,
+                        "age": 25,
+                        "optaId": "479167",
+                        "name": "Vinicius Pop\u00f3",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Vinicius",
+                        "lastName": "Pop\u00f3",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1463349,
+                        "age": 21,
+                        "optaId": "19",
+                        "name": "Da Rocha",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Da",
+                        "lastName": "Rocha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 267363,
+                        "age": 31,
+                        "optaId": "183550",
+                        "name": "Matheus Barbosa",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 34,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Matheus",
+                        "lastName": "Barbosa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1486267,
+                        "age": 32,
+                        "optaId": "205053",
+                        "name": "Vav\u00e1",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Vav\u00e1",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1279165,
+                        "age": 33,
+                        "optaId": "203883",
+                        "name": "\u00c9verton Alem\u00e3o",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "\u00c9verton",
+                        "lastName": "Alem\u00e3o",
+                        "rankings": null
+                    },
+                    {
+                        "id": 994442,
+                        "age": 26,
+                        "optaId": "471692",
+                        "name": "Warley",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Warley",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1503662,
+                        "age": 32,
+                        "optaId": "632876",
+                        "name": "Jean Pierre",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "firstName": "Jean",
+                        "lastName": "Pierre",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1605941,
+                        "age": 24,
+                        "optaId": "655575",
+                        "name": "F\u00e1bio",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "F\u00e1bio",
+                        "rankings": null
+                    },
+                    {
+                        "id": 832442,
+                        "age": 36,
+                        "optaId": "209894",
+                        "name": "Cl\u00e9o Silva",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Cl\u00e9o",
+                        "lastName": "Silva",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1372926,
+                    "age": 40,
+                    "name": "Bernardo Franco",
+                    "countryName": "Brazil",
+                    "countryCode": "BRA",
+                    "firstName": "Bernardo",
+                    "lastName": "Franco",
+                    "primaryTeamId": 1320333,
+                    "primaryTeamName": "Barra FC",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1668337,
+                        "age": 34,
+                        "optaId": "177193",
+                        "name": "Elvinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 34,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Elvinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1481879,
+                        "age": 22,
+                        "optaId": "683845",
+                        "name": "Renan Bernab\u00e9",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Renan",
+                        "lastName": "Bernab\u00e9",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1474338,
+                        "age": 31,
+                        "optaId": "246600",
+                        "name": "Natan",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Natan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1789996,
+                        "age": 22,
+                        "optaId": "574981",
+                        "name": "Saymom",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Saymom",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1938614,
+                        "age": 19,
+                        "optaId": "738168",
+                        "name": "Matheuzinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Matheuzinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1668015,
+                        "age": 28,
+                        "optaId": "565885",
+                        "name": "Volpi",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 165620,
+                        "firstName": "",
+                        "lastName": "Volpi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1313704,
+                        "age": 25,
+                        "optaId": "515338",
+                        "name": "Nicol\u00e1s",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Nicol\u00e1s",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1789988,
+                        "age": 21,
+                        "optaId": "609122",
+                        "name": "Jo\u00e3o Vin\u00edcius",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Jo\u00e3o",
+                        "lastName": "Vin\u00edcius",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1219465,
+                        "age": 29,
+                        "optaId": "523701",
+                        "name": "Pablo Gabriel",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 137967,
+                        "firstName": "Pablo",
+                        "lastName": "Gabriel",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 29.9
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "8971",
+            "url": "https://data.fotmob.com/tables.ext.8971.fot.gz",
+            "teams": [
+                899260,
+                1320333
+            ],
+            "tournamentNameForUrl": "Brazilian Serie C",
+            "parentLeagueId": 8971,
+            "countryCode": "BRA"
+        },
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "floresta-vs-barra-fc",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000009455",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Floresta",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/899260.png",
+                "url": "https://www.fotmob.com/teams/899260/overview/floresta",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Barra FC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1320333.png",
+                "url": "https://www.fotmob.com/teams/1320333/overview/barra-fc",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Floresta vs Barra FC",
+            "description": "Follow Floresta vs Barra FC live on fotmob.com",
+            "startDate": "2026-06-27T19:00:00.000Z",
+            "endDate": "2026-06-27T21:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Est\u00e1dio Municipal Presidente Get\u00falio Vargas",
+                "latitude": -3.745898108,
+                "longitude": -38.536836505,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Brazil",
+                    "addressLocality": "Fortaleza, Cear\u00e1"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/899260.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1320333.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000009455",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T19:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Floresta",
+                    "url": "https://www.fotmob.com/teams/899260/overview/floresta"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Barra FC",
+                    "url": "https://www.fotmob.com/teams/1320333/overview/barra-fc"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Floresta - Barra FC",
+                        "item": "https://www.fotmob.com/match/1000009455"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Barra FC",
+                        "item": "https://www.fotmob.com/teams/1320333/overview/barra-fc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Floresta - Barra FC",
+                        "item": "https://www.fotmob.com/match/1000009455"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Floresta",
+                        "item": "https://www.fotmob.com/teams/899260/overview/floresta"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Floresta - Barra FC",
+                        "item": "https://www.fotmob.com/match/1000009455"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Floresta and Barra FC on Sat, 27 Jun 2026 19:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Floresta won 2\u20131 over Barra FC on Sat, 27 Jun 2026 19:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

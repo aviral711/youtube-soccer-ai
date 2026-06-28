@@ -1,0 +1,2409 @@
+{
+    "general": {
+        "matchId": "1000009451",
+        "matchName": "Inter de Limeira-vs-Maringa FC_Sat, Jun 27, 2026, 14:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#ffffff",
+                "away": "#368F57"
+            },
+            "lightMode": {
+                "home": "#000000",
+                "away": "#368F57"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 8971,
+        "leagueName": "Brazilian Serie C",
+        "leagueRoundName": "12",
+        "parentLeagueId": 8971,
+        "countryCode": "BRA",
+        "homeTeam": {
+            "name": "Inter de Limeira",
+            "id": 581840
+        },
+        "awayTeam": {
+            "name": "Maringa FC",
+            "id": 509487
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Inter de Limeira",
+                "id": 581840,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581840_small.png",
+                "pageUrl": "/teams/581840/overview/inter-de-limeira"
+            },
+            {
+                "name": "Maringa FC",
+                "id": 509487,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/509487_small.png",
+                "pageUrl": "/teams/509487/overview/maringa-fc"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 15:59:33",
+                "firstHalfEnded": "27.06.2026 16:45:50",
+                "secondHalfStarted": "27.06.2026 17:02:05",
+                "secondHalfEnded": "27.06.2026 17:55:02",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 17:55:02"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Get\u00falio": [
+                    {
+                        "reactKey": "085Goal936589undefinedtrue",
+                        "timeStr": 85,
+                        "type": "Goal",
+                        "time": 85,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 936589,
+                            "name": "Get\u00falio",
+                            "profileUrl": "/players/936589/getulio"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/936589/getulio",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Get\u00falio",
+                        "firstName": "",
+                        "lastName": "Get\u00falio",
+                        "fullName": "Get\u00falio",
+                        "playerId": 936589,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Claudinho": [
+                    {
+                        "reactKey": "090Goal1297331undefinedtrue",
+                        "timeStr": "90 + 7",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 7,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1297331,
+                            "name": "Claudinho",
+                            "profileUrl": "/players/1297331/claudinho"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1297331/claudinho",
+                        "overloadTimeStr": "+7",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Claudinho",
+                        "firstName": "",
+                        "lastName": "Claudinho",
+                        "fullName": "Claudinho",
+                        "playerId": 1297331,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "C\u00e1lito": [
+                    {
+                        "reactKey": "059Goal1235681undefinedfalse",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1235681,
+                            "name": "Ca\u00edque C\u00e1lito",
+                            "profileUrl": "/players/1235681/caique-calito"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1235681/caique-calito",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ca\u00edque C\u00e1lito",
+                        "firstName": "Ca\u00edque",
+                        "lastName": "C\u00e1lito",
+                        "fullName": "Ca\u00edque C\u00e1lito",
+                        "playerId": 1235681,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "067Goal1235681undefinedfalse",
+                        "timeStr": 67,
+                        "type": "Goal",
+                        "time": 67,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1235681,
+                            "name": "Ca\u00edque C\u00e1lito",
+                            "profileUrl": "/players/1235681/caique-calito"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1235681/caique-calito",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ca\u00edque C\u00e1lito",
+                        "firstName": "Ca\u00edque",
+                        "lastName": "C\u00e1lito",
+                        "fullName": "Ca\u00edque C\u00e1lito",
+                        "playerId": 1235681,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "table"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000009451,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "021Card1665458undefinedfalse",
+                        "timeStr": 21,
+                        "type": "Card",
+                        "time": 21,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1665458,
+                            "name": "Ronald Camar\u00e3o",
+                            "profileUrl": "/players/1665458/ronald-camarao"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1665458/ronald-camarao",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Ronald Camar\u00e3o",
+                        "firstName": "Ronald",
+                        "lastName": "Camar\u00e3o",
+                        "fullName": "Ronald Camar\u00e3o",
+                        "playerId": 1665458,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "042Card1175814undefinedtrue",
+                        "timeStr": 42,
+                        "type": "Card",
+                        "time": 42,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1175814,
+                            "name": "Vitor Leque",
+                            "profileUrl": "/players/1175814/vitor-leque"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1175814/vitor-leque",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Vitor Leque",
+                        "firstName": "Vitor",
+                        "lastName": "Leque",
+                        "fullName": "Vitor Leque",
+                        "playerId": 1175814,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1337207false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Guilherme Pira",
+                                "id": "1337207",
+                                "profileUrl": "/players/1337207/guilherme-pira"
+                            },
+                            {
+                                "name": "Adeilson Maranh\u00e3o",
+                                "id": "1658737",
+                                "profileUrl": "/players/1658737/adeilson-maranhao"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1460543false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Thiago Rosa",
+                                "id": "1460543",
+                                "profileUrl": "/players/1460543/thiago-rosa"
+                            },
+                            {
+                                "name": "Cau\u00e3 Tavares",
+                                "id": "1722605",
+                                "profileUrl": "/players/1722605/caua-tavares"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "055Card1192445undefinedtrue",
+                        "timeStr": 55,
+                        "type": "Card",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1192445,
+                            "name": "Jo\u00e3o Victor",
+                            "profileUrl": "/players/1192445/joao-victor"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1192445/joao-victor",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Jo\u00e3o Victor",
+                        "firstName": "Jo\u00e3o",
+                        "lastName": "Victor",
+                        "fullName": "Jo\u00e3o Victor",
+                        "playerId": 1192445,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined58SubstitutionNaN936589true",
+                        "timeStr": 58,
+                        "type": "Substitution",
+                        "time": 58,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Get\u00falio",
+                                "id": "936589",
+                                "profileUrl": "/players/936589/getulio"
+                            },
+                            {
+                                "name": "Marco Ant\u00f4nio",
+                                "id": "844513",
+                                "profileUrl": "/players/844513/marco-antonio"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined58SubstitutionNaN1297331true",
+                        "timeStr": 58,
+                        "type": "Substitution",
+                        "time": 58,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Claudinho",
+                                "id": "1297331",
+                                "profileUrl": "/players/1297331/claudinho"
+                            },
+                            {
+                                "name": "Vitor Leque",
+                                "id": "1175814",
+                                "profileUrl": "/players/1175814/vitor-leque"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "059Goal1235681undefinedfalse",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1235681,
+                            "name": "Ca\u00edque C\u00e1lito",
+                            "profileUrl": "/players/1235681/caique-calito"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1235681/caique-calito",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ca\u00edque C\u00e1lito",
+                        "firstName": "Ca\u00edque",
+                        "lastName": "C\u00e1lito",
+                        "fullName": "Ca\u00edque C\u00e1lito",
+                        "playerId": 1235681,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "060Card1235681undefinedfalse",
+                        "timeStr": 60,
+                        "type": "Card",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1235681,
+                            "name": "Ca\u00edque C\u00e1lito",
+                            "profileUrl": "/players/1235681/caique-calito"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1235681/caique-calito",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Ca\u00edque C\u00e1lito",
+                        "firstName": "Ca\u00edque",
+                        "lastName": "C\u00e1lito",
+                        "fullName": "Ca\u00edque C\u00e1lito",
+                        "playerId": 1235681,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "067Goal1235681undefinedfalse",
+                        "timeStr": 67,
+                        "type": "Goal",
+                        "time": 67,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1235681,
+                            "name": "Ca\u00edque C\u00e1lito",
+                            "profileUrl": "/players/1235681/caique-calito"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1235681/caique-calito",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ca\u00edque C\u00e1lito",
+                        "firstName": "Ca\u00edque",
+                        "lastName": "C\u00e1lito",
+                        "fullName": "Ca\u00edque C\u00e1lito",
+                        "playerId": 1235681,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined68SubstitutionNaN1462835true",
+                        "timeStr": 68,
+                        "type": "Substitution",
+                        "time": 68,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Romarinho",
+                                "id": "1462835",
+                                "profileUrl": "/players/1462835/romarinho"
+                            },
+                            {
+                                "name": "Jo\u00e3o Victor",
+                                "id": "1192445",
+                                "profileUrl": "/players/1192445/joao-victor"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined68SubstitutionNaN1611192true",
+                        "timeStr": 68,
+                        "type": "Substitution",
+                        "time": 68,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Lucas Buchecha",
+                                "id": "1611192",
+                                "profileUrl": "/players/1611192/lucas-buchecha"
+                            },
+                            {
+                                "name": "Gabriel Dias",
+                                "id": "556756",
+                                "profileUrl": "/players/556756/gabriel-dias"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1463352false",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Danielzinho",
+                                "id": "1463352",
+                                "profileUrl": "/players/1463352/danielzinho"
+                            },
+                            {
+                                "name": "Guilherme Pira",
+                                "id": "1337207",
+                                "profileUrl": "/players/1337207/guilherme-pira"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1285599false",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Giovane",
+                                "id": "1285599",
+                                "profileUrl": "/players/1285599/giovane"
+                            },
+                            {
+                                "name": "Ca\u00edque C\u00e1lito",
+                                "id": "1235681",
+                                "profileUrl": "/players/1235681/caique-calito"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined77SubstitutionNaN950187true",
+                        "timeStr": 77,
+                        "type": "Substitution",
+                        "time": 77,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Rafael Oller",
+                                "id": "950187",
+                                "profileUrl": "/players/950187/rafael-oller"
+                            },
+                            {
+                                "name": "Richard",
+                                "id": "1443835",
+                                "profileUrl": "/players/1443835/richard"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "082Card1291619undefinedfalse",
+                        "timeStr": 82,
+                        "type": "Card",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1291619,
+                            "name": "Paulinho",
+                            "profileUrl": "/players/1291619/paulinho"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1291619/paulinho",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Paulinho",
+                        "firstName": "",
+                        "lastName": "Paulinho",
+                        "fullName": "Paulinho",
+                        "playerId": 1291619,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "082Card1460543undefinedfalse",
+                        "timeStr": 82,
+                        "type": "Card",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1460543,
+                            "name": "Thiago Rosa",
+                            "profileUrl": "/players/1460543/thiago-rosa"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1460543/thiago-rosa",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Thiago Rosa",
+                        "firstName": "Thiago",
+                        "lastName": "Rosa",
+                        "fullName": "Thiago Rosa",
+                        "playerId": 1460543,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined85SubstitutionNaN1462827false",
+                        "timeStr": 85,
+                        "type": "Substitution",
+                        "time": 85,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Iago Santana",
+                                "id": "1462827",
+                                "profileUrl": "/players/1462827/iago-santana"
+                            },
+                            {
+                                "name": "Edison Negueba",
+                                "id": "1474804",
+                                "profileUrl": "/players/1474804/edison-negueba"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "085Goal936589undefinedtrue",
+                        "timeStr": 85,
+                        "type": "Goal",
+                        "time": 85,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 936589,
+                            "name": "Get\u00falio",
+                            "profileUrl": "/players/936589/getulio"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/936589/getulio",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Get\u00falio",
+                        "firstName": "",
+                        "lastName": "Get\u00falio",
+                        "fullName": "Get\u00falio",
+                        "playerId": 936589,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "090Goal1297331undefinedtrue",
+                        "timeStr": "90 + 7",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 7,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1297331,
+                            "name": "Claudinho",
+                            "profileUrl": "/players/1297331/claudinho"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1297331/claudinho",
+                        "overloadTimeStr": "+7",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Claudinho",
+                        "firstName": "",
+                        "lastName": "Claudinho",
+                        "fullName": "Claudinho",
+                        "playerId": 1297331,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "090Card1211343undefinedtrue",
+                        "timeStr": "90 + 8",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 8,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1211343,
+                            "name": "Emerson  J\u00fanior",
+                            "profileUrl": "/players/1211343/emerson-junior"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1211343/emerson-junior",
+                        "overloadTimeStr": "+8",
+                        "isHome": true,
+                        "nameStr": "Emerson  J\u00fanior",
+                        "firstName": "Emerson ",
+                        "lastName": "J\u00fanior",
+                        "fullName": "Emerson  J\u00fanior",
+                        "playerId": 1211343,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Half",
+                    "Substitution",
+                    "Goal",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 8971,
+                    "parentLeagueId": 8971,
+                    "link": "/leagues/8971/overview/brazilian-serie-c",
+                    "leagueName": "Brazilian Serie C",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": {
+                    "name": "Est\u00e1dio Major Jos\u00e9 Levy Sobrinho",
+                    "city": "Limeira, S\u00e3o Paulo",
+                    "country": "Brazil",
+                    "lat": -22.555302525,
+                    "long": -47.3850739
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/bra.png",
+                    "text": "F\u00e1bio Augusto Santos S\u00e1 Junior",
+                    "countryCode": "BRA",
+                    "country": "Brazil"
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197792_xsmall.png",
+                        "linkToMatch": "/matches/botafogo-pb-vs-inter-de-limeira/3vm6jqq0#1000009410",
+                        "date": {
+                            "utcTime": "2026-05-18T23:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197792/overview/botafogo-pb",
+                        "tooltipText": {
+                            "utcTime": "2026-05-18T23:00:00.000Z",
+                            "homeTeam": "Botafogo PB",
+                            "homeTeamId": 197792,
+                            "homeScore": "0",
+                            "awayTeam": "Inter de Limeira",
+                            "awayTeamId": 581840,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "197792",
+                            "name": "Botafogo PB",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581840",
+                            "name": "Inter de Limeira",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197398_xsmall.png",
+                        "linkToMatch": "/matches/ao-itabaiana-vs-inter-de-limeira/3vh3pkph#1000009411",
+                        "date": {
+                            "utcTime": "2026-05-24T19:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197398/overview/ao-itabaiana",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T19:30:00.000Z",
+                            "homeTeam": "Inter de Limeira",
+                            "homeTeamId": 581840,
+                            "homeScore": "0",
+                            "awayTeam": "AO Itabaiana",
+                            "awayTeamId": 197398,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "581840",
+                            "name": "Inter de Limeira",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197398",
+                            "name": "AO Itabaiana",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197885_xsmall.png",
+                        "linkToMatch": "/matches/ypiranga-rs-vs-inter-de-limeira/3vndpvwr#1000009421",
+                        "date": {
+                            "utcTime": "2026-05-31T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197885/overview/ypiranga-rs",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T19:00:00.000Z",
+                            "homeTeam": "Inter de Limeira",
+                            "homeTeamId": 581840,
+                            "homeScore": "2",
+                            "awayTeam": "Ypiranga RS",
+                            "awayTeamId": 197885,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "581840",
+                            "name": "Inter de Limeira",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197885",
+                            "name": "Ypiranga RS",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6546_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-inter-de-limeira/27iqvo1x#1000009439",
+                        "date": {
+                            "utcTime": "2026-06-14T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6546/overview/paysandu",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T19:00:00.000Z",
+                            "homeTeam": "Paysandu",
+                            "homeTeamId": 6546,
+                            "homeScore": "1",
+                            "awayTeam": "Inter de Limeira",
+                            "awayTeamId": 581840,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581840",
+                            "name": "Inter de Limeira",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581832_xsmall.png",
+                        "linkToMatch": "/matches/ferroviaria-vs-inter-de-limeira/8n1ggp18#1000009441",
+                        "date": {
+                            "utcTime": "2026-06-21T21:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581832/overview/ferroviaria",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T21:30:00.000Z",
+                            "homeTeam": "Ferroviaria",
+                            "homeTeamId": 581832,
+                            "homeScore": "2",
+                            "awayTeam": "Inter de Limeira",
+                            "awayTeamId": 581840,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "581832",
+                            "name": "Ferroviaria",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581840",
+                            "name": "Inter de Limeira",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197885_xsmall.png",
+                        "linkToMatch": "/matches/ypiranga-rs-vs-maringa-fc/36xnqgzx#1000009408",
+                        "date": {
+                            "utcTime": "2026-05-16T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197885/overview/ypiranga-rs",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T20:00:00.000Z",
+                            "homeTeam": "Ypiranga RS",
+                            "homeTeamId": 197885,
+                            "homeScore": "1",
+                            "awayTeam": "Maringa FC",
+                            "awayTeamId": 509487,
+                            "awayScore": "4"
+                        },
+                        "score": "1 - 4",
+                        "home": {
+                            "id": "197885",
+                            "name": "Ypiranga RS",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "509487",
+                            "name": "Maringa FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9920_xsmall.png",
+                        "linkToMatch": "/matches/santa-cruz-vs-maringa-fc/1pyv9j9k#1000009417",
+                        "date": {
+                            "utcTime": "2026-05-23T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9920/overview/santa-cruz",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T22:30:00.000Z",
+                            "homeTeam": "Maringa FC",
+                            "homeTeamId": 509487,
+                            "homeScore": "1",
+                            "awayTeam": "Santa Cruz",
+                            "awayTeamId": 9920,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "509487",
+                            "name": "Maringa FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9920",
+                            "name": "Santa Cruz",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197792_xsmall.png",
+                        "linkToMatch": "/matches/botafogo-pb-vs-maringa-fc/36wkkjt3#1000009430",
+                        "date": {
+                            "utcTime": "2026-05-30T21:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197792/overview/botafogo-pb",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T21:00:00.000Z",
+                            "homeTeam": "Botafogo PB",
+                            "homeTeamId": 197792,
+                            "homeScore": "2",
+                            "awayTeam": "Maringa FC",
+                            "awayTeamId": 509487,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "197792",
+                            "name": "Botafogo PB",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "509487",
+                            "name": "Maringa FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197781_xsmall.png",
+                        "linkToMatch": "/matches/maranhao-vs-maringa-fc/36wfxspl#1000009437",
+                        "date": {
+                            "utcTime": "2026-06-15T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197781/overview/maranhao",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T22:30:00.000Z",
+                            "homeTeam": "Maringa FC",
+                            "homeTeamId": 509487,
+                            "homeScore": "0",
+                            "awayTeam": "Maranhao",
+                            "awayTeamId": 197781,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "509487",
+                            "name": "Maringa FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197781",
+                            "name": "Maranhao",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/172206_xsmall.png",
+                        "linkToMatch": "/matches/caxias-vs-maringa-fc/2yqpae4i#1000009447",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/172206/overview/caxias",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Caxias",
+                            "homeTeamId": 172206,
+                            "homeScore": "1",
+                            "awayTeam": "Maringa FC",
+                            "awayTeamId": 509487,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "172206",
+                            "name": "Caxias",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "509487",
+                            "name": "Maringa FC",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000009451",
+                    "MatchId": 1000009451,
+                    "HomeTeamId": 581840,
+                    "AwayTeamId": 509487,
+                    "HomeTeam": "Inter de Limeira",
+                    "AwayTeam": "Maringa FC",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "1",
+                                "1",
+                                "away_team",
+                                "1",
+                                "3",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Inter de Limeira have 3W, 1D, 1L in five matches while Maringa FC have 1W, 3D, 1L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Maringa FC have scored in their last 5 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1.33",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Inter de Limeira have an average of 1.33 goals in their last three matches and Maringa FC have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Maringa FC haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "BRA",
+            "QAData": [
+                {
+                    "question": "Who won between Inter de Limeira and Maringa FC on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "answer": "Inter de Limeira vs Maringa FC on Sat, 27 Jun 2026 14:00:00 GMT ended in a 2\u20132 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 26,
+            "windSpeed": 1,
+            "windDirectionCardinal": "NE",
+            "iconCode": 32,
+            "relativeHumidity": 59,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 3,
+            "description": "Sunny",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T15:30:01Z",
+            "localizedKey": "weather_condition_sunny",
+            "defaultTitle": "Sunny"
+        },
+        "lineup": {
+            "matchId": 1000009451,
+            "lineupType": "simple",
+            "source": "optaSdapi",
+            "availableFilters": [
+                "season",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 581840,
+                "name": "Inter de Limeira",
+                "starters": [
+                    {
+                        "id": 1211343,
+                        "age": 26,
+                        "optaId": "514602",
+                        "name": "Emerson  J\u00fanior",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Emerson ",
+                        "lastName": "J\u00fanior",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1656861,
+                        "age": 21,
+                        "optaId": "630812",
+                        "name": "Fabr\u00edcio Dias",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Fabr\u00edcio",
+                        "lastName": "Dias",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1175814,
+                        "age": 25,
+                        "optaId": "510631",
+                        "name": "Vitor Leque",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 42
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 58,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Vitor",
+                        "lastName": "Leque",
+                        "rankings": null
+                    },
+                    {
+                        "id": 844513,
+                        "age": 28,
+                        "optaId": "235637",
+                        "name": "Marco Ant\u00f4nio",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 66070,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 58,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Marco",
+                        "lastName": "Ant\u00f4nio",
+                        "rankings": null
+                    },
+                    {
+                        "id": 265267,
+                        "age": 34,
+                        "optaId": "100645",
+                        "name": "Miguel Bianconi",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "firstName": "Miguel",
+                        "lastName": "Bianconi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1787520,
+                        "age": 30,
+                        "optaId": "246096",
+                        "name": "Yan Silva",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Yan",
+                        "lastName": "Silva",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1192445,
+                        "age": 24,
+                        "optaId": "517001",
+                        "name": "Jo\u00e3o Victor",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 55
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Jo\u00e3o",
+                        "lastName": "Victor",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1472631,
+                        "age": 33,
+                        "optaId": "532220",
+                        "name": "Lucas Santos",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Lucas",
+                        "lastName": "Santos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 846040,
+                        "age": 30,
+                        "optaId": "245879",
+                        "name": "Frazan",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "firstName": "",
+                        "lastName": "Frazan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 556756,
+                        "age": 32,
+                        "optaId": "192164",
+                        "name": "Gabriel Dias",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 89605,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Gabriel",
+                        "lastName": "Dias",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1443835,
+                        "age": 24,
+                        "optaId": "481000",
+                        "name": "Richard",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 77,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Richard",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1725886,
+                    "age": 39,
+                    "name": "Matheus Silva Ferreira da Costa",
+                    "countryName": "Brazil",
+                    "countryCode": "BRA",
+                    "firstName": "Matheus Silva Ferreira",
+                    "lastName": "da Costa",
+                    "primaryTeamId": 581840,
+                    "primaryTeamName": "Inter de Limeira",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 936589,
+                        "age": 29,
+                        "optaId": "206805",
+                        "name": "Get\u00falio",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 198016,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 85
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 58,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "",
+                        "lastName": "Get\u00falio",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1297331,
+                        "age": 25,
+                        "optaId": "502540",
+                        "name": "Claudinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 58,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "",
+                        "lastName": "Claudinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1462835,
+                        "age": 32,
+                        "optaId": "245877",
+                        "name": "Romarinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Romarinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1611192,
+                        "age": 25,
+                        "optaId": "646457",
+                        "name": "Lucas Buchecha",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 124116,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Lucas",
+                        "lastName": "Buchecha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 950187,
+                        "age": 31,
+                        "optaId": "227058",
+                        "name": "Rafael Oller",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 77,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Rafael",
+                        "lastName": "Oller",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1651427,
+                        "age": 33,
+                        "optaId": "532199",
+                        "name": "Robson",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Robson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785776,
+                        "age": 26,
+                        "optaId": "613115",
+                        "name": "L\u00e9o Para\u00edso",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "L\u00e9o",
+                        "lastName": "Para\u00edso",
+                        "rankings": null
+                    },
+                    {
+                        "id": 535931,
+                        "age": 32,
+                        "optaId": "178098",
+                        "name": "Ronaldo Henrique",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Ronaldo",
+                        "lastName": "Henrique",
+                        "rankings": null
+                    },
+                    {
+                        "id": 791923,
+                        "age": 30,
+                        "optaId": "228602",
+                        "name": "Gustavo Bochecha",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "firstName": "Gustavo",
+                        "lastName": "Bochecha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 266066,
+                        "age": 34,
+                        "optaId": "101223",
+                        "name": "Emerson Santos",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 84140,
+                        "firstName": "Emerson",
+                        "lastName": "Santos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 816009,
+                        "age": 27,
+                        "optaId": "244673",
+                        "name": "Robinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 104220,
+                        "firstName": "",
+                        "lastName": "Robinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "age": 40,
+                        "optaId": "49571",
+                        "name": "Saulo",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Saulo",
+                        "shortName": 0,
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 28.3
+            },
+            "awayTeam": {
+                "id": 509487,
+                "name": "Maringa FC",
+                "starters": [
+                    {
+                        "id": 1665458,
+                        "age": 25,
+                        "optaId": "533842",
+                        "name": "Ronald Camar\u00e3o",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 21
+                                }
+                            ]
+                        },
+                        "firstName": "Ronald",
+                        "lastName": "Camar\u00e3o",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1722605,
+                        "age": 22,
+                        "optaId": "695687",
+                        "name": "Cau\u00e3 Tavares",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Cau\u00e3",
+                        "lastName": "Tavares",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1558071,
+                        "age": 25,
+                        "optaId": "13",
+                        "name": "Gabriel Santos Queiroz Travassos",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Gabriel Santos Queiroz",
+                        "lastName": "Travassos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1291619,
+                        "age": 27,
+                        "optaId": "545560",
+                        "name": "Paulinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 199268,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 82
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Paulinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1744859,
+                        "age": 31,
+                        "optaId": "193092",
+                        "name": "Neto",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Neto",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1235681,
+                        "age": 25,
+                        "optaId": "532204",
+                        "name": "Ca\u00edque C\u00e1lito",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 59
+                                },
+                                {
+                                    "type": "yellowCard",
+                                    "time": 60
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 67
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 2
+                        },
+                        "firstName": "Ca\u00edque",
+                        "lastName": "C\u00e1lito",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1658737,
+                        "age": 28,
+                        "optaId": "609114",
+                        "name": "Adeilson Maranh\u00e3o",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Adeilson",
+                        "lastName": "Maranh\u00e3o",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1462430,
+                        "age": 30,
+                        "optaId": "501259",
+                        "name": "Wendel Lomar",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Wendel",
+                        "lastName": "Lomar",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1755873,
+                        "age": 23,
+                        "optaId": "695173",
+                        "name": "Gabriel Souza",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 336526,
+                        "firstName": "Gabriel",
+                        "lastName": "Souza",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1267067,
+                        "age": 23,
+                        "optaId": "532392",
+                        "name": "Kelvi",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Kelvi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1474804,
+                        "age": 25,
+                        "optaId": "632985",
+                        "name": "Edison Negueba",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 394803,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 85,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Edison",
+                        "lastName": "Negueba",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1905771,
+                    "age": 49,
+                    "name": "Mois\u00e9s Egert",
+                    "countryName": "Brazil",
+                    "countryCode": "BRA",
+                    "firstName": "Mois\u00e9s",
+                    "lastName": "Egert",
+                    "primaryTeamId": 509487,
+                    "primaryTeamName": "Maringa FC",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1460543,
+                        "age": 24,
+                        "optaId": "532303",
+                        "name": "Thiago Rosa",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 118294,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 82
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Thiago",
+                        "lastName": "Rosa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1337207,
+                        "age": 25,
+                        "optaId": "533201",
+                        "name": "Guilherme Pira",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                },
+                                {
+                                    "time": 70,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Guilherme",
+                        "lastName": "Pira",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1285599,
+                        "age": 31,
+                        "optaId": "475158",
+                        "name": "Giovane",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Giovane",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1463352,
+                        "age": 23,
+                        "optaId": "509718",
+                        "name": "Danielzinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Danielzinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1462827,
+                        "age": 26,
+                        "optaId": "617760",
+                        "name": "Iago Santana",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 85,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Iago",
+                        "lastName": "Santana",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1908915,
+                        "age": 25,
+                        "optaId": "734268",
+                        "name": "Rom\u00e1rio",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Rom\u00e1rio",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1791655,
+                        "age": 21,
+                        "optaId": "683914",
+                        "name": "Wallace",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Wallace",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1509079,
+                        "age": 26,
+                        "optaId": "625338",
+                        "name": "Rafinha",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 284109,
+                        "firstName": "",
+                        "lastName": "Rafinha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1249270,
+                        "age": 28,
+                        "optaId": "232561",
+                        "name": "Ignacio Neira",
+                        "countryName": "Uruguay",
+                        "countryCode": "URU",
+                        "marketValue": 187935,
+                        "firstName": "Ignacio",
+                        "lastName": "Neira",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1634623,
+                        "age": 22,
+                        "optaId": "648589",
+                        "name": "Bruno Cheron",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Bruno",
+                        "lastName": "Cheron",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1734153,
+                        "age": 21,
+                        "optaId": "656524",
+                        "name": "Rai",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Rai",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.3
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "8971",
+            "url": "https://data.fotmob.com/tables.ext.8971.fot.gz",
+            "teams": [
+                581840,
+                509487
+            ],
+            "tournamentNameForUrl": "Brazilian Serie C",
+            "parentLeagueId": 8971,
+            "countryCode": "BRA"
+        },
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "inter-de-limeira-vs-maringa-fc",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000009451",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Inter de Limeira",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/581840.png",
+                "url": "https://www.fotmob.com/teams/581840/overview/inter-de-limeira",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Maringa FC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/509487.png",
+                "url": "https://www.fotmob.com/teams/509487/overview/maringa-fc",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Inter de Limeira vs Maringa FC",
+            "description": "Follow Inter de Limeira vs Maringa FC live on fotmob.com",
+            "startDate": "2026-06-27T14:00:00.000Z",
+            "endDate": "2026-06-27T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Est\u00e1dio Major Jos\u00e9 Levy Sobrinho",
+                "latitude": -22.555302525,
+                "longitude": -47.3850739,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Brazil",
+                    "addressLocality": "Limeira, S\u00e3o Paulo"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/581840.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/509487.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000009451",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Inter de Limeira",
+                    "url": "https://www.fotmob.com/teams/581840/overview/inter-de-limeira"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Maringa FC",
+                    "url": "https://www.fotmob.com/teams/509487/overview/maringa-fc"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Inter de Limeira - Maringa FC",
+                        "item": "https://www.fotmob.com/match/1000009451"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Maringa FC",
+                        "item": "https://www.fotmob.com/teams/509487/overview/maringa-fc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Inter de Limeira - Maringa FC",
+                        "item": "https://www.fotmob.com/match/1000009451"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Inter de Limeira",
+                        "item": "https://www.fotmob.com/teams/581840/overview/inter-de-limeira"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Inter de Limeira - Maringa FC",
+                        "item": "https://www.fotmob.com/match/1000009451"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Inter de Limeira and Maringa FC on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Inter de Limeira vs Maringa FC on Sat, 27 Jun 2026 14:00:00 GMT ended in a 2\u20132 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

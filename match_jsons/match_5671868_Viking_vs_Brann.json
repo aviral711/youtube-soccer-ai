@@ -1,0 +1,2422 @@
+{
+    "general": {
+        "matchId": "5671868",
+        "matchName": "Viking-vs-Brann_Sat, Jun 27, 2026, 12:00 UTC",
+        "matchRound": "1/2",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#E00810"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#f91204"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 333,
+        "leagueName": "NM Kvinner",
+        "leagueRoundName": "1/2",
+        "parentLeagueId": 333,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Viking",
+            "id": 1267364
+        },
+        "awayTeam": {
+            "name": "Brann",
+            "id": 4182
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Viking",
+                "id": 1267364,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1267364_small.png",
+                "pageUrl": "/teams/1267364/overview/viking"
+            },
+            {
+                "name": "Brann",
+                "id": 4182,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4182_small.png",
+                "pageUrl": "/teams/4182/overview/brann"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 14:00:28",
+                "firstHalfEnded": "27.06.2026 14:48:51",
+                "secondHalfStarted": "27.06.2026 15:03:57",
+                "secondHalfEnded": "27.06.2026 15:52:55",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 15:52:55"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "0 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {},
+            "awayTeamGoals": {
+                "Lehtola": [
+                    {
+                        "reactKey": "1421593254Goal1179671undefinedfalse",
+                        "timeStr": 54,
+                        "type": "Goal",
+                        "time": 54,
+                        "overloadTime": null,
+                        "eventId": 14215932,
+                        "player": {
+                            "id": 1179671,
+                            "name": "Nea Lehtola",
+                            "profileUrl": "/players/1179671/nea-lehtola"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1179671/nea-lehtola",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nea Lehtola",
+                        "firstName": "Nea",
+                        "lastName": "Lehtola",
+                        "fullName": "Nea Lehtola",
+                        "playerId": 1179671,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Josefine Birkelund",
+                        "assistProfileUrl": "/players/1247597/josefine-birkelund",
+                        "assistPlayerId": 1247597,
+                        "assistKey": "assist_by",
+                        "assistInput": "Josefine Birkelund"
+                    }
+                ],
+                "Eikeland": [
+                    {
+                        "reactKey": "1421605172Goal259503undefinedfalse",
+                        "timeStr": 72,
+                        "type": "Goal",
+                        "time": 72,
+                        "overloadTime": null,
+                        "eventId": 14216051,
+                        "player": {
+                            "id": 259503,
+                            "name": "Amalie Eikeland",
+                            "profileUrl": "/players/259503/amalie-eikeland"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/259503/amalie-eikeland",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Amalie Eikeland",
+                        "firstName": "Amalie",
+                        "lastName": "Eikeland",
+                        "fullName": "Amalie Eikeland",
+                        "playerId": 259503,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Haugland": [
+                    {
+                        "reactKey": "1421605476Goal536722undefinedfalse",
+                        "timeStr": 76,
+                        "type": "Goal",
+                        "time": 76,
+                        "overloadTime": null,
+                        "eventId": 14216054,
+                        "player": {
+                            "id": 536722,
+                            "name": "Karoline Haugland",
+                            "profileUrl": "/players/536722/karoline-haugland"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/536722/karoline-haugland",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Karoline Haugland",
+                        "firstName": "Karoline",
+                        "lastName": "Haugland",
+                        "fullName": "Karoline Haugland",
+                        "playerId": 536722,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Joanna Tynnil\u00e4",
+                        "assistProfileUrl": "/players/1180034/joanna-tynnila",
+                        "assistPlayerId": 1180034,
+                        "assistKey": "assist_by",
+                        "assistInput": "Joanna Tynnil\u00e4"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5671868,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1368752true",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Frederikke Holmberg",
+                                "id": "1368752",
+                                "profileUrl": "/players/1368752/frederikke-holmberg"
+                            },
+                            {
+                                "name": "Helene Broch",
+                                "id": "1257813",
+                                "profileUrl": "/players/1257813/helene-broch"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1668575true",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Frida Skoglund Pedersen",
+                                "id": "1668575",
+                                "profileUrl": "/players/1668575/frida-skoglund-pedersen"
+                            },
+                            {
+                                "name": "Nora Heggheim",
+                                "id": "1639250",
+                                "profileUrl": "/players/1639250/nora-heggheim"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421593254Goal1179671undefinedfalse",
+                        "timeStr": 54,
+                        "type": "Goal",
+                        "time": 54,
+                        "overloadTime": null,
+                        "eventId": 14215932,
+                        "player": {
+                            "id": 1179671,
+                            "name": "Nea Lehtola",
+                            "profileUrl": "/players/1179671/nea-lehtola"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1179671/nea-lehtola",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nea Lehtola",
+                        "firstName": "Nea",
+                        "lastName": "Lehtola",
+                        "fullName": "Nea Lehtola",
+                        "playerId": 1179671,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Josefine Birkelund",
+                        "assistProfileUrl": "/players/1247597/josefine-birkelund",
+                        "assistPlayerId": 1247597,
+                        "assistKey": "assist_by",
+                        "assistInput": "Josefine Birkelund"
+                    },
+                    {
+                        "reactKey": "undefined60SubstitutionNaN1359387false",
+                        "timeStr": 60,
+                        "type": "Substitution",
+                        "time": 60,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Carina Wik Alfredsen",
+                                "id": "1359387",
+                                "profileUrl": "/players/1359387/carina-wik-alfredsen"
+                            },
+                            {
+                                "name": "Anna Nerland Aahjem",
+                                "id": "1102296",
+                                "profileUrl": "/players/1102296/anna-nerland-aahjem"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined60SubstitutionNaN315922false",
+                        "timeStr": 60,
+                        "type": "Substitution",
+                        "time": 60,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Cecilie Kvamme",
+                                "id": "315922",
+                                "profileUrl": "/players/315922/cecilie-kvamme"
+                            },
+                            {
+                                "name": "Josefine Birkelund",
+                                "id": "1247597",
+                                "profileUrl": "/players/1247597/josefine-birkelund"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined68SubstitutionNaN1140231false",
+                        "timeStr": 68,
+                        "type": "Substitution",
+                        "time": 68,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Monica Nedg\u00e5rd Isaksen",
+                                "id": "1140231",
+                                "profileUrl": "/players/1140231/monica-nedgard-isaksen"
+                            },
+                            {
+                                "name": "Dilj\u00e1 Yr Zomers",
+                                "id": "1240245",
+                                "profileUrl": "/players/1240245/dilja-yr-zomers"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined68SubstitutionNaN1643287true",
+                        "timeStr": 68,
+                        "type": "Substitution",
+                        "time": 68,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Nora Rongved",
+                                "id": "1643287",
+                                "profileUrl": "/players/1643287/nora-rongved"
+                            },
+                            {
+                                "name": "Hanne S\u00e6thre Jakobsen",
+                                "id": "1624240",
+                                "profileUrl": "/players/1624240/hanne-saethre-jakobsen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined68SubstitutionNaN1165433true",
+                        "timeStr": 68,
+                        "type": "Substitution",
+                        "time": 68,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mille Aune",
+                                "id": "1165433",
+                                "profileUrl": "/players/1165433/mille-aune"
+                            },
+                            {
+                                "name": "Hedda Skadal",
+                                "id": "1731946",
+                                "profileUrl": "/players/1731946/hedda-skadal"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421605172Goal259503undefinedfalse",
+                        "timeStr": 72,
+                        "type": "Goal",
+                        "time": 72,
+                        "overloadTime": null,
+                        "eventId": 14216051,
+                        "player": {
+                            "id": 259503,
+                            "name": "Amalie Eikeland",
+                            "profileUrl": "/players/259503/amalie-eikeland"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/259503/amalie-eikeland",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Amalie Eikeland",
+                        "firstName": "Amalie",
+                        "lastName": "Eikeland",
+                        "fullName": "Amalie Eikeland",
+                        "playerId": 259503,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421605476Goal536722undefinedfalse",
+                        "timeStr": 76,
+                        "type": "Goal",
+                        "time": 76,
+                        "overloadTime": null,
+                        "eventId": 14216054,
+                        "player": {
+                            "id": 536722,
+                            "name": "Karoline Haugland",
+                            "profileUrl": "/players/536722/karoline-haugland"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/536722/karoline-haugland",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Karoline Haugland",
+                        "firstName": "Karoline",
+                        "lastName": "Haugland",
+                        "fullName": "Karoline Haugland",
+                        "playerId": 536722,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Joanna Tynnil\u00e4",
+                        "assistProfileUrl": "/players/1180034/joanna-tynnila",
+                        "assistPlayerId": 1180034,
+                        "assistKey": "assist_by",
+                        "assistInput": "Joanna Tynnil\u00e4"
+                    },
+                    {
+                        "reactKey": "undefined81SubstitutionNaN1313546false",
+                        "timeStr": 81,
+                        "type": "Substitution",
+                        "time": 81,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Tomine Svendheim",
+                                "id": "1313546",
+                                "profileUrl": "/players/1313546/tomine-svendheim"
+                            },
+                            {
+                                "name": "Nea Lehtola",
+                                "id": "1179671",
+                                "profileUrl": "/players/1179671/nea-lehtola"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined81SubstitutionNaN1727437false",
+                        "timeStr": 81,
+                        "type": "Substitution",
+                        "time": 81,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Stella Nyamekye",
+                                "id": "1727437",
+                                "profileUrl": "/players/1727437/stella-nyamekye"
+                            },
+                            {
+                                "name": "Karoline Haugland",
+                                "id": "536722",
+                                "profileUrl": "/players/536722/karoline-haugland"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined83SubstitutionNaN1624239true",
+                        "timeStr": 83,
+                        "type": "Substitution",
+                        "time": 83,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Vilde Bakke-Andersen",
+                                "id": "1624239",
+                                "profileUrl": "/players/1624239/vilde-bakke-andersen"
+                            },
+                            {
+                                "name": "Sofie Bj\u00f8rnsen",
+                                "id": "1165436",
+                                "profileUrl": "/players/1165436/sofie-bjornsen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Substitution",
+                    "Goal",
+                    "Assist"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 333,
+                    "parentLeagueId": 333,
+                    "link": "/leagues/333/overview/nm-kvinner",
+                    "leagueName": "NM Kvinner",
+                    "roundName": "1/2",
+                    "round": "1/2"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1439771_xsmall.png",
+                        "linkToMatch": "/matches/viking-vs-ik-start/1arcpaj7f#5647811",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1439771/overview/ik-start",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "Viking",
+                            "homeTeamId": 1267364,
+                            "homeScore": "3",
+                            "awayTeam": "IK Start",
+                            "awayTeamId": 1439771,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "1267364",
+                            "name": "Viking",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1439771",
+                            "name": "IK Start",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/624921_xsmall.png",
+                        "linkToMatch": "/matches/fyllingsdalen-vs-viking/muhhra9o#5189970",
+                        "date": {
+                            "utcTime": "2026-05-30T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/624921/overview/fyllingsdalen",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:00:00.000Z",
+                            "homeTeam": "Fyllingsdalen",
+                            "homeTeamId": 624921,
+                            "homeScore": "1",
+                            "awayTeam": "Viking",
+                            "awayTeamId": 1267364,
+                            "awayScore": "5"
+                        },
+                        "score": "1 - 5",
+                        "home": {
+                            "id": "624921",
+                            "name": "Fyllingsdalen",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1267364",
+                            "name": "Viking",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1353866_xsmall.png",
+                        "linkToMatch": "/matches/viking-vs-odds-ballklubb/17u7nyatf#5189975",
+                        "date": {
+                            "utcTime": "2026-06-13T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1353866/overview/odds-ballklubb",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T11:00:00.000Z",
+                            "homeTeam": "Odds Ballklubb",
+                            "homeTeamId": 1353866,
+                            "homeScore": "3",
+                            "awayTeam": "Viking",
+                            "awayTeamId": 1267364,
+                            "awayScore": "3"
+                        },
+                        "score": "3 - 3",
+                        "home": {
+                            "id": "1353866",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1267364",
+                            "name": "Viking",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/920414_xsmall.png",
+                        "linkToMatch": "/matches/honefoss-vs-viking/ujeyiwrl#5671522",
+                        "date": {
+                            "utcTime": "2026-06-16T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/920414/overview/honefoss",
+                        "tooltipText": {
+                            "utcTime": "2026-06-16T15:00:00.000Z",
+                            "homeTeam": "Viking",
+                            "homeTeamId": 1267364,
+                            "homeScore": "4",
+                            "awayTeam": "H\u00f8nefoss",
+                            "awayTeamId": 920414,
+                            "awayScore": "2"
+                        },
+                        "score": "4 - 2",
+                        "home": {
+                            "id": "1267364",
+                            "name": "Viking",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "920414",
+                            "name": "H\u00f8nefoss",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4497_xsmall.png",
+                        "linkToMatch": "/matches/kolbotn-vs-viking/abkc2hwo#5189986",
+                        "date": {
+                            "utcTime": "2026-06-21T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4497/overview/kolbotn",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T15:00:00.000Z",
+                            "homeTeam": "Viking",
+                            "homeTeamId": 1267364,
+                            "homeScore": "3",
+                            "awayTeam": "Kolbotn",
+                            "awayTeamId": 4497,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "1267364",
+                            "name": "Viking",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4497",
+                            "name": "Kolbotn",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
+                        "linkToMatch": "/matches/brann-vs-lyn-fotball/176tdz5c#5105366",
+                        "date": {
+                            "utcTime": "2026-05-26T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/429438/overview/lyn-fotball",
+                        "tooltipText": {
+                            "utcTime": "2026-05-26T16:00:00.000Z",
+                            "homeTeam": "Brann",
+                            "homeTeamId": 4182,
+                            "homeScore": "4",
+                            "awayTeam": "Lyn Fotball",
+                            "awayTeamId": 429438,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "4182",
+                            "name": "Brann",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "429438",
+                            "name": "Lyn Fotball",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4500_xsmall.png",
+                        "linkToMatch": "/matches/brann-vs-aalesund/mfzi3#5105377",
+                        "date": {
+                            "utcTime": "2026-05-30T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4500/overview/aalesund",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T12:00:00.000Z",
+                            "homeTeam": "Aalesund",
+                            "homeTeamId": 4500,
+                            "homeScore": "1",
+                            "awayTeam": "Brann",
+                            "awayTeamId": 4182,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "4500",
+                            "name": "Aalesund",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4182",
+                            "name": "Brann",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4507_xsmall.png",
+                        "linkToMatch": "/matches/brann-vs-valerenga/mhaf8#5105383",
+                        "date": {
+                            "utcTime": "2026-06-13T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4507/overview/valerenga",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T14:00:00.000Z",
+                            "homeTeam": "V\u00e5lerenga",
+                            "homeTeamId": 4507,
+                            "homeScore": "0",
+                            "awayTeam": "Brann",
+                            "awayTeamId": 4182,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "4507",
+                            "name": "V\u00e5lerenga",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4182",
+                            "name": "Brann",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/429438_xsmall.png",
+                        "linkToMatch": "/matches/brann-vs-lyn-fotball/176tdz5c#5671521",
+                        "date": {
+                            "utcTime": "2026-06-16T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/429438/overview/lyn-fotball",
+                        "tooltipText": {
+                            "utcTime": "2026-06-16T15:00:00.000Z",
+                            "homeTeam": "Lyn Fotball",
+                            "homeTeamId": 429438,
+                            "homeScore": "0",
+                            "awayTeam": "Brann",
+                            "awayTeamId": 4182,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "429438",
+                            "name": "Lyn Fotball",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4182",
+                            "name": "Brann",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4486_xsmall.png",
+                        "linkToMatch": "/matches/brann-vs-lsk-kvinner/mddrw#5105384",
+                        "date": {
+                            "utcTime": "2026-06-21T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4486/overview/lsk-kvinner",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T12:00:00.000Z",
+                            "homeTeam": "Brann",
+                            "homeTeamId": 4182,
+                            "homeScore": "0",
+                            "awayTeam": "LSK Kvinner",
+                            "awayTeamId": 4486,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "4182",
+                            "name": "Brann",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4486",
+                            "name": "LSK Kvinner",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5671868",
+                    "MatchId": 5671868,
+                    "HomeTeamId": 1267364,
+                    "AwayTeamId": 4182,
+                    "HomeTeam": "Viking (W)",
+                    "AwayTeam": "Brann (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in their last {2} matches, and {1} in their last {3}.",
+                            "TextTemplateId": "undefeated_both_unequal",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "7",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Viking (W) haven't lost in their last 7 matches, and Brann (W) in their last 12."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Viking (W) have scored in their last 7 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "10",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Viking (W) have scored 10 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "4",
+                                "1",
+                                "0",
+                                "away_team",
+                                "4",
+                                "1",
+                                "0"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Viking (W) have 4W, 1D, 0L in five matches while Brann (W) have 4W, 1D, 0L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1267364,
+                    "priority": 1343,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 7 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4182,
+                    "priority": 1343,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 21,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 21 matches",
+                    "color": "#f91204"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Viking and Brann on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "answer": "Brann won 3\u20130 over Viking on Sat, 27 Jun 2026 12:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        49,
+                                        51
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        2,
+                                        16
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        1,
+                                        12
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        0,
+                                        12
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#DDDDDD",
+                            "away": "#E00810"
+                        },
+                        "lightMode": {
+                            "home": "#333333",
+                            "away": "#f91204"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(29, 29, 29, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5671868,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 1267364,
+                "name": "Viking",
+                "formation": "3-4-3",
+                "starters": [
+                    {
+                        "id": 1933766,
+                        "age": 23,
+                        "name": "Hannah Markussen",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "firstName": "Hannah",
+                        "lastName": "Markussen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1257813,
+                        "age": 23,
+                        "name": "Helene Broch",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Helene",
+                        "lastName": "Broch",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1165442,
+                        "age": 22,
+                        "name": "Ida Hetland Pedersen",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Ida Hetland",
+                        "lastName": "Pedersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1671025,
+                        "age": 21,
+                        "name": "Helle Aune",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Helle",
+                        "lastName": "Aune",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1176553,
+                        "age": 22,
+                        "name": "Selma L\u00f8v\u00e5s",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Selma",
+                        "lastName": "L\u00f8v\u00e5s",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1731946,
+                        "age": 20,
+                        "name": "Hedda Skadal",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "16",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hedda",
+                        "lastName": "Skadal",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1165436,
+                        "age": 22,
+                        "name": "Sofie Bj\u00f8rnsen",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "6",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Sofie",
+                        "lastName": "Bj\u00f8rnsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 761697,
+                        "age": 26,
+                        "name": "Marie Andresen",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Marie",
+                        "lastName": "Andresen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1624240,
+                        "age": 24,
+                        "name": "Hanne S\u00e6thre Jakobsen",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hanne S\u00e6thre",
+                        "lastName": "Jakobsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1639250,
+                        "age": 24,
+                        "name": "Nora Heggheim",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "10",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Nora",
+                        "lastName": "Heggheim",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1626434,
+                        "age": 27,
+                        "name": "Martine Kj\u00f8lholdt",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "11",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Martine",
+                        "lastName": "Kj\u00f8lholdt",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1368752,
+                        "age": 23,
+                        "name": "Frederikke Holmberg",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Frederikke",
+                        "lastName": "Holmberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1668575,
+                        "age": 23,
+                        "name": "Frida Skoglund Pedersen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Frida Skoglund",
+                        "lastName": "Pedersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1165433,
+                        "age": 23,
+                        "name": "Mille Aune",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mille",
+                        "lastName": "Aune",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1643287,
+                        "age": 20,
+                        "name": "Nora Rongved",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Nora",
+                        "lastName": "Rongved",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1624239,
+                        "age": 22,
+                        "name": "Vilde Bakke-Andersen",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Vilde",
+                        "lastName": "Bakke-Andersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2057841,
+                        "name": "Aasa Forbord Bergsroenning",
+                        "shirtNumber": "21",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Aasa Forbord",
+                        "lastName": "Bergsroenning",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1933765,
+                        "age": 26,
+                        "name": "Beate Engeli",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Beate",
+                        "lastName": "Engeli",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1933767,
+                        "age": 18,
+                        "name": "Mathilde Voll",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Mathilde",
+                        "lastName": "Voll",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1800448,
+                        "age": 16,
+                        "name": "Davis Lundhaug",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "14",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Davis",
+                        "lastName": "Lundhaug",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 23.6
+            },
+            "awayTeam": {
+                "id": 4182,
+                "name": "Brann",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 1247602,
+                        "age": 23,
+                        "name": "Selma Panengstuen",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "firstName": "Selma",
+                        "lastName": "Panengstuen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1247597,
+                        "age": 21,
+                        "name": "Josefine Birkelund",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "20",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 54
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Josefine",
+                        "lastName": "Birkelund",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1076676,
+                        "age": 24,
+                        "name": "Mia Authen",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Mia",
+                        "lastName": "Authen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1180034,
+                        "age": 24,
+                        "name": "Joanna Tynnil\u00e4",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "30",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 76
+                                }
+                            ]
+                        },
+                        "firstName": "Joanna",
+                        "lastName": "Tynnil\u00e4",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1179671,
+                        "age": 27,
+                        "name": "Nea Lehtola",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 54
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Nea",
+                        "lastName": "Lehtola",
+                        "rankings": null
+                    },
+                    {
+                        "id": 259503,
+                        "age": 30,
+                        "name": "Amalie Eikeland",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 72
+                                }
+                            ]
+                        },
+                        "firstName": "Amalie",
+                        "lastName": "Eikeland",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1256415,
+                        "age": 26,
+                        "name": "Emma Peuhkurinen",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "28",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Emma",
+                        "lastName": "Peuhkurinen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 536722,
+                        "age": 28,
+                        "name": "Karoline Haugland",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 76
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Karoline",
+                        "lastName": "Haugland",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1102296,
+                        "age": 26,
+                        "name": "Anna Nerland Aahjem",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Anna Nerland",
+                        "lastName": "Aahjem",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1463402,
+                        "age": 29,
+                        "name": "Brenna Lovera",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "13",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Brenna",
+                        "lastName": "Lovera",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1240245,
+                        "age": 24,
+                        "name": "Dilj\u00e1 Yr Zomers",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "16",
+                        "countryName": "Iceland",
+                        "countryCode": "ISL",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Dilj\u00e1 Yr",
+                        "lastName": "Zomers",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1664535,
+                    "name": "Laura Kaminski",
+                    "countryName": "England",
+                    "countryCode": "ENG",
+                    "firstName": "Laura",
+                    "lastName": "Kaminski",
+                    "primaryTeamId": 4182,
+                    "primaryTeamName": "Brann",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 315922,
+                        "age": 30,
+                        "name": "Cecilie Kvamme",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Cecilie",
+                        "lastName": "Kvamme",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1359387,
+                        "age": 19,
+                        "name": "Carina Wik Alfredsen",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Carina Wik",
+                        "lastName": "Alfredsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1140231,
+                        "age": 22,
+                        "name": "Monica Nedg\u00e5rd Isaksen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Monica Nedg\u00e5rd",
+                        "lastName": "Isaksen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1313546,
+                        "age": 20,
+                        "name": "Tomine Svendheim",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Tomine",
+                        "lastName": "Svendheim",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1727437,
+                        "age": 20,
+                        "name": "Stella Nyamekye",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "90",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Stella",
+                        "lastName": "Nyamekye",
+                        "rankings": null
+                    },
+                    {
+                        "id": 574891,
+                        "age": 30,
+                        "name": "Sandra Stavenes",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "21",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Sandra",
+                        "lastName": "Stavenes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 257118,
+                        "age": 31,
+                        "name": "Ingrid \u00d8stervold Stenevik",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Ingrid \u00d8stervold",
+                        "lastName": "Stenevik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1692186,
+                        "age": 19,
+                        "name": "Maren Johnsen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "32",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Maren",
+                        "lastName": "Johnsen",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.2
+            }
+        },
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "viking-vs-brann",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5671868",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Viking",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1267364.png",
+                "url": "https://www.fotmob.com/teams/1267364/overview/viking",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Brann",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4182.png",
+                "url": "https://www.fotmob.com/teams/4182/overview/brann",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Viking vs Brann",
+            "description": "Follow Viking vs Brann live on fotmob.com",
+            "startDate": "2026-06-27T12:00:00.000Z",
+            "endDate": "2026-06-27T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1267364.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4182.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5671868",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Viking",
+                    "url": "https://www.fotmob.com/teams/1267364/overview/viking"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Brann",
+                    "url": "https://www.fotmob.com/teams/4182/overview/brann"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "NM Kvinner",
+                        "item": "https://www.fotmob.com/leagues/333/overview/nm-kvinner"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Viking - Brann",
+                        "item": "https://www.fotmob.com/match/5671868"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "NM Kvinner",
+                        "item": "https://www.fotmob.com/leagues/333/overview/nm-kvinner"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Brann",
+                        "item": "https://www.fotmob.com/teams/4182/overview/brann"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Viking - Brann",
+                        "item": "https://www.fotmob.com/match/5671868"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "NM Kvinner",
+                        "item": "https://www.fotmob.com/leagues/333/overview/nm-kvinner"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Viking",
+                        "item": "https://www.fotmob.com/teams/1267364/overview/viking"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Viking - Brann",
+                        "item": "https://www.fotmob.com/match/5671868"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Viking and Brann on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Brann won 3\u20130 over Viking on Sat, 27 Jun 2026 12:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

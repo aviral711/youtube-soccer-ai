@@ -1,0 +1,3210 @@
+{
+    "general": {
+        "matchId": "5105185",
+        "matchName": "\u00c5sane-vs-Ranheim_Sat, Jun 27, 2026, 14:00 UTC",
+        "matchRound": "13",
+        "teamColors": {
+            "darkMode": {
+                "home": "#ff8e44",
+                "away": "#006DB5"
+            },
+            "lightMode": {
+                "home": "#F4742A",
+                "away": "#006DB5"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 203,
+        "leagueName": "1. Divisjon",
+        "leagueRoundName": "13",
+        "parentLeagueId": 203,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "\u00c5sane",
+            "id": 10021
+        },
+        "awayTeam": {
+            "name": "Ranheim",
+            "id": 6563
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "\u00c5sane",
+                "id": 10021,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10021_small.png",
+                "pageUrl": "/teams/10021/overview/asane"
+            },
+            {
+                "name": "Ranheim",
+                "id": 6563,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563_small.png",
+                "pageUrl": "/teams/6563/overview/ranheim"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 16:00:08",
+                "firstHalfEnded": "27.06.2026 16:45:05",
+                "secondHalfStarted": "27.06.2026 17:01:16",
+                "secondHalfEnded": "27.06.2026 17:53:16",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 17:53:16"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 0",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "M.\u00a0Haga": [
+                    {
+                        "reactKey": "1421644750Goal1373302undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14216447,
+                        "player": {
+                            "id": 1373302,
+                            "name": "Magnus Haga",
+                            "profileUrl": "/players/1373302/magnus-haga"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1373302/magnus-haga",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Magnus Haga",
+                        "firstName": "Magnus",
+                        "lastName": "Haga",
+                        "fullName": "Magnus Haga",
+                        "playerId": 1373302,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421661979Goal1373302undefinedtrue",
+                        "timeStr": 79,
+                        "type": "Goal",
+                        "time": 79,
+                        "overloadTime": null,
+                        "eventId": 14216619,
+                        "player": {
+                            "id": 1373302,
+                            "name": "Magnus Haga",
+                            "profileUrl": "/players/1373302/magnus-haga"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1373302/magnus-haga",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Magnus Haga",
+                        "firstName": "Magnus",
+                        "lastName": "Haga",
+                        "fullName": "Magnus Haga",
+                        "playerId": 1373302,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Rossi": [
+                    {
+                        "reactKey": "1421675390Goal1405565undefinedtrue",
+                        "timeStr": "90 + 6",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 6,
+                        "eventId": 14216753,
+                        "player": {
+                            "id": 1405565,
+                            "name": "Leonardo Rossi",
+                            "profileUrl": "/players/1405565/leonardo-rossi"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1405565/leonardo-rossi",
+                        "overloadTimeStr": "+6",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leonardo Rossi",
+                        "firstName": "Leonardo",
+                        "lastName": "Rossi",
+                        "fullName": "Leonardo Rossi",
+                        "playerId": 1405565,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sverre Haga",
+                        "assistProfileUrl": "/players/1281209/sverre-haga",
+                        "assistPlayerId": 1281209,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sverre Haga"
+                    }
+                ]
+            },
+            "awayTeamGoals": {},
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "liveticker",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5105185,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421644750Goal1373302undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14216447,
+                        "player": {
+                            "id": 1373302,
+                            "name": "Magnus Haga",
+                            "profileUrl": "/players/1373302/magnus-haga"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1373302/magnus-haga",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Magnus Haga",
+                        "firstName": "Magnus",
+                        "lastName": "Haga",
+                        "fullName": "Magnus Haga",
+                        "playerId": 1373302,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421697858Card842775undefinedtrue",
+                        "timeStr": 58,
+                        "type": "Card",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14216978,
+                        "player": {
+                            "id": 842775,
+                            "name": "Malvin Ingebrigtsen",
+                            "profileUrl": "/players/842775/malvin-ingebrigtsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/842775/malvin-ingebrigtsen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Malvin Ingebrigtsen",
+                        "firstName": "Malvin",
+                        "lastName": "Ingebrigtsen",
+                        "fullName": "Malvin Ingebrigtsen",
+                        "playerId": 842775,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined63SubstitutionNaN1413148false",
+                        "timeStr": 63,
+                        "type": "Substitution",
+                        "time": 63,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jon Berisha",
+                                "id": "1413148",
+                                "profileUrl": "/players/1413148/jon-berisha"
+                            },
+                            {
+                                "name": "Seydina Diop",
+                                "id": "1680293",
+                                "profileUrl": "/players/1680293/seydina-diop"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined63SubstitutionNaN1145728false",
+                        "timeStr": 63,
+                        "type": "Substitution",
+                        "time": 63,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Franklin Nyenetue",
+                                "id": "1145728",
+                                "profileUrl": "/players/1145728/franklin-nyenetue"
+                            },
+                            {
+                                "name": "Oliver Kvendb\u00f8 Holden",
+                                "id": "1524185",
+                                "profileUrl": "/players/1524185/oliver-kvendbo-holden"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1145715false",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "H\u00e5kon Gangstad",
+                                "id": "1145715",
+                                "profileUrl": "/players/1145715/hakon-gangstad"
+                            },
+                            {
+                                "name": "Andreas Solstrand Fossli",
+                                "id": "739776",
+                                "profileUrl": "/players/739776/andreas-solstrand-fossli"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1946575false",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Maurice Sylva",
+                                "id": "1946575",
+                                "profileUrl": "/players/1946575/maurice-sylva"
+                            },
+                            {
+                                "name": "Gjermund \u00c5sen",
+                                "id": "99702",
+                                "profileUrl": "/players/99702/gjermund-asen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined72SubstitutionNaN917835true",
+                        "timeStr": 72,
+                        "type": "Substitution",
+                        "time": 72,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Herman Geelmuyden",
+                                "id": "917835",
+                                "profileUrl": "/players/917835/herman-geelmuyden"
+                            },
+                            {
+                                "name": "Einar Iversen",
+                                "id": "1086711",
+                                "profileUrl": "/players/1086711/einar-iversen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined72SubstitutionNaN1281209true",
+                        "timeStr": 72,
+                        "type": "Substitution",
+                        "time": 72,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Sverre Haga",
+                                "id": "1281209",
+                                "profileUrl": "/players/1281209/sverre-haga"
+                            },
+                            {
+                                "name": "Malte Fismen",
+                                "id": "1769419",
+                                "profileUrl": "/players/1769419/malte-fismen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421661979Goal1373302undefinedtrue",
+                        "timeStr": 79,
+                        "type": "Goal",
+                        "time": 79,
+                        "overloadTime": null,
+                        "eventId": 14216619,
+                        "player": {
+                            "id": 1373302,
+                            "name": "Magnus Haga",
+                            "profileUrl": "/players/1373302/magnus-haga"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1373302/magnus-haga",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Magnus Haga",
+                        "firstName": "Magnus",
+                        "lastName": "Haga",
+                        "fullName": "Magnus Haga",
+                        "playerId": 1373302,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN1405565true",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Leonardo Rossi",
+                                "id": "1405565",
+                                "profileUrl": "/players/1405565/leonardo-rossi"
+                            },
+                            {
+                                "name": "Magnus Haga",
+                                "id": "1373302",
+                                "profileUrl": "/players/1373302/magnus-haga"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined83SubstitutionNaN1736182false",
+                        "timeStr": 83,
+                        "type": "Substitution",
+                        "time": 83,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Leander Skammelsrud",
+                                "id": "1736182",
+                                "profileUrl": "/players/1736182/leander-skammelsrud"
+                            },
+                            {
+                                "name": "Tage Bj\u00f8rdal Haukeberg",
+                                "id": "1046704",
+                                "profileUrl": "/players/1046704/tage-bjordal-haukeberg"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN743358true",
+                        "timeStr": "90 + 1",
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Sebastian Brudvik",
+                                "id": "743358",
+                                "profileUrl": "/players/743358/sebastian-brudvik"
+                            },
+                            {
+                                "name": "Tobias Luggenes Furebotn",
+                                "id": "1683853",
+                                "profileUrl": "/players/1683853/tobias-luggenes-furebotn"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421675390Goal1405565undefinedtrue",
+                        "timeStr": "90 + 6",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 6,
+                        "eventId": 14216753,
+                        "player": {
+                            "id": 1405565,
+                            "name": "Leonardo Rossi",
+                            "profileUrl": "/players/1405565/leonardo-rossi"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1405565/leonardo-rossi",
+                        "overloadTimeStr": "+6",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leonardo Rossi",
+                        "firstName": "Leonardo",
+                        "lastName": "Rossi",
+                        "fullName": "Leonardo Rossi",
+                        "playerId": 1405565,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sverre Haga",
+                        "assistProfileUrl": "/players/1281209/sverre-haga",
+                        "assistPlayerId": 1281209,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sverre Haga"
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Goal",
+                    "Card",
+                    "Substitution",
+                    "Assist",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 203,
+                    "parentLeagueId": 203,
+                    "link": "/leagues/203/overview/1-divisjon",
+                    "leagueName": "1. Divisjon",
+                    "roundName": "13",
+                    "round": "13"
+                },
+                "Stadium": {
+                    "name": "\u00c5sane Arena",
+                    "city": "Bergen",
+                    "country": "Norway",
+                    "lat": 60.470790915,
+                    "long": 5.314757679,
+                    "capacity": 3507,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/nor.png",
+                    "text": "Ole-Alexander Ekeli Valen",
+                    "countryCode": "NOR",
+                    "country": "Norway"
+                },
+                "Attendance": 317
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8133_xsmall.png",
+                        "linkToMatch": "/matches/sandnes-ulf-vs-asane/2q49bg#5105145",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8133/overview/sandnes-ulf",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "\u00c5sane",
+                            "homeTeamId": 10021,
+                            "homeScore": "2",
+                            "awayTeam": "Sandnes Ulf",
+                            "awayTeamId": 8133,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9812_xsmall.png",
+                        "linkToMatch": "/matches/raufoss-vs-asane/393tt5#5105153",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9812/overview/raufoss",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "\u00c5sane",
+                            "homeTeamId": 10021,
+                            "homeScore": "3",
+                            "awayTeam": "Raufoss",
+                            "awayTeamId": 9812,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9812",
+                            "name": "Raufoss",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8179_xsmall.png",
+                        "linkToMatch": "/matches/kongsvinger-vs-asane/2qm6jj#5105156",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8179/overview/kongsvinger",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "Kongsvinger",
+                            "homeTeamId": 8179,
+                            "homeScore": "3",
+                            "awayTeam": "\u00c5sane",
+                            "awayTeamId": 10021,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "8179",
+                            "name": "Kongsvinger",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7988_xsmall.png",
+                        "linkToMatch": "/matches/odds-ballklubb-vs-asane/2ok255#5105169",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7988/overview/odds-ballklubb",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "\u00c5sane",
+                            "homeTeamId": 10021,
+                            "homeScore": "2",
+                            "awayTeam": "Odds Ballklubb",
+                            "awayTeamId": 7988,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "7988",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8531_xsmall.png",
+                        "linkToMatch": "/matches/bryne-vs-asane/2ugtyn#5105170",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8531/overview/bryne",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Bryne",
+                            "homeTeamId": 8531,
+                            "homeScore": "1",
+                            "awayTeam": "\u00c5sane",
+                            "awayTeamId": 10021,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "8531",
+                            "name": "Bryne",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7988_xsmall.png",
+                        "linkToMatch": "/matches/ranheim-vs-odds-ballklubb/1r1eco#5105149",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7988/overview/odds-ballklubb",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "Odds Ballklubb",
+                            "homeTeamId": 7988,
+                            "homeScore": "3",
+                            "awayTeam": "Ranheim",
+                            "awayTeamId": 6563,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "7988",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8133_xsmall.png",
+                        "linkToMatch": "/matches/ranheim-vs-sandnes-ulf/1saumx#5105159",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8133/overview/sandnes-ulf",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "Ranheim",
+                            "homeTeamId": 6563,
+                            "homeScore": "5",
+                            "awayTeam": "Sandnes Ulf",
+                            "awayTeamId": 8133,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4249_xsmall.png",
+                        "linkToMatch": "/matches/strommen-vs-ranheim/yt1ah#5105087",
+                        "date": {
+                            "utcTime": "2026-06-07T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4249/overview/strommen",
+                        "tooltipText": {
+                            "utcTime": "2026-06-07T15:00:00.000Z",
+                            "homeTeam": "Ranheim",
+                            "homeTeamId": 6563,
+                            "homeScore": "2",
+                            "awayTeam": "Str\u00f8mmen",
+                            "awayTeamId": 4249,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4249",
+                            "name": "Str\u00f8mmen",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8512_xsmall.png",
+                        "linkToMatch": "/matches/ranheim-vs-fk-haugesund/1vns5y#5105162",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8512/overview/fk-haugesund",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "FK Haugesund",
+                            "homeTeamId": 8512,
+                            "homeScore": "4",
+                            "awayTeam": "Ranheim",
+                            "awayTeamId": 6563,
+                            "awayScore": "1"
+                        },
+                        "score": "4 - 1",
+                        "home": {
+                            "id": "8512",
+                            "name": "FK Haugesund",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10224_xsmall.png",
+                        "linkToMatch": "/matches/ranheim-vs-lyn/2bwbz5#5105175",
+                        "date": {
+                            "utcTime": "2026-06-19T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10224/overview/lyn",
+                        "tooltipText": {
+                            "utcTime": "2026-06-19T17:00:00.000Z",
+                            "homeTeam": "Ranheim",
+                            "homeTeamId": 6563,
+                            "homeScore": "3",
+                            "awayTeam": "Lyn",
+                            "awayTeamId": 10224,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10224",
+                            "name": "Lyn",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5105185",
+                    "MatchId": 5105185,
+                    "HomeTeamId": 10021,
+                    "AwayTeamId": 6563,
+                    "HomeTeam": "\u00c5sane",
+                    "AwayTeam": "Ranheim",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "0",
+                                "2",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "\u00c5sane have 3W, 0D, 2L in five matches while Ranheim have 2W, 1D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "\u00c5sane have scored in their last 3 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "3",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "\u00c5sane have scored 3 goals in their last 3 matches, while Ranheim have scored 6."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "\u00c5sane haven't drawn in their last 5 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 10021,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#F4742A"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 10021,
+                    "priority": 6,
+                    "defaultText": "{0} and {1} have not drawn any of their last {2} matches against each other.",
+                    "localizedTextId": "h2h_no_draws_v2",
+                    "statValues": [
+                        {
+                            "value": 10021,
+                            "name": "\u00c5sane",
+                            "type": "team"
+                        },
+                        {
+                            "value": 6563,
+                            "name": "Ranheim",
+                            "type": "team"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "\u00c5sane and Ranheim have not drawn any of their last 3 matches against each other.",
+                    "color": "#F4742A"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 6563,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 12,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 12 goals in their last 5 matches",
+                    "color": "#006DB5"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 6563,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 8 matches",
+                    "color": "#006DB5"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between \u00c5sane and Ranheim on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "answer": "\u00c5sane won 3\u20130 over Ranheim on Sat, 27 Jun 2026 14:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": {
+            "langs": "de_gen,en_gen,nb",
+            "teams": [
+                "\u00c5sane",
+                "Ranheim"
+            ]
+        },
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        39,
+                                        61
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        6,
+                                        13
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        4,
+                                        3
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        3,
+                                        12
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#ff8e44",
+                            "away": "#006DB5"
+                        },
+                        "lightMode": {
+                            "home": "#F4742A",
+                            "away": "#006DB5"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(29, 29, 29, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 18,
+            "windSpeed": 7,
+            "windDirectionCardinal": "S",
+            "iconCode": 26,
+            "relativeHumidity": 86,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 85,
+            "description": "Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T15:30:00Z",
+            "localizedKey": "weather_condition_cloudy",
+            "defaultTitle": "Cloudy"
+        },
+        "lineup": {
+            "matchId": 5105185,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 10021,
+                "name": "\u00c5sane",
+                "formation": "5-4-1",
+                "starters": [
+                    {
+                        "id": 1279385,
+                        "age": 22,
+                        "name": "Storm Strand-Kolbj\u00f8rnsen",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "24",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 197936,
+                        "firstName": "Storm",
+                        "lastName": "Strand-Kolbj\u00f8rnsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 842775,
+                        "age": 27,
+                        "name": "Malvin Ingebrigtsen",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "25",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 107094,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 58
+                                }
+                            ]
+                        },
+                        "firstName": "Malvin",
+                        "lastName": "Ingebrigtsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1086711,
+                        "age": 25,
+                        "name": "Einar Iversen",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "England",
+                        "countryCode": "ENG",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 196852,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Einar",
+                        "lastName": "Iversen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1682102,
+                        "age": 24,
+                        "name": "Hassou Diaby",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Senegal",
+                        "countryCode": "SEN",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 72000,
+                        "firstName": "Hassou",
+                        "lastName": "Diaby",
+                        "rankings": null
+                    },
+                    {
+                        "id": 633738,
+                        "age": 27,
+                        "name": "Knut Haga",
+                        "positionId": 51,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "77",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 86149,
+                        "firstName": "Knut",
+                        "lastName": "Haga",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1377060,
+                        "age": 20,
+                        "name": "Filip Oprea",
+                        "positionId": 59,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "15",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 238138,
+                        "firstName": "Filip",
+                        "lastName": "Oprea",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1683853,
+                        "age": 20,
+                        "name": "Tobias Luggenes Furebotn",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Tobias Luggenes",
+                        "lastName": "Furebotn",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1167611,
+                        "age": 25,
+                        "name": "Ole Kallev\u00e5g",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "18",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 117351,
+                        "firstName": "Ole",
+                        "lastName": "Kallev\u00e5g",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1474509,
+                        "age": 18,
+                        "name": "Jesper Eikrem",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 843615,
+                        "firstName": "Jesper",
+                        "lastName": "Eikrem",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1373302,
+                        "age": 19,
+                        "name": "Magnus Haga",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "14",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 380724,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 79
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 50
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Magnus",
+                        "lastName": "Haga",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1769419,
+                        "age": 16,
+                        "name": "Malte Fismen",
+                        "positionId": 115,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "26",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Malte",
+                        "lastName": "Fismen",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 742375,
+                    "age": 37,
+                    "name": "Thomas Lyngb\u00f8",
+                    "countryName": "Norway",
+                    "countryCode": "NOR",
+                    "firstName": "Thomas",
+                    "lastName": "Lyngb\u00f8",
+                    "primaryTeamId": 10021,
+                    "primaryTeamName": "\u00c5sane",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1281209,
+                        "age": 22,
+                        "name": "Sverre Haga",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "45",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 141362,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 90
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Sverre",
+                        "lastName": "Haga",
+                        "rankings": null
+                    },
+                    {
+                        "id": 917835,
+                        "age": 24,
+                        "name": "Herman Geelmuyden",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 189607,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Herman",
+                        "lastName": "Geelmuyden",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1405565,
+                        "age": 21,
+                        "name": "Leonardo Rossi",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Italy",
+                        "countryCode": "ITA",
+                        "marketValue": 173419,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Leonardo",
+                        "lastName": "Rossi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 743358,
+                        "age": 25,
+                        "name": "Sebastian Brudvik",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 111745,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Sebastian",
+                        "lastName": "Brudvik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1821412,
+                        "age": 19,
+                        "name": "Isak Reset-Kalland",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Isak",
+                        "lastName": "Reset-Kalland",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1756330,
+                        "age": 19,
+                        "name": "Johan Lie",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "51",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Johan",
+                        "lastName": "Lie",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1735816,
+                        "age": 17,
+                        "name": "Luka Aaker-Saldanha",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "27",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Luka",
+                        "lastName": "Aaker-Saldanha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 537501,
+                        "age": 31,
+                        "name": "Stian Nyg\u00e5rd",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 102363,
+                        "firstName": "Stian",
+                        "lastName": "Nyg\u00e5rd",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1642624,
+                        "age": 18,
+                        "name": "Joakim Aasen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Joakim",
+                        "lastName": "Aasen",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 22.6,
+                "totalStarterMarketValue": 2239859
+            },
+            "awayTeam": {
+                "id": 6563,
+                "name": "Ranheim",
+                "formation": "4-4-2",
+                "starters": [
+                    {
+                        "id": 355074,
+                        "age": 29,
+                        "name": "Jacob Storevik",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 152400,
+                        "firstName": "Jacob",
+                        "lastName": "Storevik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1046704,
+                        "age": 25,
+                        "name": "Tage Bj\u00f8rdal Haukeberg",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "22",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Tage Bj\u00f8rdal",
+                        "lastName": "Haukeberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 889163,
+                        "age": 28,
+                        "name": "Jonas Pereira",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 173576,
+                        "firstName": "Jonas",
+                        "lastName": "Pereira",
+                        "rankings": null
+                    },
+                    {
+                        "id": 172018,
+                        "age": 32,
+                        "name": "Christoffer Aasbak",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 50000,
+                        "firstName": "Christoffer",
+                        "lastName": "Aasbak",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1167599,
+                        "age": 25,
+                        "name": "Noah Pallas",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 258341,
+                        "firstName": "Noah",
+                        "lastName": "Pallas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1524185,
+                        "age": 21,
+                        "name": "Oliver Kvendb\u00f8 Holden",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 63,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Oliver Kvendb\u00f8",
+                        "lastName": "Holden",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1736094,
+                        "age": 21,
+                        "name": "Famara Camara",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "18",
+                        "countryName": "Senegal",
+                        "countryCode": "SEN",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 419009,
+                        "firstName": "Famara",
+                        "lastName": "Camara",
+                        "rankings": null
+                    },
+                    {
+                        "id": 99702,
+                        "age": 35,
+                        "name": "Gjermund \u00c5sen",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 110246,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Gjermund",
+                        "lastName": "\u00c5sen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 739776,
+                        "age": 28,
+                        "name": "Andreas Solstrand Fossli",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Andreas Solstrand",
+                        "lastName": "Fossli",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1680293,
+                        "age": 21,
+                        "name": "Seydina Diop",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "16",
+                        "countryName": "Senegal",
+                        "countryCode": "SEN",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 475326,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 63,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Seydina",
+                        "lastName": "Diop",
+                        "rankings": null
+                    },
+                    {
+                        "id": 935553,
+                        "age": 25,
+                        "name": "Mikael Johnsen",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 220031,
+                        "firstName": "Mikael",
+                        "lastName": "Johnsen",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 439993,
+                    "age": 34,
+                    "name": "Christian Eggen Rismark",
+                    "countryName": "Norway",
+                    "countryCode": "NOR",
+                    "firstName": "Christian Eggen",
+                    "lastName": "Rismark",
+                    "primaryTeamId": 6563,
+                    "primaryTeamName": "Ranheim",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1145728,
+                        "age": 25,
+                        "name": "Franklin Nyenetue",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 162721,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 63,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Franklin",
+                        "lastName": "Nyenetue",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1413148,
+                        "age": 21,
+                        "name": "Jon Berisha",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 178523,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 63,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Jon",
+                        "lastName": "Berisha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1145715,
+                        "age": 24,
+                        "name": "H\u00e5kon Gangstad",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 125143,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "H\u00e5kon",
+                        "lastName": "Gangstad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1946575,
+                        "age": 18,
+                        "name": "Maurice Sylva",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Senegal",
+                        "countryCode": "SEN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Maurice",
+                        "lastName": "Sylva",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1736182,
+                        "age": 17,
+                        "name": "Leander Skammelsrud",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "25",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Leander",
+                        "lastName": "Skammelsrud",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1281390,
+                        "age": 23,
+                        "name": "Oliver Madsen",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Oliver",
+                        "lastName": "Madsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 937342,
+                        "age": 25,
+                        "name": "Thomas Kongerud",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Thomas",
+                        "lastName": "Kongerud",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.9
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "203",
+            "url": "https://data.fotmob.com/tables.ext.203.fot.gz",
+            "teams": [
+                10021,
+                6563
+            ],
+            "tournamentNameForUrl": "1. Divisjon",
+            "parentLeagueId": 203,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                4,
+                13
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-09-13T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#4695759",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-13T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-25T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#4695653",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-25T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-10-21T18:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#4385877",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-21T18:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-20T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#4385676",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-20T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-10-01T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#4077349",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2023-10-01T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-06T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#4077183",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-06T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-09-11T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#3803827",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2022-09-11T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-06-20T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#3803717",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2022-06-20T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-09-25T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#3517688",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2021-09-25T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-07-17T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#3517499",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2021-07-17T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-12-19T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#3498027",
+                    "league": {
+                        "name": "Eliteserien Qualification",
+                        "id": "60",
+                        "pageUrl": "/leagues/60/overview/eliteserien-qualification"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2020-12-19T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-09-25T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#3238445",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2020-09-25T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-07-13T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#3238555",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2020-07-13T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-08-06T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#2428247",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2017-08-06T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-04-30T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#2427290",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2017-04-30T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-10-30T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#2149008",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2016-10-30T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-04-17T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#2149066",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2016-04-17T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-08-16T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#1880704",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    },
+                    "status": {
+                        "utcTime": "2015-08-16T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-07-05T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#1880567",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2015-07-05T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-06-03T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/ranheim-vs-asane/29vqcn#1965270",
+                    "league": {
+                        "name": "Cup",
+                        "id": "206",
+                        "pageUrl": "/leagues/206/overview/cup"
+                    },
+                    "home": {
+                        "name": "Ranheim",
+                        "id": "6563"
+                    },
+                    "status": {
+                        "utcTime": "2015-06-03T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00c5sane",
+                        "id": "10021"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "asane-vs-ranheim",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5105185",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "\u00c5sane",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10021.png",
+                "url": "https://www.fotmob.com/teams/10021/overview/asane",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Ranheim",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6563.png",
+                "url": "https://www.fotmob.com/teams/6563/overview/ranheim",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "\u00c5sane vs Ranheim",
+            "description": "Follow \u00c5sane vs Ranheim live on fotmob.com",
+            "startDate": "2026-06-27T14:00:00.000Z",
+            "endDate": "2026-06-27T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "\u00c5sane Arena",
+                "latitude": 60.470790915,
+                "longitude": 5.314757679,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Norway",
+                    "addressLocality": "Bergen"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/10021.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/6563.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5105185",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "\u00c5sane",
+                    "url": "https://www.fotmob.com/teams/10021/overview/asane"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Ranheim",
+                    "url": "https://www.fotmob.com/teams/6563/overview/ranheim"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "\u00c5sane - Ranheim",
+                        "item": "https://www.fotmob.com/match/5105185"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ranheim",
+                        "item": "https://www.fotmob.com/teams/6563/overview/ranheim"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "\u00c5sane - Ranheim",
+                        "item": "https://www.fotmob.com/match/5105185"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "\u00c5sane",
+                        "item": "https://www.fotmob.com/teams/10021/overview/asane"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "\u00c5sane - Ranheim",
+                        "item": "https://www.fotmob.com/match/5105185"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between \u00c5sane and Ranheim on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "\u00c5sane won 3\u20130 over Ranheim on Sat, 27 Jun 2026 14:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

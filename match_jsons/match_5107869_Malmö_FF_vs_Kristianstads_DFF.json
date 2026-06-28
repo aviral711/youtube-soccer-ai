@@ -1,0 +1,2809 @@
+{
+    "general": {
+        "matchId": "5107869",
+        "matchName": "Malm\u00f6 FF-vs-Kristianstads DFF_Sat, Jun 27, 2026, 12:00 UTC",
+        "matchRound": "11",
+        "teamColors": {
+            "darkMode": {
+                "home": "#3991CC",
+                "away": "#FD7108"
+            },
+            "lightMode": {
+                "home": "#3991CC",
+                "away": "#FD7108"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 9089,
+        "leagueName": "Damallsvenskan",
+        "leagueRoundName": "11",
+        "parentLeagueId": 9089,
+        "countryCode": "SWE",
+        "homeTeam": {
+            "name": "Malm\u00f6 FF",
+            "id": 1598854
+        },
+        "awayTeam": {
+            "name": "Kristianstads DFF",
+            "id": 181470
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Malm\u00f6 FF",
+                "id": 1598854,
+                "score": 6,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1598854_small.png",
+                "pageUrl": "/teams/1598854/overview/malmo-ff"
+            },
+            {
+                "name": "Kristianstads DFF",
+                "id": 181470,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181470_small.png",
+                "pageUrl": "/teams/181470/overview/kristianstads-dff"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 14:01:30",
+                "firstHalfEnded": "27.06.2026 14:48:59",
+                "secondHalfStarted": "27.06.2026 15:05:29",
+                "secondHalfEnded": "27.06.2026 15:55:16",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 15:55:16"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "6 - 0",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Ivanovic": [
+                    {
+                        "reactKey": "1421567510Goal1199728undefinedtrue",
+                        "timeStr": 10,
+                        "type": "Goal",
+                        "time": 10,
+                        "overloadTime": null,
+                        "eventId": 14215675,
+                        "player": {
+                            "id": 1199728,
+                            "name": "Miljana Ivanovic",
+                            "profileUrl": "/players/1199728/miljana-ivanovic"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1199728/miljana-ivanovic",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Miljana Ivanovic",
+                        "firstName": "Miljana",
+                        "lastName": "Ivanovic",
+                        "fullName": "Miljana Ivanovic",
+                        "playerId": 1199728,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Milivojevic": [
+                    {
+                        "reactKey": "1421573128Goal1214592undefinedtrue",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14215731,
+                        "player": {
+                            "id": 1214592,
+                            "name": "Vesna Milivojevic",
+                            "profileUrl": "/players/1214592/vesna-milivojevic"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1214592/vesna-milivojevic",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Vesna Milivojevic",
+                        "firstName": "Vesna",
+                        "lastName": "Milivojevic",
+                        "fullName": "Vesna Milivojevic",
+                        "playerId": 1214592,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mia Persson",
+                        "assistProfileUrl": "/players/961599/mia-persson",
+                        "assistPlayerId": 961599,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mia Persson"
+                    }
+                ],
+                "Sayer": [
+                    {
+                        "reactKey": "1421577536Goal999987undefinedtrue",
+                        "timeStr": 36,
+                        "type": "Goal",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14215775,
+                        "player": {
+                            "id": 999987,
+                            "name": "Amy Sayer",
+                            "profileUrl": "/players/999987/amy-sayer"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/999987/amy-sayer",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Amy Sayer",
+                        "firstName": "Amy",
+                        "lastName": "Sayer",
+                        "fullName": "Amy Sayer",
+                        "playerId": 999987,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Fornes": [
+                    {
+                        "reactKey": "1421593049Goal932080undefinedtrue",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14215930,
+                        "player": {
+                            "id": 932080,
+                            "name": "Sara Kanutte Fornes",
+                            "profileUrl": "/players/932080/sara-kanutte-fornes"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/932080/sara-kanutte-fornes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sara Kanutte Fornes",
+                        "firstName": "Sara Kanutte",
+                        "lastName": "Fornes",
+                        "fullName": "Sara Kanutte Fornes",
+                        "playerId": 932080,
+                        "newScore": [
+                            4,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Nathalie Hoff Persson",
+                        "assistProfileUrl": "/players/961623/nathalie-hoff-persson",
+                        "assistPlayerId": 961623,
+                        "assistKey": "assist_by",
+                        "assistInput": "Nathalie Hoff Persson"
+                    },
+                    {
+                        "reactKey": "1421597258Goal932080undefinedtrue",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14215972,
+                        "player": {
+                            "id": 932080,
+                            "name": "Sara Kanutte Fornes",
+                            "profileUrl": "/players/932080/sara-kanutte-fornes"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "profileUrl": "/players/932080/sara-kanutte-fornes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sara Kanutte Fornes",
+                        "firstName": "Sara Kanutte",
+                        "lastName": "Fornes",
+                        "fullName": "Sara Kanutte Fornes",
+                        "playerId": 932080,
+                        "newScore": [
+                            5,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Nathalie Hoff Persson",
+                        "assistProfileUrl": "/players/961623/nathalie-hoff-persson",
+                        "assistPlayerId": 961623,
+                        "assistKey": "assist_by",
+                        "assistInput": "Nathalie Hoff Persson"
+                    },
+                    {
+                        "reactKey": "1421609380Goal932080undefinedtrue",
+                        "timeStr": 80,
+                        "type": "Goal",
+                        "time": 80,
+                        "overloadTime": null,
+                        "eventId": 14216093,
+                        "player": {
+                            "id": 932080,
+                            "name": "Sara Kanutte Fornes",
+                            "profileUrl": "/players/932080/sara-kanutte-fornes"
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "/players/932080/sara-kanutte-fornes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sara Kanutte Fornes",
+                        "firstName": "Sara Kanutte",
+                        "lastName": "Fornes",
+                        "fullName": "Sara Kanutte Fornes",
+                        "playerId": 932080,
+                        "newScore": [
+                            6,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mayar Khatawi",
+                        "assistProfileUrl": "/players/1744075/mayar-khatawi",
+                        "assistPlayerId": 1744075,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mayar Khatawi"
+                    }
+                ]
+            },
+            "awayTeamGoals": {},
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5107869,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421567510Goal1199728undefinedtrue",
+                        "timeStr": 10,
+                        "type": "Goal",
+                        "time": 10,
+                        "overloadTime": null,
+                        "eventId": 14215675,
+                        "player": {
+                            "id": 1199728,
+                            "name": "Miljana Ivanovic",
+                            "profileUrl": "/players/1199728/miljana-ivanovic"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1199728/miljana-ivanovic",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Miljana Ivanovic",
+                        "firstName": "Miljana",
+                        "lastName": "Ivanovic",
+                        "fullName": "Miljana Ivanovic",
+                        "playerId": 1199728,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421573128Goal1214592undefinedtrue",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14215731,
+                        "player": {
+                            "id": 1214592,
+                            "name": "Vesna Milivojevic",
+                            "profileUrl": "/players/1214592/vesna-milivojevic"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1214592/vesna-milivojevic",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Vesna Milivojevic",
+                        "firstName": "Vesna",
+                        "lastName": "Milivojevic",
+                        "fullName": "Vesna Milivojevic",
+                        "playerId": 1214592,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mia Persson",
+                        "assistProfileUrl": "/players/961599/mia-persson",
+                        "assistPlayerId": 961599,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mia Persson"
+                    },
+                    {
+                        "reactKey": "1421577536Goal999987undefinedtrue",
+                        "timeStr": 36,
+                        "type": "Goal",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14215775,
+                        "player": {
+                            "id": 999987,
+                            "name": "Amy Sayer",
+                            "profileUrl": "/players/999987/amy-sayer"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/999987/amy-sayer",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Amy Sayer",
+                        "firstName": "Amy",
+                        "lastName": "Sayer",
+                        "fullName": "Amy Sayer",
+                        "playerId": 999987,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421593049Goal932080undefinedtrue",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14215930,
+                        "player": {
+                            "id": 932080,
+                            "name": "Sara Kanutte Fornes",
+                            "profileUrl": "/players/932080/sara-kanutte-fornes"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/932080/sara-kanutte-fornes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sara Kanutte Fornes",
+                        "firstName": "Sara Kanutte",
+                        "lastName": "Fornes",
+                        "fullName": "Sara Kanutte Fornes",
+                        "playerId": 932080,
+                        "newScore": [
+                            4,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Nathalie Hoff Persson",
+                        "assistProfileUrl": "/players/961623/nathalie-hoff-persson",
+                        "assistPlayerId": 961623,
+                        "assistKey": "assist_by",
+                        "assistInput": "Nathalie Hoff Persson"
+                    },
+                    {
+                        "reactKey": "1421594151Card1131530undefinedtrue",
+                        "timeStr": 51,
+                        "type": "Card",
+                        "time": 51,
+                        "overloadTime": null,
+                        "eventId": 14215941,
+                        "player": {
+                            "id": 1131530,
+                            "name": "Wilma Carlsson",
+                            "profileUrl": "/players/1131530/wilma-carlsson"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1131530/wilma-carlsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Wilma Carlsson",
+                        "firstName": "Wilma",
+                        "lastName": "Carlsson",
+                        "fullName": "Wilma Carlsson",
+                        "playerId": 1131530,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421597258Goal932080undefinedtrue",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14215972,
+                        "player": {
+                            "id": 932080,
+                            "name": "Sara Kanutte Fornes",
+                            "profileUrl": "/players/932080/sara-kanutte-fornes"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "profileUrl": "/players/932080/sara-kanutte-fornes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sara Kanutte Fornes",
+                        "firstName": "Sara Kanutte",
+                        "lastName": "Fornes",
+                        "fullName": "Sara Kanutte Fornes",
+                        "playerId": 932080,
+                        "newScore": [
+                            5,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Nathalie Hoff Persson",
+                        "assistProfileUrl": "/players/961623/nathalie-hoff-persson",
+                        "assistPlayerId": 961623,
+                        "assistKey": "assist_by",
+                        "assistInput": "Nathalie Hoff Persson"
+                    },
+                    {
+                        "reactKey": "undefined59SubstitutionNaN1437225false",
+                        "timeStr": 59,
+                        "type": "Substitution",
+                        "time": 59,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Sadie Sider-Echenberg",
+                                "id": "1437225",
+                                "profileUrl": "/players/1437225/sadie-sider-echenberg"
+                            },
+                            {
+                                "name": "Alice Egn\u00e9r",
+                                "id": "1457102",
+                                "profileUrl": "/players/1457102/alice-egner"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1934622false",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Elin Hansson",
+                                "id": "1934622",
+                                "profileUrl": "/players/1934622/elin-hansson"
+                            },
+                            {
+                                "name": "Hanna Ekengren",
+                                "id": "1130016",
+                                "profileUrl": "/players/1130016/hanna-ekengren"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined63SubstitutionNaN1744075true",
+                        "timeStr": 63,
+                        "type": "Substitution",
+                        "time": 63,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mayar Khatawi",
+                                "id": "1744075",
+                                "profileUrl": "/players/1744075/mayar-khatawi"
+                            },
+                            {
+                                "name": "Vesna Milivojevic",
+                                "id": "1214592",
+                                "profileUrl": "/players/1214592/vesna-milivojevic"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined64SubstitutionNaN1349453true",
+                        "timeStr": 64,
+                        "type": "Substitution",
+                        "time": 64,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Stinalisa Johansson",
+                                "id": "1349453",
+                                "profileUrl": "/players/1349453/stinalisa-johansson"
+                            },
+                            {
+                                "name": "Tuva Skoog",
+                                "id": "1349476",
+                                "profileUrl": "/players/1349476/tuva-skoog"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined73SubstitutionNaN1605410true",
+                        "timeStr": 73,
+                        "type": "Substitution",
+                        "time": 73,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Agnes M\u00e5rtensson",
+                                "id": "1605410",
+                                "profileUrl": "/players/1605410/agnes-martensson"
+                            },
+                            {
+                                "name": "Emma Petrovic",
+                                "id": "1241255",
+                                "profileUrl": "/players/1241255/emma-petrovic"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined74SubstitutionNaN1751835true",
+                        "timeStr": 74,
+                        "type": "Substitution",
+                        "time": 74,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Lovisa Breland",
+                                "id": "1751835",
+                                "profileUrl": "/players/1751835/lovisa-breland"
+                            },
+                            {
+                                "name": "Miljana Ivanovic",
+                                "id": "1199728",
+                                "profileUrl": "/players/1199728/miljana-ivanovic"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421609380Goal932080undefinedtrue",
+                        "timeStr": 80,
+                        "type": "Goal",
+                        "time": 80,
+                        "overloadTime": null,
+                        "eventId": 14216093,
+                        "player": {
+                            "id": 932080,
+                            "name": "Sara Kanutte Fornes",
+                            "profileUrl": "/players/932080/sara-kanutte-fornes"
+                        },
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "profileUrl": "/players/932080/sara-kanutte-fornes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sara Kanutte Fornes",
+                        "firstName": "Sara Kanutte",
+                        "lastName": "Fornes",
+                        "fullName": "Sara Kanutte Fornes",
+                        "playerId": 932080,
+                        "newScore": [
+                            6,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mayar Khatawi",
+                        "assistProfileUrl": "/players/1744075/mayar-khatawi",
+                        "assistPlayerId": 1744075,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mayar Khatawi"
+                    },
+                    {
+                        "reactKey": "undefined84SubstitutionNaN1647257false",
+                        "timeStr": 84,
+                        "type": "Substitution",
+                        "time": 84,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 6,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Malva Mellblom",
+                                "id": "1647257",
+                                "profileUrl": "/players/1647257/malva-mellblom"
+                            },
+                            {
+                                "name": "Moa Olsson",
+                                "id": "961431",
+                                "profileUrl": "/players/961431/moa-olsson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined84SubstitutionNaN1934623false",
+                        "timeStr": 84,
+                        "type": "Substitution",
+                        "time": 84,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 6,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Eira Persson",
+                                "id": "1934623",
+                                "profileUrl": "/players/1934623/eira-persson"
+                            },
+                            {
+                                "name": "Courtney Ruedt",
+                                "id": "1785307",
+                                "profileUrl": "/players/1785307/courtney-ruedt"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined85SubstitutionNaN1180037true",
+                        "timeStr": 85,
+                        "type": "Substitution",
+                        "time": 85,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 6,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Katariina Kosola",
+                                "id": "1180037",
+                                "profileUrl": "/players/1180037/katariina-kosola"
+                            },
+                            {
+                                "name": "Wilma Carlsson",
+                                "id": "1131530",
+                                "profileUrl": "/players/1131530/wilma-carlsson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 6,
+                        "awayScore": 0,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Assist",
+                    "Half",
+                    "Card",
+                    "Substitution",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 9089,
+                    "parentLeagueId": 9089,
+                    "link": "/leagues/9089/overview/damallsvenskan",
+                    "leagueName": "Damallsvenskan",
+                    "roundName": "11",
+                    "round": "11"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/swe.png",
+                    "text": "Tess Olofsson",
+                    "countryCode": "SWE",
+                    "country": "Sweden"
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181469_xsmall.png",
+                        "linkToMatch": "/matches/hammarby-if-vs-malmo-ff/k81ar0vn#5107834",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181469/overview/hammarby-if",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "Hammarby IF",
+                            "homeTeamId": 181469,
+                            "homeScore": "2",
+                            "awayTeam": "Malm\u00f6 FF",
+                            "awayTeamId": 1598854,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "181469",
+                            "name": "Hammarby IF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1598854",
+                            "name": "Malm\u00f6 FF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181468_xsmall.png",
+                        "linkToMatch": "/matches/aik-vs-malmo-ff/k819ov67#5107837",
+                        "date": {
+                            "utcTime": "2026-05-23T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181468/overview/aik",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T11:00:00.000Z",
+                            "homeTeam": "AIK",
+                            "homeTeamId": 181468,
+                            "homeScore": "2",
+                            "awayTeam": "Malm\u00f6 FF",
+                            "awayTeamId": 1598854,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "181468",
+                            "name": "AIK",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1598854",
+                            "name": "Malm\u00f6 FF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/554004_xsmall.png",
+                        "linkToMatch": "/matches/vaxjo-dff-vs-malmo-ff/tklkdfsj#5107849",
+                        "date": {
+                            "utcTime": "2026-05-31T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/554004/overview/vaxjo-dff",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T13:00:00.000Z",
+                            "homeTeam": "Malm\u00f6 FF",
+                            "homeTeamId": 1598854,
+                            "homeScore": "3",
+                            "awayTeam": "V\u00e4xj\u00f6 DFF",
+                            "awayTeamId": 554004,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "1598854",
+                            "name": "Malm\u00f6 FF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "554004",
+                            "name": "V\u00e4xj\u00f6 DFF",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/514392_xsmall.png",
+                        "linkToMatch": "/matches/eskilstuna-united-dff-vs-malmo-ff/shs6iqkp#5107852",
+                        "date": {
+                            "utcTime": "2026-06-13T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/514392/overview/eskilstuna-united-dff",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T12:00:00.000Z",
+                            "homeTeam": "Eskilstuna United DFF",
+                            "homeTeamId": 514392,
+                            "homeScore": "1",
+                            "awayTeam": "Malm\u00f6 FF",
+                            "awayTeamId": 1598854,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "514392",
+                            "name": "Eskilstuna United DFF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1598854",
+                            "name": "Malm\u00f6 FF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181466_xsmall.png",
+                        "linkToMatch": "/matches/djurgarden-vs-malmo-ff/k817kjre#5107859",
+                        "date": {
+                            "utcTime": "2026-06-17T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181466/overview/djurgarden",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T17:00:00.000Z",
+                            "homeTeam": "Djurg\u00e5rden",
+                            "homeTeamId": 181466,
+                            "homeScore": "0",
+                            "awayTeam": "Malm\u00f6 FF",
+                            "awayTeamId": 1598854,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "181466",
+                            "name": "Djurg\u00e5rden",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1598854",
+                            "name": "Malm\u00f6 FF",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181463_xsmall.png",
+                        "linkToMatch": "/matches/fc-rosengard-vs-kristianstads-dff/u97o14l#5107833",
+                        "date": {
+                            "utcTime": "2026-05-15T16:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181463/overview/fc-rosengard",
+                        "tooltipText": {
+                            "utcTime": "2026-05-15T16:30:00.000Z",
+                            "homeTeam": "FC Roseng\u00e5rd",
+                            "homeTeamId": 181463,
+                            "homeScore": "2",
+                            "awayTeam": "Kristianstads DFF",
+                            "awayTeamId": 181470,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "181463",
+                            "name": "FC Roseng\u00e5rd",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181470",
+                            "name": "Kristianstads DFF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181469_xsmall.png",
+                        "linkToMatch": "/matches/hammarby-if-vs-kristianstads-dff/u98ype0#5107841",
+                        "date": {
+                            "utcTime": "2026-05-23T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181469/overview/hammarby-if",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T13:00:00.000Z",
+                            "homeTeam": "Kristianstads DFF",
+                            "homeTeamId": 181470,
+                            "homeScore": "0",
+                            "awayTeam": "Hammarby IF",
+                            "awayTeamId": 181469,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "181470",
+                            "name": "Kristianstads DFF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "181469",
+                            "name": "Hammarby IF",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181464_xsmall.png",
+                        "linkToMatch": "/matches/bk-hacken-vs-kristianstads-dff/u97vt63#5107848",
+                        "date": {
+                            "utcTime": "2026-05-31T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181464/overview/bk-hacken",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T12:00:00.000Z",
+                            "homeTeam": "Kristianstads DFF",
+                            "homeTeamId": 181470,
+                            "homeScore": "0",
+                            "awayTeam": "BK H\u00e4cken",
+                            "awayTeamId": 181464,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "181470",
+                            "name": "Kristianstads DFF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "181464",
+                            "name": "BK H\u00e4cken",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/300220_xsmall.png",
+                        "linkToMatch": "/matches/kristianstads-dff-vs-vittsjo-gik/1han8u6z#5107856",
+                        "date": {
+                            "utcTime": "2026-06-12T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/300220/overview/vittsjo-gik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T17:00:00.000Z",
+                            "homeTeam": "Vittsj\u00f6 GIK",
+                            "homeTeamId": 300220,
+                            "homeScore": "1",
+                            "awayTeam": "Kristianstads DFF",
+                            "awayTeamId": 181470,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "300220",
+                            "name": "Vittsj\u00f6 GIK",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181470",
+                            "name": "Kristianstads DFF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1120766_xsmall.png",
+                        "linkToMatch": "/matches/kristianstads-dff-vs-ik-uppsala-fotboll/ativstec#5107864",
+                        "date": {
+                            "utcTime": "2026-06-18T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1120766/overview/ik-uppsala-fotboll",
+                        "tooltipText": {
+                            "utcTime": "2026-06-18T16:00:00.000Z",
+                            "homeTeam": "Kristianstads DFF",
+                            "homeTeamId": 181470,
+                            "homeScore": "3",
+                            "awayTeam": "IK Uppsala Fotboll",
+                            "awayTeamId": 1120766,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "181470",
+                            "name": "Kristianstads DFF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1120766",
+                            "name": "IK Uppsala Fotboll",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5107869",
+                    "MatchId": 5107869,
+                    "HomeTeamId": 1598854,
+                    "AwayTeamId": 181470,
+                    "HomeTeam": "Malm\u00f6 FF (W)",
+                    "AwayTeam": "Kristianstads DFF (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Malm\u00f6 FF (W) haven't lost in 4 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Malm\u00f6 FF (W) have scored in their last 5 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "5",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Malm\u00f6 FF (W) have scored 5 goals in their last 3 matches, while Kristianstads DFF (W) have scored 4."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "2",
+                                "2",
+                                "1",
+                                "away_team",
+                                "1",
+                                "2",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Malm\u00f6 FF (W) have 2W, 2D, 1L in five matches while Kristianstads DFF (W) have 1W, 2D, 2L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1598854,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#3991CC"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1598854,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (6)",
+                    "color": "#3991CC"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 181470,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#FD7108"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 181470,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 7 matches",
+                    "color": "#FD7108"
+                }
+            ],
+            "countryCode": "SWE",
+            "QAData": [
+                {
+                    "question": "Who won between Malm\u00f6 FF and Kristianstads DFF on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "answer": "Malm\u00f6 FF won 6\u20130 over Kristianstads DFF on Sat, 27 Jun 2026 12:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        55,
+                                        45
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        7,
+                                        8
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        4,
+                                        6
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        2,
+                                        6
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#3991CC",
+                            "away": "#FD7108"
+                        },
+                        "lightMode": {
+                            "home": "#3991CC",
+                            "away": "#FD7108"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5107869,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 1598854,
+                "name": "Malm\u00f6 FF",
+                "formation": "4-2-3-1",
+                "starters": [
+                    {
+                        "id": 886436,
+                        "age": 30,
+                        "name": "Zecira Musovic",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "firstName": "Zecira",
+                        "lastName": "Musovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961623,
+                        "age": 29,
+                        "name": "Nathalie Hoff Persson",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 58
+                                },
+                                {
+                                    "type": "assist",
+                                    "time": 49
+                                }
+                            ]
+                        },
+                        "firstName": "Nathalie Hoff",
+                        "lastName": "Persson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961640,
+                        "age": 28,
+                        "name": "Ellen L\u00f6fqvist",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "Ellen",
+                        "lastName": "L\u00f6fqvist",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1241255,
+                        "age": 23,
+                        "name": "Emma Petrovic",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Serbia",
+                        "countryCode": "SRB",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Emma",
+                        "lastName": "Petrovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1131530,
+                        "age": 25,
+                        "name": "Wilma Carlsson",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 51
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 85,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Wilma",
+                        "lastName": "Carlsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 999987,
+                        "age": 24,
+                        "name": "Amy Sayer",
+                        "positionId": 64,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "21",
+                        "countryName": "Australia",
+                        "countryCode": "AUS",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 36
+                                }
+                            ]
+                        },
+                        "firstName": "Amy",
+                        "lastName": "Sayer",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961599,
+                        "age": 35,
+                        "name": "Mia Persson",
+                        "positionId": 66,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 28
+                                }
+                            ]
+                        },
+                        "firstName": "Mia",
+                        "lastName": "Persson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1349476,
+                        "age": 21,
+                        "name": "Tuva Skoog",
+                        "positionId": 83,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.837,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.162,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.325
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 64,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Tuva",
+                        "lastName": "Skoog",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1214592,
+                        "age": 24,
+                        "name": "Vesna Milivojevic",
+                        "positionId": 85,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Serbia",
+                        "countryCode": "SRB",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.337
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 28
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 63,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Vesna",
+                        "lastName": "Milivojevic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1199728,
+                        "age": 26,
+                        "name": "Miljana Ivanovic",
+                        "positionId": 87,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Serbia",
+                        "countryCode": "SRB",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.163,
+                            "height": 0.25,
+                            "width": 0.193
+                        },
+                        "verticalLayout": {
+                            "x": 0.837,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.325
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 10
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Miljana",
+                        "lastName": "Ivanovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 932080,
+                        "age": 24,
+                        "name": "Sara Kanutte Fornes",
+                        "positionId": 115,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 80
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 58
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 49
+                                }
+                            ]
+                        },
+                        "firstName": "Sara Kanutte",
+                        "lastName": "Fornes",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1396985,
+                    "age": 48,
+                    "name": "Jonas Valfridsson",
+                    "countryName": "Sweden",
+                    "countryCode": "SWE",
+                    "firstName": "Jonas",
+                    "lastName": "Valfridsson",
+                    "primaryTeamId": 1598854,
+                    "primaryTeamName": "Malm\u00f6 FF",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1744075,
+                        "age": 16,
+                        "name": "Mayar Khatawi",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "25",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 80
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 63,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mayar",
+                        "lastName": "Khatawi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1349453,
+                        "age": 23,
+                        "name": "Stinalisa Johansson",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 64,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Stinalisa",
+                        "lastName": "Johansson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1605410,
+                        "age": 21,
+                        "name": "Agnes M\u00e5rtensson",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "15",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Agnes",
+                        "lastName": "M\u00e5rtensson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1751835,
+                        "age": 17,
+                        "name": "Lovisa Breland",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "26",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Lovisa",
+                        "lastName": "Breland",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1180037,
+                        "age": 25,
+                        "name": "Katariina Kosola",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "3",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 85,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Katariina",
+                        "lastName": "Kosola",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961648,
+                        "age": 28,
+                        "name": "Moa \u00d6hman",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "31",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Moa",
+                        "lastName": "\u00d6hman",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1140223,
+                        "age": 24,
+                        "name": "Courtney Nevin",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "18",
+                        "countryName": "Australia",
+                        "countryCode": "AUS",
+                        "firstName": "Courtney",
+                        "lastName": "Nevin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1645587,
+                        "age": 19,
+                        "name": "Alexia Mitkovska",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Alexia",
+                        "lastName": "Mitkovska",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.8
+            },
+            "awayTeam": {
+                "id": 181470,
+                "name": "Kristianstads DFF",
+                "formation": "5-3-2",
+                "starters": [
+                    {
+                        "id": 961431,
+                        "age": 27,
+                        "name": "Moa Olsson",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "33",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Moa",
+                        "lastName": "Olsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1682738,
+                        "age": 25,
+                        "name": "Waniya Hudson",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "firstName": "Waniya",
+                        "lastName": "Hudson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961439,
+                        "age": 32,
+                        "name": "Alice Nilsson",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "firstName": "Alice",
+                        "lastName": "Nilsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785307,
+                        "age": 22,
+                        "name": "Courtney Ruedt",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Courtney",
+                        "lastName": "Ruedt",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1397417,
+                        "age": 23,
+                        "name": "Lova Sternfeldt",
+                        "positionId": 51,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "22",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "firstName": "Lova",
+                        "lastName": "Sternfeldt",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1457099,
+                        "age": 27,
+                        "name": "Viktoria Persson",
+                        "positionId": 59,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "27",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.741
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "firstName": "Viktoria",
+                        "lastName": "Persson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961768,
+                        "age": 29,
+                        "name": "Michelle De Jongh",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "9",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Michelle",
+                        "lastName": "De Jongh",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1457102,
+                        "age": 23,
+                        "name": "Alice Egn\u00e9r",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "4",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Alice",
+                        "lastName": "Egn\u00e9r",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961441,
+                        "age": 25,
+                        "name": "Tilda Persson",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "14",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Tilda",
+                        "lastName": "Persson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1130016,
+                        "age": 24,
+                        "name": "Hanna Ekengren",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hanna",
+                        "lastName": "Ekengren",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1861953,
+                        "age": 24,
+                        "name": "Linda Lif Boama",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "13",
+                        "countryName": "Iceland",
+                        "countryCode": "ISL",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "firstName": "Linda Lif",
+                        "lastName": "Boama",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 650283,
+                    "age": 39,
+                    "name": "Nik Chamberlain",
+                    "countryName": "England",
+                    "countryCode": "ENG",
+                    "firstName": "Nik",
+                    "lastName": "Chamberlain",
+                    "primaryTeamId": 181470,
+                    "primaryTeamName": "Kristianstads DFF",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1437225,
+                        "age": 22,
+                        "name": "Sadie Sider-Echenberg",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Sadie",
+                        "lastName": "Sider-Echenberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1934622,
+                        "age": 23,
+                        "name": "Elin Hansson",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Elin",
+                        "lastName": "Hansson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1647257,
+                        "age": 19,
+                        "name": "Malva Mellblom",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Malva",
+                        "lastName": "Mellblom",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1934623,
+                        "age": 20,
+                        "name": "Eira Persson",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Eira",
+                        "lastName": "Persson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810340,
+                        "age": 20,
+                        "name": "Elisa Sigurjonsdottir",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Iceland",
+                        "countryCode": "ISL",
+                        "firstName": "Elisa",
+                        "lastName": "Sigurjonsdottir",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "9089",
+            "url": "https://data.fotmob.com/tables.ext.9089.fot.gz",
+            "teams": [
+                1598854,
+                181470
+            ],
+            "tournamentNameForUrl": "Damallsvenskan",
+            "parentLeagueId": 9089,
+            "countryCode": "SWE"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                1,
+                1
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-03-14T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kristianstads-dff-vs-malmo-ff/k81bt6l4#5069890",
+                    "league": {
+                        "name": "Cup Grp. 3",
+                        "id": "11194",
+                        "pageUrl": "/leagues/11194/overview/cup-grp-3"
+                    },
+                    "home": {
+                        "name": "Malm\u00f6 FF",
+                        "id": "1598854"
+                    },
+                    "status": {
+                        "utcTime": "2026-03-14T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kristianstads DFF",
+                        "id": "181470"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-27T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kristianstads-dff-vs-malmo-ff/k81bt6l4#4693124",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Kristianstads DFF",
+                        "id": "181470"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-27T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Malm\u00f6 FF",
+                        "id": "1598854"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-04-13T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kristianstads-dff-vs-malmo-ff/k81bt6l4#4692990",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Malm\u00f6 FF",
+                        "id": "1598854"
+                    },
+                    "status": {
+                        "utcTime": "2025-04-13T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kristianstads DFF",
+                        "id": "181470"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "malmo-ff-vs-kristianstads-dff",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5107869",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Malm\u00f6 FF",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1598854.png",
+                "url": "https://www.fotmob.com/teams/1598854/overview/malmo-ff",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Kristianstads DFF",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/181470.png",
+                "url": "https://www.fotmob.com/teams/181470/overview/kristianstads-dff",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Malm\u00f6 FF vs Kristianstads DFF",
+            "description": "Follow Malm\u00f6 FF vs Kristianstads DFF live on fotmob.com",
+            "startDate": "2026-06-27T12:00:00.000Z",
+            "endDate": "2026-06-27T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1598854.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/181470.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5107869",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Malm\u00f6 FF",
+                    "url": "https://www.fotmob.com/teams/1598854/overview/malmo-ff"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Kristianstads DFF",
+                    "url": "https://www.fotmob.com/teams/181470/overview/kristianstads-dff"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Damallsvenskan",
+                        "item": "https://www.fotmob.com/leagues/9089/overview/damallsvenskan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Malm\u00f6 FF - Kristianstads DFF",
+                        "item": "https://www.fotmob.com/match/5107869"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Damallsvenskan",
+                        "item": "https://www.fotmob.com/leagues/9089/overview/damallsvenskan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kristianstads DFF",
+                        "item": "https://www.fotmob.com/teams/181470/overview/kristianstads-dff"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Malm\u00f6 FF - Kristianstads DFF",
+                        "item": "https://www.fotmob.com/match/5107869"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Damallsvenskan",
+                        "item": "https://www.fotmob.com/leagues/9089/overview/damallsvenskan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Malm\u00f6 FF",
+                        "item": "https://www.fotmob.com/teams/1598854/overview/malmo-ff"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Malm\u00f6 FF - Kristianstads DFF",
+                        "item": "https://www.fotmob.com/match/5107869"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Malm\u00f6 FF and Kristianstads DFF on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Malm\u00f6 FF won 6\u20130 over Kristianstads DFF on Sat, 27 Jun 2026 12:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

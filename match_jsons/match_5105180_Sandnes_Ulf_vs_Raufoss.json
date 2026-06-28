@@ -1,0 +1,3049 @@
+{
+    "general": {
+        "matchId": "5105180",
+        "matchName": "Sandnes Ulf-vs-Raufoss_Sat, Jun 27, 2026, 14:00 UTC",
+        "matchRound": "13",
+        "teamColors": {
+            "darkMode": {
+                "home": "#70b5e9",
+                "away": "#FEEC00"
+            },
+            "lightMode": {
+                "home": "#6BB0E4",
+                "away": "#000000"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 203,
+        "leagueName": "1. Divisjon",
+        "leagueRoundName": "13",
+        "parentLeagueId": 203,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Sandnes Ulf",
+            "id": 8133
+        },
+        "awayTeam": {
+            "name": "Raufoss",
+            "id": 9812
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Sandnes Ulf",
+                "id": 8133,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8133_small.png",
+                "pageUrl": "/teams/8133/overview/sandnes-ulf"
+            },
+            {
+                "name": "Raufoss",
+                "id": 9812,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9812_small.png",
+                "pageUrl": "/teams/9812/overview/raufoss"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 16:00:26",
+                "firstHalfEnded": "27.06.2026 16:47:20",
+                "secondHalfStarted": "27.06.2026 17:02:55",
+                "secondHalfEnded": "27.06.2026 17:51:52",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 17:51:52"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 0",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Saugestad": [
+                    {
+                        "reactKey": "1421644950Goal935616undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14216449,
+                        "player": {
+                            "id": 935616,
+                            "name": "Sander Saugestad",
+                            "profileUrl": "/players/935616/sander-saugestad"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/935616/sander-saugestad",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Saugestad",
+                        "firstName": "Sander",
+                        "lastName": "Saugestad",
+                        "fullName": "Sander Saugestad",
+                        "playerId": 935616,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Erik Berland",
+                        "assistProfileUrl": "/players/1460832/erik-berland",
+                        "assistPlayerId": 1460832,
+                        "assistKey": "assist_by",
+                        "assistInput": "Erik Berland"
+                    }
+                ],
+                "Sundgot": [
+                    {
+                        "reactKey": "1421647155Goal1114563undefinedtrue",
+                        "timeStr": 55,
+                        "type": "Goal",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 14216471,
+                        "player": {
+                            "id": 1114563,
+                            "name": "Ole Sebastian Sundgot",
+                            "profileUrl": "/players/1114563/ole-sebastian-sundgot"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1114563/ole-sebastian-sundgot",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ole Sebastian Sundgot",
+                        "firstName": "Ole Sebastian",
+                        "lastName": "Sundgot",
+                        "fullName": "Ole Sebastian Sundgot",
+                        "playerId": 1114563,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mathias Sundberg",
+                        "assistProfileUrl": "/players/936142/mathias-sundberg",
+                        "assistPlayerId": 936142,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mathias Sundberg"
+                    }
+                ],
+                "Nsoni": [
+                    {
+                        "reactKey": "1421649058Goal1314730undefinedtrue",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14216490,
+                        "player": {
+                            "id": 1314730,
+                            "name": "Zifarlino Nsoni",
+                            "profileUrl": "/players/1314730/zifarlino-nsoni"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1314730/zifarlino-nsoni",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Zifarlino Nsoni",
+                        "firstName": "Zifarlino",
+                        "lastName": "Nsoni",
+                        "fullName": "Zifarlino Nsoni",
+                        "playerId": 1314730,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Kay Kostadinov",
+                        "assistProfileUrl": "/players/936134/kay-kostadinov",
+                        "assistPlayerId": 936134,
+                        "assistKey": "assist_by",
+                        "assistInput": "Kay Kostadinov"
+                    }
+                ]
+            },
+            "awayTeamGoals": {},
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "liveticker",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5105180,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142162006Card1114563undefinedtrue",
+                        "timeStr": 6,
+                        "type": "Card",
+                        "time": 6,
+                        "overloadTime": null,
+                        "eventId": 14216200,
+                        "player": {
+                            "id": 1114563,
+                            "name": "Ole Sebastian Sundgot",
+                            "profileUrl": "/players/1114563/ole-sebastian-sundgot"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1114563/ole-sebastian-sundgot",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Ole Sebastian Sundgot",
+                        "firstName": "Ole Sebastian",
+                        "lastName": "Sundgot",
+                        "fullName": "Ole Sebastian Sundgot",
+                        "playerId": 1114563,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421644950Goal935616undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14216449,
+                        "player": {
+                            "id": 935616,
+                            "name": "Sander Saugestad",
+                            "profileUrl": "/players/935616/sander-saugestad"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/935616/sander-saugestad",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Saugestad",
+                        "firstName": "Sander",
+                        "lastName": "Saugestad",
+                        "fullName": "Sander Saugestad",
+                        "playerId": 935616,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Erik Berland",
+                        "assistProfileUrl": "/players/1460832/erik-berland",
+                        "assistPlayerId": 1460832,
+                        "assistKey": "assist_by",
+                        "assistInput": "Erik Berland"
+                    },
+                    {
+                        "reactKey": "1421647155Goal1114563undefinedtrue",
+                        "timeStr": 55,
+                        "type": "Goal",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 14216471,
+                        "player": {
+                            "id": 1114563,
+                            "name": "Ole Sebastian Sundgot",
+                            "profileUrl": "/players/1114563/ole-sebastian-sundgot"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1114563/ole-sebastian-sundgot",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ole Sebastian Sundgot",
+                        "firstName": "Ole Sebastian",
+                        "lastName": "Sundgot",
+                        "fullName": "Ole Sebastian Sundgot",
+                        "playerId": 1114563,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mathias Sundberg",
+                        "assistProfileUrl": "/players/936142/mathias-sundberg",
+                        "assistPlayerId": 936142,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mathias Sundberg"
+                    },
+                    {
+                        "reactKey": "1421649058Goal1314730undefinedtrue",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14216490,
+                        "player": {
+                            "id": 1314730,
+                            "name": "Zifarlino Nsoni",
+                            "profileUrl": "/players/1314730/zifarlino-nsoni"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1314730/zifarlino-nsoni",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Zifarlino Nsoni",
+                        "firstName": "Zifarlino",
+                        "lastName": "Nsoni",
+                        "fullName": "Zifarlino Nsoni",
+                        "playerId": 1314730,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Kay Kostadinov",
+                        "assistProfileUrl": "/players/936134/kay-kostadinov",
+                        "assistPlayerId": 936134,
+                        "assistKey": "assist_by",
+                        "assistInput": "Kay Kostadinov"
+                    },
+                    {
+                        "reactKey": "undefined59SubstitutionNaN743088false",
+                        "timeStr": 59,
+                        "type": "Substitution",
+                        "time": 59,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Markus Aanesland",
+                                "id": "743088",
+                                "profileUrl": "/players/743088/markus-aanesland"
+                            },
+                            {
+                                "name": "David de Ornelas",
+                                "id": "1734240",
+                                "profileUrl": "/players/1734240/david-de-ornelas"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined66SubstitutionNaN1376896false",
+                        "timeStr": 66,
+                        "type": "Substitution",
+                        "time": 66,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jonas S\u00f8rensen Seln\u00e6s",
+                                "id": "1376896",
+                                "profileUrl": "/players/1376896/jonas-sorensen-selnaes"
+                            },
+                            {
+                                "name": "Nicolai Fremstad",
+                                "id": "538930",
+                                "profileUrl": "/players/538930/nicolai-fremstad"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined66SubstitutionNaN182581false",
+                        "timeStr": 66,
+                        "type": "Substitution",
+                        "time": 66,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Emil Sildnes",
+                                "id": "182581",
+                                "profileUrl": "/players/182581/emil-sildnes"
+                            },
+                            {
+                                "name": "J\u00f8rgen Vedal Sj\u00f8l",
+                                "id": "1047865",
+                                "profileUrl": "/players/1047865/jorgen-vedal-sjol"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined66SubstitutionNaN1662364false",
+                        "timeStr": 66,
+                        "type": "Substitution",
+                        "time": 66,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jonas Dalen Korsaksel",
+                                "id": "1662364",
+                                "profileUrl": "/players/1662364/jonas-dalen-korsaksel"
+                            },
+                            {
+                                "name": "Rafik Zekhnini",
+                                "id": "614564",
+                                "profileUrl": "/players/614564/rafik-zekhnini"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1295627true",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jonas Brune Aune",
+                                "id": "1295627",
+                                "profileUrl": "/players/1295627/jonas-brune-aune"
+                            },
+                            {
+                                "name": "Mathias Sundberg",
+                                "id": "936142",
+                                "profileUrl": "/players/936142/mathias-sundberg"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1946610true",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Anestis Tricholidis",
+                                "id": "1946610",
+                                "profileUrl": "/players/1946610/anestis-tricholidis"
+                            },
+                            {
+                                "name": "Gullbrandur \u00d8regaard",
+                                "id": "1258766",
+                                "profileUrl": "/players/1258766/gullbrandur-oregaard"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined74SubstitutionNaN1283228true",
+                        "timeStr": 74,
+                        "type": "Substitution",
+                        "time": 74,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Peder Brekke",
+                                "id": "1283228",
+                                "profileUrl": "/players/1283228/peder-brekke"
+                            },
+                            {
+                                "name": "Zifarlino Nsoni",
+                                "id": "1314730",
+                                "profileUrl": "/players/1314730/zifarlino-nsoni"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421660875Card1636161undefinedtrue",
+                        "timeStr": 75,
+                        "type": "Card",
+                        "time": 75,
+                        "overloadTime": null,
+                        "eventId": 14216608,
+                        "player": {
+                            "id": 1636161,
+                            "name": "Fillip Voster Botnen",
+                            "profileUrl": "/players/1636161/fillip-voster-botnen"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1636161/fillip-voster-botnen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Fillip Voster Botnen",
+                        "firstName": "Fillip Voster",
+                        "lastName": "Botnen",
+                        "fullName": "Fillip Voster Botnen",
+                        "playerId": 1636161,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined85SubstitutionNaN1377417false",
+                        "timeStr": 85,
+                        "type": "Substitution",
+                        "time": 85,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Filip Da Silva",
+                                "id": "1377417",
+                                "profileUrl": "/players/1377417/filip-da-silva"
+                            },
+                            {
+                                "name": "Adrian Rogulj",
+                                "id": "1047539",
+                                "profileUrl": "/players/1047539/adrian-rogulj"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined86SubstitutionNaN1635672true",
+                        "timeStr": 86,
+                        "type": "Substitution",
+                        "time": 86,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Daniel Samuelsen Arifagic",
+                                "id": "1635672",
+                                "profileUrl": "/players/1635672/daniel-samuelsen-arifagic"
+                            },
+                            {
+                                "name": "Ole Sebastian Sundgot",
+                                "id": "1114563",
+                                "profileUrl": "/players/1114563/ole-sebastian-sundgot"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421674790Card1477657undefinedfalse",
+                        "timeStr": "90 + 3",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 14216747,
+                        "player": {
+                            "id": 1477657,
+                            "name": "Torjus Engebakken",
+                            "profileUrl": "/players/1477657/torjus-engebakken"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1477657/torjus-engebakken",
+                        "overloadTimeStr": "+3",
+                        "isHome": false,
+                        "nameStr": "Torjus Engebakken",
+                        "firstName": "Torjus",
+                        "lastName": "Engebakken",
+                        "fullName": "Torjus Engebakken",
+                        "playerId": 1477657,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Half",
+                    "Goal",
+                    "Assist",
+                    "Substitution",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 203,
+                    "parentLeagueId": 203,
+                    "link": "/leagues/203/overview/1-divisjon",
+                    "leagueName": "1. Divisjon",
+                    "roundName": "13",
+                    "round": "13"
+                },
+                "Stadium": {
+                    "name": "\u00d8ster Hus Arena",
+                    "city": "Sandnes",
+                    "country": "Norway",
+                    "lat": 58.860146298,
+                    "long": 5.724048219,
+                    "capacity": 6046,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/nor.png",
+                    "text": "Abdulhadi Al Fahad",
+                    "countryCode": "NOR",
+                    "country": "Norway"
+                },
+                "Attendance": 1307
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10021_xsmall.png",
+                        "linkToMatch": "/matches/sandnes-ulf-vs-asane/2q49bg#5105145",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10021/overview/asane",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "\u00c5sane",
+                            "homeTeamId": 10021,
+                            "homeScore": "2",
+                            "awayTeam": "Sandnes Ulf",
+                            "awayTeamId": 8133,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8616_xsmall.png",
+                        "linkToMatch": "/matches/sandnes-ulf-vs-sogndal/2bipw3#5105150",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8616/overview/sogndal",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "Sandnes Ulf",
+                            "homeTeamId": 8133,
+                            "homeScore": "2",
+                            "awayTeam": "Sogndal",
+                            "awayTeamId": 8616,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8616",
+                            "name": "Sogndal",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563_xsmall.png",
+                        "linkToMatch": "/matches/ranheim-vs-sandnes-ulf/1saumx#5105159",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6563/overview/ranheim",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "Ranheim",
+                            "homeTeamId": 6563,
+                            "homeScore": "5",
+                            "awayTeam": "Sandnes Ulf",
+                            "awayTeamId": 8133,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4249_xsmall.png",
+                        "linkToMatch": "/matches/strommen-vs-sandnes-ulf/19nbxy#5105165",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4249/overview/strommen",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "Sandnes Ulf",
+                            "homeTeamId": 8133,
+                            "homeScore": "2",
+                            "awayTeam": "Str\u00f8mmen",
+                            "awayTeamId": 4249,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4249",
+                            "name": "Str\u00f8mmen",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8405_xsmall.png",
+                        "linkToMatch": "/matches/sandnes-ulf-vs-moss/29ffxw#5105173",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8405/overview/moss",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Moss",
+                            "homeTeamId": 8405,
+                            "homeScore": "1",
+                            "awayTeam": "Sandnes Ulf",
+                            "awayTeamId": 8133,
+                            "awayScore": "4"
+                        },
+                        "score": "1 - 4",
+                        "home": {
+                            "id": "8405",
+                            "name": "Moss",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8531_xsmall.png",
+                        "linkToMatch": "/matches/bryne-vs-raufoss/2s67xc#5105142",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8531/overview/bryne",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "Raufoss",
+                            "homeTeamId": 9812,
+                            "homeScore": "3",
+                            "awayTeam": "Bryne",
+                            "awayTeamId": 8531,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "9812",
+                            "name": "Raufoss",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8531",
+                            "name": "Bryne",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10021_xsmall.png",
+                        "linkToMatch": "/matches/raufoss-vs-asane/393tt5#5105153",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10021/overview/asane",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "\u00c5sane",
+                            "homeTeamId": 10021,
+                            "homeScore": "3",
+                            "awayTeam": "Raufoss",
+                            "awayTeamId": 9812,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9812",
+                            "name": "Raufoss",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8512_xsmall.png",
+                        "linkToMatch": "/matches/fk-haugesund-vs-raufoss/2ryr52#5105160",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8512/overview/fk-haugesund",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "Raufoss",
+                            "homeTeamId": 9812,
+                            "homeScore": "3",
+                            "awayTeam": "FK Haugesund",
+                            "awayTeamId": 8512,
+                            "awayScore": "4"
+                        },
+                        "score": "3 - 4",
+                        "home": {
+                            "id": "9812",
+                            "name": "Raufoss",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8512",
+                            "name": "FK Haugesund",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8180_xsmall.png",
+                        "linkToMatch": "/matches/stromsgodset-vs-raufoss/2odjfc#5105168",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8180/overview/stromsgodset",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "Str\u00f8msgodset",
+                            "homeTeamId": 8180,
+                            "homeScore": "6",
+                            "awayTeam": "Raufoss",
+                            "awayTeamId": 9812,
+                            "awayScore": "1"
+                        },
+                        "score": "6 - 1",
+                        "home": {
+                            "id": "8180",
+                            "name": "Str\u00f8msgodset",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9812",
+                            "name": "Raufoss",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8616_xsmall.png",
+                        "linkToMatch": "/matches/sogndal-vs-raufoss/2t3psq#5105176",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8616/overview/sogndal",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Raufoss",
+                            "homeTeamId": 9812,
+                            "homeScore": "3",
+                            "awayTeam": "Sogndal",
+                            "awayTeamId": 8616,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "9812",
+                            "name": "Raufoss",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8616",
+                            "name": "Sogndal",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5105180",
+                    "MatchId": 5105180,
+                    "HomeTeamId": 8133,
+                    "AwayTeamId": 9812,
+                    "HomeTeam": "Sandnes Ulf",
+                    "AwayTeam": "Raufoss",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "5",
+                                "1",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Sandnes Ulf haven't lost to Raufoss in their last 5 meetings (1W, 4D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Sandnes Ulf have scored in their last 3 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "7",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Sandnes Ulf have scored 7 goals in their last 3 matches, while Raufoss have scored 7."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {2} matches and {1} in their last {3}.",
+                            "TextTemplateId": "draw_streak_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "8",
+                                "9"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Sandnes Ulf haven't drawn in their last 8 matches and Raufoss in their last 9."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8133,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#6BB0E4"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 9812,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 10,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 10 goals in their last 5 matches",
+                    "color": "#000000"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Sandnes Ulf and Raufoss on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "answer": "Sandnes Ulf won 3\u20130 over Raufoss on Sat, 27 Jun 2026 14:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": {
+            "langs": "de_gen,en_gen,nb",
+            "teams": [
+                "Sandnes Ulf",
+                "Raufoss"
+            ]
+        },
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        52,
+                                        48
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        18,
+                                        7
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        8,
+                                        1
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        5,
+                                        3
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#70b5e9",
+                            "away": "#FEEC00"
+                        },
+                        "lightMode": {
+                            "home": "#6BB0E4",
+                            "away": "#000000"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(29, 29, 29, 1.0)",
+                            "away": "rgba(29, 29, 29, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 22,
+            "windSpeed": 4,
+            "windDirectionCardinal": "S",
+            "iconCode": 28,
+            "relativeHumidity": 68,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 74,
+            "description": "Mostly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T15:30:01Z",
+            "localizedKey": "weather_condition_cloudy",
+            "defaultTitle": "Cloudy"
+        },
+        "lineup": {
+            "matchId": 5105180,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 8133,
+                "name": "Sandnes Ulf",
+                "formation": "3-5-2",
+                "starters": [
+                    {
+                        "id": 1341226,
+                        "age": 21,
+                        "name": "Tord Flolid",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "13",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 139991,
+                        "firstName": "Tord",
+                        "lastName": "Flolid",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1636161,
+                        "age": 20,
+                        "name": "Fillip Voster Botnen",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.79,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 183761,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 75
+                                }
+                            ]
+                        },
+                        "firstName": "Fillip Voster",
+                        "lastName": "Botnen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1258766,
+                        "age": 23,
+                        "name": "Gullbrandur \u00d8regaard",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Faroe Islands",
+                        "countryCode": "FRO",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Gullbrandur",
+                        "lastName": "\u00d8regaard",
+                        "rankings": null
+                    },
+                    {
+                        "id": 634124,
+                        "age": 27,
+                        "name": "Andreas Nyhagen",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.21,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Andreas",
+                        "lastName": "Nyhagen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 631758,
+                        "age": 28,
+                        "name": "Axel Kryger",
+                        "positionId": 71,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.773
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 169747,
+                        "firstName": "Axel",
+                        "lastName": "Kryger",
+                        "rankings": null
+                    },
+                    {
+                        "id": 935616,
+                        "age": 25,
+                        "name": "Sander Saugestad",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 132741,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 50
+                                }
+                            ]
+                        },
+                        "firstName": "Sander",
+                        "lastName": "Saugestad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1314730,
+                        "age": 24,
+                        "name": "Zifarlino Nsoni",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Congo",
+                        "countryCode": "CGO",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 156000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 58
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Zifarlino",
+                        "lastName": "Nsoni",
+                        "rankings": null
+                    },
+                    {
+                        "id": 936134,
+                        "age": 23,
+                        "name": "Kay Kostadinov",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 108264,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 58
+                                }
+                            ]
+                        },
+                        "firstName": "Kay",
+                        "lastName": "Kostadinov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1460832,
+                        "age": 21,
+                        "name": "Erik Berland",
+                        "positionId": 79,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 204360,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 50
+                                }
+                            ]
+                        },
+                        "firstName": "Erik",
+                        "lastName": "Berland",
+                        "rankings": null
+                    },
+                    {
+                        "id": 936142,
+                        "age": 24,
+                        "name": "Mathias Sundberg",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 147332,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 55
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Mathias",
+                        "lastName": "Sundberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1114563,
+                        "age": 25,
+                        "name": "Ole Sebastian Sundgot",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 160000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 55
+                                },
+                                {
+                                    "type": "yellowCard",
+                                    "time": 6
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ole Sebastian",
+                        "lastName": "Sundgot",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1667227,
+                    "age": 41,
+                    "name": "Arturo Max Cleveland",
+                    "countryName": "Norway",
+                    "countryCode": "NOR",
+                    "firstName": "Arturo Max",
+                    "lastName": "Cleveland",
+                    "primaryTeamId": 8133,
+                    "primaryTeamName": "Sandnes Ulf",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1946610,
+                        "age": 16,
+                        "name": "Anestis Tricholidis",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "26",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Anestis",
+                        "lastName": "Tricholidis",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1295627,
+                        "age": 22,
+                        "name": "Jonas Brune Aune",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Jonas Brune",
+                        "lastName": "Aune",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1283228,
+                        "age": 21,
+                        "name": "Peder Brekke",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "14",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 168000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Peder",
+                        "lastName": "Brekke",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1635672,
+                        "age": 19,
+                        "name": "Daniel Samuelsen Arifagic",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Daniel Samuelsen",
+                        "lastName": "Arifagic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 120510,
+                        "age": 34,
+                        "name": "Aslak Falch",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 50000,
+                        "firstName": "Aslak",
+                        "lastName": "Falch",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1438390,
+                        "age": 26,
+                        "name": "Jamal Deen Haruna",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "28",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "marketValue": 221795,
+                        "firstName": "Jamal Deen",
+                        "lastName": "Haruna",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810521,
+                        "age": 18,
+                        "name": "Eliah Roeksund Debes",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "25",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Eliah Roeksund",
+                        "lastName": "Debes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1400209,
+                        "age": 22,
+                        "name": "Ali Memed",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "77",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 83471,
+                        "firstName": "Ali",
+                        "lastName": "Memed",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 24.3,
+                "totalStarterMarketValue": 1402196
+            },
+            "awayTeam": {
+                "id": 9812,
+                "name": "Raufoss",
+                "formation": "3-4-3",
+                "starters": [
+                    {
+                        "id": 537305,
+                        "age": 29,
+                        "name": "Anders Klemensson",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 146398,
+                        "firstName": "Anders",
+                        "lastName": "Klemensson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1053645,
+                        "age": 25,
+                        "name": "Erik Fr\u00f8ysa",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 116620,
+                        "firstName": "Erik",
+                        "lastName": "Fr\u00f8ysa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 534665,
+                        "age": 30,
+                        "name": "Alexander Achinioti J\u00f6nsson",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "13",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 160424,
+                        "firstName": "Alexander Achinioti",
+                        "lastName": "J\u00f6nsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1557589,
+                        "age": 21,
+                        "name": "Aleksander van der Spa",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "28",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 229803,
+                        "firstName": "Aleksander",
+                        "lastName": "van der Spa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1047865,
+                        "age": 25,
+                        "name": "J\u00f8rgen Vedal Sj\u00f8l",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 153879,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "J\u00f8rgen Vedal",
+                        "lastName": "Sj\u00f8l",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1072532,
+                        "age": 25,
+                        "name": "Eirik Dahl \u00c5svestad",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 126990,
+                        "firstName": "Eirik Dahl",
+                        "lastName": "\u00c5svestad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 538930,
+                        "age": 28,
+                        "name": "Nicolai Fremstad",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "11",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 156896,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Nicolai",
+                        "lastName": "Fremstad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1734240,
+                        "age": 18,
+                        "name": "David de Ornelas",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 394344,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "David",
+                        "lastName": "de Ornelas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1477657,
+                        "age": 19,
+                        "name": "Torjus Engebakken",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "18",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 575744,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Torjus",
+                        "lastName": "Engebakken",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1047539,
+                        "age": 27,
+                        "name": "Adrian Rogulj",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 110759,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 85,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Adrian",
+                        "lastName": "Rogulj",
+                        "rankings": null
+                    },
+                    {
+                        "id": 614564,
+                        "age": 28,
+                        "name": "Rafik Zekhnini",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "27",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 114101,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Rafik",
+                        "lastName": "Zekhnini",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 440317,
+                    "age": 31,
+                    "name": "Ole Petter Berget",
+                    "countryName": "Norway",
+                    "countryCode": "NOR",
+                    "firstName": "Ole Petter",
+                    "lastName": "Berget",
+                    "primaryTeamId": 9812,
+                    "primaryTeamName": "Raufoss",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 743088,
+                        "age": 28,
+                        "name": "Markus Aanesland",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 119652,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Markus",
+                        "lastName": "Aanesland",
+                        "rankings": null
+                    },
+                    {
+                        "id": 182581,
+                        "age": 33,
+                        "name": "Emil Sildnes",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 126344,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Emil",
+                        "lastName": "Sildnes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1662364,
+                        "age": 18,
+                        "name": "Jonas Dalen Korsaksel",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "30",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Jonas Dalen",
+                        "lastName": "Korsaksel",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1376896,
+                        "age": 21,
+                        "name": "Jonas S\u00f8rensen Seln\u00e6s",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Jonas S\u00f8rensen",
+                        "lastName": "Seln\u00e6s",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1377417,
+                        "age": 22,
+                        "name": "Filip Da Silva",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "22",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 124028,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 85,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Filip",
+                        "lastName": "Da Silva",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1084585,
+                        "age": 24,
+                        "name": "David Synstelien",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "David",
+                        "lastName": "Synstelien",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1691109,
+                        "age": 20,
+                        "name": "Mads Orrhaug Larsen",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "16",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 275545,
+                        "firstName": "Mads Orrhaug",
+                        "lastName": "Larsen",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.4,
+                "totalStarterMarketValue": 2285958
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "203",
+            "url": "https://data.fotmob.com/tables.ext.203.fot.gz",
+            "teams": [
+                8133,
+                9812
+            ],
+            "tournamentNameForUrl": "1. Divisjon",
+            "parentLeagueId": 203,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                6,
+                6,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2024-10-02T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#4385846",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-02T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-15T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#4385683",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-15T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-09-24T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#4077352",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    },
+                    "status": {
+                        "utcTime": "2023-09-24T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-04-22T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#4077162",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    },
+                    "status": {
+                        "utcTime": "2023-04-22T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-07-31T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#3803770",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    },
+                    "status": {
+                        "utcTime": "2022-07-31T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-07-04T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#3803732",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    },
+                    "status": {
+                        "utcTime": "2022-07-04T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-09-11T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#3517665",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    },
+                    "status": {
+                        "utcTime": "2021-09-11T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-06-12T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#3517224",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    },
+                    "status": {
+                        "utcTime": "2021-06-12T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-09-25T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#3238446",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    },
+                    "status": {
+                        "utcTime": "2020-09-25T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-08-27T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#3238568",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    },
+                    "status": {
+                        "utcTime": "2020-08-27T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-09-22T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#2948665",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    },
+                    "status": {
+                        "utcTime": "2019-09-22T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-05-16T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#2948279",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    },
+                    "status": {
+                        "utcTime": "2019-05-16T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-09-25T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#2149035",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    },
+                    "status": {
+                        "utcTime": "2016-09-25T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-05-11T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sandnes-ulf-vs-raufoss/2nvfrt#2149133",
+                    "league": {
+                        "name": "1. Divisjon",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/1-divisjon"
+                    },
+                    "home": {
+                        "name": "Raufoss",
+                        "id": "9812"
+                    },
+                    "status": {
+                        "utcTime": "2016-05-11T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sandnes Ulf",
+                        "id": "8133"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "sandnes-ulf-vs-raufoss",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5105180",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Sandnes Ulf",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8133.png",
+                "url": "https://www.fotmob.com/teams/8133/overview/sandnes-ulf",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Raufoss",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9812.png",
+                "url": "https://www.fotmob.com/teams/9812/overview/raufoss",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Sandnes Ulf vs Raufoss",
+            "description": "Follow Sandnes Ulf vs Raufoss live on fotmob.com",
+            "startDate": "2026-06-27T14:00:00.000Z",
+            "endDate": "2026-06-27T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "\u00d8ster Hus Arena",
+                "latitude": 58.860146298,
+                "longitude": 5.724048219,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Norway",
+                    "addressLocality": "Sandnes"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8133.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/9812.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5105180",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Sandnes Ulf",
+                    "url": "https://www.fotmob.com/teams/8133/overview/sandnes-ulf"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Raufoss",
+                    "url": "https://www.fotmob.com/teams/9812/overview/raufoss"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Sandnes Ulf - Raufoss",
+                        "item": "https://www.fotmob.com/match/5105180"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Raufoss",
+                        "item": "https://www.fotmob.com/teams/9812/overview/raufoss"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Sandnes Ulf - Raufoss",
+                        "item": "https://www.fotmob.com/match/5105180"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Sandnes Ulf",
+                        "item": "https://www.fotmob.com/teams/8133/overview/sandnes-ulf"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Sandnes Ulf - Raufoss",
+                        "item": "https://www.fotmob.com/match/5105180"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Sandnes Ulf and Raufoss on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Sandnes Ulf won 3\u20130 over Raufoss on Sat, 27 Jun 2026 14:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

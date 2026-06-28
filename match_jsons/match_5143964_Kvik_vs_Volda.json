@@ -1,0 +1,1070 @@
+{
+    "general": {
+        "matchId": "5143964",
+        "matchName": "Kvik-vs-Volda_Sat, Jun 27, 2026, 11:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919793,
+        "leagueName": "3. Divisjon Avd. 2",
+        "leagueRoundName": "12",
+        "parentLeagueId": 205,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Kvik",
+            "id": 4332
+        },
+        "awayTeam": {
+            "name": "Volda",
+            "id": 2000
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 11:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T11:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Kvik",
+                "id": 4332,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4332_small.png",
+                "pageUrl": "/teams/4332/overview/kvik"
+            },
+            {
+                "name": "Volda",
+                "id": 2000,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2000_small.png",
+                "pageUrl": "/teams/2000/overview/volda"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T11:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 13:00:59",
+                "firstHalfEnded": "27.06.2026 13:45:52",
+                "secondHalfStarted": "27.06.2026 14:00:51",
+                "secondHalfEnded": "27.06.2026 14:48:09",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 14:48:09"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "0 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {},
+            "awayTeamGoals": {
+                "Aamboe": [
+                    {
+                        "reactKey": "1421553614Goal1746272undefinedfalse",
+                        "timeStr": 14,
+                        "type": "Goal",
+                        "time": 14,
+                        "overloadTime": null,
+                        "eventId": 14215536,
+                        "player": {
+                            "id": 1746272,
+                            "name": "Evan Dyrhol Aamboe",
+                            "profileUrl": "/players/1746272/evan-dyrhol-aamboe"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1746272/evan-dyrhol-aamboe",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Evan Dyrhol Aamboe",
+                        "firstName": "Evan Dyrhol",
+                        "lastName": "Aamboe",
+                        "fullName": "Evan Dyrhol Aamboe",
+                        "playerId": 1746272,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Bj\u00f8rdal": [
+                    {
+                        "reactKey": "1421564051Goal1377182undefinedfalse",
+                        "timeStr": 51,
+                        "type": "Goal",
+                        "time": 51,
+                        "overloadTime": null,
+                        "eventId": 14215640,
+                        "player": {
+                            "id": 1377182,
+                            "name": "Olai Bj\u00f8rdal",
+                            "profileUrl": "/players/1377182/olai-bjordal"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1377182/olai-bjordal",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Olai Bj\u00f8rdal",
+                        "firstName": "Olai",
+                        "lastName": "Bj\u00f8rdal",
+                        "fullName": "Olai Bj\u00f8rdal",
+                        "playerId": 1377182,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5143964,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421553614Goal1746272undefinedfalse",
+                        "timeStr": 14,
+                        "type": "Goal",
+                        "time": 14,
+                        "overloadTime": null,
+                        "eventId": 14215536,
+                        "player": {
+                            "id": 1746272,
+                            "name": "Evan Dyrhol Aamboe",
+                            "profileUrl": "/players/1746272/evan-dyrhol-aamboe"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1746272/evan-dyrhol-aamboe",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Evan Dyrhol Aamboe",
+                        "firstName": "Evan Dyrhol",
+                        "lastName": "Aamboe",
+                        "fullName": "Evan Dyrhol Aamboe",
+                        "playerId": 1746272,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421564051Goal1377182undefinedfalse",
+                        "timeStr": 51,
+                        "type": "Goal",
+                        "time": 51,
+                        "overloadTime": null,
+                        "eventId": 14215640,
+                        "player": {
+                            "id": 1377182,
+                            "name": "Olai Bj\u00f8rdal",
+                            "profileUrl": "/players/1377182/olai-bjordal"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1377182/olai-bjordal",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Olai Bj\u00f8rdal",
+                        "firstName": "Olai",
+                        "lastName": "Bj\u00f8rdal",
+                        "fullName": "Olai Bj\u00f8rdal",
+                        "playerId": 1377182,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T11:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919793,
+                    "parentLeagueId": 205,
+                    "link": "/leagues/205/overview/3-divisjon-avd-2",
+                    "leagueName": "3. Divisjon Avd. 2",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9801_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-byasen/1ngxuo#5143937",
+                        "date": {
+                            "utcTime": "2026-05-22T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9801/overview/byasen",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T17:00:00.000Z",
+                            "homeTeam": "By\u00e5sen",
+                            "homeTeamId": 9801,
+                            "homeScore": "0",
+                            "awayTeam": "Kvik",
+                            "awayTeamId": 4332,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "9801",
+                            "name": "By\u00e5sen",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4366_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-orkla/miyot#5143944",
+                        "date": {
+                            "utcTime": "2026-05-30T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4366/overview/orkla",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T12:00:00.000Z",
+                            "homeTeam": "Kvik",
+                            "homeTeamId": 4332,
+                            "homeScore": "1",
+                            "awayTeam": "Orkla",
+                            "awayTeamId": 4366,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4366",
+                            "name": "Orkla",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4361_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-ntnui/mi14w#5143970",
+                        "date": {
+                            "utcTime": "2026-06-03T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4361/overview/ntnui",
+                        "tooltipText": {
+                            "utcTime": "2026-06-03T17:00:00.000Z",
+                            "homeTeam": "NTNUI",
+                            "homeTeamId": 4361,
+                            "homeScore": "4",
+                            "awayTeam": "Kvik",
+                            "awayTeamId": 4332,
+                            "awayScore": "3"
+                        },
+                        "score": "4 - 3",
+                        "home": {
+                            "id": "4361",
+                            "name": "NTNUI",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/46922_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-ranheim-2/lq24gn#5143955",
+                        "date": {
+                            "utcTime": "2026-06-15T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/46922/overview/ranheim-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T17:00:00.000Z",
+                            "homeTeam": "Ranheim 2",
+                            "homeTeamId": 46922,
+                            "homeScore": "1",
+                            "awayTeam": "Kvik",
+                            "awayTeamId": 4332,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "46922",
+                            "name": "Ranheim 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/167840_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-herd/6t4g8l6#5143960",
+                        "date": {
+                            "utcTime": "2026-06-20T13:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/167840/overview/herd",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T13:30:00.000Z",
+                            "homeTeam": "Kvik",
+                            "homeTeamId": 4332,
+                            "homeScore": "1",
+                            "awayTeam": "Herd",
+                            "awayTeamId": 167840,
+                            "awayScore": "5"
+                        },
+                        "score": "1 - 5",
+                        "home": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "167840",
+                            "name": "Herd",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/167840_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-herd/6mj0snc#5143934",
+                        "date": {
+                            "utcTime": "2026-05-16T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/167840/overview/herd",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T14:00:00.000Z",
+                            "homeTeam": "Volda",
+                            "homeTeamId": 2000,
+                            "homeScore": "0",
+                            "awayTeam": "Herd",
+                            "awayTeamId": 167840,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "167840",
+                            "name": "Herd",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10257_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-rosenborg-2/18q6xt#5143939",
+                        "date": {
+                            "utcTime": "2026-05-23T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10257/overview/rosenborg-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T11:00:00.000Z",
+                            "homeTeam": "Rosenborg 2",
+                            "homeTeamId": 10257,
+                            "homeScore": "2",
+                            "awayTeam": "Volda",
+                            "awayTeamId": 2000,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "10257",
+                            "name": "Rosenborg 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4361_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-ntnui/c1sa6#5143942",
+                        "date": {
+                            "utcTime": "2026-05-30T14:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4361/overview/ntnui",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:15:00.000Z",
+                            "homeTeam": "Volda",
+                            "homeTeamId": 2000,
+                            "homeScore": "3",
+                            "awayTeam": "NTNUI",
+                            "awayTeamId": 4361,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4361",
+                            "name": "NTNUI",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4366_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-orkla/c2gu7#5143949",
+                        "date": {
+                            "utcTime": "2026-06-13T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4366/overview/orkla",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T12:00:00.000Z",
+                            "homeTeam": "Orkla",
+                            "homeTeamId": 4366,
+                            "homeScore": "2",
+                            "awayTeam": "Volda",
+                            "awayTeamId": 2000,
+                            "awayScore": "5"
+                        },
+                        "score": "2 - 5",
+                        "home": {
+                            "id": "4366",
+                            "name": "Orkla",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9801_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-byasen/15gscu#5143957",
+                        "date": {
+                            "utcTime": "2026-06-20T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9801/overview/byasen",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T11:00:00.000Z",
+                            "homeTeam": "Volda",
+                            "homeTeamId": 2000,
+                            "homeScore": "3",
+                            "awayTeam": "By\u00e5sen",
+                            "awayTeamId": 9801,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9801",
+                            "name": "By\u00e5sen",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5143964",
+                    "MatchId": 5143964,
+                    "HomeTeamId": 4332,
+                    "AwayTeamId": 2000,
+                    "HomeTeam": "Kvik",
+                    "AwayTeam": "Volda",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Volda haven't lost in 4 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "8",
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Kvik have scored in their last 8 matches and Volda have scored in their last 4 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "11",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Volda have scored 11 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Kvik haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4332,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2000,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 13,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 13 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Kvik and Volda on Sat, 27 Jun 2026 11:00:00 GMT?",
+                    "answer": "Volda won 2\u20130 over Kvik on Sat, 27 Jun 2026 11:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919793",
+            "url": "https://data.fotmob.com/tables.ext.919793.fot.gz",
+            "teams": [
+                4332,
+                2000
+            ],
+            "tournamentNameForUrl": "3. Divisjon Avd. 2",
+            "parentLeagueId": 205,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                0,
+                1,
+                1
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-16T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/volda-vs-kvik/bxu8i#4696942",
+                    "league": {
+                        "name": "3. Divisjon Avd. 2",
+                        "id": "205",
+                        "pageUrl": "/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    "home": {
+                        "name": "Kvik",
+                        "id": "4332"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-16T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Volda",
+                        "id": "2000"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-21T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/volda-vs-kvik/bxu8i#4696906",
+                    "league": {
+                        "name": "3. Divisjon Avd. 2",
+                        "id": "205",
+                        "pageUrl": "/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    "home": {
+                        "name": "Volda",
+                        "id": "2000"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-21T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kvik",
+                        "id": "4332"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "kvik-vs-volda",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5143964",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Kvik",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4332.png",
+                "url": "https://www.fotmob.com/teams/4332/overview/kvik",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Volda",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2000.png",
+                "url": "https://www.fotmob.com/teams/2000/overview/volda",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Kvik vs Volda",
+            "description": "Follow Kvik vs Volda live on fotmob.com",
+            "startDate": "2026-06-27T11:00:00.000Z",
+            "endDate": "2026-06-27T13:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4332.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2000.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5143964",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T11:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Kvik",
+                    "url": "https://www.fotmob.com/teams/4332/overview/kvik"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Volda",
+                    "url": "https://www.fotmob.com/teams/2000/overview/volda"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kvik - Volda",
+                        "item": "https://www.fotmob.com/match/5143964"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Volda",
+                        "item": "https://www.fotmob.com/teams/2000/overview/volda"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Kvik - Volda",
+                        "item": "https://www.fotmob.com/match/5143964"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kvik",
+                        "item": "https://www.fotmob.com/teams/4332/overview/kvik"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Kvik - Volda",
+                        "item": "https://www.fotmob.com/match/5143964"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Kvik and Volda on Sat, 27 Jun 2026 11:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Volda won 2\u20130 over Kvik on Sat, 27 Jun 2026 11:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

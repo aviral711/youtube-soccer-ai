@@ -1,0 +1,2930 @@
+{
+    "general": {
+        "matchId": "5105183",
+        "matchName": "Str\u00f8mmen-vs-Moss_Sat, Jun 27, 2026, 14:00 UTC",
+        "matchRound": "13",
+        "teamColors": {
+            "darkMode": {
+                "home": "#7A7879",
+                "away": "#FFE624"
+            },
+            "lightMode": {
+                "home": "#7A7879",
+                "away": "#dc9f00"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 203,
+        "leagueName": "1. Divisjon",
+        "leagueRoundName": "13",
+        "parentLeagueId": 203,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Str\u00f8mmen",
+            "id": 4249
+        },
+        "awayTeam": {
+            "name": "Moss",
+            "id": 8405
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Str\u00f8mmen",
+                "id": 4249,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4249_small.png",
+                "pageUrl": "/teams/4249/overview/strommen"
+            },
+            {
+                "name": "Moss",
+                "id": 8405,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8405_small.png",
+                "pageUrl": "/teams/8405/overview/moss"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 16:01:58",
+                "firstHalfEnded": "27.06.2026 16:50:28",
+                "secondHalfStarted": "27.06.2026 17:07:15",
+                "secondHalfEnded": "27.06.2026 17:59:07",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 17:59:07"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Fajfric": [
+                    {
+                        "reactKey": "1421623716Goal1281496undefinedtrue",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14216237,
+                        "player": {
+                            "id": 1281496,
+                            "name": "Luka Fajfric",
+                            "profileUrl": "/players/1281496/luka-fajfric"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1281496/luka-fajfric",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Luka Fajfric",
+                        "firstName": "Luka",
+                        "lastName": "Fajfric",
+                        "fullName": "Luka Fajfric",
+                        "playerId": 1281496,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sindre Engja Rindal",
+                        "assistProfileUrl": "/players/1108608/sindre-engja-rindal",
+                        "assistPlayerId": 1108608,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sindre Engja Rindal"
+                    }
+                ],
+                "Hristov": [
+                    {
+                        "reactKey": "1421636138Goal1049006undefinedtrue",
+                        "timeStr": 38,
+                        "type": "Goal",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 14216361,
+                        "player": {
+                            "id": 1049006,
+                            "name": "Nikolai Jakobsen Hristov",
+                            "profileUrl": "/players/1049006/nikolai-jakobsen-hristov"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1049006/nikolai-jakobsen-hristov",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nikolai Jakobsen Hristov",
+                        "firstName": "Nikolai Jakobsen",
+                        "lastName": "Hristov",
+                        "fullName": "Nikolai Jakobsen Hristov",
+                        "playerId": 1049006,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Kodjo Somesi",
+                        "assistProfileUrl": "/players/1047826/kodjo-somesi",
+                        "assistPlayerId": 1047826,
+                        "assistKey": "assist_by",
+                        "assistInput": "Kodjo Somesi"
+                    }
+                ],
+                "W\u00e6hler": [
+                    {
+                        "reactKey": "1421676890Goal1636127undefinedtrue",
+                        "timeStr": "90 + 2",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "eventId": 14216768,
+                        "player": {
+                            "id": 1636127,
+                            "name": "Markus Edner W\u00e6hler",
+                            "profileUrl": "/players/1636127/markus-edner-waehler"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1636127/markus-edner-waehler",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Markus Edner W\u00e6hler",
+                        "firstName": "Markus Edner",
+                        "lastName": "W\u00e6hler",
+                        "fullName": "Markus Edner W\u00e6hler",
+                        "playerId": 1636127,
+                        "newScore": [
+                            3,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Cameron Crestani",
+                        "assistProfileUrl": "/players/823539/cameron-crestani",
+                        "assistPlayerId": 823539,
+                        "assistKey": "assist_by",
+                        "assistInput": "Cameron Crestani"
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Aga": [
+                    {
+                        "reactKey": "142162068Goal915795undefinedfalse",
+                        "timeStr": 8,
+                        "type": "Goal",
+                        "time": 8,
+                        "overloadTime": null,
+                        "eventId": 14216206,
+                        "player": {
+                            "id": 915795,
+                            "name": "Oscar Aga",
+                            "profileUrl": "/players/915795/oscar-aga"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/915795/oscar-aga",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Oscar Aga",
+                        "firstName": "Oscar",
+                        "lastName": "Aga",
+                        "fullName": "Oscar Aga",
+                        "playerId": 915795,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Niclas Schj\u00f8th Semmen",
+                        "assistProfileUrl": "/players/1483200/niclas-schjoth-semmen",
+                        "assistPlayerId": 1483200,
+                        "assistKey": "assist_by",
+                        "assistInput": "Niclas Schj\u00f8th Semmen"
+                    }
+                ],
+                "Semmen": [
+                    {
+                        "reactKey": "1421648553Goal1483200undefinedfalse",
+                        "timeStr": 53,
+                        "type": "Goal",
+                        "time": 53,
+                        "overloadTime": null,
+                        "eventId": 14216485,
+                        "player": {
+                            "id": 1483200,
+                            "name": "Niclas Schj\u00f8th Semmen",
+                            "profileUrl": "/players/1483200/niclas-schjoth-semmen"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1483200/niclas-schjoth-semmen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Niclas Schj\u00f8th Semmen",
+                        "firstName": "Niclas Schj\u00f8th",
+                        "lastName": "Semmen",
+                        "fullName": "Niclas Schj\u00f8th Semmen",
+                        "playerId": 1483200,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Robert Marcus",
+                        "assistProfileUrl": "/players/1403035/robert-marcus",
+                        "assistPlayerId": 1403035,
+                        "assistKey": "assist_by",
+                        "assistInput": "Robert Marcus"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "liveticker",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5105183,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142162068Goal915795undefinedfalse",
+                        "timeStr": 8,
+                        "type": "Goal",
+                        "time": 8,
+                        "overloadTime": null,
+                        "eventId": 14216206,
+                        "player": {
+                            "id": 915795,
+                            "name": "Oscar Aga",
+                            "profileUrl": "/players/915795/oscar-aga"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/915795/oscar-aga",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Oscar Aga",
+                        "firstName": "Oscar",
+                        "lastName": "Aga",
+                        "fullName": "Oscar Aga",
+                        "playerId": 915795,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Niclas Schj\u00f8th Semmen",
+                        "assistProfileUrl": "/players/1483200/niclas-schjoth-semmen",
+                        "assistPlayerId": 1483200,
+                        "assistKey": "assist_by",
+                        "assistInput": "Niclas Schj\u00f8th Semmen"
+                    },
+                    {
+                        "reactKey": "1421623716Goal1281496undefinedtrue",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14216237,
+                        "player": {
+                            "id": 1281496,
+                            "name": "Luka Fajfric",
+                            "profileUrl": "/players/1281496/luka-fajfric"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1281496/luka-fajfric",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Luka Fajfric",
+                        "firstName": "Luka",
+                        "lastName": "Fajfric",
+                        "fullName": "Luka Fajfric",
+                        "playerId": 1281496,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sindre Engja Rindal",
+                        "assistProfileUrl": "/players/1108608/sindre-engja-rindal",
+                        "assistPlayerId": 1108608,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sindre Engja Rindal"
+                    },
+                    {
+                        "reactKey": "undefined33SubstitutionNaN1279030false",
+                        "timeStr": 33,
+                        "type": "Substitution",
+                        "time": 33,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kristoffer Harrison",
+                                "id": "1279030",
+                                "profileUrl": "/players/1279030/kristoffer-harrison"
+                            },
+                            {
+                                "name": "Marius Cassidy",
+                                "id": "1280261",
+                                "profileUrl": "/players/1280261/marius-cassidy"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421636138Goal1049006undefinedtrue",
+                        "timeStr": 38,
+                        "type": "Goal",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 14216361,
+                        "player": {
+                            "id": 1049006,
+                            "name": "Nikolai Jakobsen Hristov",
+                            "profileUrl": "/players/1049006/nikolai-jakobsen-hristov"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1049006/nikolai-jakobsen-hristov",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nikolai Jakobsen Hristov",
+                        "firstName": "Nikolai Jakobsen",
+                        "lastName": "Hristov",
+                        "fullName": "Nikolai Jakobsen Hristov",
+                        "playerId": 1049006,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Kodjo Somesi",
+                        "assistProfileUrl": "/players/1047826/kodjo-somesi",
+                        "assistPlayerId": 1047826,
+                        "assistKey": "assist_by",
+                        "assistInput": "Kodjo Somesi"
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421648553Goal1483200undefinedfalse",
+                        "timeStr": 53,
+                        "type": "Goal",
+                        "time": 53,
+                        "overloadTime": null,
+                        "eventId": 14216485,
+                        "player": {
+                            "id": 1483200,
+                            "name": "Niclas Schj\u00f8th Semmen",
+                            "profileUrl": "/players/1483200/niclas-schjoth-semmen"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1483200/niclas-schjoth-semmen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Niclas Schj\u00f8th Semmen",
+                        "firstName": "Niclas Schj\u00f8th",
+                        "lastName": "Semmen",
+                        "fullName": "Niclas Schj\u00f8th Semmen",
+                        "playerId": 1483200,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Robert Marcus",
+                        "assistProfileUrl": "/players/1403035/robert-marcus",
+                        "assistPlayerId": 1403035,
+                        "assistKey": "assist_by",
+                        "assistInput": "Robert Marcus"
+                    },
+                    {
+                        "reactKey": "undefined56SubstitutionNaN1946555false",
+                        "timeStr": 56,
+                        "type": "Substitution",
+                        "time": 56,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Chidi Emmanuel",
+                                "id": "1946555",
+                                "profileUrl": "/players/1946555/chidi-emmanuel"
+                            },
+                            {
+                                "name": "Edvard Race",
+                                "id": "633971",
+                                "profileUrl": "/players/633971/edvard-race"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421669568Card745824undefinedfalse",
+                        "timeStr": 68,
+                        "type": "Card",
+                        "time": 68,
+                        "overloadTime": null,
+                        "eventId": 14216695,
+                        "player": {
+                            "id": 745824,
+                            "name": "Sigurd Gr\u00f8nli",
+                            "profileUrl": "/players/745824/sigurd-gronli"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/745824/sigurd-gronli",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Sigurd Gr\u00f8nli",
+                        "firstName": "Sigurd",
+                        "lastName": "Gr\u00f8nli",
+                        "fullName": "Sigurd Gr\u00f8nli",
+                        "playerId": 745824,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1377072true",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Deni Dashaev",
+                                "id": "1377072",
+                                "profileUrl": "/players/1377072/deni-dashaev"
+                            },
+                            {
+                                "name": "Marcus Paulsen",
+                                "id": "1636831",
+                                "profileUrl": "/players/1636831/marcus-paulsen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1636127true",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Markus Edner W\u00e6hler",
+                                "id": "1636127",
+                                "profileUrl": "/players/1636127/markus-edner-waehler"
+                            },
+                            {
+                                "name": "Luka Fajfric",
+                                "id": "1281496",
+                                "profileUrl": "/players/1281496/luka-fajfric"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined78SubstitutionNaN1652552true",
+                        "timeStr": 78,
+                        "type": "Substitution",
+                        "time": 78,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Even Rogne",
+                                "id": "1652552",
+                                "profileUrl": "/players/1652552/even-rogne"
+                            },
+                            {
+                                "name": "Simen Heggdal Beck",
+                                "id": "1311989",
+                                "profileUrl": "/players/1311989/simen-heggdal-beck"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined78SubstitutionNaN631584true",
+                        "timeStr": 78,
+                        "type": "Substitution",
+                        "time": 78,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Thomas Lillo",
+                                "id": "631584",
+                                "profileUrl": "/players/631584/thomas-lillo"
+                            },
+                            {
+                                "name": "Adrian Solberg",
+                                "id": "977984",
+                                "profileUrl": "/players/977984/adrian-solberg"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined78SubstitutionNaN1606366false",
+                        "timeStr": 78,
+                        "type": "Substitution",
+                        "time": 78,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Patrik Andersen",
+                                "id": "1606366",
+                                "profileUrl": "/players/1606366/patrik-andersen"
+                            },
+                            {
+                                "name": "Sigurd Gr\u00f8nli",
+                                "id": "745824",
+                                "profileUrl": "/players/745824/sigurd-gronli"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined78SubstitutionNaN1483201false",
+                        "timeStr": 78,
+                        "type": "Substitution",
+                        "time": 78,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "H\u00e5kon Vold Krohg",
+                                "id": "1483201",
+                                "profileUrl": "/players/1483201/hakon-vold-krohg"
+                            },
+                            {
+                                "name": "Robert Marcus",
+                                "id": "1403035",
+                                "profileUrl": "/players/1403035/robert-marcus"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421669078Card823539undefinedtrue",
+                        "timeStr": 78,
+                        "type": "Card",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 14216690,
+                        "player": {
+                            "id": 823539,
+                            "name": "Cameron Crestani",
+                            "profileUrl": "/players/823539/cameron-crestani"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/823539/cameron-crestani",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Cameron Crestani",
+                        "firstName": "Cameron",
+                        "lastName": "Crestani",
+                        "fullName": "Cameron Crestani",
+                        "playerId": 823539,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421669281Card1108608undefinedtrue",
+                        "timeStr": 81,
+                        "type": "Card",
+                        "time": 81,
+                        "overloadTime": null,
+                        "eventId": 14216692,
+                        "player": {
+                            "id": 1108608,
+                            "name": "Sindre Engja Rindal",
+                            "profileUrl": "/players/1108608/sindre-engja-rindal"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1108608/sindre-engja-rindal",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Sindre Engja Rindal",
+                        "firstName": "Sindre Engja",
+                        "lastName": "Rindal",
+                        "fullName": "Sindre Engja Rindal",
+                        "playerId": 1108608,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN1281277true",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Julian Mikalsen Kristengard",
+                                "id": "1281277",
+                                "profileUrl": "/players/1281277/julian-mikalsen-kristengard"
+                            },
+                            {
+                                "name": "Nikolai Jakobsen Hristov",
+                                "id": "1049006",
+                                "profileUrl": "/players/1049006/nikolai-jakobsen-hristov"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421676588Card1279030undefinedfalse",
+                        "timeStr": 88,
+                        "type": "Card",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14216765,
+                        "player": {
+                            "id": 1279030,
+                            "name": "Kristoffer Harrison",
+                            "profileUrl": "/players/1279030/kristoffer-harrison"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1279030/kristoffer-harrison",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Kristoffer Harrison",
+                        "firstName": "Kristoffer",
+                        "lastName": "Harrison",
+                        "fullName": "Kristoffer Harrison",
+                        "playerId": 1279030,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421676890Goal1636127undefinedtrue",
+                        "timeStr": "90 + 2",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "eventId": 14216768,
+                        "player": {
+                            "id": 1636127,
+                            "name": "Markus Edner W\u00e6hler",
+                            "profileUrl": "/players/1636127/markus-edner-waehler"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1636127/markus-edner-waehler",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Markus Edner W\u00e6hler",
+                        "firstName": "Markus Edner",
+                        "lastName": "W\u00e6hler",
+                        "fullName": "Markus Edner W\u00e6hler",
+                        "playerId": 1636127,
+                        "newScore": [
+                            3,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Cameron Crestani",
+                        "assistProfileUrl": "/players/823539/cameron-crestani",
+                        "assistPlayerId": 823539,
+                        "assistKey": "assist_by",
+                        "assistInput": "Cameron Crestani"
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Assist",
+                    "Substitution",
+                    "Half",
+                    "Card",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 203,
+                    "parentLeagueId": 203,
+                    "link": "/leagues/203/overview/1-divisjon",
+                    "leagueName": "1. Divisjon",
+                    "roundName": "13",
+                    "round": "13"
+                },
+                "Stadium": {
+                    "name": "Str\u00f8mmen Stadion",
+                    "city": "Str\u00f8mmen",
+                    "country": "Norway",
+                    "lat": 59.93968391,
+                    "long": 11.003547907,
+                    "capacity": 1850,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/nor.png",
+                    "text": "Johan William Grundt",
+                    "countryCode": "NOR",
+                    "country": "Norway"
+                },
+                "Attendance": 388
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10224_xsmall.png",
+                        "linkToMatch": "/matches/strommen-vs-lyn/1qd212#5105148",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10224/overview/lyn",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "Lyn",
+                            "homeTeamId": 10224,
+                            "homeScore": "1",
+                            "awayTeam": "Str\u00f8mmen",
+                            "awayTeamId": 4249,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "10224",
+                            "name": "Lyn",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4249",
+                            "name": "Str\u00f8mmen",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8616_xsmall.png",
+                        "linkToMatch": "/matches/strommen-vs-sogndal/1da13d#5105161",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8616/overview/sogndal",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "Str\u00f8mmen",
+                            "homeTeamId": 4249,
+                            "homeScore": "2",
+                            "awayTeam": "Sogndal",
+                            "awayTeamId": 8616,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "4249",
+                            "name": "Str\u00f8mmen",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8616",
+                            "name": "Sogndal",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563_xsmall.png",
+                        "linkToMatch": "/matches/strommen-vs-ranheim/yt1ah#5105087",
+                        "date": {
+                            "utcTime": "2026-06-07T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6563/overview/ranheim",
+                        "tooltipText": {
+                            "utcTime": "2026-06-07T15:00:00.000Z",
+                            "homeTeam": "Ranheim",
+                            "homeTeamId": 6563,
+                            "homeScore": "2",
+                            "awayTeam": "Str\u00f8mmen",
+                            "awayTeamId": 4249,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4249",
+                            "name": "Str\u00f8mmen",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8133_xsmall.png",
+                        "linkToMatch": "/matches/strommen-vs-sandnes-ulf/19nbxy#5105165",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8133/overview/sandnes-ulf",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "Sandnes Ulf",
+                            "homeTeamId": 8133,
+                            "homeScore": "2",
+                            "awayTeam": "Str\u00f8mmen",
+                            "awayTeamId": 4249,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4249",
+                            "name": "Str\u00f8mmen",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9918_xsmall.png",
+                        "linkToMatch": "/matches/strommen-vs-stabaek/1nr96a#5105177",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9918/overview/stabaek",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Str\u00f8mmen",
+                            "homeTeamId": 4249,
+                            "homeScore": "1",
+                            "awayTeam": "Stab\u00e6k",
+                            "awayTeamId": 9918,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "4249",
+                            "name": "Str\u00f8mmen",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9918",
+                            "name": "Stab\u00e6k",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8180_xsmall.png",
+                        "linkToMatch": "/matches/stromsgodset-vs-moss/29w4ki#5105140",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8180/overview/stromsgodset",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "Moss",
+                            "homeTeamId": 8405,
+                            "homeScore": "1",
+                            "awayTeam": "Str\u00f8msgodset",
+                            "awayTeamId": 8180,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8405",
+                            "name": "Moss",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8180",
+                            "name": "Str\u00f8msgodset",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8512_xsmall.png",
+                        "linkToMatch": "/matches/moss-vs-fk-haugesund/2d7bxj#5105146",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8512/overview/fk-haugesund",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "FK Haugesund",
+                            "homeTeamId": 8512,
+                            "homeScore": "3",
+                            "awayTeam": "Moss",
+                            "awayTeamId": 8405,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "8512",
+                            "name": "FK Haugesund",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8405",
+                            "name": "Moss",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9918_xsmall.png",
+                        "linkToMatch": "/matches/moss-vs-stabaek/2ryd30#5105157",
+                        "date": {
+                            "utcTime": "2026-05-30T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9918/overview/stabaek",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:00:00.000Z",
+                            "homeTeam": "Moss",
+                            "homeTeamId": 8405,
+                            "homeScore": "2",
+                            "awayTeam": "Stab\u00e6k",
+                            "awayTeamId": 9918,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "8405",
+                            "name": "Moss",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9918",
+                            "name": "Stab\u00e6k",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8616_xsmall.png",
+                        "linkToMatch": "/matches/moss-vs-sogndal/2e95rf#5105166",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8616/overview/sogndal",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "Sogndal",
+                            "homeTeamId": 8616,
+                            "homeScore": "2",
+                            "awayTeam": "Moss",
+                            "awayTeamId": 8405,
+                            "awayScore": "4"
+                        },
+                        "score": "2 - 4",
+                        "home": {
+                            "id": "8616",
+                            "name": "Sogndal",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8405",
+                            "name": "Moss",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8133_xsmall.png",
+                        "linkToMatch": "/matches/sandnes-ulf-vs-moss/29ffxw#5105173",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8133/overview/sandnes-ulf",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Moss",
+                            "homeTeamId": 8405,
+                            "homeScore": "1",
+                            "awayTeam": "Sandnes Ulf",
+                            "awayTeamId": 8133,
+                            "awayScore": "4"
+                        },
+                        "score": "1 - 4",
+                        "home": {
+                            "id": "8405",
+                            "name": "Moss",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8133",
+                            "name": "Sandnes Ulf",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5105183",
+                    "MatchId": 5105183,
+                    "HomeTeamId": 4249,
+                    "AwayTeamId": 8405,
+                    "HomeTeam": "Str\u00f8mmen",
+                    "AwayTeam": "Moss",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "1",
+                                "1",
+                                "3",
+                                "away_team",
+                                "1",
+                                "2",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Str\u00f8mmen have 1W, 1D, 3L in five matches while Moss have 1W, 2D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Moss have scored in their last 3 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "3",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Str\u00f8mmen have scored 3 goals in their last 3 matches, while Moss have scored 7."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "1",
+                                "1",
+                                "3",
+                                "away_team",
+                                "1",
+                                "2",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Str\u00f8mmen have 1W, 1D, 3L in five matches while Moss have 1W, 2D, 2L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4249,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#7A7879"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8405,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#dc9f00"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Str\u00f8mmen and Moss on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "answer": "Str\u00f8mmen won 3\u20132 over Moss on Sat, 27 Jun 2026 14:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": {
+            "langs": "de_gen,en_gen,nb",
+            "teams": [
+                "Str\u00f8mmen",
+                "Moss"
+            ]
+        },
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        42,
+                                        58
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        11,
+                                        12
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        7,
+                                        7
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "equal"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        3,
+                                        4
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#7A7879",
+                            "away": "#FFE624"
+                        },
+                        "lightMode": {
+                            "home": "#7A7879",
+                            "away": "#dc9f00"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(29, 29, 29, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 28,
+            "windSpeed": 4,
+            "windDirectionCardinal": "S",
+            "iconCode": 34,
+            "relativeHumidity": 43,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 0,
+            "description": "Fair",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T15:30:01Z",
+            "localizedKey": "weather_condition_sunny",
+            "defaultTitle": "Sunny"
+        },
+        "lineup": {
+            "matchId": 5105183,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 4249,
+                "name": "Str\u00f8mmen",
+                "formation": "3-5-2",
+                "starters": [
+                    {
+                        "id": 629727,
+                        "age": 30,
+                        "name": "Knut-Andr\u00e9 Skj\u00e6rstein",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 106964,
+                        "firstName": "Knut-Andr\u00e9",
+                        "lastName": "Skj\u00e6rstein",
+                        "rankings": null
+                    },
+                    {
+                        "id": 977984,
+                        "age": 26,
+                        "name": "Adrian Solberg",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.79,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Adrian",
+                        "lastName": "Solberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1280197,
+                        "age": 21,
+                        "name": "Maximilian Balatoni",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Maximilian",
+                        "lastName": "Balatoni",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1108608,
+                        "age": 25,
+                        "name": "Sindre Engja Rindal",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.21,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 81
+                                },
+                                {
+                                    "type": "assist",
+                                    "time": 16
+                                }
+                            ]
+                        },
+                        "firstName": "Sindre Engja",
+                        "lastName": "Rindal",
+                        "rankings": null
+                    },
+                    {
+                        "id": 791182,
+                        "age": 28,
+                        "name": "Simon Sharif",
+                        "positionId": 71,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.773
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 107476,
+                        "firstName": "Simon",
+                        "lastName": "Sharif",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1047826,
+                        "age": 25,
+                        "name": "Kodjo Somesi",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 114183,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 38
+                                }
+                            ]
+                        },
+                        "firstName": "Kodjo",
+                        "lastName": "Somesi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 823539,
+                        "age": 30,
+                        "name": "Cameron Crestani",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "3",
+                        "countryName": "Australia",
+                        "countryCode": "AUS",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 150000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 90
+                                },
+                                {
+                                    "type": "yellowCard",
+                                    "time": 78
+                                }
+                            ]
+                        },
+                        "firstName": "Cameron",
+                        "lastName": "Crestani",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1311989,
+                        "age": 23,
+                        "name": "Simen Heggdal Beck",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Simen Heggdal",
+                        "lastName": "Beck",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1636831,
+                        "age": 20,
+                        "name": "Marcus Paulsen",
+                        "positionId": 79,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "24",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Marcus",
+                        "lastName": "Paulsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1281496,
+                        "age": 26,
+                        "name": "Luka Fajfric",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 166289,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 16
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Luka",
+                        "lastName": "Fajfric",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1049006,
+                        "age": 26,
+                        "name": "Nikolai Jakobsen Hristov",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 38
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Nikolai Jakobsen",
+                        "lastName": "Hristov",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 2032562,
+                    "age": 49,
+                    "name": "Svein Roger Pettersen",
+                    "countryName": "Norway",
+                    "countryCode": "NOR",
+                    "firstName": "Svein Roger",
+                    "lastName": "Pettersen",
+                    "primaryTeamId": 4249,
+                    "primaryTeamName": "Str\u00f8mmen",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1377072,
+                        "age": 21,
+                        "name": "Deni Dashaev",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 176412,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Deni",
+                        "lastName": "Dashaev",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1636127,
+                        "age": 18,
+                        "name": "Markus Edner W\u00e6hler",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 807218,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Markus Edner",
+                        "lastName": "W\u00e6hler",
+                        "rankings": null
+                    },
+                    {
+                        "id": 631584,
+                        "age": 28,
+                        "name": "Thomas Lillo",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "98",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 72000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Thomas",
+                        "lastName": "Lillo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1652552,
+                        "age": 21,
+                        "name": "Even Rogne",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "19",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Even",
+                        "lastName": "Rogne",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1281277,
+                        "age": 23,
+                        "name": "Julian Mikalsen Kristengard",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "14",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Julian Mikalsen",
+                        "lastName": "Kristengard",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1958760,
+                        "age": 21,
+                        "name": "Mads Barmoen Kristiansen",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Mads Barmoen",
+                        "lastName": "Kristiansen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1644070,
+                        "age": 22,
+                        "name": "Sverre Nilsen",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Sverre",
+                        "lastName": "Nilsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1736012,
+                        "age": 19,
+                        "name": "Tochukwu Joseph",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "21",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "marketValue": 340529,
+                        "firstName": "Tochukwu",
+                        "lastName": "Joseph",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1126419,
+                        "age": 22,
+                        "name": "Ludvig N\u00e5vik",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "77",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Ludvig",
+                        "lastName": "N\u00e5vik",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26
+            },
+            "awayTeam": {
+                "id": 8405,
+                "name": "Moss",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 635188,
+                        "age": 30,
+                        "name": "Mathias Eriksen",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 63036,
+                        "firstName": "Mathias",
+                        "lastName": "Eriksen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1280261,
+                        "age": 22,
+                        "name": "Marius Cassidy",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 137425,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 33,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Marius",
+                        "lastName": "Cassidy",
+                        "rankings": null
+                    },
+                    {
+                        "id": 630256,
+                        "age": 28,
+                        "name": "Kristian Strande",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 78337,
+                        "firstName": "Kristian",
+                        "lastName": "Strande",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1445667,
+                        "age": 20,
+                        "name": "Wilmer Olofsson",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 163476,
+                        "firstName": "Wilmer",
+                        "lastName": "Olofsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 633971,
+                        "age": 29,
+                        "name": "Edvard Race",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 53715,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 56,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Edvard",
+                        "lastName": "Race",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1403035,
+                        "age": 22,
+                        "name": "Robert Marcus",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "18",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 110838,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 53
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Robert",
+                        "lastName": "Marcus",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1430234,
+                        "age": 21,
+                        "name": "Jamiu Musbaudeen",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "14",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 147243,
+                        "firstName": "Jamiu",
+                        "lastName": "Musbaudeen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 745824,
+                        "age": 25,
+                        "name": "Sigurd Gr\u00f8nli",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "21",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 125851,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 68
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Sigurd",
+                        "lastName": "Gr\u00f8nli",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1483200,
+                        "age": 23,
+                        "name": "Niclas Schj\u00f8th Semmen",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 209752,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 53
+                                },
+                                {
+                                    "type": "assist",
+                                    "time": 8
+                                }
+                            ]
+                        },
+                        "firstName": "Niclas Schj\u00f8th",
+                        "lastName": "Semmen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 915795,
+                        "age": 25,
+                        "name": "Oscar Aga",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 162584,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 8
+                                }
+                            ]
+                        },
+                        "firstName": "Oscar",
+                        "lastName": "Aga",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1606401,
+                        "age": 19,
+                        "name": "Julian L\u00e6greid",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 361529,
+                        "firstName": "Julian",
+                        "lastName": "L\u00e6greid",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1035400,
+                    "age": 33,
+                    "name": "Ole Martin Nesselquist",
+                    "countryName": "Norway",
+                    "countryCode": "NOR",
+                    "firstName": "Ole Martin",
+                    "lastName": "Nesselquist",
+                    "primaryTeamId": 8405,
+                    "primaryTeamName": "Moss",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1279030,
+                        "age": 24,
+                        "name": "Kristoffer Harrison",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 200289,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 88
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 33,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Kristoffer",
+                        "lastName": "Harrison",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1946555,
+                        "age": 20,
+                        "name": "Chidi Emmanuel",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "26",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 56,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Chidi",
+                        "lastName": "Emmanuel",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1483201,
+                        "age": 19,
+                        "name": "H\u00e5kon Vold Krohg",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 478904,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "H\u00e5kon Vold",
+                        "lastName": "Krohg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1606366,
+                        "age": 21,
+                        "name": "Patrik Andersen",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 165888,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Patrik",
+                        "lastName": "Andersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2042154,
+                        "age": 17,
+                        "name": "Jesper Rylander",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "40",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Jesper",
+                        "lastName": "Rylander",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1791733,
+                        "age": 17,
+                        "name": "Felix L\u00f8vtangen",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "32",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Felix",
+                        "lastName": "L\u00f8vtangen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1992560,
+                        "age": 17,
+                        "name": "Jonathan Harveg",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "31",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Jonathan",
+                        "lastName": "Harveg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1053628,
+                        "age": 26,
+                        "name": "Robin Hermanstad",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 100000,
+                        "firstName": "Robin",
+                        "lastName": "Hermanstad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1049178,
+                        "age": 26,
+                        "name": "Thomas Klemetsen Jakobsen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 170581,
+                        "firstName": "Thomas Klemetsen",
+                        "lastName": "Jakobsen",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 24.6,
+                "totalStarterMarketValue": 1613786
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "203",
+            "url": "https://data.fotmob.com/tables.ext.203.fot.gz",
+            "teams": [
+                4249,
+                8405
+            ],
+            "tournamentNameForUrl": "1. Divisjon",
+            "parentLeagueId": 203,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                0,
+                0,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2022-09-24T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/strommen-vs-moss/1bobhq#3789484",
+                    "league": {
+                        "name": "2. Divisjon Avd. 1",
+                        "id": "204",
+                        "pageUrl": "/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    "home": {
+                        "name": "Str\u00f8mmen",
+                        "id": "4249"
+                    },
+                    "status": {
+                        "utcTime": "2022-09-24T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Moss",
+                        "id": "8405"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-05-28T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/strommen-vs-moss/1bobhq#3789411",
+                    "league": {
+                        "name": "2. Divisjon Avd. 1",
+                        "id": "204",
+                        "pageUrl": "/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    "home": {
+                        "name": "Moss",
+                        "id": "8405"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-28T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8mmen",
+                        "id": "4249"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-10-17T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/strommen-vs-moss/1bobhq#766626",
+                    "league": {
+                        "name": "Adeccoligaen",
+                        "id": "203",
+                        "pageUrl": "/leagues/203/overview/adeccoligaen"
+                    },
+                    "home": {
+                        "name": "Moss",
+                        "id": "8405"
+                    },
+                    "status": {
+                        "utcTime": "2010-10-17T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8mmen",
+                        "id": "4249"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "strommen-vs-moss",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5105183",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Str\u00f8mmen",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4249.png",
+                "url": "https://www.fotmob.com/teams/4249/overview/strommen",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Moss",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8405.png",
+                "url": "https://www.fotmob.com/teams/8405/overview/moss",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Str\u00f8mmen vs Moss",
+            "description": "Follow Str\u00f8mmen vs Moss live on fotmob.com",
+            "startDate": "2026-06-27T14:00:00.000Z",
+            "endDate": "2026-06-27T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Str\u00f8mmen Stadion",
+                "latitude": 59.93968391,
+                "longitude": 11.003547907,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Norway",
+                    "addressLocality": "Str\u00f8mmen"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4249.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8405.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5105183",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Str\u00f8mmen",
+                    "url": "https://www.fotmob.com/teams/4249/overview/strommen"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Moss",
+                    "url": "https://www.fotmob.com/teams/8405/overview/moss"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Str\u00f8mmen - Moss",
+                        "item": "https://www.fotmob.com/match/5105183"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Moss",
+                        "item": "https://www.fotmob.com/teams/8405/overview/moss"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Str\u00f8mmen - Moss",
+                        "item": "https://www.fotmob.com/match/5105183"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Str\u00f8mmen",
+                        "item": "https://www.fotmob.com/teams/4249/overview/strommen"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Str\u00f8mmen - Moss",
+                        "item": "https://www.fotmob.com/match/5105183"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Str\u00f8mmen and Moss on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Str\u00f8mmen won 3\u20132 over Moss on Sat, 27 Jun 2026 14:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

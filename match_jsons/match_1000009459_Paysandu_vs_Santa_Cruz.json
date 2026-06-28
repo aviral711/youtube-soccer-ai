@@ -1,0 +1,2502 @@
+{
+    "general": {
+        "matchId": "1000009459",
+        "matchName": "Paysandu-vs-Santa Cruz_Sat, Jun 27, 2026, 20:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#0090D0",
+                "away": "#D0260D"
+            },
+            "lightMode": {
+                "home": "#0090D0",
+                "away": "#D0260D"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 8971,
+        "leagueName": "Brazilian Serie C",
+        "leagueRoundName": "12",
+        "parentLeagueId": 8971,
+        "countryCode": "BRA",
+        "homeTeam": {
+            "name": "Paysandu",
+            "id": 6546
+        },
+        "awayTeam": {
+            "name": "Santa Cruz",
+            "id": 9920
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 20:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T20:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Paysandu",
+                "id": 6546,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6546_small.png",
+                "pageUrl": "/teams/6546/overview/paysandu"
+            },
+            {
+                "name": "Santa Cruz",
+                "id": 9920,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9920_small.png",
+                "pageUrl": "/teams/9920/overview/santa-cruz"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T20:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 22:00:30",
+                "firstHalfEnded": "27.06.2026 22:50:18",
+                "secondHalfStarted": "27.06.2026 23:07:46",
+                "secondHalfEnded": "28.06.2026 00:01:02",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 00:01:02"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Juninho": [
+                    {
+                        "reactKey": "074Goal1477789undefinedtrue",
+                        "timeStr": 74,
+                        "type": "Goal",
+                        "time": 74,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1477789,
+                            "name": "Juninho",
+                            "profileUrl": "/players/1477789/juninho"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1477789/juninho",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juninho",
+                        "firstName": "",
+                        "lastName": "Juninho",
+                        "fullName": "Juninho",
+                        "playerId": 1477789,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Juninho": [
+                    {
+                        "reactKey": "027Goal1477789undefinedfalse",
+                        "timeStr": 27,
+                        "type": "Goal",
+                        "time": 27,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1477789,
+                            "name": "Juninho",
+                            "profileUrl": "/players/1477789/juninho"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1477789/juninho",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juninho",
+                        "firstName": "",
+                        "lastName": "Juninho",
+                        "fullName": "Juninho",
+                        "playerId": 1477789,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Everaldo": [
+                    {
+                        "reactKey": "045Goal941635undefinedfalse",
+                        "timeStr": "45 + 1",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 1,
+                        "eventId": 0,
+                        "player": {
+                            "id": 941635,
+                            "name": "Everaldo",
+                            "profileUrl": "/players/941635/everaldo"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/941635/everaldo",
+                        "overloadTimeStr": "+1",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Everaldo",
+                        "firstName": "",
+                        "lastName": "Everaldo",
+                        "fullName": "Everaldo",
+                        "playerId": 941635,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Fabinho": [
+                    {
+                        "reactKey": "069Goal331750undefinedfalse",
+                        "timeStr": 69,
+                        "type": "Goal",
+                        "time": 69,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 331750,
+                            "name": "Fabinho",
+                            "profileUrl": "/players/331750/fabinho"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/331750/fabinho",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabinho",
+                        "firstName": "",
+                        "lastName": "Fabinho",
+                        "fullName": "Fabinho",
+                        "playerId": 331750,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000009459,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "027Goal1477789undefinedfalse",
+                        "timeStr": 27,
+                        "type": "Goal",
+                        "time": 27,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1477789,
+                            "name": "Juninho",
+                            "profileUrl": "/players/1477789/juninho"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1477789/juninho",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juninho",
+                        "firstName": "",
+                        "lastName": "Juninho",
+                        "fullName": "Juninho",
+                        "playerId": 1477789,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "032Card1446686undefinedfalse",
+                        "timeStr": 32,
+                        "type": "Card",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1446686,
+                            "name": "Edson",
+                            "profileUrl": "/players/1446686/edson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1446686/edson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Edson",
+                        "firstName": "",
+                        "lastName": "Edson",
+                        "fullName": "Edson",
+                        "playerId": 1446686,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "032Card1524515undefinedfalse",
+                        "timeStr": 32,
+                        "type": "Card",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1524515,
+                            "name": "Gabriel Souza",
+                            "profileUrl": "/players/1524515/gabriel-souza"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1524515/gabriel-souza",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Gabriel Souza",
+                        "firstName": "Gabriel",
+                        "lastName": "Souza",
+                        "fullName": "Gabriel Souza",
+                        "playerId": 1524515,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45AddedTimeNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "AddedTime",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "minutesAddedStr": "+ 5 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 5
+                    },
+                    {
+                        "reactKey": "045Goal941635undefinedfalse",
+                        "timeStr": "45 + 1",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 1,
+                        "eventId": 0,
+                        "player": {
+                            "id": 941635,
+                            "name": "Everaldo",
+                            "profileUrl": "/players/941635/everaldo"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/941635/everaldo",
+                        "overloadTimeStr": "+1",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Everaldo",
+                        "firstName": "",
+                        "lastName": "Everaldo",
+                        "fullName": "Everaldo",
+                        "playerId": 941635,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1088138true",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "\u00cdtalo Carvalho",
+                                "id": "1088138",
+                                "profileUrl": "/players/1088138/italo-carvalho"
+                            },
+                            {
+                                "name": "Thayllon",
+                                "id": "1259117",
+                                "profileUrl": "/players/1259117/thayllon"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined55SubstitutionNaN1226767false",
+                        "timeStr": 55,
+                        "type": "Substitution",
+                        "time": 55,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "L\u00e9o Costa",
+                                "id": "1226767",
+                                "profileUrl": "/players/1226767/leo-costa"
+                            },
+                            {
+                                "name": "Ronald",
+                                "id": "1128937",
+                                "profileUrl": "/players/1128937/ronald"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1766571true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Thalyson",
+                                "id": "1766571",
+                                "profileUrl": "/players/1766571/thalyson"
+                            },
+                            {
+                                "name": "Ed\u00edlson",
+                                "id": "1462412",
+                                "profileUrl": "/players/1462412/edilson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1294035true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Lucas Cardoso",
+                                "id": "1294035",
+                                "profileUrl": "/players/1294035/lucas-cardoso"
+                            },
+                            {
+                                "name": "Henrico",
+                                "id": "1794930",
+                                "profileUrl": "/players/1794930/henrico"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined65SubstitutionNaN823213false",
+                        "timeStr": 65,
+                        "type": "Substitution",
+                        "time": 65,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Tiago Marques",
+                                "id": "823213",
+                                "profileUrl": "/players/823213/tiago-marques"
+                            },
+                            {
+                                "name": "Diego Quirino",
+                                "id": "1350423",
+                                "profileUrl": "/players/1350423/diego-quirino"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined65SubstitutionNaN331750false",
+                        "timeStr": 65,
+                        "type": "Substitution",
+                        "time": 65,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Fabinho",
+                                "id": "331750",
+                                "profileUrl": "/players/331750/fabinho"
+                            },
+                            {
+                                "name": "Silva",
+                                "id": "638756",
+                                "profileUrl": "/players/638756/silva"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "069Goal331750undefinedfalse",
+                        "timeStr": 69,
+                        "type": "Goal",
+                        "time": 69,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 331750,
+                            "name": "Fabinho",
+                            "profileUrl": "/players/331750/fabinho"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/331750/fabinho",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Fabinho",
+                        "firstName": "",
+                        "lastName": "Fabinho",
+                        "fullName": "Fabinho",
+                        "playerId": 331750,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "074Goal1477789undefinedtrue",
+                        "timeStr": 74,
+                        "type": "Goal",
+                        "time": 74,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1477789,
+                            "name": "Juninho",
+                            "profileUrl": "/players/1477789/juninho"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1477789/juninho",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juninho",
+                        "firstName": "",
+                        "lastName": "Juninho",
+                        "fullName": "Juninho",
+                        "playerId": 1477789,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN575401false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Robinho",
+                                "id": "575401",
+                                "profileUrl": "/players/575401/robinho"
+                            },
+                            {
+                                "name": "Vitinho",
+                                "id": "1755976",
+                                "profileUrl": "/players/1755976/vitinho"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1114611false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Gabriel Rodrigues",
+                                "id": "1114611",
+                                "profileUrl": "/players/1114611/gabriel-rodrigues"
+                            },
+                            {
+                                "name": "Everaldo",
+                                "id": "941635",
+                                "profileUrl": "/players/941635/everaldo"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "084Card1294035undefinedtrue",
+                        "timeStr": 84,
+                        "type": "Card",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1294035,
+                            "name": "Lucas Cardoso",
+                            "profileUrl": "/players/1294035/lucas-cardoso"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1294035/lucas-cardoso",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Lucas Cardoso",
+                        "firstName": "Lucas",
+                        "lastName": "Cardoso",
+                        "fullName": "Lucas Cardoso",
+                        "playerId": 1294035,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined88SubstitutionNaN1846062true",
+                        "timeStr": 88,
+                        "type": "Substitution",
+                        "time": 88,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Iarley",
+                                "id": "1846062",
+                                "profileUrl": "/players/1846062/iarley"
+                            },
+                            {
+                                "name": "Castro",
+                                "id": "1461855",
+                                "profileUrl": "/players/1461855/castro"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined88SubstitutionNaN1734451true",
+                        "timeStr": 88,
+                        "type": "Substitution",
+                        "time": 88,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kaua Hinkel",
+                                "id": "1734451",
+                                "profileUrl": "/players/1734451/kaua-hinkel"
+                            },
+                            {
+                                "name": "Kleiton Pego",
+                                "id": "1262163",
+                                "profileUrl": "/players/1262163/kleiton-pego"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90AddedTimeNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "AddedTime",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "minutesAddedStr": "+ 8 minutes added",
+                        "minutesAddedKey": "added_injury_time",
+                        "minutesAddedInput": 8
+                    },
+                    {
+                        "reactKey": "090Card535782undefinedfalse",
+                        "timeStr": "90 + 2",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "eventId": 0,
+                        "player": {
+                            "id": 535782,
+                            "name": "Eurico",
+                            "profileUrl": "/players/535782/eurico"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/535782/eurico",
+                        "overloadTimeStr": "+2",
+                        "isHome": false,
+                        "nameStr": "Eurico",
+                        "firstName": "",
+                        "lastName": "Eurico",
+                        "fullName": "Eurico",
+                        "playerId": 535782,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Card",
+                    "AddedTime",
+                    "Half",
+                    "Substitution",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T20:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 8971,
+                    "parentLeagueId": 8971,
+                    "link": "/leagues/8971/overview/brazilian-serie-c",
+                    "leagueName": "Brazilian Serie C",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": {
+                    "name": "Est\u00e1dio Le\u00f4nidas Sodr\u00e9 de Castro",
+                    "city": "Bel\u00e9m, Par\u00e1",
+                    "country": "Brazil",
+                    "lat": -1.444071804,
+                    "long": -48.462908864
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/bra.png",
+                    "text": "Jo\u00e3o Vitor Gobi",
+                    "countryCode": "BRA",
+                    "country": "Brazil"
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/172206_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-caxias/7c7u5ki#1000009407",
+                        "date": {
+                            "utcTime": "2026-05-17T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/172206/overview/caxias",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T19:00:00.000Z",
+                            "homeTeam": "Caxias",
+                            "homeTeamId": 172206,
+                            "homeScore": "2",
+                            "awayTeam": "Paysandu",
+                            "awayTeamId": 6546,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "172206",
+                            "name": "Caxias",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/899260_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-floresta/58gog91h#1000009419",
+                        "date": {
+                            "utcTime": "2026-05-25T23:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/899260/overview/floresta",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T23:00:00.000Z",
+                            "homeTeam": "Paysandu",
+                            "homeTeamId": 6546,
+                            "homeScore": "2",
+                            "awayTeam": "Floresta",
+                            "awayTeamId": 899260,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "899260",
+                            "name": "Floresta",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8631_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-figueirense/1wkuro#1000009423",
+                        "date": {
+                            "utcTime": "2026-05-31T23:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8631/overview/figueirense",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T23:30:00.000Z",
+                            "homeTeam": "Figueirense",
+                            "homeTeamId": 8631,
+                            "homeScore": "2",
+                            "awayTeam": "Paysandu",
+                            "awayTeamId": 6546,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8631",
+                            "name": "Figueirense",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581840_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-inter-de-limeira/27iqvo1x#1000009439",
+                        "date": {
+                            "utcTime": "2026-06-14T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581840/overview/inter-de-limeira",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T19:00:00.000Z",
+                            "homeTeam": "Paysandu",
+                            "homeTeamId": 6546,
+                            "homeScore": "1",
+                            "awayTeam": "Inter de Limeira",
+                            "awayTeamId": 581840,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "581840",
+                            "name": "Inter de Limeira",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197781_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-maranhao/9l8cwwu#1000009445",
+                        "date": {
+                            "utcTime": "2026-06-21T00:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197781/overview/maranhao",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T00:00:00.000Z",
+                            "homeTeam": "Maranhao",
+                            "homeTeamId": 197781,
+                            "homeScore": "0",
+                            "awayTeam": "Paysandu",
+                            "awayTeamId": 6546,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "197781",
+                            "name": "Maranhao",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/198135_xsmall.png",
+                        "linkToMatch": "/matches/santa-cruz-vs-volta-redonda/9xy0i9w#1000009409",
+                        "date": {
+                            "utcTime": "2026-05-16T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/198135/overview/volta-redonda",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T20:00:00.000Z",
+                            "homeTeam": "Santa Cruz",
+                            "homeTeamId": 9920,
+                            "homeScore": "2",
+                            "awayTeam": "Volta Redonda",
+                            "awayTeamId": 198135,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "9920",
+                            "name": "Santa Cruz",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "198135",
+                            "name": "Volta Redonda",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/509487_xsmall.png",
+                        "linkToMatch": "/matches/santa-cruz-vs-maringa-fc/1pyv9j9k#1000009417",
+                        "date": {
+                            "utcTime": "2026-05-23T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/509487/overview/maringa-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T22:30:00.000Z",
+                            "homeTeam": "Maringa FC",
+                            "homeTeamId": 509487,
+                            "homeScore": "1",
+                            "awayTeam": "Santa Cruz",
+                            "awayTeamId": 9920,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "509487",
+                            "name": "Maringa FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9920",
+                            "name": "Santa Cruz",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581832_xsmall.png",
+                        "linkToMatch": "/matches/santa-cruz-vs-ferroviaria/28flec9w#1000009429",
+                        "date": {
+                            "utcTime": "2026-05-31T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581832/overview/ferroviaria",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T19:00:00.000Z",
+                            "homeTeam": "Santa Cruz",
+                            "homeTeamId": 9920,
+                            "homeScore": "1",
+                            "awayTeam": "Ferroviaria",
+                            "awayTeamId": 581832,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "9920",
+                            "name": "Santa Cruz",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "581832",
+                            "name": "Ferroviaria",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197692_xsmall.png",
+                        "linkToMatch": "/matches/santa-cruz-vs-brusque/9wf7492#1000009433",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197692/overview/brusque",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "Brusque",
+                            "homeTeamId": 197692,
+                            "homeScore": "0",
+                            "awayTeam": "Santa Cruz",
+                            "awayTeamId": 9920,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "197692",
+                            "name": "Brusque",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9920",
+                            "name": "Santa Cruz",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197885_xsmall.png",
+                        "linkToMatch": "/matches/santa-cruz-vs-ypiranga-rs/9x32c83#1000009449",
+                        "date": {
+                            "utcTime": "2026-06-20T22:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197885/overview/ypiranga-rs",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T22:00:00.000Z",
+                            "homeTeam": "Santa Cruz",
+                            "homeTeamId": 9920,
+                            "homeScore": "0",
+                            "awayTeam": "Ypiranga RS",
+                            "awayTeamId": 197885,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "9920",
+                            "name": "Santa Cruz",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197885",
+                            "name": "Ypiranga RS",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000009459",
+                    "MatchId": 1000009459,
+                    "HomeTeamId": 6546,
+                    "AwayTeamId": 9920,
+                    "HomeTeam": "Paysandu",
+                    "AwayTeam": "Santa Cruz",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "2",
+                                "0",
+                                "3",
+                                "away_team",
+                                "2",
+                                "2",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Paysandu have 2W, 0D, 3L in five matches while Santa Cruz have 2W, 2D, 1L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Paysandu have scored in their last 4 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Paysandu have an average of 1 goals in their last three matches and Santa Cruz have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Paysandu haven't drawn in their last 5 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "BRA",
+            "QAData": [
+                {
+                    "question": "Who won between Paysandu and Santa Cruz on Sat, 27 Jun 2026 20:00:00 GMT?",
+                    "answer": "Santa Cruz won 3\u20131 over Paysandu on Sat, 27 Jun 2026 20:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 29,
+            "windSpeed": 4,
+            "windDirectionCardinal": "NE",
+            "iconCode": 29,
+            "relativeHumidity": 68,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 70,
+            "description": "Partly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T22:00:00Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": {
+            "matchId": 1000009459,
+            "lineupType": "simple",
+            "source": "optaSdapi",
+            "availableFilters": [
+                "season",
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 6546,
+                "name": "Paysandu",
+                "starters": [
+                    {
+                        "id": 1043760,
+                        "age": 27,
+                        "optaId": "227911",
+                        "name": "Gabriel Mesquita",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 206256,
+                        "firstName": "Gabriel",
+                        "lastName": "Mesquita",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1477789,
+                        "age": 22,
+                        "optaId": "683832",
+                        "name": "Juninho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 252949,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "ownGoal",
+                                    "time": 27
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 74
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "",
+                        "lastName": "Juninho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1259117,
+                        "age": 24,
+                        "optaId": "501241",
+                        "name": "Thayllon",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 331828,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Thayllon",
+                        "rankings": null
+                    },
+                    {
+                        "id": 884537,
+                        "age": 30,
+                        "optaId": "489910",
+                        "name": "Facundo Bonifazi",
+                        "countryName": "Uruguay",
+                        "countryCode": "URU",
+                        "marketValue": 166296,
+                        "firstName": "Facundo",
+                        "lastName": "Bonifazi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 267688,
+                        "age": 30,
+                        "optaId": "206461",
+                        "name": "Marcinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 193339,
+                        "firstName": "",
+                        "lastName": "Marcinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1262163,
+                        "age": 27,
+                        "optaId": "536706",
+                        "name": "Kleiton Pego",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 243104,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Kleiton",
+                        "lastName": "Pego",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1461855,
+                        "age": 31,
+                        "optaId": "638797",
+                        "name": "Castro",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Castro",
+                        "rankings": null
+                    },
+                    {
+                        "id": 789122,
+                        "age": 30,
+                        "optaId": "235252",
+                        "name": "Bruno Bispo",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Bruno",
+                        "lastName": "Bispo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1462412,
+                        "age": 31,
+                        "optaId": "491427",
+                        "name": "Ed\u00edlson",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 190513,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Ed\u00edlson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1767261,
+                        "age": 18,
+                        "optaId": "699114",
+                        "name": "Pedro Henrique",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Pedro",
+                        "lastName": "Henrique",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1794930,
+                        "age": 21,
+                        "optaId": "734294",
+                        "name": "Henrico",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Henrico",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1642736,
+                    "age": 45,
+                    "name": "Junior Rocha",
+                    "countryName": "Brazil",
+                    "countryCode": "BRA",
+                    "firstName": "Junior",
+                    "lastName": "Rocha",
+                    "primaryTeamId": 6546,
+                    "primaryTeamName": "Paysandu",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1088138,
+                        "age": 29,
+                        "optaId": "499079",
+                        "name": "\u00cdtalo Carvalho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "\u00cdtalo",
+                        "lastName": "Carvalho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1294035,
+                        "age": 25,
+                        "optaId": "550199",
+                        "name": "Lucas Cardoso",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 249358,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 84
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Lucas",
+                        "lastName": "Cardoso",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1766571,
+                        "age": 20,
+                        "optaId": "699111",
+                        "name": "Thalyson",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Thalyson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1734451,
+                        "age": 19,
+                        "optaId": "689053",
+                        "name": "Kaua Hinkel",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Kaua",
+                        "lastName": "Hinkel",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1846062,
+                        "age": 21,
+                        "optaId": "617699",
+                        "name": "Iarley",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Iarley",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1925130,
+                        "age": 18,
+                        "optaId": "734291",
+                        "name": "Brian Macap\u00e1",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Brian",
+                        "lastName": "Macap\u00e1",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1938387,
+                        "age": 24,
+                        "optaId": "738160",
+                        "name": "Tiago \u00cdndio",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Tiago",
+                        "lastName": "\u00cdndio",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1844359,
+                        "age": 20,
+                        "optaId": "719963",
+                        "name": "Matheus Capixaba",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Matheus",
+                        "lastName": "Capixaba",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1855735,
+                        "age": 21,
+                        "optaId": "721247",
+                        "name": "Salomoni",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Salomoni",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1925132,
+                        "age": 21,
+                        "optaId": "734297",
+                        "name": "Libonati",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Libonati",
+                        "rankings": null
+                    },
+                    {
+                        "id": 535881,
+                        "age": 32,
+                        "optaId": "182568",
+                        "name": "Jean Drosny",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 246700,
+                        "firstName": "Jean",
+                        "lastName": "Drosny",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.9
+            },
+            "awayTeam": {
+                "id": 9920,
+                "name": "Santa Cruz",
+                "starters": [
+                    {
+                        "id": 941635,
+                        "age": 32,
+                        "optaId": "205081",
+                        "name": "Everaldo",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 286795,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 45
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "",
+                        "lastName": "Everaldo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1755976,
+                        "age": 22,
+                        "optaId": "662811",
+                        "name": "Vitinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Vitinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1446686,
+                        "age": 27,
+                        "optaId": "565832",
+                        "name": "Edson",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 32
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Edson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 535782,
+                        "age": 32,
+                        "optaId": "183787",
+                        "name": "Eurico",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Eurico",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1786136,
+                        "age": 27,
+                        "optaId": "12",
+                        "name": "Matheus Vinicius da Silva",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Matheus Vinicius",
+                        "lastName": "da Silva",
+                        "rankings": null
+                    },
+                    {
+                        "id": 766430,
+                        "age": 30,
+                        "optaId": "229716",
+                        "name": "Thiago Ennes",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Thiago",
+                        "lastName": "Ennes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1653473,
+                        "age": 26,
+                        "optaId": "609325",
+                        "name": "Pedro Favela",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Pedro",
+                        "lastName": "Favela",
+                        "rankings": null
+                    },
+                    {
+                        "id": 638756,
+                        "age": 30,
+                        "optaId": "209733",
+                        "name": "Silva",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Silva",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1128937,
+                        "age": 29,
+                        "optaId": "442829",
+                        "name": "Ronald",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 55,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Ronald",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1350423,
+                        "age": 32,
+                        "optaId": "180507",
+                        "name": "Diego Quirino",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 78240,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Diego",
+                        "lastName": "Quirino",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1524515,
+                        "age": 21,
+                        "optaId": "536990",
+                        "name": "Gabriel Souza",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 421185,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 32
+                                }
+                            ]
+                        },
+                        "firstName": "Gabriel",
+                        "lastName": "Souza",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1787883,
+                    "age": 48,
+                    "name": "Cristian Ziani de Souza",
+                    "countryName": "Brazil",
+                    "countryCode": "BRA",
+                    "firstName": "Cristian Ziani",
+                    "lastName": "de Souza",
+                    "primaryTeamId": 9920,
+                    "primaryTeamName": "Santa Cruz",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1226767,
+                        "age": 30,
+                        "optaId": "207159",
+                        "name": "L\u00e9o Costa",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 55,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "L\u00e9o",
+                        "lastName": "Costa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 331750,
+                        "age": 39,
+                        "optaId": "170430",
+                        "name": "Fabinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 69
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "",
+                        "lastName": "Fabinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 823213,
+                        "age": 38,
+                        "optaId": "176076",
+                        "name": "Tiago Marques",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 65,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Tiago",
+                        "lastName": "Marques",
+                        "rankings": null
+                    },
+                    {
+                        "id": 575401,
+                        "age": 31,
+                        "optaId": "183764",
+                        "name": "Robinho",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Robinho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1114611,
+                        "age": 26,
+                        "optaId": "498413",
+                        "name": "Gabriel Rodrigues",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Gabriel",
+                        "lastName": "Rodrigues",
+                        "rankings": null
+                    },
+                    {
+                        "id": 844429,
+                        "age": 28,
+                        "optaId": "200912",
+                        "name": "Andrey",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 246695,
+                        "firstName": "",
+                        "lastName": "Andrey",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785427,
+                        "age": 23,
+                        "optaId": "11",
+                        "name": "Antonilton Batista dos Santos",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Antonilton Batista",
+                        "lastName": "dos Santos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1936799,
+                        "age": 20,
+                        "optaId": "725748",
+                        "name": "D\u00eanis",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "D\u00eanis",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1481716,
+                        "age": 31,
+                        "optaId": "196418",
+                        "name": "Patrick Allan",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "firstName": "Patrick",
+                        "lastName": "Allan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1369227,
+                        "age": 23,
+                        "optaId": "575594",
+                        "name": "Rokenedy",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "",
+                        "lastName": "Rokenedy",
+                        "rankings": null
+                    },
+                    {
+                        "id": 776563,
+                        "age": 34,
+                        "optaId": "244304",
+                        "name": "Jeferson Bahia",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Jeferson",
+                        "lastName": "Bahia",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1786146,
+                        "age": 22,
+                        "optaId": "41",
+                        "name": "Thiago Henrique Carvalho de Oliveira",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Thiago Henrique Carvalho",
+                        "lastName": "de Oliveira",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 28.5
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "8971",
+            "url": "https://data.fotmob.com/tables.ext.8971.fot.gz",
+            "teams": [
+                6546,
+                9920
+            ],
+            "tournamentNameForUrl": "Brazilian Serie C",
+            "parentLeagueId": 8971,
+            "countryCode": "BRA"
+        },
+        "h2h": {
+            "summary": [
+                4,
+                0,
+                0
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2017-11-18T19:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/paysandu-vs-santa-cruz/28q0az#2466011",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Paysandu",
+                        "id": "6546"
+                    },
+                    "status": {
+                        "utcTime": "2017-11-18T19:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Santa Cruz",
+                        "id": "9920"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-08-01T23:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/paysandu-vs-santa-cruz/28q0az#2465814",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Santa Cruz",
+                        "id": "9920"
+                    },
+                    "status": {
+                        "utcTime": "2017-08-01T23:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Paysandu",
+                        "id": "6546"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-09-08T22:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/paysandu-vs-santa-cruz/28q0az#1935236",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Santa Cruz",
+                        "id": "9920"
+                    },
+                    "status": {
+                        "utcTime": "2015-09-08T22:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Paysandu",
+                        "id": "6546"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-06-02T23:25:00.000Z"
+                    },
+                    "matchUrl": "/matches/paysandu-vs-santa-cruz/28q0az#1935045",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Paysandu",
+                        "id": "6546"
+                    },
+                    "status": {
+                        "utcTime": "2015-06-02T23:25:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Santa Cruz",
+                        "id": "9920"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "paysandu-vs-santa-cruz",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000009459",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Paysandu",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6546.png",
+                "url": "https://www.fotmob.com/teams/6546/overview/paysandu",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Santa Cruz",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9920.png",
+                "url": "https://www.fotmob.com/teams/9920/overview/santa-cruz",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Paysandu vs Santa Cruz",
+            "description": "Follow Paysandu vs Santa Cruz live on fotmob.com",
+            "startDate": "2026-06-27T20:00:00.000Z",
+            "endDate": "2026-06-27T22:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Est\u00e1dio Le\u00f4nidas Sodr\u00e9 de Castro",
+                "latitude": -1.444071804,
+                "longitude": -48.462908864,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Brazil",
+                    "addressLocality": "Bel\u00e9m, Par\u00e1"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/6546.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/9920.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000009459",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T20:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Paysandu",
+                    "url": "https://www.fotmob.com/teams/6546/overview/paysandu"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Santa Cruz",
+                    "url": "https://www.fotmob.com/teams/9920/overview/santa-cruz"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Paysandu - Santa Cruz",
+                        "item": "https://www.fotmob.com/match/1000009459"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Santa Cruz",
+                        "item": "https://www.fotmob.com/teams/9920/overview/santa-cruz"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Paysandu - Santa Cruz",
+                        "item": "https://www.fotmob.com/match/1000009459"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Paysandu",
+                        "item": "https://www.fotmob.com/teams/6546/overview/paysandu"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Paysandu - Santa Cruz",
+                        "item": "https://www.fotmob.com/match/1000009459"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Paysandu and Santa Cruz on Sat, 27 Jun 2026 20:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Santa Cruz won 3\u20131 over Paysandu on Sat, 27 Jun 2026 20:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

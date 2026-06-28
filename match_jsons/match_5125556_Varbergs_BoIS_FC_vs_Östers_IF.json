@@ -1,0 +1,3184 @@
+{
+    "general": {
+        "matchId": "5125556",
+        "matchName": "Varbergs BoIS FC-vs-\u00d6sters IF_Sat, Jun 27, 2026, 13:00 UTC",
+        "matchRound": "14",
+        "teamColors": {
+            "darkMode": {
+                "home": "#02855A",
+                "away": "#B31315"
+            },
+            "lightMode": {
+                "home": "#02855A",
+                "away": "#B31315"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 168,
+        "leagueName": "Superettan",
+        "leagueRoundName": "14",
+        "parentLeagueId": 168,
+        "countryCode": "SWE",
+        "homeTeam": {
+            "name": "Varbergs BoIS FC",
+            "id": 6692
+        },
+        "awayTeam": {
+            "name": "\u00d6sters IF",
+            "id": 8641
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 13:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T13:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Varbergs BoIS FC",
+                "id": 6692,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6692_small.png",
+                "pageUrl": "/teams/6692/overview/varbergs-bois-fc"
+            },
+            {
+                "name": "\u00d6sters IF",
+                "id": 8641,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8641_small.png",
+                "pageUrl": "/teams/8641/overview/osters-if"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T13:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 15:01:34",
+                "firstHalfEnded": "27.06.2026 15:50:05",
+                "secondHalfStarted": "27.06.2026 16:05:27",
+                "secondHalfEnded": "27.06.2026 16:56:05",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 16:56:05"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Borgelin": [
+                    {
+                        "reactKey": "1421623056Goal1078088undefinedtrue",
+                        "timeStr": 56,
+                        "type": "Goal",
+                        "time": 56,
+                        "overloadTime": null,
+                        "eventId": 14216230,
+                        "player": {
+                            "id": 1078088,
+                            "name": "Shanyder Borgelin",
+                            "profileUrl": "/players/1078088/shanyder-borgelin"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1078088/shanyder-borgelin",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Shanyder Borgelin",
+                        "firstName": "Shanyder",
+                        "lastName": "Borgelin",
+                        "fullName": "Shanyder Borgelin",
+                        "playerId": 1078088,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Gustav Broman",
+                        "assistProfileUrl": "/players/1231713/gustav-broman",
+                        "assistPlayerId": 1231713,
+                        "assistKey": "assist_by",
+                        "assistInput": "Gustav Broman"
+                    }
+                ],
+                "Sadiku": [
+                    {
+                        "reactKey": "1421640989Goal932289undefinedtrue",
+                        "timeStr": 89,
+                        "type": "Goal",
+                        "time": 89,
+                        "overloadTime": null,
+                        "eventId": 14216409,
+                        "player": {
+                            "id": 932289,
+                            "name": "Erion Sadiku",
+                            "profileUrl": "/players/932289/erion-sadiku"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/932289/erion-sadiku",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Erion Sadiku",
+                        "firstName": "Erion",
+                        "lastName": "Sadiku",
+                        "fullName": "Erion Sadiku",
+                        "playerId": 932289,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Edvin Tellgren",
+                        "assistProfileUrl": "/players/1312012/edvin-tellgren",
+                        "assistPlayerId": 1312012,
+                        "assistKey": "assist_by",
+                        "assistInput": "Edvin Tellgren"
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Wendt": [
+                    {
+                        "reactKey": "1421629070Goal1552907undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14216290,
+                        "player": {
+                            "id": 1552907,
+                            "name": "Kalle Wendt",
+                            "profileUrl": "/players/1552907/kalle-wendt"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1552907/kalle-wendt",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kalle Wendt",
+                        "firstName": "Kalle",
+                        "lastName": "Wendt",
+                        "fullName": "Kalle Wendt",
+                        "playerId": 1552907,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5125556,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142159001Card1418943undefinedfalse",
+                        "timeStr": 1,
+                        "type": "Card",
+                        "time": 1,
+                        "overloadTime": null,
+                        "eventId": 14215900,
+                        "player": {
+                            "id": 1418943,
+                            "name": "Raymond Adjei",
+                            "profileUrl": "/players/1418943/raymond-adjei"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1418943/raymond-adjei",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Raymond Adjei",
+                        "firstName": "Raymond",
+                        "lastName": "Adjei",
+                        "fullName": "Raymond Adjei",
+                        "playerId": 1418943,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421621852Card1159058undefinedtrue",
+                        "timeStr": 52,
+                        "type": "Card",
+                        "time": 52,
+                        "overloadTime": null,
+                        "eventId": 14216218,
+                        "player": {
+                            "id": 1159058,
+                            "name": "Niklas Dahlstr\u00f6m",
+                            "profileUrl": "/players/1159058/niklas-dahlstrom"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1159058/niklas-dahlstrom",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Niklas Dahlstr\u00f6m",
+                        "firstName": "Niklas",
+                        "lastName": "Dahlstr\u00f6m",
+                        "fullName": "Niklas Dahlstr\u00f6m",
+                        "playerId": 1159058,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421623056Goal1078088undefinedtrue",
+                        "timeStr": 56,
+                        "type": "Goal",
+                        "time": 56,
+                        "overloadTime": null,
+                        "eventId": 14216230,
+                        "player": {
+                            "id": 1078088,
+                            "name": "Shanyder Borgelin",
+                            "profileUrl": "/players/1078088/shanyder-borgelin"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1078088/shanyder-borgelin",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Shanyder Borgelin",
+                        "firstName": "Shanyder",
+                        "lastName": "Borgelin",
+                        "fullName": "Shanyder Borgelin",
+                        "playerId": 1078088,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Gustav Broman",
+                        "assistProfileUrl": "/players/1231713/gustav-broman",
+                        "assistPlayerId": 1231713,
+                        "assistKey": "assist_by",
+                        "assistInput": "Gustav Broman"
+                    },
+                    {
+                        "reactKey": "undefined66SubstitutionNaN1552907false",
+                        "timeStr": 66,
+                        "type": "Substitution",
+                        "time": 66,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kalle Wendt",
+                                "id": "1552907",
+                                "profileUrl": "/players/1552907/kalle-wendt"
+                            },
+                            {
+                                "name": "Filip Olsson",
+                                "id": "1109473",
+                                "profileUrl": "/players/1109473/filip-olsson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined68SubstitutionNaN1211421true",
+                        "timeStr": 68,
+                        "type": "Substitution",
+                        "time": 68,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Noah Johansson",
+                                "id": "1211421",
+                                "profileUrl": "/players/1211421/noah-johansson"
+                            },
+                            {
+                                "name": "Albin Winbo",
+                                "id": "864701",
+                                "profileUrl": "/players/864701/albin-winbo"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421629070Goal1552907undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14216290,
+                        "player": {
+                            "id": 1552907,
+                            "name": "Kalle Wendt",
+                            "profileUrl": "/players/1552907/kalle-wendt"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1552907/kalle-wendt",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kalle Wendt",
+                        "firstName": "Kalle",
+                        "lastName": "Wendt",
+                        "fullName": "Kalle Wendt",
+                        "playerId": 1552907,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined73SubstitutionNaN948931false",
+                        "timeStr": 73,
+                        "type": "Substitution",
+                        "time": 73,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Matias Tamminen",
+                                "id": "948931",
+                                "profileUrl": "/players/948931/matias-tamminen"
+                            },
+                            {
+                                "name": "Oscar Udden\u00e4s",
+                                "id": "1245541",
+                                "profileUrl": "/players/1245541/oscar-uddenas"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined73SubstitutionNaN1186602false",
+                        "timeStr": 73,
+                        "type": "Substitution",
+                        "time": 73,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Noah S\u00f6derberg",
+                                "id": "1186602",
+                                "profileUrl": "/players/1186602/noah-soderberg"
+                            },
+                            {
+                                "name": "Hannes Bladh Pijaca",
+                                "id": "1455864",
+                                "profileUrl": "/players/1455864/hannes-bladh-pijaca"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined75SubstitutionNaN1063330true",
+                        "timeStr": 75,
+                        "type": "Substitution",
+                        "time": 75,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Anton Thorsson",
+                                "id": "1063330",
+                                "profileUrl": "/players/1063330/anton-thorsson"
+                            },
+                            {
+                                "name": "Oliver Bryn\u00e9us",
+                                "id": "1459918",
+                                "profileUrl": "/players/1459918/oliver-bryneus"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined75SubstitutionNaN1735113true",
+                        "timeStr": 75,
+                        "type": "Substitution",
+                        "time": 75,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jonathan Nilsson",
+                                "id": "1735113",
+                                "profileUrl": "/players/1735113/jonathan-nilsson"
+                            },
+                            {
+                                "name": "Wilhelm \u00c4rlig",
+                                "id": "932910",
+                                "profileUrl": "/players/932910/wilhelm-arlig"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined84SubstitutionNaN1457845true",
+                        "timeStr": 84,
+                        "type": "Substitution",
+                        "time": 84,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Aulon Bitiqi",
+                                "id": "1457845",
+                                "profileUrl": "/players/1457845/aulon-bitiqi"
+                            },
+                            {
+                                "name": "Shanyder Borgelin",
+                                "id": "1078088",
+                                "profileUrl": "/players/1078088/shanyder-borgelin"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined84SubstitutionNaN258184true",
+                        "timeStr": 84,
+                        "type": "Substitution",
+                        "time": 84,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Joakim Lindner",
+                                "id": "258184",
+                                "profileUrl": "/players/258184/joakim-lindner"
+                            },
+                            {
+                                "name": "Isak Vidjeskog",
+                                "id": "1246262",
+                                "profileUrl": "/players/1246262/isak-vidjeskog"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined86SubstitutionNaN1457808false",
+                        "timeStr": 86,
+                        "type": "Substitution",
+                        "time": 86,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kingsley Gyamfi",
+                                "id": "1457808",
+                                "profileUrl": "/players/1457808/kingsley-gyamfi"
+                            },
+                            {
+                                "name": "Raymond Adjei",
+                                "id": "1418943",
+                                "profileUrl": "/players/1418943/raymond-adjei"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421640989Goal932289undefinedtrue",
+                        "timeStr": 89,
+                        "type": "Goal",
+                        "time": 89,
+                        "overloadTime": null,
+                        "eventId": 14216409,
+                        "player": {
+                            "id": 932289,
+                            "name": "Erion Sadiku",
+                            "profileUrl": "/players/932289/erion-sadiku"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/932289/erion-sadiku",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Erion Sadiku",
+                        "firstName": "Erion",
+                        "lastName": "Sadiku",
+                        "fullName": "Erion Sadiku",
+                        "playerId": 932289,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Edvin Tellgren",
+                        "assistProfileUrl": "/players/1312012/edvin-tellgren",
+                        "assistPlayerId": 1312012,
+                        "assistKey": "assist_by",
+                        "assistInput": "Edvin Tellgren"
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Half",
+                    "Goal",
+                    "Assist",
+                    "Substitution",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T13:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 168,
+                    "parentLeagueId": 168,
+                    "link": "/leagues/168/overview/superettan",
+                    "leagueName": "Superettan",
+                    "roundName": "14",
+                    "round": "14"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": 998
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8359_xsmall.png",
+                        "linkToMatch": "/matches/varbergs-bois-fc-vs-gif-sundsvall/1vg13d#5125516",
+                        "date": {
+                            "utcTime": "2026-05-24T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8359/overview/gif-sundsvall",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T13:00:00.000Z",
+                            "homeTeam": "Varbergs BoIS FC",
+                            "homeTeamId": 6692,
+                            "homeScore": "1",
+                            "awayTeam": "GIF Sundsvall",
+                            "awayTeamId": 8359,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "6692",
+                            "name": "Varbergs BoIS FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8359",
+                            "name": "GIF Sundsvall",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8500_xsmall.png",
+                        "linkToMatch": "/matches/varbergs-bois-fc-vs-ljungskile/1wpqf4#5125520",
+                        "date": {
+                            "utcTime": "2026-05-30T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8500/overview/ljungskile",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T11:00:00.000Z",
+                            "homeTeam": "Ljungskile",
+                            "homeTeamId": 8500,
+                            "homeScore": "1",
+                            "awayTeam": "Varbergs BoIS FC",
+                            "awayTeamId": 6692,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "8500",
+                            "name": "Ljungskile",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6692",
+                            "name": "Varbergs BoIS FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2014_xsmall.png",
+                        "linkToMatch": "/matches/norrby-vs-varbergs-bois-fc/mki7b#5125532",
+                        "date": {
+                            "utcTime": "2026-06-10T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2014/overview/norrby",
+                        "tooltipText": {
+                            "utcTime": "2026-06-10T17:00:00.000Z",
+                            "homeTeam": "Varbergs BoIS FC",
+                            "homeTeamId": 6692,
+                            "homeScore": "2",
+                            "awayTeam": "Norrby",
+                            "awayTeamId": 2014,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "6692",
+                            "name": "Varbergs BoIS FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2014",
+                            "name": "Norrby",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8449_xsmall.png",
+                        "linkToMatch": "/matches/varbergs-bois-fc-vs-ifk-norrkoping/1w95j4#5125537",
+                        "date": {
+                            "utcTime": "2026-06-15T17:05:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8449/overview/ifk-norrkoping",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T17:05:00.000Z",
+                            "homeTeam": "IFK Norrk\u00f6ping",
+                            "homeTeamId": 8449,
+                            "homeScore": "2",
+                            "awayTeam": "Varbergs BoIS FC",
+                            "awayTeamId": 6692,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8449",
+                            "name": "IFK Norrk\u00f6ping",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "6692",
+                            "name": "Varbergs BoIS FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8511_xsmall.png",
+                        "linkToMatch": "/matches/varbergs-bois-fc-vs-landskrona-bois/1wtbf9#5125548",
+                        "date": {
+                            "utcTime": "2026-06-22T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8511/overview/landskrona-bois",
+                        "tooltipText": {
+                            "utcTime": "2026-06-22T17:00:00.000Z",
+                            "homeTeam": "Varbergs BoIS FC",
+                            "homeTeamId": 6692,
+                            "homeScore": "2",
+                            "awayTeam": "Landskrona BoIS",
+                            "awayTeamId": 8511,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "6692",
+                            "name": "Varbergs BoIS FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8511",
+                            "name": "Landskrona BoIS",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8449_xsmall.png",
+                        "linkToMatch": "/matches/ifk-norrkoping-vs-osters-if/2eydus#5125512",
+                        "date": {
+                            "utcTime": "2026-05-25T17:05:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8449/overview/ifk-norrkoping",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T17:05:00.000Z",
+                            "homeTeam": "IFK Norrk\u00f6ping",
+                            "homeTeamId": 8449,
+                            "homeScore": "2",
+                            "awayTeam": "\u00d6sters IF",
+                            "awayTeamId": 8641,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8449",
+                            "name": "IFK Norrk\u00f6ping",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8641",
+                            "name": "\u00d6sters IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2014_xsmall.png",
+                        "linkToMatch": "/matches/norrby-vs-osters-if/xsyk1#5125521",
+                        "date": {
+                            "utcTime": "2026-05-30T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2014/overview/norrby",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T15:00:00.000Z",
+                            "homeTeam": "\u00d6sters IF",
+                            "homeTeamId": 8641,
+                            "homeScore": "2",
+                            "awayTeam": "Norrby",
+                            "awayTeamId": 2014,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8641",
+                            "name": "\u00d6sters IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2014",
+                            "name": "Norrby",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6181_xsmall.png",
+                        "linkToMatch": "/matches/ifk-varnamo-vs-osters-if/1tepza#5125530",
+                        "date": {
+                            "utcTime": "2026-06-09T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6181/overview/ifk-varnamo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-09T17:00:00.000Z",
+                            "homeTeam": "\u00d6sters IF",
+                            "homeTeamId": 8641,
+                            "homeScore": "3",
+                            "awayTeam": "IFK V\u00e4rnamo",
+                            "awayTeamId": 6181,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "8641",
+                            "name": "\u00d6sters IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6181",
+                            "name": "IFK V\u00e4rnamo",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8359_xsmall.png",
+                        "linkToMatch": "/matches/gif-sundsvall-vs-osters-if/2e1i51#5125539",
+                        "date": {
+                            "utcTime": "2026-06-15T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8359/overview/gif-sundsvall",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T17:00:00.000Z",
+                            "homeTeam": "GIF Sundsvall",
+                            "homeTeamId": 8359,
+                            "homeScore": "0",
+                            "awayTeam": "\u00d6sters IF",
+                            "awayTeamId": 8641,
+                            "awayScore": "4"
+                        },
+                        "score": "0 - 4",
+                        "home": {
+                            "id": "8359",
+                            "name": "GIF Sundsvall",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8641",
+                            "name": "\u00d6sters IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6545_xsmall.png",
+                        "linkToMatch": "/matches/falkenbergs-ff-vs-osters-if/1wns7g#5125546",
+                        "date": {
+                            "utcTime": "2026-06-21T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6545/overview/falkenbergs-ff",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T13:00:00.000Z",
+                            "homeTeam": "\u00d6sters IF",
+                            "homeTeamId": 8641,
+                            "homeScore": "1",
+                            "awayTeam": "Falkenbergs FF",
+                            "awayTeamId": 6545,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "8641",
+                            "name": "\u00d6sters IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6545",
+                            "name": "Falkenbergs FF",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5125556",
+                    "MatchId": 5125556,
+                    "HomeTeamId": 6692,
+                    "AwayTeamId": 8641,
+                    "HomeTeam": "Varbergs BoIS FC",
+                    "AwayTeam": "\u00d6sters IF",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "0",
+                                "2",
+                                "away_team",
+                                "3",
+                                "0",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Varbergs BoIS FC have 3W, 0D, 2L in five matches while \u00d6sters IF have 3W, 0D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Varbergs BoIS FC have scored in their last 4 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "8",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "\u00d6sters IF have scored 8 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {2} matches and {1} in their last {3}.",
+                            "TextTemplateId": "draw_streak_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "8",
+                                "8"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Varbergs BoIS FC haven't drawn in their last 8 matches and \u00d6sters IF in their last 8."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 6692,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#02855A"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8641,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 10,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 10 goals in their last 5 matches",
+                    "color": "#B31315"
+                }
+            ],
+            "countryCode": "SWE",
+            "QAData": [
+                {
+                    "question": "Who won between Varbergs BoIS FC and \u00d6sters IF on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "answer": "Varbergs BoIS FC won 2\u20131 over \u00d6sters IF on Sat, 27 Jun 2026 13:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        47,
+                                        53
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        15,
+                                        15
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "equal"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        3,
+                                        4
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        6,
+                                        10
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#02855A",
+                            "away": "#B31315"
+                        },
+                        "lightMode": {
+                            "home": "#02855A",
+                            "away": "#B31315"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5125556,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 6692,
+                "name": "Varbergs BoIS FC",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 895778,
+                        "age": 27,
+                        "name": "Oscar Ekman",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 60000,
+                        "firstName": "Oscar",
+                        "lastName": "Ekman",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1159058,
+                        "age": 29,
+                        "name": "Niklas Dahlstr\u00f6m",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "22",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 52
+                                }
+                            ]
+                        },
+                        "firstName": "Niklas",
+                        "lastName": "Dahlstr\u00f6m",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1312012,
+                        "age": 21,
+                        "name": "Edvin Tellgren",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "17",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 220915,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 89
+                                }
+                            ]
+                        },
+                        "firstName": "Edvin",
+                        "lastName": "Tellgren",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1231713,
+                        "age": 24,
+                        "name": "Gustav Broman",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 111076,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 56
+                                }
+                            ]
+                        },
+                        "firstName": "Gustav",
+                        "lastName": "Broman",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1161871,
+                        "age": 25,
+                        "name": "Emil Hellman",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 99751,
+                        "firstName": "Emil",
+                        "lastName": "Hellman",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1246262,
+                        "age": 22,
+                        "name": "Isak Vidjeskog",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "21",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 188601,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Isak",
+                        "lastName": "Vidjeskog",
+                        "rankings": null
+                    },
+                    {
+                        "id": 932289,
+                        "age": 24,
+                        "name": "Erion Sadiku",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "28",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 99833,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 89
+                                }
+                            ]
+                        },
+                        "firstName": "Erion",
+                        "lastName": "Sadiku",
+                        "rankings": null
+                    },
+                    {
+                        "id": 864701,
+                        "age": 28,
+                        "name": "Albin Winbo",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Albin",
+                        "lastName": "Winbo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 932910,
+                        "age": 25,
+                        "name": "Wilhelm \u00c4rlig",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 109816,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 75,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Wilhelm",
+                        "lastName": "\u00c4rlig",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1078088,
+                        "age": 24,
+                        "name": "Shanyder Borgelin",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "49",
+                        "countryName": "Haiti",
+                        "countryCode": "HAI",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 225896,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 56
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Shanyder",
+                        "lastName": "Borgelin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1459918,
+                        "age": 27,
+                        "name": "Oliver Bryn\u00e9us",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 75,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Oliver",
+                        "lastName": "Bryn\u00e9us",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1666215,
+                    "age": 34,
+                    "name": "Victor Salwen",
+                    "countryName": "Sweden",
+                    "countryCode": "SWE",
+                    "firstName": "Victor",
+                    "lastName": "Salwen",
+                    "primaryTeamId": 6692,
+                    "primaryTeamName": "Varbergs BoIS FC",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1211421,
+                        "age": 22,
+                        "name": "Noah Johansson",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 154810,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 68,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Noah",
+                        "lastName": "Johansson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1063330,
+                        "age": 26,
+                        "name": "Anton Thorsson",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 75,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Anton",
+                        "lastName": "Thorsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1735113,
+                        "age": 24,
+                        "name": "Jonathan Nilsson",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 75,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Jonathan",
+                        "lastName": "Nilsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 258184,
+                        "age": 35,
+                        "name": "Joakim Lindner",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "18",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Joakim",
+                        "lastName": "Lindner",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1457845,
+                        "age": 22,
+                        "name": "Aulon Bitiqi",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 99386,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Aulon",
+                        "lastName": "Bitiqi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1203828,
+                        "age": 24,
+                        "name": "Daniel Strindholm",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "29",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 110052,
+                        "firstName": "Daniel",
+                        "lastName": "Strindholm",
+                        "rankings": null
+                    },
+                    {
+                        "id": 330663,
+                        "age": 31,
+                        "name": "Hampus Zackrisson",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 50000,
+                        "firstName": "Hampus",
+                        "lastName": "Zackrisson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 311261,
+                        "age": 32,
+                        "name": "Oliver Silverholt",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 50000,
+                        "firstName": "Oliver",
+                        "lastName": "Silverholt",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1716520,
+                        "age": 21,
+                        "name": "Olle Werner",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Olle",
+                        "lastName": "Werner",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.6,
+                "totalStarterMarketValue": 1265888
+            },
+            "awayTeam": {
+                "id": 8641,
+                "name": "\u00d6sters IF",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 1455863,
+                        "age": 25,
+                        "name": "Carl Lundahl Persson",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 137807,
+                        "firstName": "Carl Lundahl",
+                        "lastName": "Persson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1418943,
+                        "age": 22,
+                        "name": "Raymond Adjei",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 184149,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 1
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Raymond",
+                        "lastName": "Adjei",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1557192,
+                        "age": 21,
+                        "name": "Musa Jatta",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "20",
+                        "countryName": "Gambia",
+                        "countryCode": "GAM",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 165976,
+                        "firstName": "Musa",
+                        "lastName": "Jatta",
+                        "rankings": null
+                    },
+                    {
+                        "id": 657922,
+                        "age": 31,
+                        "name": "Sebastian Hedlund",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 79492,
+                        "firstName": "Sebastian",
+                        "lastName": "Hedlund",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1236143,
+                        "age": 27,
+                        "name": "Dennis Olsson",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "14",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 159904,
+                        "firstName": "Dennis",
+                        "lastName": "Olsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 927877,
+                        "age": 27,
+                        "name": "Daniel Ask",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 270173,
+                        "firstName": "Daniel",
+                        "lastName": "Ask",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1455864,
+                        "age": 20,
+                        "name": "Hannes Bladh Pijaca",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 264377,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hannes Bladh",
+                        "lastName": "Pijaca",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1109473,
+                        "age": 27,
+                        "name": "Filip Olsson",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "11",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 111758,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Filip",
+                        "lastName": "Olsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1245541,
+                        "age": 23,
+                        "name": "Oscar Udden\u00e4s",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Oscar",
+                        "lastName": "Udden\u00e4s",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1379198,
+                        "age": 21,
+                        "name": "Linus Carlstrand",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 292616,
+                        "firstName": "Linus",
+                        "lastName": "Carlstrand",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1351565,
+                        "age": 23,
+                        "name": "Samuel Burakovsky",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "23",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 187274,
+                        "firstName": "Samuel",
+                        "lastName": "Burakovsky",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 2032176,
+                    "age": 38,
+                    "name": "Daniel Friberg",
+                    "countryName": "Sweden",
+                    "countryCode": "SWE",
+                    "firstName": "Daniel",
+                    "lastName": "Friberg",
+                    "primaryTeamId": 8641,
+                    "primaryTeamName": "\u00d6sters IF",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1552907,
+                        "age": 20,
+                        "name": "Kalle Wendt",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "29",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 204745,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 70
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Kalle",
+                        "lastName": "Wendt",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1186602,
+                        "age": 24,
+                        "name": "Noah S\u00f6derberg",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 295335,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Noah",
+                        "lastName": "S\u00f6derberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 948931,
+                        "age": 24,
+                        "name": "Matias Tamminen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 187539,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Matias",
+                        "lastName": "Tamminen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1457808,
+                        "age": 22,
+                        "name": "Kingsley Gyamfi",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "marketValue": 312950,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Kingsley",
+                        "lastName": "Gyamfi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1152699,
+                        "age": 32,
+                        "name": "Michael Hartmann",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "33",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "firstName": "Michael",
+                        "lastName": "Hartmann",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1717689,
+                        "age": 19,
+                        "name": "Al-Hussein Shakir",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "24",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Al-Hussein",
+                        "lastName": "Shakir",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2025395,
+                        "name": "Naid Ganovic",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Naid",
+                        "lastName": "Ganovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1909315,
+                        "age": 19,
+                        "name": "Musa Njie",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "Gambia",
+                        "countryCode": "GAM",
+                        "firstName": "Musa",
+                        "lastName": "Njie",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2057931,
+                        "age": 19,
+                        "name": "Pelle Newman",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "15",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Pelle",
+                        "lastName": "Newman",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 24.8,
+                "totalStarterMarketValue": 1853526
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "168",
+            "url": "https://data.fotmob.com/tables.ext.168.fot.gz",
+            "teams": [
+                6692,
+                8641
+            ],
+            "tournamentNameForUrl": "Superettan",
+            "parentLeagueId": 168,
+            "countryCode": "SWE"
+        },
+        "h2h": {
+            "summary": [
+                5,
+                4,
+                10
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2024-10-20T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#4387299",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-20T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-06T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#4387069",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-06T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-02-24T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#4373280",
+                    "league": {
+                        "name": "Cup Grp. 1",
+                        "id": "171",
+                        "pageUrl": "/leagues/171/overview/cup-grp-1"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2024-02-24T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-11-13T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#4060447",
+                    "league": {
+                        "name": "Allsvenskan Qualification",
+                        "id": "68",
+                        "pageUrl": "/leagues/68/overview/allsvenskan-qualification"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2022-11-13T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-11-10T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#4060446",
+                    "league": {
+                        "name": "Allsvenskan Qualification",
+                        "id": "68",
+                        "pageUrl": "/leagues/68/overview/allsvenskan-qualification"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2022-11-10T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-02-28T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#3780211",
+                    "league": {
+                        "name": "Cup Grp. 7",
+                        "id": "171",
+                        "pageUrl": "/leagues/171/overview/cup-grp-7"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2022-02-28T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-02-20T14:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#3539352",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2021-02-20T14:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-08-31T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#2945954",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2019-08-31T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-06-24T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#2945849",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2019-06-24T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-08-04T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#2680081",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2018-08-04T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-05-19T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#2679977",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2018-05-19T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-03-04T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#2680422",
+                    "league": {
+                        "name": "Cup Grp. 7",
+                        "id": "171",
+                        "pageUrl": "/leagues/171/overview/cup-grp-7"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2018-03-04T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-08-05T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#2421428",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2017-08-05T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-06-25T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#2421402",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2017-06-25T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-09-19T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#1630203",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2014-09-19T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-05-19T17:20:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#1629827",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2014-05-19T17:20:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-02-24T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#1419266",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2013-02-24T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-08-27T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#1143147",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    },
+                    "status": {
+                        "utcTime": "2012-08-27T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-05-26T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/varbergs-bois-fc-vs-osters-if/1xzv34#1143049",
+                    "league": {
+                        "name": "Superettan",
+                        "id": "168",
+                        "pageUrl": "/leagues/168/overview/superettan"
+                    },
+                    "home": {
+                        "name": "\u00d6sters IF",
+                        "id": "8641"
+                    },
+                    "status": {
+                        "utcTime": "2012-05-26T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Varbergs BoIS FC",
+                        "id": "6692"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "varbergs-bois-fc-vs-osters-if",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5125556",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Varbergs BoIS FC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6692.png",
+                "url": "https://www.fotmob.com/teams/6692/overview/varbergs-bois-fc",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "\u00d6sters IF",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8641.png",
+                "url": "https://www.fotmob.com/teams/8641/overview/osters-if",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Varbergs BoIS FC vs \u00d6sters IF",
+            "description": "Follow Varbergs BoIS FC vs \u00d6sters IF live on fotmob.com",
+            "startDate": "2026-06-27T13:00:00.000Z",
+            "endDate": "2026-06-27T15:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/6692.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8641.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5125556",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T13:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Varbergs BoIS FC",
+                    "url": "https://www.fotmob.com/teams/6692/overview/varbergs-bois-fc"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "\u00d6sters IF",
+                    "url": "https://www.fotmob.com/teams/8641/overview/osters-if"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Superettan",
+                        "item": "https://www.fotmob.com/leagues/168/overview/superettan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Varbergs BoIS FC - \u00d6sters IF",
+                        "item": "https://www.fotmob.com/match/5125556"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Superettan",
+                        "item": "https://www.fotmob.com/leagues/168/overview/superettan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "\u00d6sters IF",
+                        "item": "https://www.fotmob.com/teams/8641/overview/osters-if"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Varbergs BoIS FC - \u00d6sters IF",
+                        "item": "https://www.fotmob.com/match/5125556"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Superettan",
+                        "item": "https://www.fotmob.com/leagues/168/overview/superettan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Varbergs BoIS FC",
+                        "item": "https://www.fotmob.com/teams/6692/overview/varbergs-bois-fc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Varbergs BoIS FC - \u00d6sters IF",
+                        "item": "https://www.fotmob.com/match/5125556"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Varbergs BoIS FC and \u00d6sters IF on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Varbergs BoIS FC won 2\u20131 over \u00d6sters IF on Sat, 27 Jun 2026 13:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

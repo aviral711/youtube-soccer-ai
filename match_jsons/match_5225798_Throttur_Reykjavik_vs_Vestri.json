@@ -1,0 +1,1296 @@
+{
+    "general": {
+        "matchId": "5225798",
+        "matchName": "Throttur Reykjavik-vs-Vestri_Sat, Jun 27, 2026, 14:00 UTC",
+        "matchRound": "11",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#09569a"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#BE152F"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 216,
+        "leagueName": "1. Deild",
+        "leagueRoundName": "11",
+        "parentLeagueId": 216,
+        "countryCode": "ISL",
+        "homeTeam": {
+            "name": "Throttur Reykjavik",
+            "id": 4661
+        },
+        "awayTeam": {
+            "name": "Vestri",
+            "id": 750462
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Throttur Reykjavik",
+                "id": 4661,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4661_small.png",
+                "pageUrl": "/teams/4661/overview/throttur-reykjavik"
+            },
+            {
+                "name": "Vestri",
+                "id": 750462,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/750462_small.png",
+                "pageUrl": "/teams/750462/overview/vestri"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 16:01:11",
+                "firstHalfEnded": "27.06.2026 16:49:55",
+                "secondHalfStarted": "27.06.2026 17:06:40",
+                "secondHalfEnded": "27.06.2026 17:56:12",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 17:56:12"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Hinriksson": [
+                    {
+                        "reactKey": "1421675990Goal1757944undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14216759,
+                        "player": {
+                            "id": 1757944,
+                            "name": "Oern Bragi Hinriksson",
+                            "profileUrl": "/players/1757944/oern-bragi-hinriksson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1757944/oern-bragi-hinriksson",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Oern Bragi Hinriksson",
+                        "firstName": "Oern Bragi",
+                        "lastName": "Hinriksson",
+                        "fullName": "Oern Bragi Hinriksson",
+                        "playerId": 1757944,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Hermannsson": [
+                    {
+                        "reactKey": "1421637341Goal1289124undefinedfalse",
+                        "timeStr": 41,
+                        "type": "Goal",
+                        "time": 41,
+                        "overloadTime": null,
+                        "eventId": 14216373,
+                        "player": {
+                            "id": 1289124,
+                            "name": "Breki Hermannsson",
+                            "profileUrl": "/players/1289124/breki-hermannsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1289124/breki-hermannsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Breki Hermannsson",
+                        "firstName": "Breki",
+                        "lastName": "Hermannsson",
+                        "fullName": "Breki Hermannsson",
+                        "playerId": 1289124,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5225798,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421637341Goal1289124undefinedfalse",
+                        "timeStr": 41,
+                        "type": "Goal",
+                        "time": 41,
+                        "overloadTime": null,
+                        "eventId": 14216373,
+                        "player": {
+                            "id": 1289124,
+                            "name": "Breki Hermannsson",
+                            "profileUrl": "/players/1289124/breki-hermannsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1289124/breki-hermannsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Breki Hermannsson",
+                        "firstName": "Breki",
+                        "lastName": "Hermannsson",
+                        "fullName": "Breki Hermannsson",
+                        "playerId": 1289124,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421675990Goal1757944undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14216759,
+                        "player": {
+                            "id": 1757944,
+                            "name": "Oern Bragi Hinriksson",
+                            "profileUrl": "/players/1757944/oern-bragi-hinriksson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1757944/oern-bragi-hinriksson",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Oern Bragi Hinriksson",
+                        "firstName": "Oern Bragi",
+                        "lastName": "Hinriksson",
+                        "fullName": "Oern Bragi Hinriksson",
+                        "playerId": 1757944,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 216,
+                    "parentLeagueId": 216,
+                    "link": "/leagues/216/overview/1-deild",
+                    "leagueName": "1. Deild",
+                    "roundName": "11",
+                    "round": "11"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/175111_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-grotta/7f8p6cb#5225768",
+                        "date": {
+                            "utcTime": "2026-05-27T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/175111/overview/grotta",
+                        "tooltipText": {
+                            "utcTime": "2026-05-27T19:15:00.000Z",
+                            "homeTeam": "Throttur Reykjavik",
+                            "homeTeamId": 4661,
+                            "homeScore": "2",
+                            "awayTeam": "Grotta",
+                            "awayTeamId": 175111,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "175111",
+                            "name": "Grotta",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8298_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-grindavik/1e01ei#5225774",
+                        "date": {
+                            "utcTime": "2026-06-01T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8298/overview/grindavik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-01T19:15:00.000Z",
+                            "homeTeam": "Throttur Reykjavik",
+                            "homeTeamId": 4661,
+                            "homeScore": "2",
+                            "awayTeam": "Grindavik",
+                            "awayTeamId": 8298,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8298",
+                            "name": "Grindavik",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6434_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-fylkir/10nh5i#5225778",
+                        "date": {
+                            "utcTime": "2026-06-06T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6434/overview/fylkir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T14:00:00.000Z",
+                            "homeTeam": "Fylkir",
+                            "homeTeamId": 6434,
+                            "homeScore": "1",
+                            "awayTeam": "Throttur Reykjavik",
+                            "awayTeamId": 4661,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "6434",
+                            "name": "Fylkir",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4516_xsmall.png",
+                        "linkToMatch": "/matches/hk-kopavogs-vs-throttur-reykjavik/p2qe2#5225784",
+                        "date": {
+                            "utcTime": "2026-06-12T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4516/overview/hk-kopavogs",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T19:15:00.000Z",
+                            "homeTeam": "Throttur Reykjavik",
+                            "homeTeamId": 4661,
+                            "homeScore": "2",
+                            "awayTeam": "HK Kopavogs",
+                            "awayTeamId": 4516,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4516",
+                            "name": "HK Kopavogs",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/559291_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-aegir/211xgfcj#5225793",
+                        "date": {
+                            "utcTime": "2026-06-21T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/559291/overview/aegir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T19:15:00.000Z",
+                            "homeTeam": "\u00c6gir",
+                            "homeTeamId": 559291,
+                            "homeScore": "1",
+                            "awayTeam": "Throttur Reykjavik",
+                            "awayTeamId": 4661,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "559291",
+                            "name": "\u00c6gir",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163250_xsmall.png",
+                        "linkToMatch": "/matches/ir-reykjavik-vs-vestri/5brmmjyu#5225769",
+                        "date": {
+                            "utcTime": "2026-05-31T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163250/overview/ir-reykjavik",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T14:00:00.000Z",
+                            "homeTeam": "IR Reykjavik",
+                            "homeTeamId": 163250,
+                            "homeScore": "0",
+                            "awayTeam": "Vestri",
+                            "awayTeamId": 750462,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "163250",
+                            "name": "IR Reykjavik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "750462",
+                            "name": "Vestri",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4514_xsmall.png",
+                        "linkToMatch": "/matches/volsungur-vs-vestri/3mxaytji#5225777",
+                        "date": {
+                            "utcTime": "2026-06-06T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4514/overview/volsungur",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T15:00:00.000Z",
+                            "homeTeam": "Vestri",
+                            "homeTeamId": 750462,
+                            "homeScore": "5",
+                            "awayTeam": "V\u00f6lsungur",
+                            "awayTeamId": 4514,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "750462",
+                            "name": "Vestri",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4514",
+                            "name": "V\u00f6lsungur",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6683_xsmall.png",
+                        "linkToMatch": "/matches/leiknir-reykjavik-vs-vestri/3nofbhmr#5225785",
+                        "date": {
+                            "utcTime": "2026-06-13T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6683/overview/leiknir-reykjavik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T14:00:00.000Z",
+                            "homeTeam": "Leiknir Reykjavik",
+                            "homeTeamId": 6683,
+                            "homeScore": "1",
+                            "awayTeam": "Vestri",
+                            "awayTeamId": 750462,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "6683",
+                            "name": "Leiknir Reykjavik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "750462",
+                            "name": "Vestri",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/559291_xsmall.png",
+                        "linkToMatch": "/matches/aegir-vs-vestri/ay190wz7#5225787",
+                        "date": {
+                            "utcTime": "2026-06-17T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/559291/overview/aegir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T15:00:00.000Z",
+                            "homeTeam": "Vestri",
+                            "homeTeamId": 750462,
+                            "homeScore": "3",
+                            "awayTeam": "\u00c6gir",
+                            "awayTeamId": 559291,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "750462",
+                            "name": "Vestri",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "559291",
+                            "name": "\u00c6gir",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163251_xsmall.png",
+                        "linkToMatch": "/matches/afturelding-vs-vestri/5brn64zr#5225792",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163251/overview/afturelding",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Vestri",
+                            "homeTeamId": 750462,
+                            "homeScore": "2",
+                            "awayTeam": "Afturelding",
+                            "awayTeamId": 163251,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "750462",
+                            "name": "Vestri",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "163251",
+                            "name": "Afturelding",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5225798",
+                    "MatchId": 5225798,
+                    "HomeTeamId": 4661,
+                    "AwayTeamId": 750462,
+                    "HomeTeam": "Throttur Reykjavik",
+                    "AwayTeam": "Vestri",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Vestri have won the previous 3 matches against Throttur Reykjavik."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "8"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Throttur Reykjavik have scored in their last 8 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "8",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Throttur Reykjavik have scored 8 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {2} matches and {1} in their last {3}.",
+                            "TextTemplateId": "draw_streak_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "6",
+                                "11"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Throttur Reykjavik haven't drawn in their last 6 matches and Vestri in their last 11."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4661,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 12,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 12 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4661,
+                    "priority": 7,
+                    "defaultText": "Ranked {0} at home this season",
+                    "localizedTextId": "insights_best_home",
+                    "statValues": [
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "ordinal"
+                        }
+                    ],
+                    "text": "Ranked 2 at home this season",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 750462,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 11,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 11 goals in their last 5 matches",
+                    "color": "#183058"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 750462,
+                    "priority": 9,
+                    "defaultText": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                    "localizedTextId": "h2h_undefeated",
+                    "statValues": [
+                        {
+                            "value": 750462,
+                            "name": "Vestri",
+                            "type": "team"
+                        },
+                        {
+                            "value": 4661,
+                            "name": "Throttur Reykjavik",
+                            "type": "team"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 0,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Vestri haven't lost to Throttur Reykjavik in their last 5 meetings (5W, 0D).",
+                    "color": "#183058"
+                }
+            ],
+            "countryCode": "ISL",
+            "QAData": [
+                {
+                    "question": "Who won between Throttur Reykjavik and Vestri on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "answer": "Throttur Reykjavik vs Vestri on Sat, 27 Jun 2026 14:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "216",
+            "url": "https://data.fotmob.com/tables.ext.216.fot.gz",
+            "teams": [
+                4661,
+                750462
+            ],
+            "tournamentNameForUrl": "1. Deild",
+            "parentLeagueId": 216,
+            "countryCode": "ISL"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                0,
+                6
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-03-25T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#4689399",
+                    "league": {
+                        "name": "League Cup Grp. 1",
+                        "id": "10076",
+                        "pageUrl": "/leagues/10076/overview/league-cup-grp-1"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2025-03-25T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Vestri",
+                        "id": "750462"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-09-09T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#4084343",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Vestri",
+                        "id": "750462"
+                    },
+                    "status": {
+                        "utcTime": "2023-09-09T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-07-08T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#4084296",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2023-07-08T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Vestri",
+                        "id": "750462"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-07-17T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#3537502",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Vestri",
+                        "id": "750462"
+                    },
+                    "status": {
+                        "utcTime": "2021-07-17T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-05-15T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#3537441",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2021-05-15T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Vestri",
+                        "id": "750462"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-09-06T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#3256837",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2020-09-06T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Vestri",
+                        "id": "750462"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-07-12T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#3256643",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Vestri",
+                        "id": "750462"
+                    },
+                    "status": {
+                        "utcTime": "2020-07-12T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "throttur-reykjavik-vs-vestri",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5225798",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Throttur Reykjavik",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4661.png",
+                "url": "https://www.fotmob.com/teams/4661/overview/throttur-reykjavik",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Vestri",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/750462.png",
+                "url": "https://www.fotmob.com/teams/750462/overview/vestri",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Throttur Reykjavik vs Vestri",
+            "description": "Follow Throttur Reykjavik vs Vestri live on fotmob.com",
+            "startDate": "2026-06-27T14:00:00.000Z",
+            "endDate": "2026-06-27T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4661.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/750462.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5225798",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Throttur Reykjavik",
+                    "url": "https://www.fotmob.com/teams/4661/overview/throttur-reykjavik"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Vestri",
+                    "url": "https://www.fotmob.com/teams/750462/overview/vestri"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Throttur Reykjavik - Vestri",
+                        "item": "https://www.fotmob.com/match/5225798"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Vestri",
+                        "item": "https://www.fotmob.com/teams/750462/overview/vestri"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Throttur Reykjavik - Vestri",
+                        "item": "https://www.fotmob.com/match/5225798"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Throttur Reykjavik",
+                        "item": "https://www.fotmob.com/teams/4661/overview/throttur-reykjavik"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Throttur Reykjavik - Vestri",
+                        "item": "https://www.fotmob.com/match/5225798"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Throttur Reykjavik and Vestri on Sat, 27 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Throttur Reykjavik vs Vestri on Sat, 27 Jun 2026 14:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

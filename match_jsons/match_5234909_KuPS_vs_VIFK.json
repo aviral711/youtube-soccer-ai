@@ -1,0 +1,1561 @@
+{
+    "general": {
+        "matchId": "5234909",
+        "matchName": "KuPS-vs-VIFK_Sat, Jun 27, 2026, 12:00 UTC",
+        "matchRound": "10",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 923619,
+        "leagueName": "Kansallinen Liiga",
+        "leagueRoundName": "10",
+        "parentLeagueId": 10174,
+        "countryCode": "FIN",
+        "homeTeam": {
+            "name": "KuPS",
+            "id": 1179352
+        },
+        "awayTeam": {
+            "name": "VIFK",
+            "id": 553297
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "KuPS",
+                "id": 1179352,
+                "score": 5,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1179352_small.png",
+                "pageUrl": "/teams/1179352/overview/kups"
+            },
+            {
+                "name": "VIFK",
+                "id": 553297,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/553297_small.png",
+                "pageUrl": "/teams/553297/overview/vifk"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 14:01:35",
+                "firstHalfEnded": "27.06.2026 14:46:21",
+                "secondHalfStarted": "27.06.2026 15:02:29",
+                "secondHalfEnded": "27.06.2026 15:51:08",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 15:51:08"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "5 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Viinikka": [
+                    {
+                        "reactKey": "142156648Goal1413267undefinedtrue",
+                        "timeStr": 8,
+                        "type": "Goal",
+                        "time": 8,
+                        "overloadTime": null,
+                        "eventId": 14215664,
+                        "player": {
+                            "id": 1413267,
+                            "name": "Tuuli Viinikka",
+                            "profileUrl": "/players/1413267/tuuli-viinikka"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1413267/tuuli-viinikka",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tuuli Viinikka",
+                        "firstName": "Tuuli",
+                        "lastName": "Viinikka",
+                        "fullName": "Tuuli Viinikka",
+                        "playerId": 1413267,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Nurmi": [
+                    {
+                        "reactKey": "1421575832Goal1352916undefinedtrue",
+                        "timeStr": 32,
+                        "type": "Goal",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 14215758,
+                        "player": {
+                            "id": 1352916,
+                            "name": "Aada Nurmi",
+                            "profileUrl": "/players/1352916/aada-nurmi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1352916/aada-nurmi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aada Nurmi",
+                        "firstName": "Aada",
+                        "lastName": "Nurmi",
+                        "fullName": "Aada Nurmi",
+                        "playerId": 1352916,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Hahl": [
+                    {
+                        "reactKey": "1421593958Goal1469824undefinedtrue",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14215939,
+                        "player": {
+                            "id": 1469824,
+                            "name": "Niitty Hahl",
+                            "profileUrl": "/players/1469824/niitty-hahl"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1469824/niitty-hahl",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Niitty Hahl",
+                        "firstName": "Niitty",
+                        "lastName": "Hahl",
+                        "fullName": "Niitty Hahl",
+                        "playerId": 1469824,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421607382Goal1469824undefinedtrue",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 14216073,
+                        "player": {
+                            "id": 1469824,
+                            "name": "Niitty Hahl",
+                            "profileUrl": "/players/1469824/niitty-hahl"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1469824/niitty-hahl",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Niitty Hahl",
+                        "firstName": "Niitty",
+                        "lastName": "Hahl",
+                        "fullName": "Niitty Hahl",
+                        "playerId": 1469824,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Rochi": [
+                    {
+                        "reactKey": "1421613390Goal1099216undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14216133,
+                        "player": {
+                            "id": 1099216,
+                            "name": "Gentjana Rochi",
+                            "profileUrl": "/players/1099216/gentjana-rochi"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1099216/gentjana-rochi",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gentjana Rochi",
+                        "firstName": "Gentjana",
+                        "lastName": "Rochi",
+                        "fullName": "Gentjana Rochi",
+                        "playerId": 1099216,
+                        "newScore": [
+                            5,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Hassinen": [
+                    {
+                        "reactKey": "1421602670Goal1485170undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14216026,
+                        "player": {
+                            "id": 1485170,
+                            "name": "Steffi Hassinen",
+                            "profileUrl": "/players/1485170/steffi-hassinen"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1485170/steffi-hassinen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Steffi Hassinen",
+                        "firstName": "Steffi",
+                        "lastName": "Hassinen",
+                        "fullName": "Steffi Hassinen",
+                        "playerId": 1485170,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5234909,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142156648Goal1413267undefinedtrue",
+                        "timeStr": 8,
+                        "type": "Goal",
+                        "time": 8,
+                        "overloadTime": null,
+                        "eventId": 14215664,
+                        "player": {
+                            "id": 1413267,
+                            "name": "Tuuli Viinikka",
+                            "profileUrl": "/players/1413267/tuuli-viinikka"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1413267/tuuli-viinikka",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tuuli Viinikka",
+                        "firstName": "Tuuli",
+                        "lastName": "Viinikka",
+                        "fullName": "Tuuli Viinikka",
+                        "playerId": 1413267,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421575832Goal1352916undefinedtrue",
+                        "timeStr": 32,
+                        "type": "Goal",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 14215758,
+                        "player": {
+                            "id": 1352916,
+                            "name": "Aada Nurmi",
+                            "profileUrl": "/players/1352916/aada-nurmi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1352916/aada-nurmi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aada Nurmi",
+                        "firstName": "Aada",
+                        "lastName": "Nurmi",
+                        "fullName": "Aada Nurmi",
+                        "playerId": 1352916,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421593958Goal1469824undefinedtrue",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14215939,
+                        "player": {
+                            "id": 1469824,
+                            "name": "Niitty Hahl",
+                            "profileUrl": "/players/1469824/niitty-hahl"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1469824/niitty-hahl",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Niitty Hahl",
+                        "firstName": "Niitty",
+                        "lastName": "Hahl",
+                        "fullName": "Niitty Hahl",
+                        "playerId": 1469824,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421602670Goal1485170undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14216026,
+                        "player": {
+                            "id": 1485170,
+                            "name": "Steffi Hassinen",
+                            "profileUrl": "/players/1485170/steffi-hassinen"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1485170/steffi-hassinen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Steffi Hassinen",
+                        "firstName": "Steffi",
+                        "lastName": "Hassinen",
+                        "fullName": "Steffi Hassinen",
+                        "playerId": 1485170,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421607382Goal1469824undefinedtrue",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 14216073,
+                        "player": {
+                            "id": 1469824,
+                            "name": "Niitty Hahl",
+                            "profileUrl": "/players/1469824/niitty-hahl"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1469824/niitty-hahl",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Niitty Hahl",
+                        "firstName": "Niitty",
+                        "lastName": "Hahl",
+                        "fullName": "Niitty Hahl",
+                        "playerId": 1469824,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421613390Goal1099216undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14216133,
+                        "player": {
+                            "id": 1099216,
+                            "name": "Gentjana Rochi",
+                            "profileUrl": "/players/1099216/gentjana-rochi"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1099216/gentjana-rochi",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gentjana Rochi",
+                        "firstName": "Gentjana",
+                        "lastName": "Rochi",
+                        "fullName": "Gentjana Rochi",
+                        "playerId": 1099216,
+                        "newScore": [
+                            5,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 923619,
+                    "parentLeagueId": 10174,
+                    "link": "/leagues/10174/overview/kansallinen-liiga",
+                    "leagueName": "Kansallinen Liiga",
+                    "roundName": "10",
+                    "round": "10"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/553296_xsmall.png",
+                        "linkToMatch": "/matches/ilves-vs-kups/j5ke23k4#5234888",
+                        "date": {
+                            "utcTime": "2026-05-09T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/553296/overview/ilves",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T11:00:00.000Z",
+                            "homeTeam": "Ilves",
+                            "homeTeamId": 553296,
+                            "homeScore": "2",
+                            "awayTeam": "KuPS",
+                            "awayTeamId": 1179352,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "553296",
+                            "name": "Ilves",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1179352",
+                            "name": "KuPS",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/552493_xsmall.png",
+                        "linkToMatch": "/matches/aland-united-vs-kups/j4xdw8u4#5234894",
+                        "date": {
+                            "utcTime": "2026-05-17T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/552493/overview/aland-united",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T14:00:00.000Z",
+                            "homeTeam": "\u00c5land United",
+                            "homeTeamId": 552493,
+                            "homeScore": "1",
+                            "awayTeam": "KuPS",
+                            "awayTeamId": 1179352,
+                            "awayScore": "6"
+                        },
+                        "score": "1 - 6",
+                        "home": {
+                            "id": "552493",
+                            "name": "\u00c5land United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1179352",
+                            "name": "KuPS",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1923928_xsmall.png",
+                        "linkToMatch": "/matches/kups-vs-if-gnistan/1pg27z3sg#5234896",
+                        "date": {
+                            "utcTime": "2026-05-22T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1923928/overview/if-gnistan",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T15:30:00.000Z",
+                            "homeTeam": "KuPS",
+                            "homeTeamId": 1179352,
+                            "homeScore": "2",
+                            "awayTeam": "IF Gnistan",
+                            "awayTeamId": 1923928,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1179352",
+                            "name": "KuPS",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1923928",
+                            "name": "IF Gnistan",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1228814_xsmall.png",
+                        "linkToMatch": "/matches/kups-vs-hps/1102nbkcz#5234901",
+                        "date": {
+                            "utcTime": "2026-05-29T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1228814/overview/hps",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T15:30:00.000Z",
+                            "homeTeam": "HPS",
+                            "homeTeamId": 1228814,
+                            "homeScore": "3",
+                            "awayTeam": "KuPS",
+                            "awayTeamId": 1179352,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "1228814",
+                            "name": "HPS",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1179352",
+                            "name": "KuPS",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/394120_xsmall.png",
+                        "linkToMatch": "/matches/pk-35-vantaa-vs-kups/fsoqlxh4#5234904",
+                        "date": {
+                            "utcTime": "2026-06-12T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/394120/overview/pk-35-vantaa",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T15:30:00.000Z",
+                            "homeTeam": "PK-35 Vantaa",
+                            "homeTeamId": 394120,
+                            "homeScore": "1",
+                            "awayTeam": "KuPS",
+                            "awayTeamId": 1179352,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "394120",
+                            "name": "PK-35 Vantaa",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1179352",
+                            "name": "KuPS",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1228814_xsmall.png",
+                        "linkToMatch": "/matches/vifk-vs-hps/k9hz4o81#5234891",
+                        "date": {
+                            "utcTime": "2026-05-10T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1228814/overview/hps",
+                        "tooltipText": {
+                            "utcTime": "2026-05-10T11:00:00.000Z",
+                            "homeTeam": "VIFK",
+                            "homeTeamId": 553297,
+                            "homeScore": "2",
+                            "awayTeam": "HPS",
+                            "awayTeamId": 1228814,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "553297",
+                            "name": "VIFK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1228814",
+                            "name": "HPS",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/394120_xsmall.png",
+                        "linkToMatch": "/matches/pk-35-vantaa-vs-vifk/5q6c8k3a#5234893",
+                        "date": {
+                            "utcTime": "2026-05-17T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/394120/overview/pk-35-vantaa",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T12:00:00.000Z",
+                            "homeTeam": "PK-35 Vantaa",
+                            "homeTeamId": 394120,
+                            "homeScore": "2",
+                            "awayTeam": "VIFK",
+                            "awayTeamId": 553297,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "394120",
+                            "name": "PK-35 Vantaa",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "553297",
+                            "name": "VIFK",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/552493_xsmall.png",
+                        "linkToMatch": "/matches/aland-united-vs-vifk/7sv7yeqa#5234899",
+                        "date": {
+                            "utcTime": "2026-05-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/552493/overview/aland-united",
+                        "tooltipText": {
+                            "utcTime": "2026-05-21T14:00:00.000Z",
+                            "homeTeam": "VIFK",
+                            "homeTeamId": 553297,
+                            "homeScore": "0",
+                            "awayTeam": "\u00c5land United",
+                            "awayTeamId": 552493,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "553297",
+                            "name": "VIFK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "552493",
+                            "name": "\u00c5land United",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/545023_xsmall.png",
+                        "linkToMatch": "/matches/hjk-vs-vifk/7p32mha1#5234900",
+                        "date": {
+                            "utcTime": "2026-05-29T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/545023/overview/hjk",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T15:30:00.000Z",
+                            "homeTeam": "HJK",
+                            "homeTeamId": 545023,
+                            "homeScore": "4",
+                            "awayTeam": "VIFK",
+                            "awayTeamId": 553297,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "545023",
+                            "name": "HJK",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "553297",
+                            "name": "VIFK",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/553296_xsmall.png",
+                        "linkToMatch": "/matches/ilves-vs-vifk/7t9wt5xe#5234907",
+                        "date": {
+                            "utcTime": "2026-06-14T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/553296/overview/ilves",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T11:00:00.000Z",
+                            "homeTeam": "VIFK",
+                            "homeTeamId": 553297,
+                            "homeScore": "0",
+                            "awayTeam": "Ilves",
+                            "awayTeamId": 553296,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "553297",
+                            "name": "VIFK",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "553296",
+                            "name": "Ilves",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5234909",
+                    "MatchId": 5234909,
+                    "HomeTeamId": 1179352,
+                    "AwayTeamId": 553297,
+                    "HomeTeam": "KuPS (W)",
+                    "AwayTeam": "VIFK (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "KuPS (W) have won the previous 4 matches against VIFK (W)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "KuPS (W) have scored in their last 3 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} haven't scored in their last {1} matches.",
+                            "TextTemplateId": "goalless_team",
+                            "StatValues": [
+                                "away_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_glove",
+                            "defaultText": "VIFK (W) haven't scored in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "VIFK (W) haven't won a match in 12 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1179352,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 15,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 15 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1179352,
+                    "priority": 9,
+                    "defaultText": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                    "localizedTextId": "h2h_undefeated",
+                    "statValues": [
+                        {
+                            "value": 1179352,
+                            "name": "KuPS (W)",
+                            "type": "team"
+                        },
+                        {
+                            "value": 553297,
+                            "name": "VIFK (W)",
+                            "type": "team"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 1,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "KuPS (W) haven't lost to VIFK (W) in their last 5 meetings (4W, 1D).",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1179352,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 8 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 553297,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 3 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 553297,
+                    "priority": 9,
+                    "defaultText": "Haven't scored in their last {0} matches",
+                    "localizedTextId": "insights_goalless_team",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't scored in their last 3 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 553297,
+                    "priority": 8,
+                    "defaultText": "Haven't won a match in {0} attempts",
+                    "localizedTextId": "insights_not_won_team",
+                    "statValues": [
+                        {
+                            "value": 25,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't won a match in 25 attempts",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "FIN",
+            "QAData": [
+                {
+                    "question": "Who won between KuPS and VIFK on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "answer": "KuPS won 5\u20131 over VIFK on Sat, 27 Jun 2026 12:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "923619",
+            "url": "https://data.fotmob.com/tables.ext.923619.fot.gz",
+            "teams": [
+                1179352,
+                553297
+            ],
+            "tournamentNameForUrl": "Kansallinen Liiga",
+            "parentLeagueId": 10174,
+            "countryCode": "FIN"
+        },
+        "h2h": {
+            "summary": [
+                4,
+                1,
+                0
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-04-25T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/vifk-vs-kups/j5kf38ha#5234883",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "VIFK",
+                        "id": "553297"
+                    },
+                    "status": {
+                        "utcTime": "2026-04-25T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "KuPS",
+                        "id": "1179352"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-10-18T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/vifk-vs-kups/j5kf38ha#4925543",
+                    "league": {
+                        "name": "Kansallinen Liiga Championship Group",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga-championship-group"
+                    },
+                    "home": {
+                        "name": "KuPS",
+                        "id": "1179352"
+                    },
+                    "status": {
+                        "utcTime": "2025-10-18T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "6 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "VIFK",
+                        "id": "553297"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-21T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/vifk-vs-kups/j5kf38ha#4925529",
+                    "league": {
+                        "name": "Kansallinen Liiga Championship Group",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga-championship-group"
+                    },
+                    "home": {
+                        "name": "VIFK",
+                        "id": "553297"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-21T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "KuPS",
+                        "id": "1179352"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-08-03T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/vifk-vs-kups/j5kf38ha#4762689",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "KuPS",
+                        "id": "1179352"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-03T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "7 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "VIFK",
+                        "id": "553297"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-07T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/vifk-vs-kups/j5kf38ha#4762661",
+                    "league": {
+                        "name": "Kansallinen Liiga",
+                        "id": "10174",
+                        "pageUrl": "/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    "home": {
+                        "name": "VIFK",
+                        "id": "553297"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-07T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "KuPS",
+                        "id": "1179352"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "kups-vs-vifk",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5234909",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "KuPS",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1179352.png",
+                "url": "https://www.fotmob.com/teams/1179352/overview/kups",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "VIFK",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/553297.png",
+                "url": "https://www.fotmob.com/teams/553297/overview/vifk",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "KuPS vs VIFK",
+            "description": "Follow KuPS vs VIFK live on fotmob.com",
+            "startDate": "2026-06-27T12:00:00.000Z",
+            "endDate": "2026-06-27T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1179352.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/553297.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5234909",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "KuPS",
+                    "url": "https://www.fotmob.com/teams/1179352/overview/kups"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "VIFK",
+                    "url": "https://www.fotmob.com/teams/553297/overview/vifk"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kansallinen Liiga",
+                        "item": "https://www.fotmob.com/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "KuPS - VIFK",
+                        "item": "https://www.fotmob.com/match/5234909"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kansallinen Liiga",
+                        "item": "https://www.fotmob.com/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "VIFK",
+                        "item": "https://www.fotmob.com/teams/553297/overview/vifk"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "KuPS - VIFK",
+                        "item": "https://www.fotmob.com/match/5234909"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Kansallinen Liiga",
+                        "item": "https://www.fotmob.com/leagues/10174/overview/kansallinen-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "KuPS",
+                        "item": "https://www.fotmob.com/teams/1179352/overview/kups"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "KuPS - VIFK",
+                        "item": "https://www.fotmob.com/match/5234909"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between KuPS and VIFK on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "KuPS won 5\u20131 over VIFK on Sat, 27 Jun 2026 12:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

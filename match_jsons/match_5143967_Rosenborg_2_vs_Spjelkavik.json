@@ -1,0 +1,1145 @@
+{
+    "general": {
+        "matchId": "5143967",
+        "matchName": "Rosenborg 2-vs-Spjelkavik_Sat, Jun 27, 2026, 13:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919793,
+        "leagueName": "3. Divisjon Avd. 2",
+        "leagueRoundName": "12",
+        "parentLeagueId": 205,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Rosenborg 2",
+            "id": 10257
+        },
+        "awayTeam": {
+            "name": "Spjelkavik",
+            "id": 2318
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 13:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T13:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Rosenborg 2",
+                "id": 10257,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10257_small.png",
+                "pageUrl": "/teams/10257/overview/rosenborg-2"
+            },
+            {
+                "name": "Spjelkavik",
+                "id": 2318,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2318_small.png",
+                "pageUrl": "/teams/2318/overview/spjelkavik"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T13:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 15:02:29",
+                "firstHalfEnded": "27.06.2026 15:50:05",
+                "secondHalfStarted": "27.06.2026 16:05:27",
+                "secondHalfEnded": "27.06.2026 16:56:07",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 16:56:07"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Jacobsen": [
+                    {
+                        "reactKey": "1421639488Goal1801085undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14216394,
+                        "player": {
+                            "id": 1801085,
+                            "name": "Iver Jacobsen",
+                            "profileUrl": "/players/1801085/iver-jacobsen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1801085/iver-jacobsen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Iver Jacobsen",
+                        "firstName": "Iver",
+                        "lastName": "Jacobsen",
+                        "fullName": "Iver Jacobsen",
+                        "playerId": 1801085,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Hedman": [
+                    {
+                        "reactKey": "1421642090Goal1829427undefinedtrue",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14216420,
+                        "player": {
+                            "id": 1829427,
+                            "name": "Boye Skoere Hedman",
+                            "profileUrl": "/players/1829427/boye-skoere-hedman"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1829427/boye-skoere-hedman",
+                        "overloadTimeStr": "+4",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Boye Skoere Hedman",
+                        "firstName": "Boye Skoere",
+                        "lastName": "Hedman",
+                        "fullName": "Boye Skoere Hedman",
+                        "playerId": 1829427,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Ottersen": [
+                    {
+                        "reactKey": "1421628871Goal2058241undefinedfalse",
+                        "timeStr": 71,
+                        "type": "Goal",
+                        "time": 71,
+                        "overloadTime": null,
+                        "eventId": 14216288,
+                        "player": {
+                            "id": 2058241,
+                            "name": "Jonas Ottersen",
+                            "profileUrl": "/players/2058241/jonas-ottersen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/2058241/jonas-ottersen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jonas Ottersen",
+                        "firstName": "Jonas",
+                        "lastName": "Ottersen",
+                        "fullName": "Jonas Ottersen",
+                        "playerId": 2058241,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5143967,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421628871Goal2058241undefinedfalse",
+                        "timeStr": 71,
+                        "type": "Goal",
+                        "time": 71,
+                        "overloadTime": null,
+                        "eventId": 14216288,
+                        "player": {
+                            "id": 2058241,
+                            "name": "Jonas Ottersen",
+                            "profileUrl": "/players/2058241/jonas-ottersen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/2058241/jonas-ottersen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jonas Ottersen",
+                        "firstName": "Jonas",
+                        "lastName": "Ottersen",
+                        "fullName": "Jonas Ottersen",
+                        "playerId": 2058241,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421639488Goal1801085undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14216394,
+                        "player": {
+                            "id": 1801085,
+                            "name": "Iver Jacobsen",
+                            "profileUrl": "/players/1801085/iver-jacobsen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1801085/iver-jacobsen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Iver Jacobsen",
+                        "firstName": "Iver",
+                        "lastName": "Jacobsen",
+                        "fullName": "Iver Jacobsen",
+                        "playerId": 1801085,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421642090Goal1829427undefinedtrue",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14216420,
+                        "player": {
+                            "id": 1829427,
+                            "name": "Boye Skoere Hedman",
+                            "profileUrl": "/players/1829427/boye-skoere-hedman"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1829427/boye-skoere-hedman",
+                        "overloadTimeStr": "+4",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Boye Skoere Hedman",
+                        "firstName": "Boye Skoere",
+                        "lastName": "Hedman",
+                        "fullName": "Boye Skoere Hedman",
+                        "playerId": 1829427,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Goal"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T13:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919793,
+                    "parentLeagueId": 205,
+                    "link": "/leagues/205/overview/3-divisjon-avd-2",
+                    "leagueName": "3. Divisjon Avd. 2",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/46922_xsmall.png",
+                        "linkToMatch": "/matches/rosenborg-2-vs-ranheim-2/r1bbj8#5143933",
+                        "date": {
+                            "utcTime": "2026-05-15T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/46922/overview/ranheim-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-15T17:00:00.000Z",
+                            "homeTeam": "Ranheim 2",
+                            "homeTeamId": 46922,
+                            "homeScore": "5",
+                            "awayTeam": "Rosenborg 2",
+                            "awayTeamId": 10257,
+                            "awayScore": "2"
+                        },
+                        "score": "5 - 2",
+                        "home": {
+                            "id": "46922",
+                            "name": "Ranheim 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10257",
+                            "name": "Rosenborg 2",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2000_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-rosenborg-2/18q6xt#5143939",
+                        "date": {
+                            "utcTime": "2026-05-23T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2000/overview/volda",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T11:00:00.000Z",
+                            "homeTeam": "Rosenborg 2",
+                            "homeTeamId": 10257,
+                            "homeScore": "2",
+                            "awayTeam": "Volda",
+                            "awayTeamId": 2000,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "10257",
+                            "name": "Rosenborg 2",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4363_xsmall.png",
+                        "linkToMatch": "/matches/nardo-vs-rosenborg-2/1rmw4h#5143943",
+                        "date": {
+                            "utcTime": "2026-05-30T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4363/overview/nardo",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T12:00:00.000Z",
+                            "homeTeam": "Nardo",
+                            "homeTeamId": 4363,
+                            "homeScore": "1",
+                            "awayTeam": "Rosenborg 2",
+                            "awayTeamId": 10257,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "4363",
+                            "name": "Nardo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10257",
+                            "name": "Rosenborg 2",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8519_xsmall.png",
+                        "linkToMatch": "/matches/molde-2-vs-rosenborg-2/2wyfwz#5143951",
+                        "date": {
+                            "utcTime": "2026-06-13T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8519/overview/molde-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:00:00.000Z",
+                            "homeTeam": "Rosenborg 2",
+                            "homeTeamId": 10257,
+                            "homeScore": "4",
+                            "awayTeam": "Molde 2",
+                            "awayTeamId": 8519,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "10257",
+                            "name": "Rosenborg 2",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8519",
+                            "name": "Molde 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2309_xsmall.png",
+                        "linkToMatch": "/matches/melhus-vs-rosenborg-2/1b0eiq#5143956",
+                        "date": {
+                            "utcTime": "2026-06-19T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2309/overview/melhus",
+                        "tooltipText": {
+                            "utcTime": "2026-06-19T17:00:00.000Z",
+                            "homeTeam": "Melhus",
+                            "homeTeamId": 2309,
+                            "homeScore": "1",
+                            "awayTeam": "Rosenborg 2",
+                            "awayTeamId": 10257,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "2309",
+                            "name": "Melhus",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10257",
+                            "name": "Rosenborg 2",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2309_xsmall.png",
+                        "linkToMatch": "/matches/melhus-vs-spjelkavik/6dj9o#5143930",
+                        "date": {
+                            "utcTime": "2026-05-14T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2309/overview/melhus",
+                        "tooltipText": {
+                            "utcTime": "2026-05-14T13:00:00.000Z",
+                            "homeTeam": "Spjelkavik",
+                            "homeTeamId": 2318,
+                            "homeScore": "0",
+                            "awayTeam": "Melhus",
+                            "awayTeamId": 2309,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "2318",
+                            "name": "Spjelkavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2309",
+                            "name": "Melhus",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8519_xsmall.png",
+                        "linkToMatch": "/matches/spjelkavik-vs-molde-2/yyvm6#5143936",
+                        "date": {
+                            "utcTime": "2026-05-22T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8519/overview/molde-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T17:00:00.000Z",
+                            "homeTeam": "Molde 2",
+                            "homeTeamId": 8519,
+                            "homeScore": "3",
+                            "awayTeam": "Spjelkavik",
+                            "awayTeamId": 2318,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "8519",
+                            "name": "Molde 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2318",
+                            "name": "Spjelkavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9801_xsmall.png",
+                        "linkToMatch": "/matches/spjelkavik-vs-byasen/17qb3x#5143945",
+                        "date": {
+                            "utcTime": "2026-05-30T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9801/overview/byasen",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T13:00:00.000Z",
+                            "homeTeam": "Spjelkavik",
+                            "homeTeamId": 2318,
+                            "homeScore": "4",
+                            "awayTeam": "By\u00e5sen",
+                            "awayTeamId": 9801,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "2318",
+                            "name": "Spjelkavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9801",
+                            "name": "By\u00e5sen",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10022_xsmall.png",
+                        "linkToMatch": "/matches/spjelkavik-vs-strindheim/19c2uo#5143950",
+                        "date": {
+                            "utcTime": "2026-06-13T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10022/overview/strindheim",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:00:00.000Z",
+                            "homeTeam": "Strindheim",
+                            "homeTeamId": 10022,
+                            "homeScore": "2",
+                            "awayTeam": "Spjelkavik",
+                            "awayTeamId": 2318,
+                            "awayScore": "4"
+                        },
+                        "score": "2 - 4",
+                        "home": {
+                            "id": "10022",
+                            "name": "Strindheim",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2318",
+                            "name": "Spjelkavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4366_xsmall.png",
+                        "linkToMatch": "/matches/spjelkavik-vs-orkla/day04#5143959",
+                        "date": {
+                            "utcTime": "2026-06-20T13:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4366/overview/orkla",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T13:30:00.000Z",
+                            "homeTeam": "Spjelkavik",
+                            "homeTeamId": 2318,
+                            "homeScore": "0",
+                            "awayTeam": "Orkla",
+                            "awayTeamId": 4366,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "2318",
+                            "name": "Spjelkavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4366",
+                            "name": "Orkla",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5143967",
+                    "MatchId": 5143967,
+                    "HomeTeamId": 10257,
+                    "AwayTeamId": 2318,
+                    "HomeTeam": "Rosenborg 2",
+                    "AwayTeam": "Spjelkavik",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Rosenborg 2 haven't lost in 4 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Spjelkavik have scored in their last 4 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "8",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Spjelkavik have scored 8 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Spjelkavik haven't drawn in their last 4 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 10257,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 10,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 10 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2318,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Rosenborg 2 and Spjelkavik on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "answer": "Rosenborg 2 won 2\u20131 over Spjelkavik on Sat, 27 Jun 2026 13:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919793",
+            "url": "https://data.fotmob.com/tables.ext.919793.fot.gz",
+            "teams": [
+                10257,
+                2318
+            ],
+            "tournamentNameForUrl": "3. Divisjon Avd. 2",
+            "parentLeagueId": 205,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                2,
+                0,
+                0
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-17T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/spjelkavik-vs-rosenborg-2/1b2ttq#4696937",
+                    "league": {
+                        "name": "3. Divisjon Avd. 2",
+                        "id": "205",
+                        "pageUrl": "/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    "home": {
+                        "name": "Rosenborg 2",
+                        "id": "10257"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-17T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Spjelkavik",
+                        "id": "2318"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-23T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/spjelkavik-vs-rosenborg-2/1b2ttq#4696904",
+                    "league": {
+                        "name": "3. Divisjon Avd. 2",
+                        "id": "205",
+                        "pageUrl": "/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    "home": {
+                        "name": "Spjelkavik",
+                        "id": "2318"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-23T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Rosenborg 2",
+                        "id": "10257"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "rosenborg-2-vs-spjelkavik",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5143967",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Rosenborg 2",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10257.png",
+                "url": "https://www.fotmob.com/teams/10257/overview/rosenborg-2",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Spjelkavik",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2318.png",
+                "url": "https://www.fotmob.com/teams/2318/overview/spjelkavik",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Rosenborg 2 vs Spjelkavik",
+            "description": "Follow Rosenborg 2 vs Spjelkavik live on fotmob.com",
+            "startDate": "2026-06-27T13:00:00.000Z",
+            "endDate": "2026-06-27T15:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/10257.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2318.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5143967",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T13:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Rosenborg 2",
+                    "url": "https://www.fotmob.com/teams/10257/overview/rosenborg-2"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Spjelkavik",
+                    "url": "https://www.fotmob.com/teams/2318/overview/spjelkavik"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Rosenborg 2 - Spjelkavik",
+                        "item": "https://www.fotmob.com/match/5143967"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Spjelkavik",
+                        "item": "https://www.fotmob.com/teams/2318/overview/spjelkavik"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Rosenborg 2 - Spjelkavik",
+                        "item": "https://www.fotmob.com/match/5143967"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Rosenborg 2",
+                        "item": "https://www.fotmob.com/teams/10257/overview/rosenborg-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Rosenborg 2 - Spjelkavik",
+                        "item": "https://www.fotmob.com/match/5143967"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Rosenborg 2 and Spjelkavik on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Rosenborg 2 won 2\u20131 over Spjelkavik on Sat, 27 Jun 2026 13:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

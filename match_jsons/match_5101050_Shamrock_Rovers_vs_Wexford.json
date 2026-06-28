@@ -1,0 +1,1659 @@
+{
+    "general": {
+        "matchId": "5101050",
+        "matchName": "Shamrock Rovers-vs-Wexford_Sat, Jun 27, 2026, 12:00 UTC",
+        "matchRound": "10",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 10210,
+        "leagueName": "Women's Premier Division",
+        "leagueRoundName": "10",
+        "parentLeagueId": 10210,
+        "countryCode": "IRL",
+        "homeTeam": {
+            "name": "Shamrock Rovers",
+            "id": 1426384
+        },
+        "awayTeam": {
+            "name": "Wexford",
+            "id": 597937
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Shamrock Rovers",
+                "id": 1426384,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1426384_small.png",
+                "pageUrl": "/teams/1426384/overview/shamrock-rovers"
+            },
+            {
+                "name": "Wexford",
+                "id": 597937,
+                "score": 4,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/597937_small.png",
+                "pageUrl": "/teams/597937/overview/wexford"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 14:00:29",
+                "firstHalfEnded": "27.06.2026 14:47:56",
+                "secondHalfStarted": "27.06.2026 15:02:02",
+                "secondHalfEnded": "27.06.2026 15:49:48",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 15:49:48"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 4",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Butler": [
+                    {
+                        "reactKey": "1421577738Goal1791411undefinedtrue",
+                        "timeStr": 38,
+                        "type": "Goal",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 14215777,
+                        "player": {
+                            "id": 1791411,
+                            "name": "Anna Butler",
+                            "profileUrl": "/players/1791411/anna-butler"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1791411/anna-butler",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Anna Butler",
+                        "firstName": "Anna",
+                        "lastName": "Butler",
+                        "fullName": "Anna Butler",
+                        "playerId": 1791411,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Kinnevey": [
+                    {
+                        "reactKey": "1421614390Goal1253240undefinedtrue",
+                        "timeStr": 90,
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14216143,
+                        "player": {
+                            "id": 1253240,
+                            "name": "Therese Kinnevey",
+                            "profileUrl": "/players/1253240/therese-kinnevey"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "profileUrl": "/players/1253240/therese-kinnevey",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Therese Kinnevey",
+                        "firstName": "Therese",
+                        "lastName": "Kinnevey",
+                        "fullName": "Therese Kinnevey",
+                        "playerId": 1253240,
+                        "newScore": [
+                            2,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Olive": [
+                    {
+                        "reactKey": "1421567813Goal2058858undefinedfalse",
+                        "timeStr": 13,
+                        "type": "Goal",
+                        "time": 13,
+                        "overloadTime": null,
+                        "eventId": 14215678,
+                        "player": {
+                            "id": 2058858,
+                            "name": "Devon Olive",
+                            "profileUrl": "/players/2058858/devon-olive"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/2058858/devon-olive",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Devon Olive",
+                        "firstName": "Devon",
+                        "lastName": "Olive",
+                        "fullName": "Devon Olive",
+                        "playerId": 2058858,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421602970Goal2058858undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14216029,
+                        "player": {
+                            "id": 2058858,
+                            "name": "Devon Olive",
+                            "profileUrl": "/players/2058858/devon-olive"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/2058858/devon-olive",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Devon Olive",
+                        "firstName": "Devon",
+                        "lastName": "Olive",
+                        "fullName": "Devon Olive",
+                        "playerId": 2058858,
+                        "newScore": [
+                            1,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Chochol": [
+                    {
+                        "reactKey": "1421570222Goal1966686undefinedfalse",
+                        "timeStr": 22,
+                        "type": "Goal",
+                        "time": 22,
+                        "overloadTime": null,
+                        "eventId": 14215702,
+                        "player": {
+                            "id": 1966686,
+                            "name": "Courtney Chochol",
+                            "profileUrl": "/players/1966686/courtney-chochol"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1966686/courtney-chochol",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Courtney Chochol",
+                        "firstName": "Courtney",
+                        "lastName": "Chochol",
+                        "fullName": "Courtney Chochol",
+                        "playerId": 1966686,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Gon\u00e7alves": [
+                    {
+                        "reactKey": "1421572827Goal1740670undefinedfalse",
+                        "timeStr": 27,
+                        "type": "Goal",
+                        "time": 27,
+                        "overloadTime": null,
+                        "eventId": 14215728,
+                        "player": {
+                            "id": 1740670,
+                            "name": "Kayla Gon\u00e7alves",
+                            "profileUrl": "/players/1740670/kayla-goncalves"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1740670/kayla-goncalves",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kayla Gon\u00e7alves",
+                        "firstName": "Kayla",
+                        "lastName": "Gon\u00e7alves",
+                        "fullName": "Kayla Gon\u00e7alves",
+                        "playerId": 1740670,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5101050,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421567813Goal2058858undefinedfalse",
+                        "timeStr": 13,
+                        "type": "Goal",
+                        "time": 13,
+                        "overloadTime": null,
+                        "eventId": 14215678,
+                        "player": {
+                            "id": 2058858,
+                            "name": "Devon Olive",
+                            "profileUrl": "/players/2058858/devon-olive"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/2058858/devon-olive",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Devon Olive",
+                        "firstName": "Devon",
+                        "lastName": "Olive",
+                        "fullName": "Devon Olive",
+                        "playerId": 2058858,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421570222Goal1966686undefinedfalse",
+                        "timeStr": 22,
+                        "type": "Goal",
+                        "time": 22,
+                        "overloadTime": null,
+                        "eventId": 14215702,
+                        "player": {
+                            "id": 1966686,
+                            "name": "Courtney Chochol",
+                            "profileUrl": "/players/1966686/courtney-chochol"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1966686/courtney-chochol",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Courtney Chochol",
+                        "firstName": "Courtney",
+                        "lastName": "Chochol",
+                        "fullName": "Courtney Chochol",
+                        "playerId": 1966686,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421572827Goal1740670undefinedfalse",
+                        "timeStr": 27,
+                        "type": "Goal",
+                        "time": 27,
+                        "overloadTime": null,
+                        "eventId": 14215728,
+                        "player": {
+                            "id": 1740670,
+                            "name": "Kayla Gon\u00e7alves",
+                            "profileUrl": "/players/1740670/kayla-goncalves"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1740670/kayla-goncalves",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kayla Gon\u00e7alves",
+                        "firstName": "Kayla",
+                        "lastName": "Gon\u00e7alves",
+                        "fullName": "Kayla Gon\u00e7alves",
+                        "playerId": 1740670,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421577738Goal1791411undefinedtrue",
+                        "timeStr": 38,
+                        "type": "Goal",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 14215777,
+                        "player": {
+                            "id": 1791411,
+                            "name": "Anna Butler",
+                            "profileUrl": "/players/1791411/anna-butler"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1791411/anna-butler",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Anna Butler",
+                        "firstName": "Anna",
+                        "lastName": "Butler",
+                        "fullName": "Anna Butler",
+                        "playerId": 1791411,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421583645MissedPenalty1791411undefinedtrue",
+                        "timeStr": 45,
+                        "type": "MissedPenalty",
+                        "time": 45,
+                        "overloadTime": null,
+                        "eventId": 14215836,
+                        "player": {
+                            "id": 1791411,
+                            "name": "Anna Butler",
+                            "profileUrl": "/players/1791411/anna-butler"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1791411/anna-butler",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Anna Butler",
+                        "isPenaltyShootoutEvent": false,
+                        "penShootoutScore": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421602970Goal2058858undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14216029,
+                        "player": {
+                            "id": 2058858,
+                            "name": "Devon Olive",
+                            "profileUrl": "/players/2058858/devon-olive"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/2058858/devon-olive",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Devon Olive",
+                        "firstName": "Devon",
+                        "lastName": "Olive",
+                        "fullName": "Devon Olive",
+                        "playerId": 2058858,
+                        "newScore": [
+                            1,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421614390Goal1253240undefinedtrue",
+                        "timeStr": 90,
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14216143,
+                        "player": {
+                            "id": 1253240,
+                            "name": "Therese Kinnevey",
+                            "profileUrl": "/players/1253240/therese-kinnevey"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "profileUrl": "/players/1253240/therese-kinnevey",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Therese Kinnevey",
+                        "firstName": "Therese",
+                        "lastName": "Kinnevey",
+                        "fullName": "Therese Kinnevey",
+                        "playerId": 1253240,
+                        "newScore": [
+                            2,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "MissedPenalty",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 10210,
+                    "parentLeagueId": 10210,
+                    "link": "/leagues/10210/overview/womens-premier-division",
+                    "leagueName": "Women's Premier Division",
+                    "roundName": "10",
+                    "round": "10"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1252959_xsmall.png",
+                        "linkToMatch": "/matches/treaty-united-vs-shamrock-rovers/19syt801k#5101023",
+                        "date": {
+                            "utcTime": "2026-05-02T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1252959/overview/treaty-united",
+                        "tooltipText": {
+                            "utcTime": "2026-05-02T14:00:00.000Z",
+                            "homeTeam": "Treaty United",
+                            "homeTeamId": 1252959,
+                            "homeScore": "0",
+                            "awayTeam": "Shamrock Rovers",
+                            "awayTeamId": 1426384,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "1252959",
+                            "name": "Treaty United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1426384",
+                            "name": "Shamrock Rovers",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1252957_xsmall.png",
+                        "linkToMatch": "/matches/bohemians-vs-shamrock-rovers/19syq1597#5101031",
+                        "date": {
+                            "utcTime": "2026-05-16T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1252957/overview/bohemians",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T14:00:00.000Z",
+                            "homeTeam": "Shamrock Rovers",
+                            "homeTeamId": 1426384,
+                            "homeScore": "0",
+                            "awayTeam": "Bohemians",
+                            "awayTeamId": 1252957,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "1426384",
+                            "name": "Shamrock Rovers",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1252957",
+                            "name": "Bohemians",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/574626_xsmall.png",
+                        "linkToMatch": "/matches/dlr-waves-vs-shamrock-rovers/pjps9bgd#5101038",
+                        "date": {
+                            "utcTime": "2026-05-23T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/574626/overview/dlr-waves",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T14:00:00.000Z",
+                            "homeTeam": "Shamrock Rovers",
+                            "homeTeamId": 1426384,
+                            "homeScore": "2",
+                            "awayTeam": "DLR Waves",
+                            "awayTeamId": 574626,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "1426384",
+                            "name": "Shamrock Rovers",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "574626",
+                            "name": "DLR Waves",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1700842_xsmall.png",
+                        "linkToMatch": "/matches/shamrock-rovers-vs-waterford/1qebxhd21#5101012",
+                        "date": {
+                            "utcTime": "2026-05-26T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1700842/overview/waterford",
+                        "tooltipText": {
+                            "utcTime": "2026-05-26T18:45:00.000Z",
+                            "homeTeam": "Waterford",
+                            "homeTeamId": 1700842,
+                            "homeScore": "0",
+                            "awayTeam": "Shamrock Rovers",
+                            "awayTeamId": 1426384,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "1700842",
+                            "name": "Waterford",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1426384",
+                            "name": "Shamrock Rovers",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1252958_xsmall.png",
+                        "linkToMatch": "/matches/athlone-town-vs-shamrock-rovers/19syrmknd#5101045",
+                        "date": {
+                            "utcTime": "2026-06-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1252958/overview/athlone-town",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T17:00:00.000Z",
+                            "homeTeam": "Athlone Town",
+                            "homeTeamId": 1252958,
+                            "homeScore": "3",
+                            "awayTeam": "Shamrock Rovers",
+                            "awayTeamId": 1426384,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "1252958",
+                            "name": "Athlone Town",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1426384",
+                            "name": "Shamrock Rovers",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1252958_xsmall.png",
+                        "linkToMatch": "/matches/wexford-vs-athlone-town/luwd03zd#5101021",
+                        "date": {
+                            "utcTime": "2026-04-25T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1252958/overview/athlone-town",
+                        "tooltipText": {
+                            "utcTime": "2026-04-25T17:00:00.000Z",
+                            "homeTeam": "Athlone Town",
+                            "homeTeamId": 1252958,
+                            "homeScore": "2",
+                            "awayTeam": "Wexford",
+                            "awayTeamId": 597937,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "1252958",
+                            "name": "Athlone Town",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "597937",
+                            "name": "Wexford",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/574626_xsmall.png",
+                        "linkToMatch": "/matches/dlr-waves-vs-wexford/8rt7vfin#5101027",
+                        "date": {
+                            "utcTime": "2026-05-02T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/574626/overview/dlr-waves",
+                        "tooltipText": {
+                            "utcTime": "2026-05-02T17:00:00.000Z",
+                            "homeTeam": "Wexford",
+                            "homeTeamId": 597937,
+                            "homeScore": "1",
+                            "awayTeam": "DLR Waves",
+                            "awayTeamId": 574626,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "597937",
+                            "name": "Wexford",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "574626",
+                            "name": "DLR Waves",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/359330_xsmall.png",
+                        "linkToMatch": "/matches/peamount-united-vs-wexford/5uhh7rgv#5101032",
+                        "date": {
+                            "utcTime": "2026-05-16T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/359330/overview/peamount-united",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T17:00:00.000Z",
+                            "homeTeam": "Wexford",
+                            "homeTeamId": 597937,
+                            "homeScore": "5",
+                            "awayTeam": "Peamount United",
+                            "awayTeamId": 359330,
+                            "awayScore": "2"
+                        },
+                        "score": "5 - 2",
+                        "home": {
+                            "id": "597937",
+                            "name": "Wexford",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "359330",
+                            "name": "Peamount United",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1252959_xsmall.png",
+                        "linkToMatch": "/matches/wexford-vs-treaty-united/luwe3s55#5101035",
+                        "date": {
+                            "utcTime": "2026-05-23T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1252959/overview/treaty-united",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T14:00:00.000Z",
+                            "homeTeam": "Treaty United",
+                            "homeTeamId": 1252959,
+                            "homeScore": "1",
+                            "awayTeam": "Wexford",
+                            "awayTeamId": 597937,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1252959",
+                            "name": "Treaty United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "597937",
+                            "name": "Wexford",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1252957_xsmall.png",
+                        "linkToMatch": "/matches/wexford-vs-bohemians/luwbwftm#5101044",
+                        "date": {
+                            "utcTime": "2026-06-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1252957/overview/bohemians",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T17:00:00.000Z",
+                            "homeTeam": "Wexford",
+                            "homeTeamId": 597937,
+                            "homeScore": "1",
+                            "awayTeam": "Bohemians",
+                            "awayTeamId": 1252957,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "597937",
+                            "name": "Wexford",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1252957",
+                            "name": "Bohemians",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5101050",
+                    "MatchId": 5101050,
+                    "HomeTeamId": 1426384,
+                    "AwayTeamId": 597937,
+                    "HomeTeam": "Shamrock Rovers (W)",
+                    "AwayTeam": "Wexford (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "3",
+                                "2",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Wexford (W) haven't lost to Shamrock Rovers (W) in their last 3 meetings (2W, 1D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "6",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Shamrock Rovers (W) have scored 6 goals in their last 3 matches, while Wexford (W) have scored 7."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "6",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Shamrock Rovers (W) have scored 6 goals in their last 3 matches, while Wexford (W) have scored 7."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "2",
+                                "2",
+                                "1",
+                                "away_team",
+                                "1",
+                                "3",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Shamrock Rovers (W) have 2W, 2D, 1L in five matches while Wexford (W) have 1W, 3D, 1L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1426384,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1426384,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (7)",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1426384,
+                    "priority": 4,
+                    "defaultText": "Average {0} goals per match",
+                    "localizedTextId": "insights_average_goals_per_match",
+                    "statValues": [
+                        {
+                            "value": 1.8,
+                            "name": null,
+                            "type": "double"
+                        }
+                    ],
+                    "text": "Average 1.8 goals per match",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 597937,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 597937,
+                    "priority": 8,
+                    "defaultText": "{0} have won the previous {2} matches against {1}.",
+                    "localizedTextId": "h2h_winstreak",
+                    "statValues": [
+                        {
+                            "value": 597937,
+                            "name": "Wexford (W)",
+                            "type": "team"
+                        },
+                        {
+                            "value": 1426384,
+                            "name": "Shamrock Rovers (W)",
+                            "type": "team"
+                        },
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Wexford (W) have won the previous 2 matches against Shamrock Rovers (W).",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 597937,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 8 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "IRL",
+            "QAData": [
+                {
+                    "question": "Who won between Shamrock Rovers and Wexford on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "answer": "Wexford won 4\u20132 over Shamrock Rovers on Sat, 27 Jun 2026 12:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "10210",
+            "url": "https://data.fotmob.com/tables.ext.10210.fot.gz",
+            "teams": [
+                1426384,
+                597937
+            ],
+            "tournamentNameForUrl": "Women's Premier Division",
+            "parentLeagueId": 10210,
+            "countryCode": "IRL"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                4,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-02T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-vs-shamrock-rovers/q59plgqa#4692321",
+                    "league": {
+                        "name": "Women's Premier Division",
+                        "id": "10210",
+                        "pageUrl": "/leagues/10210/overview/womens-premier-division"
+                    },
+                    "home": {
+                        "name": "Wexford",
+                        "id": "597937"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-02T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Shamrock Rovers",
+                        "id": "1426384"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-04-19T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-vs-shamrock-rovers/q59plgqa#4692236",
+                    "league": {
+                        "name": "Women's Premier Division",
+                        "id": "10210",
+                        "pageUrl": "/leagues/10210/overview/womens-premier-division"
+                    },
+                    "home": {
+                        "name": "Shamrock Rovers",
+                        "id": "1426384"
+                    },
+                    "status": {
+                        "utcTime": "2025-04-19T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford",
+                        "id": "597937"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-10-05T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-vs-shamrock-rovers/q59plgqa#4381927",
+                    "league": {
+                        "name": "Women's Premier Division",
+                        "id": "10210",
+                        "pageUrl": "/leagues/10210/overview/womens-premier-division"
+                    },
+                    "home": {
+                        "name": "Wexford",
+                        "id": "597937"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-05T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Shamrock Rovers",
+                        "id": "1426384"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-08-03T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-vs-shamrock-rovers/q59plgqa#4493765",
+                    "league": {
+                        "name": "FAI Women's Cup",
+                        "id": "10307",
+                        "pageUrl": "/leagues/10307/overview/fai-womens-cup"
+                    },
+                    "home": {
+                        "name": "Shamrock Rovers",
+                        "id": "1426384"
+                    },
+                    "status": {
+                        "utcTime": "2024-08-03T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "Pen",
+                            "shortKey": "penalties_short",
+                            "long": "Pen 6 - 5",
+                            "longKey": "afterpenalties",
+                            "penalties": [
+                                "6",
+                                "5"
+                            ]
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford",
+                        "id": "597937"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-16T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-vs-shamrock-rovers/q59plgqa#4381845",
+                    "league": {
+                        "name": "Women's Premier Division",
+                        "id": "10210",
+                        "pageUrl": "/leagues/10210/overview/womens-premier-division"
+                    },
+                    "home": {
+                        "name": "Shamrock Rovers",
+                        "id": "1426384"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-16T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford",
+                        "id": "597937"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-10-21T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-vs-shamrock-rovers/q59plgqa#4080459",
+                    "league": {
+                        "name": "Women's Premier Division",
+                        "id": "10210",
+                        "pageUrl": "/leagues/10210/overview/womens-premier-division"
+                    },
+                    "home": {
+                        "name": "Wexford",
+                        "id": "597937"
+                    },
+                    "status": {
+                        "utcTime": "2023-10-21T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Shamrock Rovers",
+                        "id": "1426384"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-03-29T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-vs-shamrock-rovers/q59plgqa#4080415",
+                    "league": {
+                        "name": "Women's Premier Division",
+                        "id": "10210",
+                        "pageUrl": "/leagues/10210/overview/womens-premier-division"
+                    },
+                    "home": {
+                        "name": "Shamrock Rovers",
+                        "id": "1426384"
+                    },
+                    "status": {
+                        "utcTime": "2023-03-29T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford",
+                        "id": "597937"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "shamrock-rovers-vs-wexford",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5101050",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Shamrock Rovers",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1426384.png",
+                "url": "https://www.fotmob.com/teams/1426384/overview/shamrock-rovers",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Wexford",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/597937.png",
+                "url": "https://www.fotmob.com/teams/597937/overview/wexford",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Shamrock Rovers vs Wexford",
+            "description": "Follow Shamrock Rovers vs Wexford live on fotmob.com",
+            "startDate": "2026-06-27T12:00:00.000Z",
+            "endDate": "2026-06-27T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1426384.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/597937.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5101050",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Shamrock Rovers",
+                    "url": "https://www.fotmob.com/teams/1426384/overview/shamrock-rovers"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Wexford",
+                    "url": "https://www.fotmob.com/teams/597937/overview/wexford"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Women's Premier Division",
+                        "item": "https://www.fotmob.com/leagues/10210/overview/womens-premier-division"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Shamrock Rovers - Wexford",
+                        "item": "https://www.fotmob.com/match/5101050"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Women's Premier Division",
+                        "item": "https://www.fotmob.com/leagues/10210/overview/womens-premier-division"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Wexford",
+                        "item": "https://www.fotmob.com/teams/597937/overview/wexford"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Shamrock Rovers - Wexford",
+                        "item": "https://www.fotmob.com/match/5101050"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Women's Premier Division",
+                        "item": "https://www.fotmob.com/leagues/10210/overview/womens-premier-division"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Shamrock Rovers",
+                        "item": "https://www.fotmob.com/teams/1426384/overview/shamrock-rovers"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Shamrock Rovers - Wexford",
+                        "item": "https://www.fotmob.com/match/5101050"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Shamrock Rovers and Wexford on Sat, 27 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Wexford won 4\u20132 over Shamrock Rovers on Sat, 27 Jun 2026 12:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,4059 @@
+{
+    "general": {
+        "matchId": "5105184",
+        "matchName": "Str\u00f8msgodset-vs-Odds Ballklubb_Sat, Jun 27, 2026, 16:00 UTC",
+        "matchRound": "13",
+        "teamColors": {
+            "darkMode": {
+                "home": "#24558e",
+                "away": "#ffffff"
+            },
+            "lightMode": {
+                "home": "#084878",
+                "away": "#181818"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 203,
+        "leagueName": "1. Divisjon",
+        "leagueRoundName": "13",
+        "parentLeagueId": 203,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Str\u00f8msgodset",
+            "id": 8180
+        },
+        "awayTeam": {
+            "name": "Odds Ballklubb",
+            "id": 7988
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Str\u00f8msgodset",
+                "id": 8180,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8180_small.png",
+                "pageUrl": "/teams/8180/overview/stromsgodset"
+            },
+            {
+                "name": "Odds Ballklubb",
+                "id": 7988,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7988_small.png",
+                "pageUrl": "/teams/7988/overview/odds-ballklubb"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T16:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 18:01:00",
+                "firstHalfEnded": "27.06.2026 18:49:03",
+                "secondHalfStarted": "27.06.2026 19:04:58",
+                "secondHalfEnded": "27.06.2026 19:54:32",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 19:54:32"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Mehnert": [
+                    {
+                        "reactKey": "142167987Goal728888undefinedtrue",
+                        "timeStr": 7,
+                        "type": "Goal",
+                        "time": 7,
+                        "overloadTime": null,
+                        "eventId": 14216798,
+                        "player": {
+                            "id": 728888,
+                            "name": "Marcus Mehnert",
+                            "profileUrl": "/players/728888/marcus-mehnert"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/728888/marcus-mehnert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Marcus Mehnert",
+                        "firstName": "Marcus",
+                        "lastName": "Mehnert",
+                        "fullName": "Marcus Mehnert",
+                        "playerId": 728888,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Fredrik Ardraa",
+                        "assistProfileUrl": "/players/1532883/fredrik-ardraa",
+                        "assistPlayerId": 1532883,
+                        "assistKey": "assist_by",
+                        "assistInput": "Fredrik Ardraa"
+                    }
+                ],
+                "Melkersen": [
+                    {
+                        "reactKey": "1421699689Goal1049278undefinedtrue",
+                        "timeStr": 89,
+                        "type": "Goal",
+                        "time": 89,
+                        "overloadTime": null,
+                        "eventId": 14216996,
+                        "player": {
+                            "id": 1049278,
+                            "name": "Elias Hoff Melkersen",
+                            "profileUrl": "/players/1049278/elias-hoff-melkersen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1049278/elias-hoff-melkersen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Elias Hoff Melkersen",
+                        "firstName": "Elias Hoff",
+                        "lastName": "Melkersen",
+                        "fullName": "Elias Hoff Melkersen",
+                        "playerId": 1049278,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "J\u00f8rgensen": [
+                    {
+                        "reactKey": "1421689742Goal1160077undefinedfalse",
+                        "timeStr": 42,
+                        "type": "Goal",
+                        "time": 42,
+                        "overloadTime": null,
+                        "eventId": 14216897,
+                        "player": {
+                            "id": 1160077,
+                            "name": "Filip R\u00f8nningen J\u00f8rgensen",
+                            "profileUrl": "/players/1160077/filip-ronningen-jorgensen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1160077/filip-ronningen-jorgensen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Filip R\u00f8nningen J\u00f8rgensen",
+                        "firstName": "Filip R\u00f8nningen",
+                        "lastName": "J\u00f8rgensen",
+                        "fullName": "Filip R\u00f8nningen J\u00f8rgensen",
+                        "playerId": 1160077,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sanel Bojadzic",
+                        "assistProfileUrl": "/players/842236/sanel-bojadzic",
+                        "assistPlayerId": 842236,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sanel Bojadzic"
+                    }
+                ],
+                "Hardarson": [
+                    {
+                        "reactKey": "1421698887Goal1276954undefinedfalse",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14216988,
+                        "player": {
+                            "id": 1276954,
+                            "name": "Hinrik Hardarson",
+                            "profileUrl": "/players/1276954/hinrik-hardarson"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1276954/hinrik-hardarson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hinrik Hardarson",
+                        "firstName": "Hinrik",
+                        "lastName": "Hardarson",
+                        "fullName": "Hinrik Hardarson",
+                        "playerId": 1276954,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Noah Kojo",
+                        "assistProfileUrl": "/players/1377318/noah-kojo",
+                        "assistPlayerId": 1377318,
+                        "assistKey": "assist_by",
+                        "assistInput": "Noah Kojo"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "liveticker",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5105184,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142167987Goal728888undefinedtrue",
+                        "timeStr": 7,
+                        "type": "Goal",
+                        "time": 7,
+                        "overloadTime": null,
+                        "eventId": 14216798,
+                        "player": {
+                            "id": 728888,
+                            "name": "Marcus Mehnert",
+                            "profileUrl": "/players/728888/marcus-mehnert"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/728888/marcus-mehnert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Marcus Mehnert",
+                        "firstName": "Marcus",
+                        "lastName": "Mehnert",
+                        "fullName": "Marcus Mehnert",
+                        "playerId": 728888,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Fredrik Ardraa",
+                        "assistProfileUrl": "/players/1532883/fredrik-ardraa",
+                        "assistPlayerId": 1532883,
+                        "assistKey": "assist_by",
+                        "assistInput": "Fredrik Ardraa"
+                    },
+                    {
+                        "reactKey": "1421685530Card1245269undefinedfalse",
+                        "timeStr": 30,
+                        "type": "Card",
+                        "time": 30,
+                        "overloadTime": null,
+                        "eventId": 14216855,
+                        "player": {
+                            "id": 1245269,
+                            "name": "Daniel S\u00f6derberg",
+                            "profileUrl": "/players/1245269/daniel-soderberg"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1245269/daniel-soderberg",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Daniel S\u00f6derberg",
+                        "firstName": "Daniel",
+                        "lastName": "S\u00f6derberg",
+                        "fullName": "Daniel S\u00f6derberg",
+                        "playerId": 1245269,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421686434Card643967undefinedtrue",
+                        "timeStr": 34,
+                        "type": "Card",
+                        "time": 34,
+                        "overloadTime": null,
+                        "eventId": 14216864,
+                        "player": {
+                            "id": 643967,
+                            "name": "Kreshnik Krasniqi",
+                            "profileUrl": "/players/643967/kreshnik-krasniqi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/643967/kreshnik-krasniqi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Kreshnik Krasniqi",
+                        "firstName": "Kreshnik",
+                        "lastName": "Krasniqi",
+                        "fullName": "Kreshnik Krasniqi",
+                        "playerId": 643967,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421689742Goal1160077undefinedfalse",
+                        "timeStr": 42,
+                        "type": "Goal",
+                        "time": 42,
+                        "overloadTime": null,
+                        "eventId": 14216897,
+                        "player": {
+                            "id": 1160077,
+                            "name": "Filip R\u00f8nningen J\u00f8rgensen",
+                            "profileUrl": "/players/1160077/filip-ronningen-jorgensen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1160077/filip-ronningen-jorgensen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Filip R\u00f8nningen J\u00f8rgensen",
+                        "firstName": "Filip R\u00f8nningen",
+                        "lastName": "J\u00f8rgensen",
+                        "fullName": "Filip R\u00f8nningen J\u00f8rgensen",
+                        "playerId": 1160077,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sanel Bojadzic",
+                        "assistProfileUrl": "/players/842236/sanel-bojadzic",
+                        "assistPlayerId": 842236,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sanel Bojadzic"
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421691946Card1165850undefinedfalse",
+                        "timeStr": 46,
+                        "type": "Card",
+                        "time": 46,
+                        "overloadTime": null,
+                        "eventId": 14216919,
+                        "player": {
+                            "id": 1165850,
+                            "name": "Syver Aas",
+                            "profileUrl": "/players/1165850/syver-aas"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1165850/syver-aas",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Syver Aas",
+                        "firstName": "Syver",
+                        "lastName": "Aas",
+                        "fullName": "Syver Aas",
+                        "playerId": 1165850,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1248484true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Ole Kristian Enersen",
+                                "id": "1248484",
+                                "profileUrl": "/players/1248484/ole-kristian-enersen"
+                            },
+                            {
+                                "name": "Gustav Valsvik",
+                                "id": "189026",
+                                "profileUrl": "/players/189026/gustav-valsvik"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN313806true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kent-Are Antonsen",
+                                "id": "313806",
+                                "profileUrl": "/players/313806/kent-are-antonsen"
+                            },
+                            {
+                                "name": "Fredrik Ardraa",
+                                "id": "1532883",
+                                "profileUrl": "/players/1532883/fredrik-ardraa"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined69SubstitutionNaN1049278true",
+                        "timeStr": 69,
+                        "type": "Substitution",
+                        "time": 69,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Elias Hoff Melkersen",
+                                "id": "1049278",
+                                "profileUrl": "/players/1049278/elias-hoff-melkersen"
+                            },
+                            {
+                                "name": "Marcus Mehnert",
+                                "id": "728888",
+                                "profileUrl": "/players/728888/marcus-mehnert"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421695471Card1213709undefinedfalse",
+                        "timeStr": 71,
+                        "type": "Card",
+                        "time": 71,
+                        "overloadTime": null,
+                        "eventId": 14216954,
+                        "player": {
+                            "id": 1213709,
+                            "name": "Jakob Vadstrup Larsen",
+                            "profileUrl": "/players/1213709/jakob-vadstrup-larsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1213709/jakob-vadstrup-larsen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Jakob Vadstrup Larsen",
+                        "firstName": "Jakob Vadstrup",
+                        "lastName": "Larsen",
+                        "fullName": "Jakob Vadstrup Larsen",
+                        "playerId": 1213709,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined72SubstitutionNaN1647392false",
+                        "timeStr": 72,
+                        "type": "Substitution",
+                        "time": 72,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Oliver Svenungsen Skau",
+                                "id": "1647392",
+                                "profileUrl": "/players/1647392/oliver-svenungsen-skau"
+                            },
+                            {
+                                "name": "Syver Aas",
+                                "id": "1165850",
+                                "profileUrl": "/players/1165850/syver-aas"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN1745548true",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Matias Spiten",
+                                "id": "1745548",
+                                "profileUrl": "/players/1745548/matias-spiten"
+                            },
+                            {
+                                "name": "Gustav Wikheim",
+                                "id": "200267",
+                                "profileUrl": "/players/200267/gustav-wikheim"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN1801955false",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kristian Holte",
+                                "id": "1801955",
+                                "profileUrl": "/players/1801955/kristian-holte"
+                            },
+                            {
+                                "name": "Villads Rasmussen",
+                                "id": "1274447",
+                                "profileUrl": "/players/1274447/villads-rasmussen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN1276954false",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Hinrik Hardarson",
+                                "id": "1276954",
+                                "profileUrl": "/players/1276954/hinrik-hardarson"
+                            },
+                            {
+                                "name": "Sanel Bojadzic",
+                                "id": "842236",
+                                "profileUrl": "/players/842236/sanel-bojadzic"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN1451160false",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Casper Glenna Andersen",
+                                "id": "1451160",
+                                "profileUrl": "/players/1451160/casper-glenna-andersen"
+                            },
+                            {
+                                "name": "Faniel Temesgen Tewelde",
+                                "id": "1343446",
+                                "profileUrl": "/players/1343446/faniel-temesgen-tewelde"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421698887Goal1276954undefinedfalse",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14216988,
+                        "player": {
+                            "id": 1276954,
+                            "name": "Hinrik Hardarson",
+                            "profileUrl": "/players/1276954/hinrik-hardarson"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1276954/hinrik-hardarson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hinrik Hardarson",
+                        "firstName": "Hinrik",
+                        "lastName": "Hardarson",
+                        "fullName": "Hinrik Hardarson",
+                        "playerId": 1276954,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Noah Kojo",
+                        "assistProfileUrl": "/players/1377318/noah-kojo",
+                        "assistPlayerId": 1377318,
+                        "assistKey": "assist_by",
+                        "assistInput": "Noah Kojo"
+                    },
+                    {
+                        "reactKey": "1421699689Goal1049278undefinedtrue",
+                        "timeStr": 89,
+                        "type": "Goal",
+                        "time": 89,
+                        "overloadTime": null,
+                        "eventId": 14216996,
+                        "player": {
+                            "id": 1049278,
+                            "name": "Elias Hoff Melkersen",
+                            "profileUrl": "/players/1049278/elias-hoff-melkersen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1049278/elias-hoff-melkersen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Elias Hoff Melkersen",
+                        "firstName": "Elias Hoff",
+                        "lastName": "Melkersen",
+                        "fullName": "Elias Hoff Melkersen",
+                        "playerId": 1049278,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN1503570false",
+                        "timeStr": 90,
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Godwill Ambrose",
+                                "id": "1503570",
+                                "profileUrl": "/players/1503570/godwill-ambrose"
+                            },
+                            {
+                                "name": "Noah Kojo",
+                                "id": "1377318",
+                                "profileUrl": "/players/1377318/noah-kojo"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421700590Card202716undefinedtrue",
+                        "timeStr": "90 + 5",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "eventId": 14217005,
+                        "player": {
+                            "id": 202716,
+                            "name": "Herman Stengel",
+                            "profileUrl": "/players/202716/herman-stengel"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/202716/herman-stengel",
+                        "overloadTimeStr": "+5",
+                        "isHome": true,
+                        "nameStr": "Herman Stengel",
+                        "firstName": "Herman",
+                        "lastName": "Stengel",
+                        "fullName": "Herman Stengel",
+                        "playerId": 202716,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Assist",
+                    "Card",
+                    "Half",
+                    "Substitution",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 203,
+                    "parentLeagueId": 203,
+                    "link": "/leagues/203/overview/1-divisjon",
+                    "leagueName": "1. Divisjon",
+                    "roundName": "13",
+                    "round": "13"
+                },
+                "Stadium": {
+                    "name": "Marienlyst Stadion",
+                    "city": "Drammen",
+                    "country": "Norway",
+                    "lat": 59.734334559,
+                    "long": 10.201449394,
+                    "capacity": 8935,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/nor.png",
+                    "text": "Jan Morten Tenn\u00f8y",
+                    "countryCode": "NOR",
+                    "country": "Norway"
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8405_xsmall.png",
+                        "linkToMatch": "/matches/stromsgodset-vs-moss/29w4ki#5105140",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8405/overview/moss",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "Moss",
+                            "homeTeamId": 8405,
+                            "homeScore": "1",
+                            "awayTeam": "Str\u00f8msgodset",
+                            "awayTeamId": 8180,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8405",
+                            "name": "Moss",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8180",
+                            "name": "Str\u00f8msgodset",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8531_xsmall.png",
+                        "linkToMatch": "/matches/stromsgodset-vs-bryne/2b539r#5105152",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8531/overview/bryne",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "Str\u00f8msgodset",
+                            "homeTeamId": 8180,
+                            "homeScore": "1",
+                            "awayTeam": "Bryne",
+                            "awayTeamId": 8531,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "8180",
+                            "name": "Str\u00f8msgodset",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8531",
+                            "name": "Bryne",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4722_xsmall.png",
+                        "linkToMatch": "/matches/egersund-vs-stromsgodset/1dk8l5#5105155",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4722/overview/egersund",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "Egersund",
+                            "homeTeamId": 4722,
+                            "homeScore": "0",
+                            "awayTeam": "Str\u00f8msgodset",
+                            "awayTeamId": 8180,
+                            "awayScore": "5"
+                        },
+                        "score": "0 - 5",
+                        "home": {
+                            "id": "4722",
+                            "name": "Egersund",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8180",
+                            "name": "Str\u00f8msgodset",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9812_xsmall.png",
+                        "linkToMatch": "/matches/stromsgodset-vs-raufoss/2odjfc#5105168",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9812/overview/raufoss",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "Str\u00f8msgodset",
+                            "homeTeamId": 8180,
+                            "homeScore": "6",
+                            "awayTeam": "Raufoss",
+                            "awayTeamId": 9812,
+                            "awayScore": "1"
+                        },
+                        "score": "6 - 1",
+                        "home": {
+                            "id": "8180",
+                            "name": "Str\u00f8msgodset",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9812",
+                            "name": "Raufoss",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8179_xsmall.png",
+                        "linkToMatch": "/matches/kongsvinger-vs-stromsgodset/27obvk#5105172",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8179/overview/kongsvinger",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Kongsvinger",
+                            "homeTeamId": 8179,
+                            "homeScore": "4",
+                            "awayTeam": "Str\u00f8msgodset",
+                            "awayTeamId": 8180,
+                            "awayScore": "4"
+                        },
+                        "score": "4 - 4",
+                        "home": {
+                            "id": "8179",
+                            "name": "Kongsvinger",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8180",
+                            "name": "Str\u00f8msgodset",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8179_xsmall.png",
+                        "linkToMatch": "/matches/odds-ballklubb-vs-kongsvinger/25tegv#5105139",
+                        "date": {
+                            "utcTime": "2026-05-20T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8179/overview/kongsvinger",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T17:00:00.000Z",
+                            "homeTeam": "Kongsvinger",
+                            "homeTeamId": 8179,
+                            "homeScore": "4",
+                            "awayTeam": "Odds Ballklubb",
+                            "awayTeamId": 7988,
+                            "awayScore": "2"
+                        },
+                        "score": "4 - 2",
+                        "home": {
+                            "id": "8179",
+                            "name": "Kongsvinger",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "7988",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6563_xsmall.png",
+                        "linkToMatch": "/matches/ranheim-vs-odds-ballklubb/1r1eco#5105149",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6563/overview/ranheim",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "Odds Ballklubb",
+                            "homeTeamId": 7988,
+                            "homeScore": "3",
+                            "awayTeam": "Ranheim",
+                            "awayTeamId": 6563,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "7988",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6563",
+                            "name": "Ranheim",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10224_xsmall.png",
+                        "linkToMatch": "/matches/odds-ballklubb-vs-lyn/2qquz2#5105158",
+                        "date": {
+                            "utcTime": "2026-05-30T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10224/overview/lyn",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:00:00.000Z",
+                            "homeTeam": "Odds Ballklubb",
+                            "homeTeamId": 7988,
+                            "homeScore": "3",
+                            "awayTeam": "Lyn",
+                            "awayTeamId": 10224,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "7988",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10224",
+                            "name": "Lyn",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10021_xsmall.png",
+                        "linkToMatch": "/matches/odds-ballklubb-vs-asane/2ok255#5105169",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10021/overview/asane",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "\u00c5sane",
+                            "homeTeamId": 10021,
+                            "homeScore": "2",
+                            "awayTeam": "Odds Ballklubb",
+                            "awayTeamId": 7988,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "10021",
+                            "name": "\u00c5sane",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "7988",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7937_xsmall.png",
+                        "linkToMatch": "/matches/hodd-vs-odds-ballklubb/23i5zf#5105174",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7937/overview/hodd",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Odds Ballklubb",
+                            "homeTeamId": 7988,
+                            "homeScore": "0",
+                            "awayTeam": "H\u00f8dd",
+                            "awayTeamId": 7937,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "7988",
+                            "name": "Odds Ballklubb",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "7937",
+                            "name": "H\u00f8dd",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5105184",
+                    "MatchId": 5105184,
+                    "HomeTeamId": 8180,
+                    "AwayTeamId": 7988,
+                    "HomeTeam": "Str\u00f8msgodset",
+                    "AwayTeam": "Odd",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "3",
+                                "2",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Odds Ballklubb haven't lost to Str\u00f8msgodset in their last 3 meetings (2W, 1D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Str\u00f8msgodset have scored in their last 6 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "15",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Str\u00f8msgodset have scored 15 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "2",
+                                "0",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Str\u00f8msgodset have 3W, 2D, 0L in five matches while Odds Ballklubb have 2W, 1D, 2L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8180,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 17,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 17 goals in their last 5 matches",
+                    "color": "#084878"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8180,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (6)",
+                    "color": "#084878"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8180,
+                    "priority": 7,
+                    "defaultText": "Ranked {0} at home this season",
+                    "localizedTextId": "insights_best_home",
+                    "statValues": [
+                        {
+                            "value": 1,
+                            "name": null,
+                            "type": "ordinal"
+                        }
+                    ],
+                    "text": "Ranked 1 at home this season",
+                    "color": "#084878"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 7988,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#181818"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 7988,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (6)",
+                    "color": "#181818"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 7988,
+                    "priority": 8,
+                    "defaultText": "Ranked {0} away from home this season",
+                    "localizedTextId": "insights_best_away",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "ordinal"
+                        }
+                    ],
+                    "text": "Ranked 3 away from home this season",
+                    "color": "#181818"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Str\u00f8msgodset and Odds Ballklubb on Sat, 27 Jun 2026 16:00:00 GMT?",
+                    "answer": "Str\u00f8msgodset vs Odds Ballklubb on Sat, 27 Jun 2026 16:00:00 GMT ended in a 2\u20132 tie."
+                }
+            ]
+        },
+        "liveticker": {
+            "langs": "de_gen,en_gen,nb",
+            "teams": [
+                "Str\u00f8msgodset",
+                "Odds Ballklubb"
+            ]
+        },
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        49,
+                                        51
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        15,
+                                        10
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        9,
+                                        4
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        11,
+                                        4
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#24558e",
+                            "away": "#ffffff"
+                        },
+                        "lightMode": {
+                            "home": "#084878",
+                            "away": "#181818"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(29, 29, 29, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 25,
+            "windSpeed": 4,
+            "windDirectionCardinal": "S",
+            "iconCode": 30,
+            "relativeHumidity": 64,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 38,
+            "description": "Partly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-27T17:30:00Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": {
+            "matchId": 5105184,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 8180,
+                "name": "Str\u00f8msgodset",
+                "formation": "4-2-3-1",
+                "starters": [
+                    {
+                        "id": 1067673,
+                        "age": 26,
+                        "name": "Mattias Lamhauge",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Faroe Islands",
+                        "countryCode": "FRO",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "marketValue": 219264,
+                        "firstName": "Mattias",
+                        "lastName": "Lamhauge",
+                        "rankings": null
+                    },
+                    {
+                        "id": 191740,
+                        "age": 37,
+                        "name": "Lars-Christopher Vilsvik",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "26",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 120560,
+                        "firstName": "Lars-Christopher",
+                        "lastName": "Vilsvik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 634067,
+                        "age": 28,
+                        "name": "Jesper Taaje",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "25",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 219040,
+                        "firstName": "Jesper",
+                        "lastName": "Taaje",
+                        "rankings": null
+                    },
+                    {
+                        "id": 189026,
+                        "age": 33,
+                        "name": "Gustav Valsvik",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "71",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 152296,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Gustav",
+                        "lastName": "Valsvik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1343835,
+                        "age": 23,
+                        "name": "Victor Dedes",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 218672,
+                        "firstName": "Victor",
+                        "lastName": "Dedes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 643967,
+                        "age": 25,
+                        "name": "Kreshnik Krasniqi",
+                        "positionId": 64,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Kosovo",
+                        "countryCode": "KVX",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 204042,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 34
+                                }
+                            ]
+                        },
+                        "firstName": "Kreshnik",
+                        "lastName": "Krasniqi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 202716,
+                        "age": 30,
+                        "name": "Herman Stengel",
+                        "positionId": 66,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 310581,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Herman",
+                        "lastName": "Stengel",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1532883,
+                        "age": 19,
+                        "name": "Fredrik Ardraa",
+                        "positionId": 83,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "16",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.837,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.162,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.325
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 7
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Fredrik",
+                        "lastName": "Ardraa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 200267,
+                        "age": 33,
+                        "name": "Gustav Wikheim",
+                        "positionId": 85,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "80",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.337
+                        },
+                        "marketValue": 216081,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Gustav",
+                        "lastName": "Wikheim",
+                        "rankings": null
+                    },
+                    {
+                        "id": 728888,
+                        "age": 28,
+                        "name": "Marcus Mehnert",
+                        "positionId": 87,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "77",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.163,
+                            "height": 0.25,
+                            "width": 0.193
+                        },
+                        "verticalLayout": {
+                            "x": 0.837,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.325
+                        },
+                        "marketValue": 189097,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 7
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 69,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Marcus",
+                        "lastName": "Mehnert",
+                        "rankings": null
+                    },
+                    {
+                        "id": 294067,
+                        "age": 33,
+                        "name": "Sebastian Pingel",
+                        "positionId": 115,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "marketValue": 139449,
+                        "firstName": "Sebastian",
+                        "lastName": "Pingel",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 34519,
+                    "age": 45,
+                    "name": "Magne Hoseth",
+                    "countryName": "Norway",
+                    "countryCode": "NOR",
+                    "firstName": "Magne",
+                    "lastName": "Hoseth",
+                    "primaryTeamId": 8180,
+                    "primaryTeamName": "Str\u00f8msgodset",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 313806,
+                        "age": 31,
+                        "name": "Kent-Are Antonsen",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 166035,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Kent-Are",
+                        "lastName": "Antonsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1248484,
+                        "age": 23,
+                        "name": "Ole Kristian Enersen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "14",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 363902,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Ole Kristian",
+                        "lastName": "Enersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1049278,
+                        "age": 23,
+                        "name": "Elias Hoff Melkersen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 501042,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 89
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 69,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Elias Hoff",
+                        "lastName": "Melkersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1745548,
+                        "age": 16,
+                        "name": "Matias Spiten",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "39",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Matias",
+                        "lastName": "Spiten",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1344562,
+                        "age": 21,
+                        "name": "Simo Lampinen-Skaug",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 257695,
+                        "firstName": "Simo",
+                        "lastName": "Lampinen-Skaug",
+                        "rankings": null
+                    },
+                    {
+                        "id": 519903,
+                        "age": 29,
+                        "name": "Bent S\u00f8rmo",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 202660,
+                        "firstName": "Bent",
+                        "lastName": "S\u00f8rmo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1576069,
+                        "age": 19,
+                        "name": "Andr\u00e9 Stav\u00e5s Skistad",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "19",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Andr\u00e9 Stav\u00e5s",
+                        "lastName": "Skistad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1281078,
+                        "age": 21,
+                        "name": "Samuel Silalahi",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "37",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 532261,
+                        "firstName": "Samuel",
+                        "lastName": "Silalahi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1946436,
+                        "age": 17,
+                        "name": "Sean Andresen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "47",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Sean",
+                        "lastName": "Andresen",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 29.2,
+                "totalStarterMarketValue": 1989082
+            },
+            "awayTeam": {
+                "id": 7988,
+                "name": "Odds Ballklubb",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 1639242,
+                        "age": 19,
+                        "name": "Sebastian Hansen",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 423014,
+                        "firstName": "Sebastian",
+                        "lastName": "Hansen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1165850,
+                        "age": 22,
+                        "name": "Syver Aas",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 156188,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 46
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Syver",
+                        "lastName": "Aas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1083997,
+                        "age": 25,
+                        "name": "Hans Christian Bonnesen",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 162206,
+                        "firstName": "Hans Christian",
+                        "lastName": "Bonnesen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1213709,
+                        "age": 22,
+                        "name": "Jakob Vadstrup Larsen",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 219299,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 71
+                                }
+                            ]
+                        },
+                        "firstName": "Jakob Vadstrup",
+                        "lastName": "Larsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1363103,
+                        "age": 22,
+                        "name": "Samuel Skree Skjeldal",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 367669,
+                        "firstName": "Samuel Skree",
+                        "lastName": "Skjeldal",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1160077,
+                        "age": 24,
+                        "name": "Filip R\u00f8nningen J\u00f8rgensen",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 42
+                                }
+                            ]
+                        },
+                        "firstName": "Filip R\u00f8nningen",
+                        "lastName": "J\u00f8rgensen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1245269,
+                        "age": 29,
+                        "name": "Daniel S\u00f6derberg",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 92301,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 30
+                                }
+                            ]
+                        },
+                        "firstName": "Daniel",
+                        "lastName": "S\u00f6derberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1377318,
+                        "age": 20,
+                        "name": "Noah Kojo",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 87
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Noah",
+                        "lastName": "Kojo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1274447,
+                        "age": 24,
+                        "name": "Villads Rasmussen",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 206134,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Villads",
+                        "lastName": "Rasmussen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 842236,
+                        "age": 27,
+                        "name": "Sanel Bojadzic",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 244509,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 42
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Sanel",
+                        "lastName": "Bojadzic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1343446,
+                        "age": 19,
+                        "name": "Faniel Temesgen Tewelde",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "28",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 593952,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Faniel Temesgen",
+                        "lastName": "Tewelde",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 24887,
+                    "age": 56,
+                    "name": "Per Frandsen",
+                    "countryName": "Denmark",
+                    "countryCode": "DEN",
+                    "firstName": "Per",
+                    "lastName": "Frandsen",
+                    "primaryTeamId": 7988,
+                    "primaryTeamName": "Odds Ballklubb",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1647392,
+                        "age": 20,
+                        "name": "Oliver Svenungsen Skau",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "15",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Oliver Svenungsen",
+                        "lastName": "Skau",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1801955,
+                        "age": 18,
+                        "name": "Kristian Holte",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "27",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Kristian",
+                        "lastName": "Holte",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1451160,
+                        "age": 21,
+                        "name": "Casper Glenna Andersen",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Casper Glenna",
+                        "lastName": "Andersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1276954,
+                        "age": 22,
+                        "name": "Hinrik Hardarson",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Iceland",
+                        "countryCode": "ISL",
+                        "marketValue": 277614,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 87
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Hinrik",
+                        "lastName": "Hardarson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1503570,
+                        "age": 20,
+                        "name": "Godwill Ambrose",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 347592,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Godwill",
+                        "lastName": "Ambrose",
+                        "rankings": null
+                    },
+                    {
+                        "id": 537947,
+                        "age": 31,
+                        "name": "Idar Nordby Lysg\u00e5rd",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Idar Nordby",
+                        "lastName": "Lysg\u00e5rd",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1377908,
+                        "age": 21,
+                        "name": "Julian Gunner\u00f8d",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "14",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Julian",
+                        "lastName": "Gunner\u00f8d",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 23.6,
+                "totalStarterMarketValue": 2465272
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "203",
+            "url": "https://data.fotmob.com/tables.ext.203.fot.gz",
+            "teams": [
+                8180,
+                7988
+            ],
+            "tournamentNameForUrl": "1. Divisjon",
+            "parentLeagueId": 203,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                13,
+                6,
+                18
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2024-07-28T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#4385597",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-28T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-06-02T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#4385550",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2024-06-02T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-09T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#4403247",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-09T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-10-22T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#4077403",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2023-10-22T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-29T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#4077060",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-29T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-03-04T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#4110885",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2023-03-04T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-11-06T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#3803314",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2022-11-06T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-07-09T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#3803221",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2022-07-09T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-03-05T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#3830762",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2022-03-05T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-08-29T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#3517581",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2021-08-29T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-07-21T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#3517711",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2021-07-21T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-12-19T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#3237623",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2020-12-19T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-06-21T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#3237764",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2020-06-21T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-09-29T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2948910",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2019-09-29T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-05-05T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2948810",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2019-05-05T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-08-12T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2684399",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2018-08-12T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-04-15T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2684229",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2018-04-15T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-10-14T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2427210",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2017-10-14T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-05-13T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2427070",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2017-05-13T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-09-25T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2147609",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2016-09-25T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-05-29T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2147786",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2016-05-29T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-02-05T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#2180686",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2016-02-05T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-10-16T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1879386",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2015-10-16T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-05-13T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1879426",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2015-05-13T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-03-06T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1924897",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2015-03-06T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-08-09T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1622872",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2014-08-09T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-04-27T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1622764",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2014-04-27T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-02-14T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1635125",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2014-02-14T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-09-15T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1375341",
+                    "league": {
+                        "name": "Tippeligaen",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/tippeligaen"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2013-09-15T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-05-09T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1375326",
+                    "league": {
+                        "name": "Tippeligaen",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/tippeligaen"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2013-05-09T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-07-22T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1141692",
+                    "league": {
+                        "name": "Tippeligaen",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/tippeligaen"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2012-07-22T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-05-23T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1141653",
+                    "league": {
+                        "name": "Tippeligaen",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/tippeligaen"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2012-05-23T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-02-09T11:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#1161515",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2012-02-09T11:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-10-02T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#958822",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2011-10-02T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-04-10T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#958630",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2011-04-10T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-09-22T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#907032",
+                    "league": {
+                        "name": "Cup",
+                        "id": "206",
+                        "pageUrl": "/leagues/206/overview/cup"
+                    },
+                    "home": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    },
+                    "status": {
+                        "utcTime": "2010-09-22T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "AET",
+                            "shortKey": "afterextratime_short",
+                            "long": "After extra time",
+                            "longKey": "afterextra"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-07-25T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/odds-ballklubb-vs-stromsgodset/25tqy0#761859",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Odds Ballklubb",
+                        "id": "7988"
+                    },
+                    "status": {
+                        "utcTime": "2010-07-25T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Str\u00f8msgodset",
+                        "id": "8180"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "stromsgodset-vs-odds-ballklubb",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5105184",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Str\u00f8msgodset",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8180.png",
+                "url": "https://www.fotmob.com/teams/8180/overview/stromsgodset",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Odds Ballklubb",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7988.png",
+                "url": "https://www.fotmob.com/teams/7988/overview/odds-ballklubb",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Str\u00f8msgodset vs Odds Ballklubb",
+            "description": "Follow Str\u00f8msgodset vs Odds Ballklubb live on fotmob.com",
+            "startDate": "2026-06-27T16:00:00.000Z",
+            "endDate": "2026-06-27T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Marienlyst Stadion",
+                "latitude": 59.734334559,
+                "longitude": 10.201449394,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Norway",
+                    "addressLocality": "Drammen"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8180.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/7988.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5105184",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Str\u00f8msgodset",
+                    "url": "https://www.fotmob.com/teams/8180/overview/stromsgodset"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Odds Ballklubb",
+                    "url": "https://www.fotmob.com/teams/7988/overview/odds-ballklubb"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Str\u00f8msgodset - Odds Ballklubb",
+                        "item": "https://www.fotmob.com/match/5105184"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Odds Ballklubb",
+                        "item": "https://www.fotmob.com/teams/7988/overview/odds-ballklubb"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Str\u00f8msgodset - Odds Ballklubb",
+                        "item": "https://www.fotmob.com/match/5105184"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Divisjon",
+                        "item": "https://www.fotmob.com/leagues/203/overview/1-divisjon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Str\u00f8msgodset",
+                        "item": "https://www.fotmob.com/teams/8180/overview/stromsgodset"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Str\u00f8msgodset - Odds Ballklubb",
+                        "item": "https://www.fotmob.com/match/5105184"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Str\u00f8msgodset and Odds Ballklubb on Sat, 27 Jun 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Str\u00f8msgodset vs Odds Ballklubb on Sat, 27 Jun 2026 16:00:00 GMT ended in a 2\u20132 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

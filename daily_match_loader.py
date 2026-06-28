@@ -1,5 +1,11 @@
-﻿import argparse
-from datetime import date, datetime
+﻿import logging
+from datetime import date, datetime, timedelta
+logging.basicConfig(
+    filename="logs/pipeline.log",
+    level=logging.INFO,
+    format="%(asctime)s | %(levelname)s | %(message)s"
+)
+import argparse
 
 from database import engine, text
 from fetch_matches import fetch_match_details
@@ -61,26 +67,47 @@ def should_load_match(match):
 def load_match_if_new(match):
     """Load the match if finished and not already loaded."""
     if not should_load_match(match):
+        logging.info(f"Skipping Match {match['match_id']} (Already Loaded)")
         return False
 
     match_id = match["match_id"]
-    print(f"Loading {match_id}: {match['home_team']} vs {match['away_team']}")
+    # print(f"Loading {match_id}: {match['home_team']} vs {match['away_team']}")
+    logging.info(
+        f"Processing Match {match_id} | "
+        f"{match['home_team']} vs {match['away_team']}"
+    )
     fetch_match_details(match_id)
     return True
 
 
 def load_daily_matches(match_date):
     """Fetch and load completed new matches for a date."""
+
+    logging.info("=" * 60)
+    logging.info(f"Starting Daily Match Loader")
+    logging.info(f"Target Date : {match_date}")
+    
     daily_data = get_daily_matches(match_date)
     matches = extract_match_ids(daily_data)
 
+    logging.info(f"Found {len(matches)} matches")
+
     for match in matches:
-        load_match_if_new(match)
+        try:
+            load_match_if_new(match)
+            logging.info(f"Successfully Loaded Match {match['match_id']}")
+        except Exception as e:
+            logging.exception(f"Failed Loading Match {match['match_id']}")
+
+    logging.info("Daily Match Loader Completed")
+    logging.info("=" * 60)
 
 def normalize_match_date(match_date):
     """Normalize the input date string to YYYYMMDD, defaulting to today."""
     if not match_date:
-        return date.today().strftime("%Y%m%d")
+        target_date = datetime.now() - timedelta(days=1)
+        match_date = target_date.strftime("%Y%m%d")
+        return match_date
 
     cleaned = match_date.strip()
     try:
@@ -119,6 +146,7 @@ def parse_args():
 
 def main(match_date=None):
     load_daily_matches(normalize_match_date(match_date))
+
 
 
 if __name__ == "__main__":

@@ -1,0 +1,1294 @@
+{
+    "general": {
+        "matchId": "5143784",
+        "matchName": "Grei-vs-Nordstrand_Sat, Jun 27, 2026, 11:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919792,
+        "leagueName": "3. Divisjon Avd. 1",
+        "leagueRoundName": "12",
+        "parentLeagueId": 205,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Grei",
+            "id": 4206
+        },
+        "awayTeam": {
+            "name": "Nordstrand",
+            "id": 8125
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 11:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T11:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Grei",
+                "id": 4206,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4206_small.png",
+                "pageUrl": "/teams/4206/overview/grei"
+            },
+            {
+                "name": "Nordstrand",
+                "id": 8125,
+                "score": 5,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8125_small.png",
+                "pageUrl": "/teams/8125/overview/nordstrand"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T11:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 13:01:37",
+                "firstHalfEnded": "27.06.2026 13:49:42",
+                "secondHalfStarted": "27.06.2026 14:05:37",
+                "secondHalfEnded": "27.06.2026 14:52:17",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 14:52:17"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 5",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Storseth": [
+                    {
+                        "reactKey": "1421561945Goal1280451undefinedtrue",
+                        "timeStr": "45 + 3",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 3,
+                        "eventId": 14215619,
+                        "player": {
+                            "id": 1280451,
+                            "name": "Erlend Storseth",
+                            "profileUrl": "/players/1280451/erlend-storseth"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1280451/erlend-storseth",
+                        "overloadTimeStr": "+3",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Erlend Storseth",
+                        "firstName": "Erlend",
+                        "lastName": "Storseth",
+                        "fullName": "Erlend Storseth",
+                        "playerId": 1280451,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Barbosa": [
+                    {
+                        "reactKey": "1421556226Goal1631607undefinedfalse",
+                        "timeStr": 26,
+                        "type": "Goal",
+                        "time": 26,
+                        "overloadTime": null,
+                        "eventId": 14215562,
+                        "player": {
+                            "id": 1631607,
+                            "name": "Sander Barbosa",
+                            "profileUrl": "/players/1631607/sander-barbosa"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1631607/sander-barbosa",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Barbosa",
+                        "firstName": "Sander",
+                        "lastName": "Barbosa",
+                        "fullName": "Sander Barbosa",
+                        "playerId": 1631607,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Langbraaten": [
+                    {
+                        "reactKey": "1421556628Goal1813658undefinedfalse",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14215566,
+                        "player": {
+                            "id": 1813658,
+                            "name": "Peder Engvold Langbraaten",
+                            "profileUrl": "/players/1813658/peder-engvold-langbraaten"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1813658/peder-engvold-langbraaten",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Peder Engvold Langbraaten",
+                        "firstName": "Peder Engvold",
+                        "lastName": "Langbraaten",
+                        "fullName": "Peder Engvold Langbraaten",
+                        "playerId": 1813658,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421559035Goal1813658undefinedfalse",
+                        "timeStr": 35,
+                        "type": "Goal",
+                        "time": 35,
+                        "overloadTime": null,
+                        "eventId": 14215590,
+                        "player": {
+                            "id": 1813658,
+                            "name": "Peder Engvold Langbraaten",
+                            "profileUrl": "/players/1813658/peder-engvold-langbraaten"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1813658/peder-engvold-langbraaten",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Peder Engvold Langbraaten",
+                        "firstName": "Peder Engvold",
+                        "lastName": "Langbraaten",
+                        "fullName": "Peder Engvold Langbraaten",
+                        "playerId": 1813658,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Moula": [
+                    {
+                        "reactKey": "1421567250Goal979220undefinedfalse",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14215672,
+                        "player": {
+                            "id": 979220,
+                            "name": "Juba Massinissa Moula",
+                            "profileUrl": "/players/979220/juba-massinissa-moula"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/979220/juba-massinissa-moula",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juba Massinissa Moula",
+                        "firstName": "Juba Massinissa",
+                        "lastName": "Moula",
+                        "fullName": "Juba Massinissa Moula",
+                        "playerId": 979220,
+                        "newScore": [
+                            1,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421572465Goal979220undefinedfalse",
+                        "timeStr": 65,
+                        "type": "Goal",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 14215724,
+                        "player": {
+                            "id": 979220,
+                            "name": "Juba Massinissa Moula",
+                            "profileUrl": "/players/979220/juba-massinissa-moula"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "profileUrl": "/players/979220/juba-massinissa-moula",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juba Massinissa Moula",
+                        "firstName": "Juba Massinissa",
+                        "lastName": "Moula",
+                        "fullName": "Juba Massinissa Moula",
+                        "playerId": 979220,
+                        "newScore": [
+                            1,
+                            5
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5143784,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421556226Goal1631607undefinedfalse",
+                        "timeStr": 26,
+                        "type": "Goal",
+                        "time": 26,
+                        "overloadTime": null,
+                        "eventId": 14215562,
+                        "player": {
+                            "id": 1631607,
+                            "name": "Sander Barbosa",
+                            "profileUrl": "/players/1631607/sander-barbosa"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1631607/sander-barbosa",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Barbosa",
+                        "firstName": "Sander",
+                        "lastName": "Barbosa",
+                        "fullName": "Sander Barbosa",
+                        "playerId": 1631607,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421556628Goal1813658undefinedfalse",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14215566,
+                        "player": {
+                            "id": 1813658,
+                            "name": "Peder Engvold Langbraaten",
+                            "profileUrl": "/players/1813658/peder-engvold-langbraaten"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1813658/peder-engvold-langbraaten",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Peder Engvold Langbraaten",
+                        "firstName": "Peder Engvold",
+                        "lastName": "Langbraaten",
+                        "fullName": "Peder Engvold Langbraaten",
+                        "playerId": 1813658,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421559035Goal1813658undefinedfalse",
+                        "timeStr": 35,
+                        "type": "Goal",
+                        "time": 35,
+                        "overloadTime": null,
+                        "eventId": 14215590,
+                        "player": {
+                            "id": 1813658,
+                            "name": "Peder Engvold Langbraaten",
+                            "profileUrl": "/players/1813658/peder-engvold-langbraaten"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1813658/peder-engvold-langbraaten",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Peder Engvold Langbraaten",
+                        "firstName": "Peder Engvold",
+                        "lastName": "Langbraaten",
+                        "fullName": "Peder Engvold Langbraaten",
+                        "playerId": 1813658,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421561945Goal1280451undefinedtrue",
+                        "timeStr": "45 + 3",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 3,
+                        "eventId": 14215619,
+                        "player": {
+                            "id": 1280451,
+                            "name": "Erlend Storseth",
+                            "profileUrl": "/players/1280451/erlend-storseth"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1280451/erlend-storseth",
+                        "overloadTimeStr": "+3",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Erlend Storseth",
+                        "firstName": "Erlend",
+                        "lastName": "Storseth",
+                        "fullName": "Erlend Storseth",
+                        "playerId": 1280451,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421567250Goal979220undefinedfalse",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14215672,
+                        "player": {
+                            "id": 979220,
+                            "name": "Juba Massinissa Moula",
+                            "profileUrl": "/players/979220/juba-massinissa-moula"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/979220/juba-massinissa-moula",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juba Massinissa Moula",
+                        "firstName": "Juba Massinissa",
+                        "lastName": "Moula",
+                        "fullName": "Juba Massinissa Moula",
+                        "playerId": 979220,
+                        "newScore": [
+                            1,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421572465Goal979220undefinedfalse",
+                        "timeStr": 65,
+                        "type": "Goal",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 14215724,
+                        "player": {
+                            "id": 979220,
+                            "name": "Juba Massinissa Moula",
+                            "profileUrl": "/players/979220/juba-massinissa-moula"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "profileUrl": "/players/979220/juba-massinissa-moula",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Juba Massinissa Moula",
+                        "firstName": "Juba Massinissa",
+                        "lastName": "Moula",
+                        "fullName": "Juba Massinissa Moula",
+                        "playerId": 979220,
+                        "newScore": [
+                            1,
+                            5
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 5,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T11:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919792,
+                    "parentLeagueId": 205,
+                    "link": "/leagues/205/overview/3-divisjon-avd-1",
+                    "leagueName": "3. Divisjon Avd. 1",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1352625_xsmall.png",
+                        "linkToMatch": "/matches/grei-vs-gamle-oslo/bqvbgy8u#5143747",
+                        "date": {
+                            "utcTime": "2026-05-14T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1352625/overview/gamle-oslo",
+                        "tooltipText": {
+                            "utcTime": "2026-05-14T16:00:00.000Z",
+                            "homeTeam": "Gamle Oslo",
+                            "homeTeamId": 1352625,
+                            "homeScore": "3",
+                            "awayTeam": "Grei",
+                            "awayTeamId": 4206,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "1352625",
+                            "name": "Gamle Oslo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4206",
+                            "name": "Grei",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/161348_xsmall.png",
+                        "linkToMatch": "/matches/grei-vs-kfum-2/6an3i5l#5143754",
+                        "date": {
+                            "utcTime": "2026-05-23T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/161348/overview/kfum-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T11:00:00.000Z",
+                            "homeTeam": "Grei",
+                            "homeTeamId": 4206,
+                            "homeScore": "2",
+                            "awayTeam": "KFUM 2",
+                            "awayTeamId": 161348,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "4206",
+                            "name": "Grei",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "161348",
+                            "name": "KFUM 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8137_xsmall.png",
+                        "linkToMatch": "/matches/grei-vs-baerum/19czwt#5143765",
+                        "date": {
+                            "utcTime": "2026-05-30T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8137/overview/baerum",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T12:00:00.000Z",
+                            "homeTeam": "B\u00e6rum",
+                            "homeTeamId": 8137,
+                            "homeScore": "5",
+                            "awayTeam": "Grei",
+                            "awayTeamId": 4206,
+                            "awayScore": "0"
+                        },
+                        "score": "5 - 0",
+                        "home": {
+                            "id": "8137",
+                            "name": "B\u00e6rum",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4206",
+                            "name": "Grei",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/608816_xsmall.png",
+                        "linkToMatch": "/matches/grei-vs-ready/2ebi5kch#5143767",
+                        "date": {
+                            "utcTime": "2026-06-13T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/608816/overview/ready",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T10:00:00.000Z",
+                            "homeTeam": "Grei",
+                            "homeTeamId": 4206,
+                            "homeScore": "3",
+                            "awayTeam": "Ready",
+                            "awayTeamId": 608816,
+                            "awayScore": "5"
+                        },
+                        "score": "3 - 5",
+                        "home": {
+                            "id": "4206",
+                            "name": "Grei",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "608816",
+                            "name": "Ready",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1609449_xsmall.png",
+                        "linkToMatch": "/matches/grei-vs-union-carl-berner/gm3qobtu#5143775",
+                        "date": {
+                            "utcTime": "2026-06-20T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1609449/overview/union-carl-berner",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T11:00:00.000Z",
+                            "homeTeam": "Union Carl Berner",
+                            "homeTeamId": 1609449,
+                            "homeScore": "2",
+                            "awayTeam": "Grei",
+                            "awayTeamId": 4206,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1609449",
+                            "name": "Union Carl Berner",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4206",
+                            "name": "Grei",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6542_xsmall.png",
+                        "linkToMatch": "/matches/konnerud-vs-nordstrand/1s1q3j#5143749",
+                        "date": {
+                            "utcTime": "2026-05-16T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6542/overview/konnerud",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T11:00:00.000Z",
+                            "homeTeam": "Nordstrand",
+                            "homeTeamId": 8125,
+                            "homeScore": "2",
+                            "awayTeam": "Konnerud",
+                            "awayTeamId": 6542,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8125",
+                            "name": "Nordstrand",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6542",
+                            "name": "Konnerud",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4621_xsmall.png",
+                        "linkToMatch": "/matches/frigg-vs-nordstrand/1cdcus#5143753",
+                        "date": {
+                            "utcTime": "2026-05-23T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4621/overview/frigg",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T11:00:00.000Z",
+                            "homeTeam": "Frigg",
+                            "homeTeamId": 4621,
+                            "homeScore": "1",
+                            "awayTeam": "Nordstrand",
+                            "awayTeamId": 8125,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "4621",
+                            "name": "Frigg",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8125",
+                            "name": "Nordstrand",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/161348_xsmall.png",
+                        "linkToMatch": "/matches/nordstrand-vs-kfum-2/6lhye2m#5143760",
+                        "date": {
+                            "utcTime": "2026-05-30T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/161348/overview/kfum-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T11:00:00.000Z",
+                            "homeTeam": "Nordstrand",
+                            "homeTeamId": 8125,
+                            "homeScore": "2",
+                            "awayTeam": "KFUM 2",
+                            "awayTeamId": 161348,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "8125",
+                            "name": "Nordstrand",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "161348",
+                            "name": "KFUM 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8136_xsmall.png",
+                        "linkToMatch": "/matches/nordstrand-vs-valerenga-2/26q2hj#5143771",
+                        "date": {
+                            "utcTime": "2026-06-06T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8136/overview/valerenga-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T11:00:00.000Z",
+                            "homeTeam": "V\u00e5lerenga 2",
+                            "homeTeamId": 8136,
+                            "homeScore": "3",
+                            "awayTeam": "Nordstrand",
+                            "awayTeamId": 8125,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "8136",
+                            "name": "V\u00e5lerenga 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8125",
+                            "name": "Nordstrand",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6540_xsmall.png",
+                        "linkToMatch": "/matches/asker-vs-nordstrand/1s13gq#5143774",
+                        "date": {
+                            "utcTime": "2026-06-20T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6540/overview/asker",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T11:00:00.000Z",
+                            "homeTeam": "Nordstrand",
+                            "homeTeamId": 8125,
+                            "homeScore": "0",
+                            "awayTeam": "Asker",
+                            "awayTeamId": 6540,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "8125",
+                            "name": "Nordstrand",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6540",
+                            "name": "Asker",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5143784",
+                    "MatchId": 5143784,
+                    "HomeTeamId": 4206,
+                    "AwayTeamId": 8125,
+                    "HomeTeam": "Grei",
+                    "AwayTeam": "Nordstrand",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have lost their last {1} matches.",
+                            "TextTemplateId": "bad_form_team",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Grei have lost their last 5 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Grei have scored in their last 6 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Grei have scored 4 goals in their last 3 matches, while Nordstrand have scored 4."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Grei haven't won a match in 6 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4206,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 7 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8125,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Grei and Nordstrand on Sat, 27 Jun 2026 11:00:00 GMT?",
+                    "answer": "Nordstrand won 5\u20131 over Grei on Sat, 27 Jun 2026 11:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919792",
+            "url": "https://data.fotmob.com/tables.ext.919792.fot.gz",
+            "teams": [
+                4206,
+                8125
+            ],
+            "tournamentNameForUrl": "3. Divisjon Avd. 1",
+            "parentLeagueId": 205,
+            "countryCode": "NOR"
+        },
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "grei-vs-nordstrand",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5143784",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Grei",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4206.png",
+                "url": "https://www.fotmob.com/teams/4206/overview/grei",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Nordstrand",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8125.png",
+                "url": "https://www.fotmob.com/teams/8125/overview/nordstrand",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Grei vs Nordstrand",
+            "description": "Follow Grei vs Nordstrand live on fotmob.com",
+            "startDate": "2026-06-27T11:00:00.000Z",
+            "endDate": "2026-06-27T13:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4206.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8125.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5143784",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T11:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Grei",
+                    "url": "https://www.fotmob.com/teams/4206/overview/grei"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Nordstrand",
+                    "url": "https://www.fotmob.com/teams/8125/overview/nordstrand"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 1",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-1"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Grei - Nordstrand",
+                        "item": "https://www.fotmob.com/match/5143784"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 1",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-1"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Nordstrand",
+                        "item": "https://www.fotmob.com/teams/8125/overview/nordstrand"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Grei - Nordstrand",
+                        "item": "https://www.fotmob.com/match/5143784"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 1",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-1"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Grei",
+                        "item": "https://www.fotmob.com/teams/4206/overview/grei"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Grei - Nordstrand",
+                        "item": "https://www.fotmob.com/match/5143784"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Grei and Nordstrand on Sat, 27 Jun 2026 11:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Nordstrand won 5\u20131 over Grei on Sat, 27 Jun 2026 11:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

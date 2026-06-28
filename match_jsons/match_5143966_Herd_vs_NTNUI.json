@@ -1,0 +1,1153 @@
+{
+    "general": {
+        "matchId": "5143966",
+        "matchName": "Herd-vs-NTNUI_Sat, Jun 27, 2026, 13:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919793,
+        "leagueName": "3. Divisjon Avd. 2",
+        "leagueRoundName": "12",
+        "parentLeagueId": 205,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Herd",
+            "id": 167840
+        },
+        "awayTeam": {
+            "name": "NTNUI",
+            "id": 4361
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sat, Jun 27, 2026, 13:00 UTC",
+        "matchTimeUTCDate": "2026-06-27T13:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Herd",
+                "id": 167840,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/167840_small.png",
+                "pageUrl": "/teams/167840/overview/herd"
+            },
+            {
+                "name": "NTNUI",
+                "id": 4361,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4361_small.png",
+                "pageUrl": "/teams/4361/overview/ntnui"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-27T13:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "27.06.2026 15:01:34",
+                "firstHalfEnded": "27.06.2026 15:47:57",
+                "secondHalfStarted": "27.06.2026 16:01:58",
+                "secondHalfEnded": "27.06.2026 16:52:14",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "27.06.2026 16:52:14"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Hjelle": [
+                    {
+                        "reactKey": "1421620250Goal1642582undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14216202,
+                        "player": {
+                            "id": 1642582,
+                            "name": "Matheo Giske Hjelle",
+                            "profileUrl": "/players/1642582/matheo-giske-hjelle"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1642582/matheo-giske-hjelle",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Matheo Giske Hjelle",
+                        "firstName": "Matheo Giske",
+                        "lastName": "Hjelle",
+                        "fullName": "Matheo Giske Hjelle",
+                        "playerId": 1642582,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Sv\u00e6ren": [
+                    {
+                        "reactKey": "1421640490Goal1636120undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14216404,
+                        "player": {
+                            "id": 1636120,
+                            "name": "Haakon Brandal Sv\u00e6ren",
+                            "profileUrl": "/players/1636120/haakon-brandal-svaeren"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1636120/haakon-brandal-svaeren",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Haakon Brandal Sv\u00e6ren",
+                        "firstName": "Haakon Brandal",
+                        "lastName": "Sv\u00e6ren",
+                        "fullName": "Haakon Brandal Sv\u00e6ren",
+                        "playerId": 1636120,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Mj\u00f8lstad-Svendsen": [
+                    {
+                        "reactKey": "142159147Goal1377716undefinedfalse",
+                        "timeStr": 7,
+                        "type": "Goal",
+                        "time": 7,
+                        "overloadTime": null,
+                        "eventId": 14215914,
+                        "player": {
+                            "id": 1377716,
+                            "name": "Sigurd Mj\u00f8lstad-Svendsen",
+                            "profileUrl": "/players/1377716/sigurd-mjolstad-svendsen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1377716/sigurd-mjolstad-svendsen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sigurd Mj\u00f8lstad-Svendsen",
+                        "firstName": "Sigurd",
+                        "lastName": "Mj\u00f8lstad-Svendsen",
+                        "fullName": "Sigurd Mj\u00f8lstad-Svendsen",
+                        "playerId": 1377716,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Ziolko": [
+                    {
+                        "reactKey": "1421599621Goal1047122undefinedfalse",
+                        "timeStr": 21,
+                        "type": "Goal",
+                        "time": 21,
+                        "overloadTime": null,
+                        "eventId": 14215996,
+                        "player": {
+                            "id": 1047122,
+                            "name": "Filip Maciej Ziolko",
+                            "profileUrl": "/players/1047122/filip-maciej-ziolko"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1047122/filip-maciej-ziolko",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Filip Maciej Ziolko",
+                        "firstName": "Filip Maciej",
+                        "lastName": "Ziolko",
+                        "fullName": "Filip Maciej Ziolko",
+                        "playerId": 1047122,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5143966,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142159147Goal1377716undefinedfalse",
+                        "timeStr": 7,
+                        "type": "Goal",
+                        "time": 7,
+                        "overloadTime": null,
+                        "eventId": 14215914,
+                        "player": {
+                            "id": 1377716,
+                            "name": "Sigurd Mj\u00f8lstad-Svendsen",
+                            "profileUrl": "/players/1377716/sigurd-mjolstad-svendsen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1377716/sigurd-mjolstad-svendsen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sigurd Mj\u00f8lstad-Svendsen",
+                        "firstName": "Sigurd",
+                        "lastName": "Mj\u00f8lstad-Svendsen",
+                        "fullName": "Sigurd Mj\u00f8lstad-Svendsen",
+                        "playerId": 1377716,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421599621Goal1047122undefinedfalse",
+                        "timeStr": 21,
+                        "type": "Goal",
+                        "time": 21,
+                        "overloadTime": null,
+                        "eventId": 14215996,
+                        "player": {
+                            "id": 1047122,
+                            "name": "Filip Maciej Ziolko",
+                            "profileUrl": "/players/1047122/filip-maciej-ziolko"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1047122/filip-maciej-ziolko",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Filip Maciej Ziolko",
+                        "firstName": "Filip Maciej",
+                        "lastName": "Ziolko",
+                        "fullName": "Filip Maciej Ziolko",
+                        "playerId": 1047122,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421620250Goal1642582undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14216202,
+                        "player": {
+                            "id": 1642582,
+                            "name": "Matheo Giske Hjelle",
+                            "profileUrl": "/players/1642582/matheo-giske-hjelle"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1642582/matheo-giske-hjelle",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Matheo Giske Hjelle",
+                        "firstName": "Matheo Giske",
+                        "lastName": "Hjelle",
+                        "fullName": "Matheo Giske Hjelle",
+                        "playerId": 1642582,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421640490Goal1636120undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14216404,
+                        "player": {
+                            "id": 1636120,
+                            "name": "Haakon Brandal Sv\u00e6ren",
+                            "profileUrl": "/players/1636120/haakon-brandal-svaeren"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1636120/haakon-brandal-svaeren",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Haakon Brandal Sv\u00e6ren",
+                        "firstName": "Haakon Brandal",
+                        "lastName": "Sv\u00e6ren",
+                        "fullName": "Haakon Brandal Sv\u00e6ren",
+                        "playerId": 1636120,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-27T13:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919793,
+                    "parentLeagueId": 205,
+                    "link": "/leagues/205/overview/3-divisjon-avd-2",
+                    "leagueName": "3. Divisjon Avd. 2",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2000_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-herd/6mj0snc#5143934",
+                        "date": {
+                            "utcTime": "2026-05-16T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2000/overview/volda",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T14:00:00.000Z",
+                            "homeTeam": "Volda",
+                            "homeTeamId": 2000,
+                            "homeScore": "0",
+                            "awayTeam": "Herd",
+                            "awayTeamId": 167840,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "167840",
+                            "name": "Herd",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8114_xsmall.png",
+                        "linkToMatch": "/matches/aalesund-2-vs-herd/740e5bx#5143941",
+                        "date": {
+                            "utcTime": "2026-05-26T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8114/overview/aalesund-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-26T16:00:00.000Z",
+                            "homeTeam": "Herd",
+                            "homeTeamId": 167840,
+                            "homeScore": "0",
+                            "awayTeam": "Aalesund 2",
+                            "awayTeamId": 8114,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "167840",
+                            "name": "Herd",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8114",
+                            "name": "Aalesund 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/46922_xsmall.png",
+                        "linkToMatch": "/matches/ranheim-2-vs-herd/ale890x#5143946",
+                        "date": {
+                            "utcTime": "2026-05-30T13:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/46922/overview/ranheim-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T13:30:00.000Z",
+                            "homeTeam": "Ranheim 2",
+                            "homeTeamId": 46922,
+                            "homeScore": "2",
+                            "awayTeam": "Herd",
+                            "awayTeamId": 167840,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "46922",
+                            "name": "Ranheim 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "167840",
+                            "name": "Herd",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4363_xsmall.png",
+                        "linkToMatch": "/matches/nardo-vs-herd/6t7mnb1#5143952",
+                        "date": {
+                            "utcTime": "2026-06-13T13:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4363/overview/nardo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:30:00.000Z",
+                            "homeTeam": "Herd",
+                            "homeTeamId": 167840,
+                            "homeScore": "4",
+                            "awayTeam": "Nardo",
+                            "awayTeamId": 4363,
+                            "awayScore": "1"
+                        },
+                        "score": "4 - 1",
+                        "home": {
+                            "id": "167840",
+                            "name": "Herd",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4363",
+                            "name": "Nardo",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4332_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-herd/6t4g8l6#5143960",
+                        "date": {
+                            "utcTime": "2026-06-20T13:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4332/overview/kvik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T13:30:00.000Z",
+                            "homeTeam": "Kvik",
+                            "homeTeamId": 4332,
+                            "homeScore": "1",
+                            "awayTeam": "Herd",
+                            "awayTeamId": 167840,
+                            "awayScore": "5"
+                        },
+                        "score": "1 - 5",
+                        "home": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "167840",
+                            "name": "Herd",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/46922_xsmall.png",
+                        "linkToMatch": "/matches/ntnui-vs-ranheim-2/lqxzoo#5143935",
+                        "date": {
+                            "utcTime": "2026-05-21T17:10:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/46922/overview/ranheim-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-21T17:10:00.000Z",
+                            "homeTeam": "NTNUI",
+                            "homeTeamId": 4361,
+                            "homeScore": "1",
+                            "awayTeam": "Ranheim 2",
+                            "awayTeamId": 46922,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "4361",
+                            "name": "NTNUI",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "46922",
+                            "name": "Ranheim 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2000_xsmall.png",
+                        "linkToMatch": "/matches/volda-vs-ntnui/c1sa6#5143942",
+                        "date": {
+                            "utcTime": "2026-05-30T14:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2000/overview/volda",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:15:00.000Z",
+                            "homeTeam": "Volda",
+                            "homeTeamId": 2000,
+                            "homeScore": "3",
+                            "awayTeam": "NTNUI",
+                            "awayTeamId": 4361,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "2000",
+                            "name": "Volda",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4361",
+                            "name": "NTNUI",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4332_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-ntnui/mi14w#5143970",
+                        "date": {
+                            "utcTime": "2026-06-03T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4332/overview/kvik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-03T17:00:00.000Z",
+                            "homeTeam": "NTNUI",
+                            "homeTeamId": 4361,
+                            "homeScore": "4",
+                            "awayTeam": "Kvik",
+                            "awayTeamId": 4332,
+                            "awayScore": "3"
+                        },
+                        "score": "4 - 3",
+                        "home": {
+                            "id": "4361",
+                            "name": "NTNUI",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8114_xsmall.png",
+                        "linkToMatch": "/matches/ntnui-vs-aalesund-2/1ac3to#5143953",
+                        "date": {
+                            "utcTime": "2026-06-13T16:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8114/overview/aalesund-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T16:30:00.000Z",
+                            "homeTeam": "NTNUI",
+                            "homeTeamId": 4361,
+                            "homeScore": "0",
+                            "awayTeam": "Aalesund 2",
+                            "awayTeamId": 8114,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "4361",
+                            "name": "NTNUI",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8114",
+                            "name": "Aalesund 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4363_xsmall.png",
+                        "linkToMatch": "/matches/ntnui-vs-nardo/mntgd#5143958",
+                        "date": {
+                            "utcTime": "2026-06-20T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4363/overview/nardo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T12:00:00.000Z",
+                            "homeTeam": "Nardo",
+                            "homeTeamId": 4363,
+                            "homeScore": "2",
+                            "awayTeam": "NTNUI",
+                            "awayTeamId": 4361,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "4363",
+                            "name": "Nardo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4361",
+                            "name": "NTNUI",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5143966",
+                    "MatchId": 5143966,
+                    "HomeTeamId": 167840,
+                    "AwayTeamId": 4361,
+                    "HomeTeam": "Herd",
+                    "AwayTeam": "NTNUI",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "1",
+                                "1",
+                                "away_team",
+                                "2",
+                                "0",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Herd have 3W, 1D, 1L in five matches while NTNUI have 2W, 0D, 3L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "11",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Herd have scored 11 goals in their last 3 matches, while NTNUI have scored 4."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "11",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Herd have scored 11 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "NTNUI haven't drawn in their last 6 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 167840,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 12,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 12 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4361,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Herd and NTNUI on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "answer": "Herd vs NTNUI on Sat, 27 Jun 2026 13:00:00 GMT ended in a 2\u20132 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919793",
+            "url": "https://data.fotmob.com/tables.ext.919793.fot.gz",
+            "teams": [
+                167840,
+                4361
+            ],
+            "tournamentNameForUrl": "3. Divisjon Avd. 2",
+            "parentLeagueId": 205,
+            "countryCode": "NOR"
+        },
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "herd-vs-ntnui",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5143966",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Herd",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/167840.png",
+                "url": "https://www.fotmob.com/teams/167840/overview/herd",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "NTNUI",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4361.png",
+                "url": "https://www.fotmob.com/teams/4361/overview/ntnui",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Herd vs NTNUI",
+            "description": "Follow Herd vs NTNUI live on fotmob.com",
+            "startDate": "2026-06-27T13:00:00.000Z",
+            "endDate": "2026-06-27T15:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/167840.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4361.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5143966",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-27T13:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Herd",
+                    "url": "https://www.fotmob.com/teams/167840/overview/herd"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "NTNUI",
+                    "url": "https://www.fotmob.com/teams/4361/overview/ntnui"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Herd - NTNUI",
+                        "item": "https://www.fotmob.com/match/5143966"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "NTNUI",
+                        "item": "https://www.fotmob.com/teams/4361/overview/ntnui"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Herd - NTNUI",
+                        "item": "https://www.fotmob.com/match/5143966"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Herd",
+                        "item": "https://www.fotmob.com/teams/167840/overview/herd"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Herd - NTNUI",
+                        "item": "https://www.fotmob.com/match/5143966"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Herd and NTNUI on Sat, 27 Jun 2026 13:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Herd vs NTNUI on Sat, 27 Jun 2026 13:00:00 GMT ended in a 2\u20132 tie."
+                    }
+                }
+            ]
+        }
+    }
+}
