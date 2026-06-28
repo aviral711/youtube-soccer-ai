@@ -96,7 +96,6 @@ def normalize_match_date(match_date):
 
     return parsed_date.strftime("%Y%m%d")
 
-
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Fetch and load completed matches for a given date."

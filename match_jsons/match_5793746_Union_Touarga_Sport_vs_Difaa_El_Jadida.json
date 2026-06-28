@@ -1,0 +1,2665 @@
+{
+    "general": {
+        "matchId": "5793746",
+        "matchName": "Union Touarga Sport-vs-Difaa El Jadida_Thu, Jun 25, 2026, 17:00 UTC",
+        "matchRound": "27",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#105028"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#105028"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 530,
+        "leagueName": "Botola Pro",
+        "leagueRoundName": "27",
+        "parentLeagueId": 530,
+        "countryCode": "MAR",
+        "homeTeam": {
+            "name": "Union Touarga Sport",
+            "id": 320835
+        },
+        "awayTeam": {
+            "name": "Difaa El Jadida",
+            "id": 102033
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Thu, Jun 25, 2026, 17:00 UTC",
+        "matchTimeUTCDate": "2026-06-25T17:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Union Touarga Sport",
+                "id": 320835,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/320835_small.png",
+                "pageUrl": "/teams/320835/overview/union-touarga-sport"
+            },
+            {
+                "name": "Difaa El Jadida",
+                "id": 102033,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102033_small.png",
+                "pageUrl": "/teams/102033/overview/difaa-el-jadida"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-25T17:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "25.06.2026 19:03:05",
+                "firstHalfEnded": "25.06.2026 19:52:24",
+                "secondHalfStarted": "25.06.2026 20:08:34",
+                "secondHalfEnded": "25.06.2026 21:01:27",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "25.06.2026 21:01:27"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Dahmani": [
+                    {
+                        "reactKey": "1421410051Goal1714020undefinedtrue",
+                        "timeStr": 51,
+                        "type": "Goal",
+                        "time": 51,
+                        "overloadTime": null,
+                        "eventId": 14214100,
+                        "player": {
+                            "id": 1714020,
+                            "name": "Youness Dahmani",
+                            "profileUrl": "/players/1714020/youness-dahmani"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1714020/youness-dahmani",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Youness Dahmani",
+                        "firstName": "Youness",
+                        "lastName": "Dahmani",
+                        "fullName": "Youness Dahmani",
+                        "playerId": 1714020,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Hossam Essadak",
+                        "assistProfileUrl": "/players/1649146/hossam-essadak",
+                        "assistPlayerId": 1649146,
+                        "assistKey": "assist_by",
+                        "assistInput": "Hossam Essadak"
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Ennakouss": [
+                    {
+                        "reactKey": "1421414466Goal1473773undefinedfalse",
+                        "timeStr": 66,
+                        "type": "Goal",
+                        "time": 66,
+                        "overloadTime": null,
+                        "eventId": 14214144,
+                        "player": {
+                            "id": 1473773,
+                            "name": "Abderrazak Ennakouss",
+                            "profileUrl": "/players/1473773/abderrazak-ennakouss"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1473773/abderrazak-ennakouss",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abderrazak Ennakouss",
+                        "firstName": "Abderrazak",
+                        "lastName": "Ennakouss",
+                        "fullName": "Abderrazak Ennakouss",
+                        "playerId": 1473773,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421425890Goal1473773undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14214258,
+                        "player": {
+                            "id": 1473773,
+                            "name": "Abderrazak Ennakouss",
+                            "profileUrl": "/players/1473773/abderrazak-ennakouss"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1473773/abderrazak-ennakouss",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abderrazak Ennakouss",
+                        "firstName": "Abderrazak",
+                        "lastName": "Ennakouss",
+                        "fullName": "Abderrazak Ennakouss",
+                        "playerId": 1473773,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mouad Mouchtanim",
+                        "assistProfileUrl": "/players/1810271/mouad-mouchtanim",
+                        "assistPlayerId": 1810271,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mouad Mouchtanim"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5793746,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421410051Goal1714020undefinedtrue",
+                        "timeStr": 51,
+                        "type": "Goal",
+                        "time": 51,
+                        "overloadTime": null,
+                        "eventId": 14214100,
+                        "player": {
+                            "id": 1714020,
+                            "name": "Youness Dahmani",
+                            "profileUrl": "/players/1714020/youness-dahmani"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1714020/youness-dahmani",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Youness Dahmani",
+                        "firstName": "Youness",
+                        "lastName": "Dahmani",
+                        "fullName": "Youness Dahmani",
+                        "playerId": 1714020,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Hossam Essadak",
+                        "assistProfileUrl": "/players/1649146/hossam-essadak",
+                        "assistPlayerId": 1649146,
+                        "assistKey": "assist_by",
+                        "assistInput": "Hossam Essadak"
+                    },
+                    {
+                        "reactKey": "undefined60SubstitutionNaN1329510true",
+                        "timeStr": 60,
+                        "type": "Substitution",
+                        "time": 60,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mohamed Amine Essahel",
+                                "id": "1329510",
+                                "profileUrl": "/players/1329510/mohamed-amine-essahel"
+                            },
+                            {
+                                "name": "Walid Rhailouf",
+                                "id": "1497833",
+                                "profileUrl": "/players/1497833/walid-rhailouf"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined60SubstitutionNaN2035449true",
+                        "timeStr": 60,
+                        "type": "Substitution",
+                        "time": 60,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Samuel Tebily",
+                                "id": "2035449",
+                                "profileUrl": "/players/2035449/samuel-tebily"
+                            },
+                            {
+                                "name": "Yacine Bammou",
+                                "id": "562697",
+                                "profileUrl": "/players/562697/yacine-bammou"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined60SubstitutionNaN1473773false",
+                        "timeStr": 60,
+                        "type": "Substitution",
+                        "time": 60,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Abderrazak Ennakouss",
+                                "id": "1473773",
+                                "profileUrl": "/players/1473773/abderrazak-ennakouss"
+                            },
+                            {
+                                "name": "Abdellah Ziani",
+                                "id": "1810269",
+                                "profileUrl": "/players/1810269/abdellah-ziani"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined60SubstitutionNaN1189133false",
+                        "timeStr": 60,
+                        "type": "Substitution",
+                        "time": 60,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Romuald Da Costa",
+                                "id": "1189133",
+                                "profileUrl": "/players/1189133/romuald-da-costa"
+                            },
+                            {
+                                "name": "Imad Sabik",
+                                "id": "1810263",
+                                "profileUrl": "/players/1810263/imad-sabik"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421414466Goal1473773undefinedfalse",
+                        "timeStr": 66,
+                        "type": "Goal",
+                        "time": 66,
+                        "overloadTime": null,
+                        "eventId": 14214144,
+                        "player": {
+                            "id": 1473773,
+                            "name": "Abderrazak Ennakouss",
+                            "profileUrl": "/players/1473773/abderrazak-ennakouss"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1473773/abderrazak-ennakouss",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abderrazak Ennakouss",
+                        "firstName": "Abderrazak",
+                        "lastName": "Ennakouss",
+                        "fullName": "Abderrazak Ennakouss",
+                        "playerId": 1473773,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined71SubstitutionNaN1979974true",
+                        "timeStr": 71,
+                        "type": "Substitution",
+                        "time": 71,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Koffi Konan",
+                                "id": "1979974",
+                                "profileUrl": "/players/1979974/koffi-konan"
+                            },
+                            {
+                                "name": "Hossam Essadak",
+                                "id": "1649146",
+                                "profileUrl": "/players/1649146/hossam-essadak"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined71SubstitutionNaN1687401true",
+                        "timeStr": 71,
+                        "type": "Substitution",
+                        "time": 71,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Yassine Zraa",
+                                "id": "1687401",
+                                "profileUrl": "/players/1687401/yassine-zraa"
+                            },
+                            {
+                                "name": "Saad Lotfi",
+                                "id": "1917080",
+                                "profileUrl": "/players/1917080/saad-lotfi"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421420081Card1329510undefinedtrue",
+                        "timeStr": 81,
+                        "type": "Card",
+                        "time": 81,
+                        "overloadTime": null,
+                        "eventId": 14214200,
+                        "player": {
+                            "id": 1329510,
+                            "name": "Mohamed Amine Essahel",
+                            "profileUrl": "/players/1329510/mohamed-amine-essahel"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1329510/mohamed-amine-essahel",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Mohamed Amine Essahel",
+                        "firstName": "Mohamed Amine",
+                        "lastName": "Essahel",
+                        "fullName": "Mohamed Amine Essahel",
+                        "playerId": 1329510,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN1810271false",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mouad Mouchtanim",
+                                "id": "1810271",
+                                "profileUrl": "/players/1810271/mouad-mouchtanim"
+                            },
+                            {
+                                "name": "Achraf Idrissi",
+                                "id": "1810243",
+                                "profileUrl": "/players/1810243/achraf-idrissi"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined84SubstitutionNaN1810274false",
+                        "timeStr": 84,
+                        "type": "Substitution",
+                        "time": 84,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Zakaria Oubraim",
+                                "id": "1810274",
+                                "profileUrl": "/players/1810274/zakaria-oubraim"
+                            },
+                            {
+                                "name": "Oussama Benchchaoui",
+                                "id": "1687467",
+                                "profileUrl": "/players/1687467/oussama-benchchaoui"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421421586Card1714020undefinedtrue",
+                        "timeStr": 86,
+                        "type": "Card",
+                        "time": 86,
+                        "overloadTime": null,
+                        "eventId": 14214215,
+                        "player": {
+                            "id": 1714020,
+                            "name": "Youness Dahmani",
+                            "profileUrl": "/players/1714020/youness-dahmani"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1714020/youness-dahmani",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Youness Dahmani",
+                        "firstName": "Youness",
+                        "lastName": "Dahmani",
+                        "fullName": "Youness Dahmani",
+                        "playerId": 1714020,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421423190Card1561571undefinedfalse",
+                        "timeStr": 90,
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14214231,
+                        "player": {
+                            "id": 1561571,
+                            "name": "Brahim El Idrissi Bouzidi",
+                            "profileUrl": "/players/1561571/brahim-el-idrissi-bouzidi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1561571/brahim-el-idrissi-bouzidi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Brahim El Idrissi Bouzidi",
+                        "firstName": "Brahim",
+                        "lastName": "El Idrissi Bouzidi",
+                        "fullName": "Brahim El Idrissi Bouzidi",
+                        "playerId": 1561571,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421425890Goal1473773undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14214258,
+                        "player": {
+                            "id": 1473773,
+                            "name": "Abderrazak Ennakouss",
+                            "profileUrl": "/players/1473773/abderrazak-ennakouss"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1473773/abderrazak-ennakouss",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abderrazak Ennakouss",
+                        "firstName": "Abderrazak",
+                        "lastName": "Ennakouss",
+                        "fullName": "Abderrazak Ennakouss",
+                        "playerId": 1473773,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mouad Mouchtanim",
+                        "assistProfileUrl": "/players/1810271/mouad-mouchtanim",
+                        "assistPlayerId": 1810271,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mouad Mouchtanim"
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Goal",
+                    "Assist",
+                    "Substitution",
+                    "Card",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-25T17:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 530,
+                    "parentLeagueId": 530,
+                    "link": "/leagues/530/overview/botola-pro",
+                    "leagueName": "Botola Pro",
+                    "roundName": "27",
+                    "round": "27"
+                },
+                "Stadium": {
+                    "name": "Al Medina Stadium",
+                    "country": ""
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102042_xsmall.png",
+                        "linkToMatch": "/matches/kacm-vs-union-touarga-sport/152q74pi#5658893",
+                        "date": {
+                            "utcTime": "2026-06-01T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102042/overview/kacm",
+                        "tooltipText": {
+                            "utcTime": "2026-06-01T16:00:00.000Z",
+                            "homeTeam": "Union Touarga Sport",
+                            "homeTeamId": 320835,
+                            "homeScore": "0",
+                            "awayTeam": "KACM",
+                            "awayTeamId": 102042,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "320835",
+                            "name": "Union Touarga Sport",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102042",
+                            "name": "KACM",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/950070_xsmall.png",
+                        "linkToMatch": "/matches/union-touarga-sport-vs-renaissance-club-zemamra/ab08zlzf#5740095",
+                        "date": {
+                            "utcTime": "2026-06-09T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/950070/overview/renaissance-club-zemamra",
+                        "tooltipText": {
+                            "utcTime": "2026-06-09T18:00:00.000Z",
+                            "homeTeam": "Renaissance Club Zemamra",
+                            "homeTeamId": 950070,
+                            "homeScore": "0",
+                            "awayTeam": "Union Touarga Sport",
+                            "awayTeamId": 320835,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "950070",
+                            "name": "Renaissance Club Zemamra",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "320835",
+                            "name": "Union Touarga Sport",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102049_xsmall.png",
+                        "linkToMatch": "/matches/raja-casablanca-vs-union-touarga-sport/152ryksd#5765492",
+                        "date": {
+                            "utcTime": "2026-06-14T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102049/overview/raja-casablanca",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T15:00:00.000Z",
+                            "homeTeam": "Raja Casablanca",
+                            "homeTeamId": 102049,
+                            "homeScore": "1",
+                            "awayTeam": "Union Touarga Sport",
+                            "awayTeamId": 320835,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "102049",
+                            "name": "Raja Casablanca",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "320835",
+                            "name": "Union Touarga Sport",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102032_xsmall.png",
+                        "linkToMatch": "/matches/codm-meknes-vs-union-touarga-sport/152nohsx#5778518",
+                        "date": {
+                            "utcTime": "2026-06-17T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102032/overview/codm-meknes",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T15:00:00.000Z",
+                            "homeTeam": "Union Touarga Sport",
+                            "homeTeamId": 320835,
+                            "homeScore": "2",
+                            "awayTeam": "CODM Meknes",
+                            "awayTeamId": 102032,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "320835",
+                            "name": "Union Touarga Sport",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102032",
+                            "name": "CODM Meknes",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102037_xsmall.png",
+                        "linkToMatch": "/matches/hassania-agadir-vs-union-touarga-sport/152oxt8v#5793736",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102037/overview/hassania-agadir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Hassania Agadir",
+                            "homeTeamId": 102037,
+                            "homeScore": "1",
+                            "awayTeam": "Union Touarga Sport",
+                            "awayTeamId": 320835,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "102037",
+                            "name": "Hassania Agadir",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "320835",
+                            "name": "Union Touarga Sport",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102035_xsmall.png",
+                        "linkToMatch": "/matches/difaa-el-jadida-vs-far-rabat/9kcxei5#5658900",
+                        "date": {
+                            "utcTime": "2026-06-04T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102035/overview/far-rabat",
+                        "tooltipText": {
+                            "utcTime": "2026-06-04T20:00:00.000Z",
+                            "homeTeam": "FAR Rabat",
+                            "homeTeamId": 102035,
+                            "homeScore": "2",
+                            "awayTeam": "Difaa El Jadida",
+                            "awayTeamId": 102033,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102033",
+                            "name": "Difaa El Jadida",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102036_xsmall.png",
+                        "linkToMatch": "/matches/difaa-el-jadida-vs-fus-rabat/9kd1ryr#5740089",
+                        "date": {
+                            "utcTime": "2026-06-08T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102036/overview/fus-rabat",
+                        "tooltipText": {
+                            "utcTime": "2026-06-08T16:00:00.000Z",
+                            "homeTeam": "FUS Rabat",
+                            "homeTeamId": 102036,
+                            "homeScore": "0",
+                            "awayTeam": "Difaa El Jadida",
+                            "awayTeamId": 102033,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "102036",
+                            "name": "FUS Rabat",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102033",
+                            "name": "Difaa El Jadida",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/570487_xsmall.png",
+                        "linkToMatch": "/matches/difaa-el-jadida-vs-olympique-dcheira/2vvze7tn#5765488",
+                        "date": {
+                            "utcTime": "2026-06-12T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/570487/overview/olympique-dcheira",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T17:00:00.000Z",
+                            "homeTeam": "Difaa El Jadida",
+                            "homeTeamId": 102033,
+                            "homeScore": "2",
+                            "awayTeam": "Olympique Dcheira",
+                            "awayTeamId": 570487,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "102033",
+                            "name": "Difaa El Jadida",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "570487",
+                            "name": "Olympique Dcheira",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102043_xsmall.png",
+                        "linkToMatch": "/matches/difaa-el-jadida-vs-mas-fes/9kdwe7t#5778516",
+                        "date": {
+                            "utcTime": "2026-06-17T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102043/overview/mas-fes",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T15:00:00.000Z",
+                            "homeTeam": "MAS Fes",
+                            "homeTeamId": 102043,
+                            "homeScore": "2",
+                            "awayTeam": "Difaa El Jadida",
+                            "awayTeamId": 102033,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "102043",
+                            "name": "MAS Fes",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102033",
+                            "name": "Difaa El Jadida",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102050_xsmall.png",
+                        "linkToMatch": "/matches/difaa-el-jadida-vs-wydad-casablanca/9ker0i8#5793733",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102050/overview/wydad-casablanca",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Difaa El Jadida",
+                            "homeTeamId": 102033,
+                            "homeScore": "1",
+                            "awayTeam": "Wydad Casablanca",
+                            "awayTeamId": 102050,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "102033",
+                            "name": "Difaa El Jadida",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102050",
+                            "name": "Wydad Casablanca",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5793746",
+                    "MatchId": 5793746,
+                    "HomeTeamId": 320835,
+                    "AwayTeamId": 102033,
+                    "HomeTeam": "Union Touarga Sport",
+                    "AwayTeam": "Difaa El Jadida",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "3",
+                                "2",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Difaa El Jadida haven't lost to Union Touarga Sport in their last 3 meetings (2W, 1D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Union Touarga Sport have an average of 1 goals in their last three matches and Difaa El Jadida have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Union Touarga Sport have an average of 1 goals in their last three matches and Difaa El Jadida have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "2",
+                                "2",
+                                "1",
+                                "away_team",
+                                "1",
+                                "2",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Union Touarga Sport have 2W, 2D, 1L in five matches while Difaa El Jadida have 1W, 2D, 2L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 320835,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 4 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 102033,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#105028"
+                }
+            ],
+            "countryCode": "MAR",
+            "QAData": [
+                {
+                    "question": "Who won between Union Touarga Sport and Difaa El Jadida on Thu, 25 Jun 2026 17:00:00 GMT?",
+                    "answer": "Difaa El Jadida won 2\u20131 over Union Touarga Sport on Thu, 25 Jun 2026 17:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        52,
+                                        48
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        14,
+                                        9
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        7,
+                                        6
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        0,
+                                        0
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "equal"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#DDDDDD",
+                            "away": "#105028"
+                        },
+                        "lightMode": {
+                            "home": "#333333",
+                            "away": "#105028"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(29, 29, 29, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5793746,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 320835,
+                "name": "Union Touarga Sport",
+                "formation": "4-2-3-1",
+                "starters": [
+                    {
+                        "id": 1810756,
+                        "age": 21,
+                        "name": "Houssam Bouelainine",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "36",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "firstName": "Houssam",
+                        "lastName": "Bouelainine",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1816803,
+                        "age": 18,
+                        "name": "Taha Majni",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "25",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "Taha",
+                        "lastName": "Majni",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1637797,
+                        "age": 28,
+                        "name": "Mehdi Ashabi",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "41",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 143617,
+                        "firstName": "Mehdi",
+                        "lastName": "Ashabi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1404469,
+                        "age": 28,
+                        "name": "Tahar Ahmed El Khalej",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Portugal",
+                        "countryCode": "POR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 300181,
+                        "firstName": "Tahar Ahmed",
+                        "lastName": "El Khalej",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1415489,
+                        "age": 28,
+                        "name": "Redouane Ait Lemkadem",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "33",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 375981,
+                        "firstName": "Redouane",
+                        "lastName": "Ait Lemkadem",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1011896,
+                        "age": 29,
+                        "name": "Hamza Regragui",
+                        "positionId": 64,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 234390,
+                        "firstName": "Hamza",
+                        "lastName": "Regragui",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1649146,
+                        "age": 20,
+                        "name": "Hossam Essadak",
+                        "positionId": 66,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 1317672,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 51
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hossam",
+                        "lastName": "Essadak",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1917080,
+                        "name": "Saad Lotfi",
+                        "positionId": 83,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "70",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.837,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.162,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.325
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Saad",
+                        "lastName": "Lotfi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1497833,
+                        "age": 27,
+                        "name": "Walid Rhailouf",
+                        "positionId": 85,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "31",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.337
+                        },
+                        "marketValue": 244000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Walid",
+                        "lastName": "Rhailouf",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1714020,
+                        "age": 25,
+                        "name": "Youness Dahmani",
+                        "positionId": 87,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.163,
+                            "height": 0.25,
+                            "width": 0.193
+                        },
+                        "verticalLayout": {
+                            "x": 0.837,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.325
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 86
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 51
+                                }
+                            ]
+                        },
+                        "firstName": "Youness",
+                        "lastName": "Dahmani",
+                        "rankings": null
+                    },
+                    {
+                        "id": 562697,
+                        "age": 34,
+                        "name": "Yacine Bammou",
+                        "positionId": 115,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "marketValue": 379540,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Yacine",
+                        "lastName": "Bammou",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1928719,
+                    "age": 49,
+                    "name": "Mimoun Mokhtari",
+                    "countryName": "France",
+                    "countryCode": "FRA",
+                    "firstName": "Mimoun",
+                    "lastName": "Mokhtari",
+                    "primaryTeamId": 320835,
+                    "primaryTeamName": "Union Touarga Sport",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1329510,
+                        "age": 23,
+                        "name": "Mohamed Amine Essahel",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 456875,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 81
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mohamed Amine",
+                        "lastName": "Essahel",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2035449,
+                        "age": 20,
+                        "name": "Samuel Tebily",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "59",
+                        "countryName": "Ivory Coast",
+                        "countryCode": "CIV",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Samuel",
+                        "lastName": "Tebily",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1979974,
+                        "name": "Koffi Konan",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "45",
+                        "countryName": "Ivory Coast",
+                        "countryCode": "CIV",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Koffi",
+                        "lastName": "Konan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1687401,
+                        "age": 26,
+                        "name": "Yassine Zraa",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "39",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 330473,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Yassine",
+                        "lastName": "Zraa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1659624,
+                        "age": 24,
+                        "name": "Mohamed Reda Asmama",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Mohamed Reda",
+                        "lastName": "Asmama",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1325103,
+                        "age": 23,
+                        "name": "Anas Nanah",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 326287,
+                        "firstName": "Anas",
+                        "lastName": "Nanah",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1614064,
+                        "age": 27,
+                        "name": "Youssef Kajai",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 309391,
+                        "firstName": "Youssef",
+                        "lastName": "Kajai",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1917079,
+                        "age": 21,
+                        "name": "Mohamed Es Sahel",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "30",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Mohamed Es",
+                        "lastName": "Sahel",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.4
+            },
+            "awayTeam": {
+                "id": 102033,
+                "name": "Difaa El Jadida",
+                "formation": "5-4-1",
+                "starters": [
+                    {
+                        "id": 624136,
+                        "age": 29,
+                        "name": "Babacar Niasse",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "30",
+                        "countryName": "Mauritania",
+                        "countryCode": "MTN",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 318089,
+                        "firstName": "Babacar",
+                        "lastName": "Niasse",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1694063,
+                        "age": 22,
+                        "name": "Abdoulaye Sanogo",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Mali",
+                        "countryCode": "MLI",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "firstName": "Abdoulaye",
+                        "lastName": "Sanogo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1254700,
+                        "age": 27,
+                        "name": "Mohamed Bentarcha",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "14",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 267000,
+                        "firstName": "Mohamed",
+                        "lastName": "Bentarcha",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1687528,
+                        "age": 30,
+                        "name": "Hamza Malki",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 379193,
+                        "firstName": "Hamza",
+                        "lastName": "Malki",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1687467,
+                        "age": 25,
+                        "name": "Oussama Benchchaoui",
+                        "positionId": 51,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Oussama",
+                        "lastName": "Benchchaoui",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1687493,
+                        "age": 28,
+                        "name": "Soufiane Abaaziz",
+                        "positionId": 59,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 269369,
+                        "firstName": "Soufiane",
+                        "lastName": "Abaaziz",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810263,
+                        "age": 29,
+                        "name": "Imad Sabik",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Imad",
+                        "lastName": "Sabik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1763480,
+                        "age": 27,
+                        "name": "Mohamed Hilali",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "21",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Mohamed",
+                        "lastName": "Hilali",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1561571,
+                        "age": 26,
+                        "name": "Brahim El Idrissi Bouzidi",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 430192,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Brahim",
+                        "lastName": "El Idrissi Bouzidi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810269,
+                        "age": 23,
+                        "name": "Abdellah Ziani",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "77",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Abdellah",
+                        "lastName": "Ziani",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810243,
+                        "age": 26,
+                        "name": "Achraf Idrissi",
+                        "positionId": 115,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "99",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Achraf",
+                        "lastName": "Idrissi",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 827373,
+                    "age": 56,
+                    "name": "Rui Almeida",
+                    "countryName": "Portugal",
+                    "countryCode": "POR",
+                    "firstName": "Rui",
+                    "lastName": "Almeida",
+                    "primaryTeamId": 102033,
+                    "primaryTeamName": "Difaa El Jadida",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1473773,
+                        "age": 25,
+                        "name": "Abderrazak Ennakouss",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "17",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 294739,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 66
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Abderrazak",
+                        "lastName": "Ennakouss",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1189133,
+                        "age": 26,
+                        "name": "Romuald Da Costa",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "80",
+                        "countryName": "Senegal",
+                        "countryCode": "SEN",
+                        "marketValue": 404249,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 60,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Romuald",
+                        "lastName": "Da Costa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810271,
+                        "age": 27,
+                        "name": "Mouad Mouchtanim",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 327375,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 90
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mouad",
+                        "lastName": "Mouchtanim",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810274,
+                        "age": 24,
+                        "name": "Zakaria Oubraim",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Zakaria",
+                        "lastName": "Oubraim",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1687465,
+                        "age": 24,
+                        "name": "Ayoub Ait Wahmane",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "16",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 260705,
+                        "firstName": "Ayoub",
+                        "lastName": "Ait Wahmane",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1897378,
+                        "name": "Aymen Riyane",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Aymen",
+                        "lastName": "Riyane",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1687562,
+                        "age": 19,
+                        "name": "Houdaifa Jamaane",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 391133,
+                        "firstName": "Houdaifa",
+                        "lastName": "Jamaane",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1833430,
+                        "age": 23,
+                        "name": "Anass Mostakim",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "12",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Anass",
+                        "lastName": "Mostakim",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1195198,
+                        "age": 27,
+                        "name": "Youssef Michte",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "88",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 285783,
+                        "firstName": "Youssef",
+                        "lastName": "Michte",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.9
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "530",
+            "url": "https://data.fotmob.com/tables.ext.530.fot.gz",
+            "teams": [
+                320835,
+                102033
+            ],
+            "tournamentNameForUrl": "Botola Pro",
+            "parentLeagueId": 530,
+            "countryCode": "MAR"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                1,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-02-14T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/difaa-el-jadida-vs-union-touarga-sport/152nxk39#5169133",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Difaa El Jadida",
+                        "id": "102033"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-14T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Union Touarga Sport",
+                        "id": "320835"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-02-27T21:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/difaa-el-jadida-vs-union-touarga-sport/152nxk39#4736274",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Difaa El Jadida",
+                        "id": "102033"
+                    },
+                    "status": {
+                        "utcTime": "2025-02-27T21:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Union Touarga Sport",
+                        "id": "320835"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-10-26T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/difaa-el-jadida-vs-union-touarga-sport/152nxk39#4657556",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Union Touarga Sport",
+                        "id": "320835"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-26T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Difaa El Jadida",
+                        "id": "102033"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-01-29T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/difaa-el-jadida-vs-union-touarga-sport/152nxk39#4108686",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Union Touarga Sport",
+                        "id": "320835"
+                    },
+                    "status": {
+                        "utcTime": "2023-01-29T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Difaa El Jadida",
+                        "id": "102033"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-09-02T20:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/difaa-el-jadida-vs-union-touarga-sport/152nxk39#4004648",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Difaa El Jadida",
+                        "id": "102033"
+                    },
+                    "status": {
+                        "utcTime": "2022-09-02T20:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Union Touarga Sport",
+                        "id": "320835"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "union-touarga-sport-vs-difaa-el-jadida",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5793746",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Union Touarga Sport",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/320835.png",
+                "url": "https://www.fotmob.com/teams/320835/overview/union-touarga-sport",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Difaa El Jadida",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png",
+                "url": "https://www.fotmob.com/teams/102033/overview/difaa-el-jadida",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Union Touarga Sport vs Difaa El Jadida",
+            "description": "Follow Union Touarga Sport vs Difaa El Jadida live on fotmob.com",
+            "startDate": "2026-06-25T17:00:00.000Z",
+            "endDate": "2026-06-25T19:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Al Medina Stadium",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/320835.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/102033.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5793746",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-25T17:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Union Touarga Sport",
+                    "url": "https://www.fotmob.com/teams/320835/overview/union-touarga-sport"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Difaa El Jadida",
+                    "url": "https://www.fotmob.com/teams/102033/overview/difaa-el-jadida"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Union Touarga Sport - Difaa El Jadida",
+                        "item": "https://www.fotmob.com/match/5793746"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Difaa El Jadida",
+                        "item": "https://www.fotmob.com/teams/102033/overview/difaa-el-jadida"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Union Touarga Sport - Difaa El Jadida",
+                        "item": "https://www.fotmob.com/match/5793746"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Union Touarga Sport",
+                        "item": "https://www.fotmob.com/teams/320835/overview/union-touarga-sport"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Union Touarga Sport - Difaa El Jadida",
+                        "item": "https://www.fotmob.com/match/5793746"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Union Touarga Sport and Difaa El Jadida on Thu, 25 Jun 2026 17:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Difaa El Jadida won 2\u20131 over Union Touarga Sport on Thu, 25 Jun 2026 17:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

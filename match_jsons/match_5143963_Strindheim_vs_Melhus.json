@@ -1,0 +1,1119 @@
+{
+    "general": {
+        "matchId": "5143963",
+        "matchName": "Strindheim-vs-Melhus_Thu, Jun 25, 2026, 17:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#0055bb",
+                "away": "#DDDDDD"
+            },
+            "lightMode": {
+                "home": "#353797",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919793,
+        "leagueName": "3. Divisjon Avd. 2",
+        "leagueRoundName": "12",
+        "parentLeagueId": 205,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Strindheim",
+            "id": 10022
+        },
+        "awayTeam": {
+            "name": "Melhus",
+            "id": 2309
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Thu, Jun 25, 2026, 17:00 UTC",
+        "matchTimeUTCDate": "2026-06-25T17:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Strindheim",
+                "id": 10022,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10022_small.png",
+                "pageUrl": "/teams/10022/overview/strindheim"
+            },
+            {
+                "name": "Melhus",
+                "id": 2309,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2309_small.png",
+                "pageUrl": "/teams/2309/overview/melhus"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-25T17:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "25.06.2026 19:02:21",
+                "firstHalfEnded": "25.06.2026 19:47:35",
+                "secondHalfStarted": "25.06.2026 20:00:20",
+                "secondHalfEnded": "25.06.2026 20:53:11",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "25.06.2026 20:53:11"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Fredhall": [
+                    {
+                        "reactKey": "1421404119Goal1164858undefinedtrue",
+                        "timeStr": 19,
+                        "type": "Goal",
+                        "time": 19,
+                        "overloadTime": null,
+                        "eventId": 14214041,
+                        "player": {
+                            "id": 1164858,
+                            "name": "Filip Fredhall",
+                            "profileUrl": "/players/1164858/filip-fredhall"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1164858/filip-fredhall",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Filip Fredhall",
+                        "firstName": "Filip",
+                        "lastName": "Fredhall",
+                        "fullName": "Filip Fredhall",
+                        "playerId": 1164858,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Smith": [
+                    {
+                        "reactKey": "1421411664Goal1581169undefinedtrue",
+                        "timeStr": 64,
+                        "type": "Goal",
+                        "time": 64,
+                        "overloadTime": null,
+                        "eventId": 14214116,
+                        "player": {
+                            "id": 1581169,
+                            "name": "David Azah Smith",
+                            "profileUrl": "/players/1581169/david-azah-smith"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1581169/david-azah-smith",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "David Azah Smith",
+                        "firstName": "David Azah",
+                        "lastName": "Smith",
+                        "fullName": "David Azah Smith",
+                        "playerId": 1581169,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Eid": [
+                    {
+                        "reactKey": "1421422590Goal1280940undefinedfalse",
+                        "timeStr": "90 + 5",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "eventId": 14214225,
+                        "player": {
+                            "id": 1280940,
+                            "name": "Mathias R\u00f8nningsbakk Eid",
+                            "profileUrl": "/players/1280940/mathias-ronningsbakk-eid"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1280940/mathias-ronningsbakk-eid",
+                        "overloadTimeStr": "+5",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mathias R\u00f8nningsbakk Eid",
+                        "firstName": "Mathias R\u00f8nningsbakk",
+                        "lastName": "Eid",
+                        "fullName": "Mathias R\u00f8nningsbakk Eid",
+                        "playerId": 1280940,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5143963,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421404119Goal1164858undefinedtrue",
+                        "timeStr": 19,
+                        "type": "Goal",
+                        "time": 19,
+                        "overloadTime": null,
+                        "eventId": 14214041,
+                        "player": {
+                            "id": 1164858,
+                            "name": "Filip Fredhall",
+                            "profileUrl": "/players/1164858/filip-fredhall"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1164858/filip-fredhall",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Filip Fredhall",
+                        "firstName": "Filip",
+                        "lastName": "Fredhall",
+                        "fullName": "Filip Fredhall",
+                        "playerId": 1164858,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421411664Goal1581169undefinedtrue",
+                        "timeStr": 64,
+                        "type": "Goal",
+                        "time": 64,
+                        "overloadTime": null,
+                        "eventId": 14214116,
+                        "player": {
+                            "id": 1581169,
+                            "name": "David Azah Smith",
+                            "profileUrl": "/players/1581169/david-azah-smith"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1581169/david-azah-smith",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "David Azah Smith",
+                        "firstName": "David Azah",
+                        "lastName": "Smith",
+                        "fullName": "David Azah Smith",
+                        "playerId": 1581169,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421422590Goal1280940undefinedfalse",
+                        "timeStr": "90 + 5",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "eventId": 14214225,
+                        "player": {
+                            "id": 1280940,
+                            "name": "Mathias R\u00f8nningsbakk Eid",
+                            "profileUrl": "/players/1280940/mathias-ronningsbakk-eid"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1280940/mathias-ronningsbakk-eid",
+                        "overloadTimeStr": "+5",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mathias R\u00f8nningsbakk Eid",
+                        "firstName": "Mathias R\u00f8nningsbakk",
+                        "lastName": "Eid",
+                        "fullName": "Mathias R\u00f8nningsbakk Eid",
+                        "playerId": 1280940,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-25T17:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919793,
+                    "parentLeagueId": 205,
+                    "link": "/leagues/205/overview/3-divisjon-avd-2",
+                    "leagueName": "3. Divisjon Avd. 2",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4332_xsmall.png",
+                        "linkToMatch": "/matches/kvik-vs-strindheim/1pcal3#5143932",
+                        "date": {
+                            "utcTime": "2026-05-14T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4332/overview/kvik",
+                        "tooltipText": {
+                            "utcTime": "2026-05-14T13:00:00.000Z",
+                            "homeTeam": "Kvik",
+                            "homeTeamId": 4332,
+                            "homeScore": "2",
+                            "awayTeam": "Strindheim",
+                            "awayTeamId": 10022,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "4332",
+                            "name": "Kvik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10022",
+                            "name": "Strindheim",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4363_xsmall.png",
+                        "linkToMatch": "/matches/nardo-vs-strindheim/1pluc4#5143940",
+                        "date": {
+                            "utcTime": "2026-05-25T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4363/overview/nardo",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T12:00:00.000Z",
+                            "homeTeam": "Strindheim",
+                            "homeTeamId": 10022,
+                            "homeScore": "4",
+                            "awayTeam": "Nardo",
+                            "awayTeamId": 4363,
+                            "awayScore": "1"
+                        },
+                        "score": "4 - 1",
+                        "home": {
+                            "id": "10022",
+                            "name": "Strindheim",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4363",
+                            "name": "Nardo",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8114_xsmall.png",
+                        "linkToMatch": "/matches/aalesund-2-vs-strindheim/2px9a6#5143947",
+                        "date": {
+                            "utcTime": "2026-05-31T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8114/overview/aalesund-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T14:00:00.000Z",
+                            "homeTeam": "Aalesund 2",
+                            "homeTeamId": 8114,
+                            "homeScore": "3",
+                            "awayTeam": "Strindheim",
+                            "awayTeamId": 10022,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "8114",
+                            "name": "Aalesund 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10022",
+                            "name": "Strindheim",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2318_xsmall.png",
+                        "linkToMatch": "/matches/spjelkavik-vs-strindheim/19c2uo#5143950",
+                        "date": {
+                            "utcTime": "2026-06-13T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2318/overview/spjelkavik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:00:00.000Z",
+                            "homeTeam": "Strindheim",
+                            "homeTeamId": 10022,
+                            "homeScore": "2",
+                            "awayTeam": "Spjelkavik",
+                            "awayTeamId": 2318,
+                            "awayScore": "4"
+                        },
+                        "score": "2 - 4",
+                        "home": {
+                            "id": "10022",
+                            "name": "Strindheim",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2318",
+                            "name": "Spjelkavik",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8519_xsmall.png",
+                        "linkToMatch": "/matches/molde-2-vs-strindheim/2ucgj6#5143961",
+                        "date": {
+                            "utcTime": "2026-06-21T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8519/overview/molde-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T11:00:00.000Z",
+                            "homeTeam": "Molde 2",
+                            "homeTeamId": 8519,
+                            "homeScore": "2",
+                            "awayTeam": "Strindheim",
+                            "awayTeamId": 10022,
+                            "awayScore": "4"
+                        },
+                        "score": "2 - 4",
+                        "home": {
+                            "id": "8519",
+                            "name": "Molde 2",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10022",
+                            "name": "Strindheim",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2318_xsmall.png",
+                        "linkToMatch": "/matches/melhus-vs-spjelkavik/6dj9o#5143930",
+                        "date": {
+                            "utcTime": "2026-05-14T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2318/overview/spjelkavik",
+                        "tooltipText": {
+                            "utcTime": "2026-05-14T13:00:00.000Z",
+                            "homeTeam": "Spjelkavik",
+                            "homeTeamId": 2318,
+                            "homeScore": "0",
+                            "awayTeam": "Melhus",
+                            "awayTeamId": 2309,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "2318",
+                            "name": "Spjelkavik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2309",
+                            "name": "Melhus",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4366_xsmall.png",
+                        "linkToMatch": "/matches/melhus-vs-orkla/d9nm4#5143938",
+                        "date": {
+                            "utcTime": "2026-05-22T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4366/overview/orkla",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T17:00:00.000Z",
+                            "homeTeam": "Orkla",
+                            "homeTeamId": 4366,
+                            "homeScore": "0",
+                            "awayTeam": "Melhus",
+                            "awayTeamId": 2309,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "4366",
+                            "name": "Orkla",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2309",
+                            "name": "Melhus",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8519_xsmall.png",
+                        "linkToMatch": "/matches/melhus-vs-molde-2/ywsdx#5143948",
+                        "date": {
+                            "utcTime": "2026-05-30T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8519/overview/molde-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T13:00:00.000Z",
+                            "homeTeam": "Melhus",
+                            "homeTeamId": 2309,
+                            "homeScore": "3",
+                            "awayTeam": "Molde 2",
+                            "awayTeamId": 8519,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "2309",
+                            "name": "Melhus",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8519",
+                            "name": "Molde 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9801_xsmall.png",
+                        "linkToMatch": "/matches/melhus-vs-byasen/17nyz6#5143954",
+                        "date": {
+                            "utcTime": "2026-06-14T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9801/overview/byasen",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T12:00:00.000Z",
+                            "homeTeam": "By\u00e5sen",
+                            "homeTeamId": 9801,
+                            "homeScore": "3",
+                            "awayTeam": "Melhus",
+                            "awayTeamId": 2309,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "9801",
+                            "name": "By\u00e5sen",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2309",
+                            "name": "Melhus",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10257_xsmall.png",
+                        "linkToMatch": "/matches/melhus-vs-rosenborg-2/1b0eiq#5143956",
+                        "date": {
+                            "utcTime": "2026-06-19T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10257/overview/rosenborg-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-19T17:00:00.000Z",
+                            "homeTeam": "Melhus",
+                            "homeTeamId": 2309,
+                            "homeScore": "1",
+                            "awayTeam": "Rosenborg 2",
+                            "awayTeamId": 10257,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "2309",
+                            "name": "Melhus",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10257",
+                            "name": "Rosenborg 2",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5143963",
+                    "MatchId": 5143963,
+                    "HomeTeamId": 10022,
+                    "AwayTeamId": 2309,
+                    "HomeTeam": "Strindheim",
+                    "AwayTeam": "Melhus",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "0",
+                                "2",
+                                "away_team",
+                                "2",
+                                "2",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Strindheim have 3W, 0D, 2L in five matches while Melhus have 2W, 2D, 1L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "12",
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Strindheim have scored in their last 12 matches and Melhus have scored in their last 4 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "8",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Strindheim have scored 8 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Strindheim haven't drawn in their last 6 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 10022,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 15,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 15 goals in their last 5 matches",
+                    "color": "#353797"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2309,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Strindheim and Melhus on Thu, 25 Jun 2026 17:00:00 GMT?",
+                    "answer": "Strindheim won 2\u20131 over Melhus on Thu, 25 Jun 2026 17:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919793",
+            "url": "https://data.fotmob.com/tables.ext.919793.fot.gz",
+            "teams": [
+                10022,
+                2309
+            ],
+            "tournamentNameForUrl": "3. Divisjon Avd. 2",
+            "parentLeagueId": 205,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                0,
+                0
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2022-05-19T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/melhus-vs-strindheim/199p6f#3860285",
+                    "league": {
+                        "name": "Cup",
+                        "id": "206",
+                        "pageUrl": "/leagues/206/overview/cup"
+                    },
+                    "home": {
+                        "name": "Melhus",
+                        "id": "2309"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-19T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Strindheim",
+                        "id": "10022"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "strindheim-vs-melhus",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5143963",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Strindheim",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10022.png",
+                "url": "https://www.fotmob.com/teams/10022/overview/strindheim",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Melhus",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2309.png",
+                "url": "https://www.fotmob.com/teams/2309/overview/melhus",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Strindheim vs Melhus",
+            "description": "Follow Strindheim vs Melhus live on fotmob.com",
+            "startDate": "2026-06-25T17:00:00.000Z",
+            "endDate": "2026-06-25T19:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/10022.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2309.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5143963",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-25T17:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Strindheim",
+                    "url": "https://www.fotmob.com/teams/10022/overview/strindheim"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Melhus",
+                    "url": "https://www.fotmob.com/teams/2309/overview/melhus"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Strindheim - Melhus",
+                        "item": "https://www.fotmob.com/match/5143963"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Melhus",
+                        "item": "https://www.fotmob.com/teams/2309/overview/melhus"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Strindheim - Melhus",
+                        "item": "https://www.fotmob.com/match/5143963"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 2",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Strindheim",
+                        "item": "https://www.fotmob.com/teams/10022/overview/strindheim"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Strindheim - Melhus",
+                        "item": "https://www.fotmob.com/match/5143963"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Strindheim and Melhus on Thu, 25 Jun 2026 17:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Strindheim won 2\u20131 over Melhus on Thu, 25 Jun 2026 17:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

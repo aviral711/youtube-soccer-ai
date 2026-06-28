@@ -1,0 +1,2660 @@
+{
+    "general": {
+        "matchId": "5107870",
+        "matchName": "Pite\u00e5 IF-vs-Hammarby IF_Thu, Jun 25, 2026, 16:00 UTC",
+        "matchRound": "11",
+        "teamColors": {
+            "darkMode": {
+                "home": "#D1141B",
+                "away": "#00AD5E"
+            },
+            "lightMode": {
+                "home": "#D1141B",
+                "away": "#00AD5E"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 9089,
+        "leagueName": "Damallsvenskan",
+        "leagueRoundName": "11",
+        "parentLeagueId": 9089,
+        "countryCode": "SWE",
+        "homeTeam": {
+            "name": "Pite\u00e5 IF",
+            "id": 181471
+        },
+        "awayTeam": {
+            "name": "Hammarby IF",
+            "id": 181469
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Thu, Jun 25, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-06-25T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Pite\u00e5 IF",
+                "id": 181471,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181471_small.png",
+                "pageUrl": "/teams/181471/overview/pitea-if"
+            },
+            {
+                "name": "Hammarby IF",
+                "id": 181469,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181469_small.png",
+                "pageUrl": "/teams/181469/overview/hammarby-if"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-25T16:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "25.06.2026 18:00:52",
+                "firstHalfEnded": "25.06.2026 18:47:45",
+                "secondHalfStarted": "25.06.2026 19:03:36",
+                "secondHalfEnded": "25.06.2026 19:54:24",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "25.06.2026 19:54:24"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Olsson": [
+                    {
+                        "reactKey": "1421401328Goal1349387undefinedtrue",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14214013,
+                        "player": {
+                            "id": 1349387,
+                            "name": "Julia Olsson",
+                            "profileUrl": "/players/1349387/julia-olsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1349387/julia-olsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Julia Olsson",
+                        "firstName": "Julia",
+                        "lastName": "Olsson",
+                        "fullName": "Julia Olsson",
+                        "playerId": 1349387,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Shiho Matsubara",
+                        "assistProfileUrl": "/players/1530884/shiho-matsubara",
+                        "assistPlayerId": 1530884,
+                        "assistKey": "assist_by",
+                        "assistInput": "Shiho Matsubara"
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Simonovi\u0107": [
+                    {
+                        "reactKey": "1421408088Goal0undefinedfalse",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14214080,
+                        "player": {
+                            "id": 0,
+                            "name": "Andrea Simonovi\u0107",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andrea Simonovi\u0107",
+                        "firstName": "Andrea",
+                        "lastName": "Simonovi\u0107",
+                        "fullName": "Andrea Simonovi\u0107",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5107870,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421401328Goal1349387undefinedtrue",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14214013,
+                        "player": {
+                            "id": 1349387,
+                            "name": "Julia Olsson",
+                            "profileUrl": "/players/1349387/julia-olsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1349387/julia-olsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Julia Olsson",
+                        "firstName": "Julia",
+                        "lastName": "Olsson",
+                        "fullName": "Julia Olsson",
+                        "playerId": 1349387,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Shiho Matsubara",
+                        "assistProfileUrl": "/players/1530884/shiho-matsubara",
+                        "assistPlayerId": 1530884,
+                        "assistKey": "assist_by",
+                        "assistInput": "Shiho Matsubara"
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined59SubstitutionNaN1241256false",
+                        "timeStr": 59,
+                        "type": "Substitution",
+                        "time": 59,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mathilde Janzen",
+                                "id": "1241256",
+                                "profileUrl": "/players/1241256/mathilde-janzen"
+                            },
+                            {
+                                "name": "Vilma Koivisto",
+                                "id": "961639",
+                                "profileUrl": "/players/961639/vilma-koivisto"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined59SubstitutionNaN1349360false",
+                        "timeStr": 59,
+                        "type": "Substitution",
+                        "time": 59,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Svea Rehnberg",
+                                "id": "1349360",
+                                "profileUrl": "/players/1349360/svea-rehnberg"
+                            },
+                            {
+                                "name": "Fanny Peterson",
+                                "id": "1752848",
+                                "profileUrl": "/players/1752848/fanny-peterson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined71SubstitutionNaN1934628true",
+                        "timeStr": 71,
+                        "type": "Substitution",
+                        "time": 71,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mia Endacott-Foster",
+                                "id": "1934628",
+                                "profileUrl": "/players/1934628/mia-endacott-foster"
+                            },
+                            {
+                                "name": "Amirah Ali",
+                                "id": "1352861",
+                                "profileUrl": "/players/1352861/amirah-ali"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined76SubstitutionNaN1580415false",
+                        "timeStr": 76,
+                        "type": "Substitution",
+                        "time": 76,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Vivienne Lia",
+                                "id": "1580415",
+                                "profileUrl": "/players/1580415/vivienne-lia"
+                            },
+                            {
+                                "name": "Mari Rosendal Nyhagen",
+                                "id": "1257839",
+                                "profileUrl": "/players/1257839/mari-rosendal-nyhagen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined77SubstitutionNaN1456034true",
+                        "timeStr": 77,
+                        "type": "Substitution",
+                        "time": 77,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Matilda Ekblom",
+                                "id": "1456034",
+                                "profileUrl": "/players/1456034/matilda-ekblom"
+                            },
+                            {
+                                "name": "Sharon Sampson",
+                                "id": "1637014",
+                                "profileUrl": "/players/1637014/sharon-sampson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined86SubstitutionNaN1081883false",
+                        "timeStr": 86,
+                        "type": "Substitution",
+                        "time": 86,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Madison Pogarch",
+                                "id": "1081883",
+                                "profileUrl": "/players/1081883/madison-pogarch"
+                            },
+                            {
+                                "name": "Alice Carlsson",
+                                "id": "1241164",
+                                "profileUrl": "/players/1241164/alice-carlsson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421408088Goal0undefinedfalse",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14214080,
+                        "player": {
+                            "id": 0,
+                            "name": "Andrea Simonovi\u0107",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andrea Simonovi\u0107",
+                        "firstName": "Andrea",
+                        "lastName": "Simonovi\u0107",
+                        "fullName": "Andrea Simonovi\u0107",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined89SubstitutionNaN1494310true",
+                        "timeStr": 89,
+                        "type": "Substitution",
+                        "time": 89,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Stina Andersson",
+                                "id": "1494310",
+                                "profileUrl": "/players/1494310/stina-andersson"
+                            },
+                            {
+                                "name": "Alexandra Hellekant",
+                                "id": "1397305",
+                                "profileUrl": "/players/1397305/alexandra-hellekant"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Assist",
+                    "Half",
+                    "Substitution"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-25T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 9089,
+                    "parentLeagueId": 9089,
+                    "link": "/leagues/9089/overview/damallsvenskan",
+                    "leagueName": "Damallsvenskan",
+                    "roundName": "11",
+                    "round": "11"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181468_xsmall.png",
+                        "linkToMatch": "/matches/aik-vs-pitea-if/u98ype1#5107830",
+                        "date": {
+                            "utcTime": "2026-05-17T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181468/overview/aik",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T13:00:00.000Z",
+                            "homeTeam": "AIK",
+                            "homeTeamId": 181468,
+                            "homeScore": "2",
+                            "awayTeam": "Pite\u00e5 IF",
+                            "awayTeamId": 181471,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "181468",
+                            "name": "AIK",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181471",
+                            "name": "Pite\u00e5 IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181466_xsmall.png",
+                        "linkToMatch": "/matches/djurgarden-vs-pitea-if/u98j5as#5107842",
+                        "date": {
+                            "utcTime": "2026-05-22T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181466/overview/djurgarden",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T16:00:00.000Z",
+                            "homeTeam": "Pite\u00e5 IF",
+                            "homeTeamId": 181471,
+                            "homeScore": "0",
+                            "awayTeam": "Djurg\u00e5rden",
+                            "awayTeamId": 181466,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "181471",
+                            "name": "Pite\u00e5 IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "181466",
+                            "name": "Djurg\u00e5rden",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/550910_xsmall.png",
+                        "linkToMatch": "/matches/pitea-if-vs-ifk-norrkoping/3f7eisb5#5107846",
+                        "date": {
+                            "utcTime": "2026-05-30T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/550910/overview/ifk-norrkoping",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T13:00:00.000Z",
+                            "homeTeam": "IFK Norrk\u00f6ping",
+                            "homeTeamId": 550910,
+                            "homeScore": "1",
+                            "awayTeam": "Pite\u00e5 IF",
+                            "awayTeamId": 181471,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "550910",
+                            "name": "IFK Norrk\u00f6ping",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181471",
+                            "name": "Pite\u00e5 IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1142849_xsmall.png",
+                        "linkToMatch": "/matches/pitea-if-vs-brommapojkarna/b6uj3t67#5107855",
+                        "date": {
+                            "utcTime": "2026-06-13T10:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1142849/overview/brommapojkarna",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T10:30:00.000Z",
+                            "homeTeam": "Pite\u00e5 IF",
+                            "homeTeamId": 181471,
+                            "homeScore": "1",
+                            "awayTeam": "Brommapojkarna",
+                            "awayTeamId": 1142849,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "181471",
+                            "name": "Pite\u00e5 IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1142849",
+                            "name": "Brommapojkarna",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/514392_xsmall.png",
+                        "linkToMatch": "/matches/pitea-if-vs-eskilstuna-united-dff/33844zfg#5107860",
+                        "date": {
+                            "utcTime": "2026-06-18T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/514392/overview/eskilstuna-united-dff",
+                        "tooltipText": {
+                            "utcTime": "2026-06-18T14:00:00.000Z",
+                            "homeTeam": "Eskilstuna United DFF",
+                            "homeTeamId": 514392,
+                            "homeScore": "2",
+                            "awayTeam": "Pite\u00e5 IF",
+                            "awayTeamId": 181471,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "514392",
+                            "name": "Eskilstuna United DFF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181471",
+                            "name": "Pite\u00e5 IF",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181470_xsmall.png",
+                        "linkToMatch": "/matches/hammarby-if-vs-kristianstads-dff/u98ype0#5107841",
+                        "date": {
+                            "utcTime": "2026-05-23T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181470/overview/kristianstads-dff",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T13:00:00.000Z",
+                            "homeTeam": "Kristianstads DFF",
+                            "homeTeamId": 181470,
+                            "homeScore": "0",
+                            "awayTeam": "Hammarby IF",
+                            "awayTeamId": 181469,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "181470",
+                            "name": "Kristianstads DFF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181469",
+                            "name": "Hammarby IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/514392_xsmall.png",
+                        "linkToMatch": "/matches/hammarby-if-vs-eskilstuna-united-dff/3383b5kf#5107811",
+                        "date": {
+                            "utcTime": "2026-05-27T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/514392/overview/eskilstuna-united-dff",
+                        "tooltipText": {
+                            "utcTime": "2026-05-27T17:00:00.000Z",
+                            "homeTeam": "Eskilstuna United DFF",
+                            "homeTeamId": 514392,
+                            "homeScore": "0",
+                            "awayTeam": "Hammarby IF",
+                            "awayTeamId": 181469,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "514392",
+                            "name": "Eskilstuna United DFF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181469",
+                            "name": "Hammarby IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/300220_xsmall.png",
+                        "linkToMatch": "/matches/hammarby-if-vs-vittsjo-gik/1hamyiip#5107850",
+                        "date": {
+                            "utcTime": "2026-05-31T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/300220/overview/vittsjo-gik",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T12:00:00.000Z",
+                            "homeTeam": "Vittsj\u00f6 GIK",
+                            "homeTeamId": 300220,
+                            "homeScore": "1",
+                            "awayTeam": "Hammarby IF",
+                            "awayTeamId": 181469,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "300220",
+                            "name": "Vittsj\u00f6 GIK",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "181469",
+                            "name": "Hammarby IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181464_xsmall.png",
+                        "linkToMatch": "/matches/bk-hacken-vs-hammarby-if/u97o14k#5107854",
+                        "date": {
+                            "utcTime": "2026-06-13T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181464/overview/bk-hacken",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:00:00.000Z",
+                            "homeTeam": "Hammarby IF",
+                            "homeTeamId": 181469,
+                            "homeScore": "0",
+                            "awayTeam": "BK H\u00e4cken",
+                            "awayTeamId": 181464,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "181469",
+                            "name": "Hammarby IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "181464",
+                            "name": "BK H\u00e4cken",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/181468_xsmall.png",
+                        "linkToMatch": "/matches/aik-vs-hammarby-if/u98j5aq#5107861",
+                        "date": {
+                            "utcTime": "2026-06-17T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/181468/overview/aik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T17:00:00.000Z",
+                            "homeTeam": "Hammarby IF",
+                            "homeTeamId": 181469,
+                            "homeScore": "4",
+                            "awayTeam": "AIK",
+                            "awayTeamId": 181468,
+                            "awayScore": "1"
+                        },
+                        "score": "4 - 1",
+                        "home": {
+                            "id": "181469",
+                            "name": "Hammarby IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "181468",
+                            "name": "AIK",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5107870",
+                    "MatchId": 5107870,
+                    "HomeTeamId": 181471,
+                    "AwayTeamId": 181469,
+                    "HomeTeam": "Pite\u00e5 IF (W)",
+                    "AwayTeam": "Hammarby IF (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Hammarby IF (W) have won the previous 4 matches against Pite\u00e5 IF (W)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Hammarby IF (W) have scored in their last 6 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "3",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Pite\u00e5 IF (W) have scored 3 goals in their last 3 matches, while Hammarby IF (W) have scored 6."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {2} matches and {1} in their last {3}.",
+                            "TextTemplateId": "draw_streak_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "8",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Pite\u00e5 IF (W) haven't drawn in their last 8 matches and Hammarby IF (W) in their last 12."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 181471,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 4 goals in their last 5 matches",
+                    "color": "#D1141B"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 181471,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 7 matches",
+                    "color": "#D1141B"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 181469,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#00AD5E"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 181469,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (6)",
+                    "color": "#00AD5E"
+                }
+            ],
+            "countryCode": "SWE",
+            "QAData": [
+                {
+                    "question": "Who won between Pite\u00e5 IF and Hammarby IF on Thu, 25 Jun 2026 16:00:00 GMT?",
+                    "answer": "Pite\u00e5 IF vs Hammarby IF on Thu, 25 Jun 2026 16:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        25,
+                                        75
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        6,
+                                        14
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        1,
+                                        8
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        2,
+                                        5
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#D1141B",
+                            "away": "#00AD5E"
+                        },
+                        "lightMode": {
+                            "home": "#D1141B",
+                            "away": "#00AD5E"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5107870,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 181471,
+                "name": "Pite\u00e5 IF",
+                "formation": "4-1-4-1",
+                "starters": [
+                    {
+                        "id": 1718343,
+                        "age": 19,
+                        "name": "Elza Strazdina",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "22",
+                        "countryName": "Latvia",
+                        "countryCode": "LVA",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "firstName": "Elza",
+                        "lastName": "Strazdina",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961631,
+                        "age": 31,
+                        "name": "Cecilia Edlund",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "Cecilia",
+                        "lastName": "Edlund",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1091561,
+                        "age": 23,
+                        "name": "Andrea Simonovic",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "12",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "Andrea",
+                        "lastName": "Simonovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1128366,
+                        "age": 31,
+                        "name": "Maja Green",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "Maja",
+                        "lastName": "Green",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1036595,
+                        "age": 30,
+                        "name": "\u00c1sla Johannesen",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Faroe Islands",
+                        "countryCode": "FRO",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "\u00c1sla",
+                        "lastName": "Johannesen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1349387,
+                        "age": 29,
+                        "name": "Julia Olsson",
+                        "positionId": 65,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 28
+                                }
+                            ]
+                        },
+                        "firstName": "Julia",
+                        "lastName": "Olsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1397305,
+                        "age": 26,
+                        "name": "Alexandra Hellekant",
+                        "positionId": 82,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "15",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 89,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Alexandra",
+                        "lastName": "Hellekant",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1530884,
+                        "age": 28,
+                        "name": "Shiho Matsubara",
+                        "positionId": 84,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Japan",
+                        "countryCode": "JPN",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 28
+                                }
+                            ]
+                        },
+                        "firstName": "Shiho",
+                        "lastName": "Matsubara",
+                        "rankings": null
+                    },
+                    {
+                        "id": 856498,
+                        "age": 38,
+                        "name": "Josefin Johansson",
+                        "positionId": 86,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "4",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.193
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "Josefin",
+                        "lastName": "Johansson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1637014,
+                        "age": 23,
+                        "name": "Sharon Sampson",
+                        "positionId": 88,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.385
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 77,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Sharon",
+                        "lastName": "Sampson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1352861,
+                        "age": 27,
+                        "name": "Amirah Ali",
+                        "positionId": 115,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "horizontalLayout": {
+                            "x": 0.89,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.212
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.89,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Amirah",
+                        "lastName": "Ali",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1367928,
+                    "age": 53,
+                    "name": "Fredrik Bernhardsson",
+                    "countryName": "Sweden",
+                    "countryCode": "SWE",
+                    "firstName": "Fredrik",
+                    "lastName": "Bernhardsson",
+                    "primaryTeamId": 181471,
+                    "primaryTeamName": "Pite\u00e5 IF",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1934628,
+                        "age": 19,
+                        "name": "Mia Endacott-Foster",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "England",
+                        "countryCode": "ENG",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mia",
+                        "lastName": "Endacott-Foster",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1456034,
+                        "age": 19,
+                        "name": "Matilda Ekblom",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 77,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Matilda",
+                        "lastName": "Ekblom",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1494310,
+                        "age": 21,
+                        "name": "Stina Andersson",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "24",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 89,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Stina",
+                        "lastName": "Andersson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1769550,
+                        "age": 24,
+                        "name": "Stephanie Sparkowski",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "firstName": "Stephanie",
+                        "lastName": "Sparkowski",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1807379,
+                        "age": 17,
+                        "name": "Ruth Sundquist",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Ruth",
+                        "lastName": "Sundquist",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1637603,
+                        "age": 18,
+                        "name": "Ebba Hedman",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "21",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Ebba",
+                        "lastName": "Hedman",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2054379,
+                        "name": "Julie Greberg",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "2",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Julie",
+                        "lastName": "Greberg",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 28.2
+            },
+            "awayTeam": {
+                "id": 181469,
+                "name": "Hammarby IF",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 1091471,
+                        "age": 25,
+                        "name": "Melina Loeck",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "28",
+                        "countryName": "Germany",
+                        "countryCode": "GER",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "firstName": "Melina",
+                        "lastName": "Loeck",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1037938,
+                        "age": 30,
+                        "name": "Gudr\u00fan Arnard\u00f3ttir",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Iceland",
+                        "countryCode": "ISL",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Gudr\u00fan",
+                        "lastName": "Arnard\u00f3ttir",
+                        "rankings": null
+                    },
+                    {
+                        "id": 887110,
+                        "age": 24,
+                        "name": "Emilie Bragstad",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Emilie",
+                        "lastName": "Bragstad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1241164,
+                        "age": 30,
+                        "name": "Alice Carlsson",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "18",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Alice",
+                        "lastName": "Carlsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1397294,
+                        "age": 22,
+                        "name": "Sofia Reidy",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "15",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Sofia",
+                        "lastName": "Reidy",
+                        "rankings": null
+                    },
+                    {
+                        "id": 931584,
+                        "age": 26,
+                        "name": "Elin \u00c5hgren S\u00f8rum",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Elin \u00c5hgren",
+                        "lastName": "S\u00f8rum",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961639,
+                        "age": 23,
+                        "name": "Vilma Koivisto",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Vilma",
+                        "lastName": "Koivisto",
+                        "rankings": null
+                    },
+                    {
+                        "id": 939529,
+                        "age": 24,
+                        "name": "Emilie Marie Joramo",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Emilie Marie",
+                        "lastName": "Joramo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 961799,
+                        "age": 29,
+                        "name": "Stina Lennartsson",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "17",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "firstName": "Stina",
+                        "lastName": "Lennartsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1257839,
+                        "age": 22,
+                        "name": "Mari Rosendal Nyhagen",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 76,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Mari Rosendal",
+                        "lastName": "Nyhagen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1752848,
+                        "age": 16,
+                        "name": "Fanny Peterson",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "25",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Fanny",
+                        "lastName": "Peterson",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1603429,
+                    "age": 37,
+                    "name": "William Str\u00f6mberg",
+                    "countryName": "Sweden",
+                    "countryCode": "SWE",
+                    "firstName": "William",
+                    "lastName": "Str\u00f6mberg",
+                    "primaryTeamId": 181469,
+                    "primaryTeamName": "Hammarby IF",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1241256,
+                        "age": 21,
+                        "name": "Mathilde Janzen",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "14",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mathilde",
+                        "lastName": "Janzen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1349360,
+                        "age": 22,
+                        "name": "Svea Rehnberg",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 59,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Svea",
+                        "lastName": "Rehnberg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1580415,
+                        "age": 19,
+                        "name": "Vivienne Lia",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "11",
+                        "countryName": "England",
+                        "countryCode": "ENG",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 76,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Vivienne",
+                        "lastName": "Lia",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1081883,
+                        "age": 28,
+                        "name": "Madison Pogarch",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "USA",
+                        "countryCode": "USA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Madison",
+                        "lastName": "Pogarch",
+                        "rankings": null
+                    },
+                    {
+                        "id": 886433,
+                        "age": 33,
+                        "name": "Cajsa Andersson",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "29",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Cajsa",
+                        "lastName": "Andersson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1240836,
+                        "age": 23,
+                        "name": "Athinna Persson Lundgren",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Athinna Persson",
+                        "lastName": "Lundgren",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1759547,
+                        "age": 17,
+                        "name": "Sally Nyl\u00e9n",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Sally",
+                        "lastName": "Nyl\u00e9n",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1290429,
+                        "age": 21,
+                        "name": "Bea Sprung",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Bea",
+                        "lastName": "Sprung",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1242341,
+                        "age": 19,
+                        "name": "Hannah Sj\u00f6dahl",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Hannah",
+                        "lastName": "Sj\u00f6dahl",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.2
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "9089",
+            "url": "https://data.fotmob.com/tables.ext.9089.fot.gz",
+            "teams": [
+                181471,
+                181469
+            ],
+            "tournamentNameForUrl": "Damallsvenskan",
+            "parentLeagueId": 9089,
+            "countryCode": "SWE"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                3,
+                6
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-16T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#4693073",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-16T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-17T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#4693003",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-17T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-11-09T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#4382812",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    },
+                    "status": {
+                        "utcTime": "2024-11-09T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-13T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#4382653",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-13T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-07-07T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#4085350",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    },
+                    "status": {
+                        "utcTime": "2023-07-07T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-14T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#4085275",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-14T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-10-02T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#3805283",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    },
+                    "status": {
+                        "utcTime": "2022-10-02T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-04-17T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#3805147",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    },
+                    "status": {
+                        "utcTime": "2022-04-17T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-10-03T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#3515823",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    },
+                    "status": {
+                        "utcTime": "2021-10-03T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-06-20T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#3515769",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    },
+                    "status": {
+                        "utcTime": "2021-06-20T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-09-09T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#2681845",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    },
+                    "status": {
+                        "utcTime": "2018-09-09T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-05-20T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/hammarby-if-vs-pitea-if/u996hfp#2681733",
+                    "league": {
+                        "name": "Damallsvenskan",
+                        "id": "9089",
+                        "pageUrl": "/leagues/9089/overview/damallsvenskan"
+                    },
+                    "home": {
+                        "name": "Pite\u00e5 IF",
+                        "id": "181471"
+                    },
+                    "status": {
+                        "utcTime": "2018-05-20T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hammarby IF",
+                        "id": "181469"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "pitea-if-vs-hammarby-if",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5107870",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Pite\u00e5 IF",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/181471.png",
+                "url": "https://www.fotmob.com/teams/181471/overview/pitea-if",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Hammarby IF",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/181469.png",
+                "url": "https://www.fotmob.com/teams/181469/overview/hammarby-if",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Pite\u00e5 IF vs Hammarby IF",
+            "description": "Follow Pite\u00e5 IF vs Hammarby IF live on fotmob.com",
+            "startDate": "2026-06-25T16:00:00.000Z",
+            "endDate": "2026-06-25T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/181471.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/181469.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5107870",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-25T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Pite\u00e5 IF",
+                    "url": "https://www.fotmob.com/teams/181471/overview/pitea-if"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Hammarby IF",
+                    "url": "https://www.fotmob.com/teams/181469/overview/hammarby-if"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Damallsvenskan",
+                        "item": "https://www.fotmob.com/leagues/9089/overview/damallsvenskan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Pite\u00e5 IF - Hammarby IF",
+                        "item": "https://www.fotmob.com/match/5107870"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Damallsvenskan",
+                        "item": "https://www.fotmob.com/leagues/9089/overview/damallsvenskan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Hammarby IF",
+                        "item": "https://www.fotmob.com/teams/181469/overview/hammarby-if"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Pite\u00e5 IF - Hammarby IF",
+                        "item": "https://www.fotmob.com/match/5107870"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Damallsvenskan",
+                        "item": "https://www.fotmob.com/leagues/9089/overview/damallsvenskan"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Pite\u00e5 IF",
+                        "item": "https://www.fotmob.com/teams/181471/overview/pitea-if"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Pite\u00e5 IF - Hammarby IF",
+                        "item": "https://www.fotmob.com/match/5107870"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Pite\u00e5 IF and Hammarby IF on Thu, 25 Jun 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Pite\u00e5 IF vs Hammarby IF on Thu, 25 Jun 2026 16:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

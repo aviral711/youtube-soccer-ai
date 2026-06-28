@@ -1,0 +1,1300 @@
+{
+    "general": {
+        "matchId": "5144329",
+        "matchName": "V\u00e5g-vs-Viking 2_Thu, Jun 25, 2026, 16:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#244d89"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#71101b"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919795,
+        "leagueName": "3. Divisjon Avd. 4",
+        "leagueRoundName": "12",
+        "parentLeagueId": 205,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "V\u00e5g",
+            "id": 4216
+        },
+        "awayTeam": {
+            "name": "Viking 2",
+            "id": 10018
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Thu, Jun 25, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-06-25T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "V\u00e5g",
+                "id": 4216,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4216_small.png",
+                "pageUrl": "/teams/4216/overview/vag"
+            },
+            {
+                "name": "Viking 2",
+                "id": 10018,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10018_small.png",
+                "pageUrl": "/teams/10018/overview/viking-2"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-25T16:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "25.06.2026 18:01:23",
+                "firstHalfEnded": "25.06.2026 18:49:16",
+                "secondHalfStarted": "25.06.2026 19:05:32",
+                "secondHalfEnded": "25.06.2026 19:57:08",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "25.06.2026 19:57:08"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Wahlstr\u00f8m": [
+                    {
+                        "reactKey": "1421402031Goal1636020undefinedtrue",
+                        "timeStr": 31,
+                        "type": "Goal",
+                        "time": 31,
+                        "overloadTime": null,
+                        "eventId": 14214020,
+                        "player": {
+                            "id": 1636020,
+                            "name": "Christian Lindtner Wahlstr\u00f8m",
+                            "profileUrl": "/players/1636020/christian-lindtner-wahlstrom"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1636020/christian-lindtner-wahlstrom",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Christian Lindtner Wahlstr\u00f8m",
+                        "firstName": "Christian Lindtner",
+                        "lastName": "Wahlstr\u00f8m",
+                        "fullName": "Christian Lindtner Wahlstr\u00f8m",
+                        "playerId": 1636020,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Roppestad": [
+                    {
+                        "reactKey": "1421402445Goal1098067undefinedtrue",
+                        "timeStr": "45 + 2",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 2,
+                        "eventId": 14214024,
+                        "player": {
+                            "id": 1098067,
+                            "name": "Daniel Roppestad",
+                            "profileUrl": "/players/1098067/daniel-roppestad"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1098067/daniel-roppestad",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Daniel Roppestad",
+                        "firstName": "Daniel",
+                        "lastName": "Roppestad",
+                        "fullName": "Daniel Roppestad",
+                        "playerId": 1098067,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Bakken": [
+                    {
+                        "reactKey": "1421402847Goal0undefinedtrue",
+                        "timeStr": 47,
+                        "type": "Goal",
+                        "time": 47,
+                        "overloadTime": null,
+                        "eventId": 14214028,
+                        "player": {
+                            "id": 0,
+                            "name": "Sondre Bakken",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sondre Bakken",
+                        "firstName": "Sondre",
+                        "lastName": "Bakken",
+                        "fullName": "Sondre Bakken",
+                        "playerId": 0,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Kvelvane": [
+                    {
+                        "reactKey": "1421404460Goal1825959undefinedfalse",
+                        "timeStr": 60,
+                        "type": "Goal",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 14214044,
+                        "player": {
+                            "id": 1825959,
+                            "name": "Henrik Kvelvane",
+                            "profileUrl": "/players/1825959/henrik-kvelvane"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1825959/henrik-kvelvane",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Henrik Kvelvane",
+                        "firstName": "Henrik",
+                        "lastName": "Kvelvane",
+                        "fullName": "Henrik Kvelvane",
+                        "playerId": 1825959,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Debes": [
+                    {
+                        "reactKey": "1421404966Goal0undefinedfalse",
+                        "timeStr": 66,
+                        "type": "Goal",
+                        "time": 66,
+                        "overloadTime": null,
+                        "eventId": 14214049,
+                        "player": {
+                            "id": 0,
+                            "name": "Jonathan R\u00f8ksund Debes",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jonathan R\u00f8ksund Debes",
+                        "firstName": "Jonathan R\u00f8ksund",
+                        "lastName": "Debes",
+                        "fullName": "Jonathan R\u00f8ksund Debes",
+                        "playerId": 0,
+                        "newScore": [
+                            3,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5144329,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421402031Goal1636020undefinedtrue",
+                        "timeStr": 31,
+                        "type": "Goal",
+                        "time": 31,
+                        "overloadTime": null,
+                        "eventId": 14214020,
+                        "player": {
+                            "id": 1636020,
+                            "name": "Christian Lindtner Wahlstr\u00f8m",
+                            "profileUrl": "/players/1636020/christian-lindtner-wahlstrom"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1636020/christian-lindtner-wahlstrom",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Christian Lindtner Wahlstr\u00f8m",
+                        "firstName": "Christian Lindtner",
+                        "lastName": "Wahlstr\u00f8m",
+                        "fullName": "Christian Lindtner Wahlstr\u00f8m",
+                        "playerId": 1636020,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421402445Goal1098067undefinedtrue",
+                        "timeStr": "45 + 2",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 2,
+                        "eventId": 14214024,
+                        "player": {
+                            "id": 1098067,
+                            "name": "Daniel Roppestad",
+                            "profileUrl": "/players/1098067/daniel-roppestad"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1098067/daniel-roppestad",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Daniel Roppestad",
+                        "firstName": "Daniel",
+                        "lastName": "Roppestad",
+                        "fullName": "Daniel Roppestad",
+                        "playerId": 1098067,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421402847Goal0undefinedtrue",
+                        "timeStr": 47,
+                        "type": "Goal",
+                        "time": 47,
+                        "overloadTime": null,
+                        "eventId": 14214028,
+                        "player": {
+                            "id": 0,
+                            "name": "Sondre Bakken",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sondre Bakken",
+                        "firstName": "Sondre",
+                        "lastName": "Bakken",
+                        "fullName": "Sondre Bakken",
+                        "playerId": 0,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421404460Goal1825959undefinedfalse",
+                        "timeStr": 60,
+                        "type": "Goal",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 14214044,
+                        "player": {
+                            "id": 1825959,
+                            "name": "Henrik Kvelvane",
+                            "profileUrl": "/players/1825959/henrik-kvelvane"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1825959/henrik-kvelvane",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Henrik Kvelvane",
+                        "firstName": "Henrik",
+                        "lastName": "Kvelvane",
+                        "fullName": "Henrik Kvelvane",
+                        "playerId": 1825959,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421404966Goal0undefinedfalse",
+                        "timeStr": 66,
+                        "type": "Goal",
+                        "time": 66,
+                        "overloadTime": null,
+                        "eventId": 14214049,
+                        "player": {
+                            "id": 0,
+                            "name": "Jonathan R\u00f8ksund Debes",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jonathan R\u00f8ksund Debes",
+                        "firstName": "Jonathan R\u00f8ksund",
+                        "lastName": "Debes",
+                        "fullName": "Jonathan R\u00f8ksund Debes",
+                        "playerId": 0,
+                        "newScore": [
+                            3,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-25T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919795,
+                    "parentLeagueId": 205,
+                    "link": "/leagues/205/overview/3-divisjon-avd-4",
+                    "leagueName": "3. Divisjon Avd. 4",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6579_xsmall.png",
+                        "linkToMatch": "/matches/vag-vs-flekkeroy/yp3l1#5144298",
+                        "date": {
+                            "utcTime": "2026-05-16T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6579/overview/flekkeroy",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T11:00:00.000Z",
+                            "homeTeam": "V\u00e5g",
+                            "homeTeamId": 4216,
+                            "homeScore": "0",
+                            "awayTeam": "Flekker\u00f8y",
+                            "awayTeamId": 6579,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "4216",
+                            "name": "V\u00e5g",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6579",
+                            "name": "Flekker\u00f8y",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4230_xsmall.png",
+                        "linkToMatch": "/matches/vag-vs-varhaug/l8npj#5144301",
+                        "date": {
+                            "utcTime": "2026-05-25T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4230/overview/varhaug",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T13:00:00.000Z",
+                            "homeTeam": "Varhaug",
+                            "homeTeamId": 4230,
+                            "homeScore": "0",
+                            "awayTeam": "V\u00e5g",
+                            "awayTeamId": 4216,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "4230",
+                            "name": "Varhaug",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4216",
+                            "name": "V\u00e5g",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4231_xsmall.png",
+                        "linkToMatch": "/matches/vag-vs-staal-jorpeland/l8u87#5144311",
+                        "date": {
+                            "utcTime": "2026-05-30T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4231/overview/staal-jorpeland",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:00:00.000Z",
+                            "homeTeam": "V\u00e5g",
+                            "homeTeamId": 4216,
+                            "homeScore": "0",
+                            "awayTeam": "Staal J\u00f8rpeland",
+                            "awayTeamId": 4231,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "4216",
+                            "name": "V\u00e5g",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4231",
+                            "name": "Staal J\u00f8rpeland",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9844_xsmall.png",
+                        "linkToMatch": "/matches/vag-vs-stabaek-2/1muvua#5144320",
+                        "date": {
+                            "utcTime": "2026-06-15T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9844/overview/stabaek-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-15T16:00:00.000Z",
+                            "homeTeam": "V\u00e5g",
+                            "homeTeamId": 4216,
+                            "homeScore": "3",
+                            "awayTeam": "Stab\u00e6k 2",
+                            "awayTeamId": 9844,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "4216",
+                            "name": "V\u00e5g",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9844",
+                            "name": "Stab\u00e6k 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8068_xsmall.png",
+                        "linkToMatch": "/matches/vag-vs-mandalskameratene/18xf9m#5144324",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8068/overview/mandalskameratene",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Mandalskameratene",
+                            "homeTeamId": 8068,
+                            "homeScore": "2",
+                            "awayTeam": "V\u00e5g",
+                            "awayTeamId": 4216,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8068",
+                            "name": "Mandalskameratene",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4216",
+                            "name": "V\u00e5g",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4232_xsmall.png",
+                        "linkToMatch": "/matches/akra-vs-viking-2/1ogerz#5144293",
+                        "date": {
+                            "utcTime": "2026-05-14T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4232/overview/akra",
+                        "tooltipText": {
+                            "utcTime": "2026-05-14T12:00:00.000Z",
+                            "homeTeam": "Viking 2",
+                            "homeTeamId": 10018,
+                            "homeScore": "1",
+                            "awayTeam": "\u00c5kra",
+                            "awayTeamId": 4232,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "10018",
+                            "name": "Viking 2",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4232",
+                            "name": "\u00c5kra",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8068_xsmall.png",
+                        "linkToMatch": "/matches/mandalskameratene-vs-viking-2/2pdui1#5144300",
+                        "date": {
+                            "utcTime": "2026-05-23T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8068/overview/mandalskameratene",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T13:00:00.000Z",
+                            "homeTeam": "Mandalskameratene",
+                            "homeTeamId": 8068,
+                            "homeScore": "0",
+                            "awayTeam": "Viking 2",
+                            "awayTeamId": 10018,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "8068",
+                            "name": "Mandalskameratene",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10018",
+                            "name": "Viking 2",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/119139_xsmall.png",
+                        "linkToMatch": "/matches/viking-2-vs-brodd/3txzhgy#5144312",
+                        "date": {
+                            "utcTime": "2026-05-31T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/119139/overview/brodd",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T11:00:00.000Z",
+                            "homeTeam": "Viking 2",
+                            "homeTeamId": 10018,
+                            "homeScore": "4",
+                            "awayTeam": "Brodd",
+                            "awayTeamId": 119139,
+                            "awayScore": "1"
+                        },
+                        "score": "4 - 1",
+                        "home": {
+                            "id": "10018",
+                            "name": "Viking 2",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "119139",
+                            "name": "Brodd",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4230_xsmall.png",
+                        "linkToMatch": "/matches/varhaug-vs-viking-2/1ofssa#5144314",
+                        "date": {
+                            "utcTime": "2026-06-12T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4230/overview/varhaug",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T17:00:00.000Z",
+                            "homeTeam": "Varhaug",
+                            "homeTeamId": 4230,
+                            "homeScore": "0",
+                            "awayTeam": "Viking 2",
+                            "awayTeamId": 10018,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "4230",
+                            "name": "Varhaug",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10018",
+                            "name": "Viking 2",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4231_xsmall.png",
+                        "linkToMatch": "/matches/staal-jorpeland-vs-viking-2/1og3s4#5144323",
+                        "date": {
+                            "utcTime": "2026-06-21T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4231/overview/staal-jorpeland",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T11:00:00.000Z",
+                            "homeTeam": "Viking 2",
+                            "homeTeamId": 10018,
+                            "homeScore": "5",
+                            "awayTeam": "Staal J\u00f8rpeland",
+                            "awayTeamId": 4231,
+                            "awayScore": "2"
+                        },
+                        "score": "5 - 2",
+                        "home": {
+                            "id": "10018",
+                            "name": "Viking 2",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4231",
+                            "name": "Staal J\u00f8rpeland",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5144329",
+                    "MatchId": 5144329,
+                    "HomeTeamId": 4216,
+                    "AwayTeamId": 10018,
+                    "HomeTeam": "V\u00e5g",
+                    "AwayTeam": "Viking 2",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "away_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Viking 2 haven't lost in 5 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "V\u00e5g have scored 4 goals in their last 3 matches, while Viking 2 have scored 12."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "12",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Viking 2 have scored 12 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "11"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "V\u00e5g haven't drawn in their last 11 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4216,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 10018,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 13,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 13 goals in their last 5 matches",
+                    "color": "#132847"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between V\u00e5g and Viking 2 on Thu, 25 Jun 2026 16:00:00 GMT?",
+                    "answer": "V\u00e5g won 3\u20132 over Viking 2 on Thu, 25 Jun 2026 16:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919795",
+            "url": "https://data.fotmob.com/tables.ext.919795.fot.gz",
+            "teams": [
+                4216,
+                10018
+            ],
+            "tournamentNameForUrl": "3. Divisjon Avd. 4",
+            "parentLeagueId": 205,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                0,
+                0,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-18T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/vag-vs-viking-2/1obixj#4697489",
+                    "league": {
+                        "name": "3. Divisjon Avd. 5",
+                        "id": "205",
+                        "pageUrl": "/leagues/205/overview/3-divisjon-avd-5"
+                    },
+                    "home": {
+                        "name": "V\u00e5g",
+                        "id": "4216"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-18T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Viking 2",
+                        "id": "10018"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-03T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/vag-vs-viking-2/1obixj#4697406",
+                    "league": {
+                        "name": "3. Divisjon Avd. 5",
+                        "id": "205",
+                        "pageUrl": "/leagues/205/overview/3-divisjon-avd-5"
+                    },
+                    "home": {
+                        "name": "Viking 2",
+                        "id": "10018"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-03T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "V\u00e5g",
+                        "id": "4216"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "vag-vs-viking-2",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5144329",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "V\u00e5g",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4216.png",
+                "url": "https://www.fotmob.com/teams/4216/overview/vag",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Viking 2",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10018.png",
+                "url": "https://www.fotmob.com/teams/10018/overview/viking-2",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "V\u00e5g vs Viking 2",
+            "description": "Follow V\u00e5g vs Viking 2 live on fotmob.com",
+            "startDate": "2026-06-25T16:00:00.000Z",
+            "endDate": "2026-06-25T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4216.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/10018.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5144329",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-25T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "V\u00e5g",
+                    "url": "https://www.fotmob.com/teams/4216/overview/vag"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Viking 2",
+                    "url": "https://www.fotmob.com/teams/10018/overview/viking-2"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 4",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-4"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "V\u00e5g - Viking 2",
+                        "item": "https://www.fotmob.com/match/5144329"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 4",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-4"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Viking 2",
+                        "item": "https://www.fotmob.com/teams/10018/overview/viking-2"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "V\u00e5g - Viking 2",
+                        "item": "https://www.fotmob.com/match/5144329"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 4",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-4"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "V\u00e5g",
+                        "item": "https://www.fotmob.com/teams/4216/overview/vag"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "V\u00e5g - Viking 2",
+                        "item": "https://www.fotmob.com/match/5144329"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between V\u00e5g and Viking 2 on Thu, 25 Jun 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "V\u00e5g won 3\u20132 over Viking 2 on Thu, 25 Jun 2026 16:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}
