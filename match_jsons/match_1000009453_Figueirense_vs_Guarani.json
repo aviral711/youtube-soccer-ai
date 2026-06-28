@@ -1,0 +1,1286 @@
+{
+    "general": {
+        "matchId": "1000009453",
+        "matchName": "Figueirense-vs-Guarani_Sun, Jun 28, 2026, 14:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#ffffff",
+                "away": "#006850"
+            },
+            "lightMode": {
+                "home": "#000000",
+                "away": "#006850"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 8971,
+        "leagueName": "Brazilian Serie C",
+        "leagueRoundName": "12",
+        "parentLeagueId": 8971,
+        "countryCode": "BRA",
+        "homeTeam": {
+            "name": "Figueirense",
+            "id": 8631
+        },
+        "awayTeam": {
+            "name": "Guarani",
+            "id": 7817
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Figueirense",
+                "id": 8631,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8631_small.png",
+                "pageUrl": "/teams/8631/overview/figueirense"
+            },
+            {
+                "name": "Guarani",
+                "id": 7817,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7817_small.png",
+                "pageUrl": "/teams/7817/overview/guarani"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 16:02:31",
+                "firstHalfEnded": "28.06.2026 16:52:03",
+                "secondHalfStarted": "28.06.2026 17:07:11",
+                "secondHalfEnded": "28.06.2026 17:56:53",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 17:56:53"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Carlos": [
+                    {
+                        "reactKey": "065Goal1938803undefinedtrue",
+                        "timeStr": 65,
+                        "type": "Goal",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1938803,
+                            "name": "Z\u00e9 Carlos",
+                            "profileUrl": "/players/1938803/ze-carlos"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1938803/ze-carlos",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Z\u00e9 Carlos",
+                        "firstName": "Z\u00e9",
+                        "lastName": "Carlos",
+                        "fullName": "Z\u00e9 Carlos",
+                        "playerId": 1938803,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Ynai\u00e3": [
+                    {
+                        "reactKey": "082Goal1653468undefinedfalse",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1653468,
+                            "name": "Ynai\u00e3",
+                            "profileUrl": "/players/1653468/ynaia"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1653468/ynaia",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ynai\u00e3",
+                        "firstName": "",
+                        "lastName": "Ynai\u00e3",
+                        "fullName": "Ynai\u00e3",
+                        "playerId": 1653468,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000009453,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "065Goal1938803undefinedtrue",
+                        "timeStr": 65,
+                        "type": "Goal",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1938803,
+                            "name": "Z\u00e9 Carlos",
+                            "profileUrl": "/players/1938803/ze-carlos"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1938803/ze-carlos",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Z\u00e9 Carlos",
+                        "firstName": "Z\u00e9",
+                        "lastName": "Carlos",
+                        "fullName": "Z\u00e9 Carlos",
+                        "playerId": 1938803,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "082Goal1653468undefinedfalse",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1653468,
+                            "name": "Ynai\u00e3",
+                            "profileUrl": "/players/1653468/ynaia"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1653468/ynaia",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ynai\u00e3",
+                        "firstName": "",
+                        "lastName": "Ynai\u00e3",
+                        "fullName": "Ynai\u00e3",
+                        "playerId": 1653468,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Goal"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 8971,
+                    "parentLeagueId": 8971,
+                    "link": "/leagues/8971/overview/brazilian-serie-c",
+                    "leagueName": "Brazilian Serie C",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": {
+                    "name": "Est\u00e1dio Orlando Scarpelli",
+                    "city": "Florian\u00f3polis, Santa Catarina",
+                    "country": "Brazil",
+                    "lat": -27.585710514,
+                    "long": -48.586507738
+                },
+                "Referee": null,
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197398_xsmall.png",
+                        "linkToMatch": "/matches/figueirense-vs-ao-itabaiana/9r09tma#1000009403",
+                        "date": {
+                            "utcTime": "2026-05-16T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197398/overview/ao-itabaiana",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T22:30:00.000Z",
+                            "homeTeam": "Figueirense",
+                            "homeTeamId": 8631,
+                            "homeScore": "0",
+                            "awayTeam": "AO Itabaiana",
+                            "awayTeamId": 197398,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "8631",
+                            "name": "Figueirense",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "197398",
+                            "name": "AO Itabaiana",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162167_xsmall.png",
+                        "linkToMatch": "/matches/figueirense-vs-confianca/6p865io#1000009414",
+                        "date": {
+                            "utcTime": "2026-05-24T21:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/162167/overview/confianca",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T21:00:00.000Z",
+                            "homeTeam": "Confianca",
+                            "homeTeamId": 162167,
+                            "homeScore": "0",
+                            "awayTeam": "Figueirense",
+                            "awayTeamId": 8631,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "162167",
+                            "name": "Confianca",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8631",
+                            "name": "Figueirense",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6546_xsmall.png",
+                        "linkToMatch": "/matches/paysandu-vs-figueirense/1wkuro#1000009423",
+                        "date": {
+                            "utcTime": "2026-05-31T23:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6546/overview/paysandu",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T23:30:00.000Z",
+                            "homeTeam": "Figueirense",
+                            "homeTeamId": 8631,
+                            "homeScore": "2",
+                            "awayTeam": "Paysandu",
+                            "awayTeamId": 6546,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8631",
+                            "name": "Figueirense",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6546",
+                            "name": "Paysandu",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/899260_xsmall.png",
+                        "linkToMatch": "/matches/figueirense-vs-floresta/59by68cq#1000009435",
+                        "date": {
+                            "utcTime": "2026-06-14T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/899260/overview/floresta",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T22:30:00.000Z",
+                            "homeTeam": "Floresta",
+                            "homeTeamId": 899260,
+                            "homeScore": "1",
+                            "awayTeam": "Figueirense",
+                            "awayTeamId": 8631,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "899260",
+                            "name": "Floresta",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8631",
+                            "name": "Figueirense",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/104823_xsmall.png",
+                        "linkToMatch": "/matches/figueirense-vs-ituano-fc/2yft6k0#1000009442",
+                        "date": {
+                            "utcTime": "2026-06-20T23:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/104823/overview/ituano-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T23:30:00.000Z",
+                            "homeTeam": "Ituano FC",
+                            "homeTeamId": 104823,
+                            "homeScore": "0",
+                            "awayTeam": "Figueirense",
+                            "awayTeamId": 8631,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "104823",
+                            "name": "Ituano FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8631",
+                            "name": "Figueirense",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/104823_xsmall.png",
+                        "linkToMatch": "/matches/guarani-vs-ituano-fc/2wx0ubt#1000009402",
+                        "date": {
+                            "utcTime": "2026-05-17T21:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/104823/overview/ituano-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T21:30:00.000Z",
+                            "homeTeam": "Guarani",
+                            "homeTeamId": 7817,
+                            "homeScore": "1",
+                            "awayTeam": "Ituano FC",
+                            "awayTeamId": 104823,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "7817",
+                            "name": "Guarani",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "104823",
+                            "name": "Ituano FC",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1320333_xsmall.png",
+                        "linkToMatch": "/matches/guarani-vs-barra-fc/b96j70jq#1000009418",
+                        "date": {
+                            "utcTime": "2026-05-23T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1320333/overview/barra-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T20:00:00.000Z",
+                            "homeTeam": "Barra FC",
+                            "homeTeamId": 1320333,
+                            "homeScore": "0",
+                            "awayTeam": "Guarani",
+                            "awayTeamId": 7817,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "1320333",
+                            "name": "Barra FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "7817",
+                            "name": "Guarani",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1340094_xsmall.png",
+                        "linkToMatch": "/matches/guarani-vs-amazonas-fc/blbtds05#1000009422",
+                        "date": {
+                            "utcTime": "2026-05-31T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1340094/overview/amazonas-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T19:00:00.000Z",
+                            "homeTeam": "Guarani",
+                            "homeTeamId": 7817,
+                            "homeScore": "5",
+                            "awayTeam": "Amazonas FC",
+                            "awayTeamId": 1340094,
+                            "awayScore": "0"
+                        },
+                        "score": "5 - 0",
+                        "home": {
+                            "id": "7817",
+                            "name": "Guarani",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1340094",
+                            "name": "Amazonas FC",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/172206_xsmall.png",
+                        "linkToMatch": "/matches/guarani-vs-caxias/7fzl24t#1000009432",
+                        "date": {
+                            "utcTime": "2026-06-13T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/172206/overview/caxias",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T14:00:00.000Z",
+                            "homeTeam": "Guarani",
+                            "homeTeamId": 7817,
+                            "homeScore": "2",
+                            "awayTeam": "Caxias",
+                            "awayTeamId": 172206,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "7817",
+                            "name": "Guarani",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "172206",
+                            "name": "Caxias",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162167_xsmall.png",
+                        "linkToMatch": "/matches/guarani-vs-confianca/6mxlcax#1000009444",
+                        "date": {
+                            "utcTime": "2026-06-22T22:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/162167/overview/confianca",
+                        "tooltipText": {
+                            "utcTime": "2026-06-22T22:30:00.000Z",
+                            "homeTeam": "Confianca",
+                            "homeTeamId": 162167,
+                            "homeScore": "2",
+                            "awayTeam": "Guarani",
+                            "awayTeamId": 7817,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "162167",
+                            "name": "Confianca",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "7817",
+                            "name": "Guarani",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000009453",
+                    "MatchId": 1000009453,
+                    "HomeTeamId": 8631,
+                    "AwayTeamId": 7817,
+                    "HomeTeam": "Figueirense",
+                    "AwayTeam": "Guarani",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Figueirense haven't lost in 4 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Figueirense have scored 4 goals in their last 3 matches, while Guarani have scored 7."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Figueirense have scored 4 goals in their last 3 matches, while Guarani have scored 7."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Guarani haven't drawn in their last 7 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "BRA",
+            "QAData": [
+                {
+                    "question": "Who won between Figueirense and Guarani on Sun, 28 Jun 2026 14:00:00 GMT?",
+                    "answer": "Figueirense vs Guarani on Sun, 28 Jun 2026 14:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 20,
+            "windSpeed": 3,
+            "windDirectionCardinal": "N",
+            "iconCode": 28,
+            "relativeHumidity": 84,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 81,
+            "description": "Mostly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-28T15:30:01Z",
+            "localizedKey": "weather_condition_cloudy",
+            "defaultTitle": "Cloudy"
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "8971",
+            "url": "https://data.fotmob.com/tables.ext.8971.fot.gz",
+            "teams": [
+                8631,
+                7817
+            ],
+            "tournamentNameForUrl": "Brazilian Serie C",
+            "parentLeagueId": 8971,
+            "countryCode": "BRA"
+        },
+        "h2h": {
+            "summary": [
+                2,
+                5,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-05-26T22:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#4743898",
+                    "league": {
+                        "name": "Serie C",
+                        "id": "8971",
+                        "pageUrl": "/leagues/8971/overview/serie-c"
+                    },
+                    "home": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-26T22:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-12-20T21:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#3289205",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    },
+                    "status": {
+                        "utcTime": "2020-12-20T21:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-09-26T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#3289017",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    },
+                    "status": {
+                        "utcTime": "2020-09-26T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-08-31T19:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#3000731",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    },
+                    "status": {
+                        "utcTime": "2019-08-31T19:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-04-27T19:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#3000548",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    },
+                    "status": {
+                        "utcTime": "2019-04-27T19:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-11-06T23:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#2719131",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    },
+                    "status": {
+                        "utcTime": "2018-11-06T23:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-07-18T00:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#2718819",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    },
+                    "status": {
+                        "utcTime": "2018-07-18T00:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-08-26T22:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#2465855",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    },
+                    "status": {
+                        "utcTime": "2017-08-26T22:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-05-24T00:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/guarani-vs-figueirense/28jmqf#2465667",
+                    "league": {
+                        "name": "Serie B",
+                        "id": "8814",
+                        "pageUrl": "/leagues/8814/overview/serie-b"
+                    },
+                    "home": {
+                        "name": "Guarani",
+                        "id": "7817"
+                    },
+                    "status": {
+                        "utcTime": "2017-05-24T00:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Figueirense",
+                        "id": "8631"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "figueirense-vs-guarani",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000009453",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Figueirense",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8631.png",
+                "url": "https://www.fotmob.com/teams/8631/overview/figueirense",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Guarani",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7817.png",
+                "url": "https://www.fotmob.com/teams/7817/overview/guarani",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Figueirense vs Guarani",
+            "description": "Follow Figueirense vs Guarani live on fotmob.com",
+            "startDate": "2026-06-28T14:00:00.000Z",
+            "endDate": "2026-06-28T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Est\u00e1dio Orlando Scarpelli",
+                "latitude": -27.585710514,
+                "longitude": -48.586507738,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Brazil",
+                    "addressLocality": "Florian\u00f3polis, Santa Catarina"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8631.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/7817.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000009453",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Figueirense",
+                    "url": "https://www.fotmob.com/teams/8631/overview/figueirense"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Guarani",
+                    "url": "https://www.fotmob.com/teams/7817/overview/guarani"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Figueirense - Guarani",
+                        "item": "https://www.fotmob.com/match/1000009453"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Guarani",
+                        "item": "https://www.fotmob.com/teams/7817/overview/guarani"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Figueirense - Guarani",
+                        "item": "https://www.fotmob.com/match/1000009453"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Brazilian Serie C",
+                        "item": "https://www.fotmob.com/leagues/8971/overview/brazilian-serie-c"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Figueirense",
+                        "item": "https://www.fotmob.com/teams/8631/overview/figueirense"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Figueirense - Guarani",
+                        "item": "https://www.fotmob.com/match/1000009453"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Figueirense and Guarani on Sun, 28 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Figueirense vs Guarani on Sun, 28 Jun 2026 14:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

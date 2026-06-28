@@ -1,0 +1,2531 @@
+{
+    "general": {
+        "matchId": "5143329",
+        "matchName": "Sotra Sportsklubb-vs-Jerv_Sun, Jun 28, 2026, 15:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#1b54ad",
+                "away": "#FDCD00"
+            },
+            "lightMode": {
+                "home": "#00459c",
+                "away": "#cea400"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919789,
+        "leagueName": "2. Divisjon Avd. 1",
+        "leagueRoundName": "12",
+        "parentLeagueId": 204,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Sotra Sportsklubb",
+            "id": 189420
+        },
+        "awayTeam": {
+            "name": "Jerv",
+            "id": 2303
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 15:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T15:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Sotra Sportsklubb",
+                "id": 189420,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/189420_small.png",
+                "pageUrl": "/teams/189420/overview/sotra-sportsklubb"
+            },
+            {
+                "name": "Jerv",
+                "id": 2303,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2303_small.png",
+                "pageUrl": "/teams/2303/overview/jerv"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T15:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 17:00:30",
+                "firstHalfEnded": "28.06.2026 17:51:30",
+                "secondHalfStarted": "28.06.2026 18:06:49",
+                "secondHalfEnded": "28.06.2026 18:57:06",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 18:57:06"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Hjorteseth": [
+                    {
+                        "reactKey": "1421815231Goal1248661undefinedtrue",
+                        "timeStr": 31,
+                        "type": "Goal",
+                        "time": 31,
+                        "overloadTime": null,
+                        "eventId": 14218152,
+                        "player": {
+                            "id": 1248661,
+                            "name": "Isak Hjorteseth",
+                            "profileUrl": "/players/1248661/isak-hjorteseth"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1248661/isak-hjorteseth",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Isak Hjorteseth",
+                        "firstName": "Isak",
+                        "lastName": "Hjorteseth",
+                        "fullName": "Isak Hjorteseth",
+                        "playerId": 1248661,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "P.\u00a0Syvertsen": [
+                    {
+                        "reactKey": "1421823345Goal1489426undefinedfalse",
+                        "timeStr": "45 + 4",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 4,
+                        "eventId": 14218233,
+                        "player": {
+                            "id": 1489426,
+                            "name": "Phillip Syvertsen",
+                            "profileUrl": "/players/1489426/phillip-syvertsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1489426/phillip-syvertsen",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Phillip Syvertsen",
+                        "firstName": "Phillip",
+                        "lastName": "Syvertsen",
+                        "fullName": "Phillip Syvertsen",
+                        "playerId": 1489426,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421827261Goal1489426undefinedfalse",
+                        "timeStr": 61,
+                        "type": "Goal",
+                        "time": 61,
+                        "overloadTime": null,
+                        "eventId": 14218272,
+                        "player": {
+                            "id": 1489426,
+                            "name": "Phillip Syvertsen",
+                            "profileUrl": "/players/1489426/phillip-syvertsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1489426/phillip-syvertsen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Phillip Syvertsen",
+                        "firstName": "Phillip",
+                        "lastName": "Syvertsen",
+                        "fullName": "Phillip Syvertsen",
+                        "playerId": 1489426,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Richstad": [
+                    {
+                        "reactKey": "1421826051Goal1165805undefinedfalse",
+                        "timeStr": 51,
+                        "type": "Goal",
+                        "time": 51,
+                        "overloadTime": null,
+                        "eventId": 14218260,
+                        "player": {
+                            "id": 1165805,
+                            "name": "Andr\u00e9 Rosmer Richstad",
+                            "profileUrl": "/players/1165805/andre-rosmer-richstad"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1165805/andre-rosmer-richstad",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andr\u00e9 Rosmer Richstad",
+                        "firstName": "Andr\u00e9 Rosmer",
+                        "lastName": "Richstad",
+                        "fullName": "Andr\u00e9 Rosmer Richstad",
+                        "playerId": 1165805,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5143329,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined24SubstitutionNaN1281380true",
+                        "timeStr": 24,
+                        "type": "Substitution",
+                        "time": 24,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Sander Wik",
+                                "id": "1281380",
+                                "profileUrl": "/players/1281380/sander-wik"
+                            },
+                            {
+                                "name": "Mads Fosse Aaserud",
+                                "id": "1353283",
+                                "profileUrl": "/players/1353283/mads-fosse-aaserud"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421815231Goal1248661undefinedtrue",
+                        "timeStr": 31,
+                        "type": "Goal",
+                        "time": 31,
+                        "overloadTime": null,
+                        "eventId": 14218152,
+                        "player": {
+                            "id": 1248661,
+                            "name": "Isak Hjorteseth",
+                            "profileUrl": "/players/1248661/isak-hjorteseth"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1248661/isak-hjorteseth",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Isak Hjorteseth",
+                        "firstName": "Isak",
+                        "lastName": "Hjorteseth",
+                        "fullName": "Isak Hjorteseth",
+                        "playerId": 1248661,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421823345Goal1489426undefinedfalse",
+                        "timeStr": "45 + 4",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 4,
+                        "eventId": 14218233,
+                        "player": {
+                            "id": 1489426,
+                            "name": "Phillip Syvertsen",
+                            "profileUrl": "/players/1489426/phillip-syvertsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1489426/phillip-syvertsen",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Phillip Syvertsen",
+                        "firstName": "Phillip",
+                        "lastName": "Syvertsen",
+                        "fullName": "Phillip Syvertsen",
+                        "playerId": 1489426,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421826150Card1489426undefinedfalse",
+                        "timeStr": 50,
+                        "type": "Card",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14218261,
+                        "player": {
+                            "id": 1489426,
+                            "name": "Phillip Syvertsen",
+                            "profileUrl": "/players/1489426/phillip-syvertsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1489426/phillip-syvertsen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Phillip Syvertsen",
+                        "firstName": "Phillip",
+                        "lastName": "Syvertsen",
+                        "fullName": "Phillip Syvertsen",
+                        "playerId": 1489426,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421826051Goal1165805undefinedfalse",
+                        "timeStr": 51,
+                        "type": "Goal",
+                        "time": 51,
+                        "overloadTime": null,
+                        "eventId": 14218260,
+                        "player": {
+                            "id": 1165805,
+                            "name": "Andr\u00e9 Rosmer Richstad",
+                            "profileUrl": "/players/1165805/andre-rosmer-richstad"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1165805/andre-rosmer-richstad",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andr\u00e9 Rosmer Richstad",
+                        "firstName": "Andr\u00e9 Rosmer",
+                        "lastName": "Richstad",
+                        "fullName": "Andr\u00e9 Rosmer Richstad",
+                        "playerId": 1165805,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined58SubstitutionNaN1735283true",
+                        "timeStr": 58,
+                        "type": "Substitution",
+                        "time": 58,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Ole Martin Skaar",
+                                "id": "1735283",
+                                "profileUrl": "/players/1735283/ole-martin-skaar"
+                            },
+                            {
+                                "name": "Anders Johansen",
+                                "id": "843063",
+                                "profileUrl": "/players/843063/anders-johansen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421827159Card1636180undefinedtrue",
+                        "timeStr": 59,
+                        "type": "Card",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 14218271,
+                        "player": {
+                            "id": 1636180,
+                            "name": "Teodor H\u00e5land",
+                            "profileUrl": "/players/1636180/teodor-haland"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1636180/teodor-haland",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Teodor H\u00e5land",
+                        "firstName": "Teodor",
+                        "lastName": "H\u00e5land",
+                        "fullName": "Teodor H\u00e5land",
+                        "playerId": 1636180,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421827261Goal1489426undefinedfalse",
+                        "timeStr": 61,
+                        "type": "Goal",
+                        "time": 61,
+                        "overloadTime": null,
+                        "eventId": 14218272,
+                        "player": {
+                            "id": 1489426,
+                            "name": "Phillip Syvertsen",
+                            "profileUrl": "/players/1489426/phillip-syvertsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1489426/phillip-syvertsen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Phillip Syvertsen",
+                        "firstName": "Phillip",
+                        "lastName": "Syvertsen",
+                        "fullName": "Phillip Syvertsen",
+                        "playerId": 1489426,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421828664Card978242undefinedfalse",
+                        "timeStr": 64,
+                        "type": "Card",
+                        "time": 64,
+                        "overloadTime": null,
+                        "eventId": 14218286,
+                        "player": {
+                            "id": 978242,
+                            "name": "Kebba Badjie",
+                            "profileUrl": "/players/978242/kebba-badjie"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/978242/kebba-badjie",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Kebba Badjie",
+                        "firstName": "Kebba",
+                        "lastName": "Badjie",
+                        "fullName": "Kebba Badjie",
+                        "playerId": 978242,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421828765Card1281380undefinedtrue",
+                        "timeStr": 65,
+                        "type": "Card",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 14218287,
+                        "player": {
+                            "id": 1281380,
+                            "name": "Sander Wik",
+                            "profileUrl": "/players/1281380/sander-wik"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1281380/sander-wik",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Sander Wik",
+                        "firstName": "Sander",
+                        "lastName": "Wik",
+                        "fullName": "Sander Wik",
+                        "playerId": 1281380,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421828866Card1245529undefinedfalse",
+                        "timeStr": 66,
+                        "type": "Card",
+                        "time": 66,
+                        "overloadTime": null,
+                        "eventId": 14218288,
+                        "player": {
+                            "id": 1245529,
+                            "name": "Daniel Hultqvist",
+                            "profileUrl": "/players/1245529/daniel-hultqvist"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1245529/daniel-hultqvist",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Daniel Hultqvist",
+                        "firstName": "Daniel",
+                        "lastName": "Hultqvist",
+                        "fullName": "Daniel Hultqvist",
+                        "playerId": 1245529,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined73SubstitutionNaN937343false",
+                        "timeStr": 73,
+                        "type": "Substitution",
+                        "time": 73,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Sindre Osestad",
+                                "id": "937343",
+                                "profileUrl": "/players/937343/sindre-osestad"
+                            },
+                            {
+                                "name": "Samu Alanko",
+                                "id": "629692",
+                                "profileUrl": "/players/629692/samu-alanko"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined73SubstitutionNaN1457568false",
+                        "timeStr": 73,
+                        "type": "Substitution",
+                        "time": 73,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Pascal Simba",
+                                "id": "1457568",
+                                "profileUrl": "/players/1457568/pascal-simba"
+                            },
+                            {
+                                "name": "Kebba Badjie",
+                                "id": "978242",
+                                "profileUrl": "/players/978242/kebba-badjie"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421830075Card1377160undefinedfalse",
+                        "timeStr": 75,
+                        "type": "Card",
+                        "time": 75,
+                        "overloadTime": null,
+                        "eventId": 14218300,
+                        "player": {
+                            "id": 1377160,
+                            "name": "Eivind Str\u00f8msheim Kolve",
+                            "profileUrl": "/players/1377160/eivind-stromsheim-kolve"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1377160/eivind-stromsheim-kolve",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Eivind Str\u00f8msheim Kolve",
+                        "firstName": "Eivind Str\u00f8msheim",
+                        "lastName": "Kolve",
+                        "fullName": "Eivind Str\u00f8msheim Kolve",
+                        "playerId": 1377160,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined77SubstitutionNaN1948541false",
+                        "timeStr": 77,
+                        "type": "Substitution",
+                        "time": 77,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Javier Sanchez",
+                                "id": "1948541",
+                                "profileUrl": "/players/1948541/javier-sanchez"
+                            },
+                            {
+                                "name": "Phillip Syvertsen",
+                                "id": "1489426",
+                                "profileUrl": "/players/1489426/phillip-syvertsen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined83SubstitutionNaN1804699false",
+                        "timeStr": 83,
+                        "type": "Substitution",
+                        "time": 83,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Markus Syvertsen",
+                                "id": "1804699",
+                                "profileUrl": "/players/1804699/markus-syvertsen"
+                            },
+                            {
+                                "name": "Andr\u00e9 Rosmer Richstad",
+                                "id": "1165805",
+                                "profileUrl": "/players/1165805/andre-rosmer-richstad"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined83SubstitutionNaN1196701false",
+                        "timeStr": 83,
+                        "type": "Substitution",
+                        "time": 83,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Fritiof Hellichius",
+                                "id": "1196701",
+                                "profileUrl": "/players/1196701/fritiof-hellichius"
+                            },
+                            {
+                                "name": "Eivind Str\u00f8msheim Kolve",
+                                "id": "1377160",
+                                "profileUrl": "/players/1377160/eivind-stromsheim-kolve"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined83SubstitutionNaN1280698true",
+                        "timeStr": 83,
+                        "type": "Substitution",
+                        "time": 83,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Max Benjamin Myrmo",
+                                "id": "1280698",
+                                "profileUrl": "/players/1280698/max-benjamin-myrmo"
+                            },
+                            {
+                                "name": "Erlend Hellevik Larsen",
+                                "id": "532094",
+                                "profileUrl": "/players/532094/erlend-hellevik-larsen"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined83SubstitutionNaN1744140true",
+                        "timeStr": 83,
+                        "type": "Substitution",
+                        "time": 83,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Magnus Eide Bildoey",
+                                "id": "1744140",
+                                "profileUrl": "/players/1744140/magnus-eide-bildoey"
+                            },
+                            {
+                                "name": "Teodor H\u00e5land",
+                                "id": "1636180",
+                                "profileUrl": "/players/1636180/teodor-haland"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421833790Card930969undefinedfalse",
+                        "timeStr": 90,
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14218337,
+                        "player": {
+                            "id": 930969,
+                            "name": "Mikael Alm\u00e9n",
+                            "profileUrl": "/players/930969/mikael-almen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/930969/mikael-almen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Mikael Alm\u00e9n",
+                        "firstName": "Mikael",
+                        "lastName": "Alm\u00e9n",
+                        "fullName": "Mikael Alm\u00e9n",
+                        "playerId": 930969,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Substitution",
+                    "Goal",
+                    "Half",
+                    "Card",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T15:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919789,
+                    "parentLeagueId": 204,
+                    "link": "/leagues/204/overview/2-divisjon-avd-1",
+                    "leagueName": "2. Divisjon Avd. 1",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6123_xsmall.png",
+                        "linkToMatch": "/matches/vidar-vs-sotra-sportsklubb/8s6qq73#5143291",
+                        "date": {
+                            "utcTime": "2026-05-14T13:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6123/overview/vidar",
+                        "tooltipText": {
+                            "utcTime": "2026-05-14T13:30:00.000Z",
+                            "homeTeam": "Vidar",
+                            "homeTeamId": 6123,
+                            "homeScore": "1",
+                            "awayTeam": "Sotra Sportsklubb",
+                            "awayTeamId": 189420,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "6123",
+                            "name": "Vidar",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "189420",
+                            "name": "Sotra Sportsklubb",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/161378_xsmall.png",
+                        "linkToMatch": "/matches/bjarg-vs-sotra-sportsklubb/s9ld2wl#5143300",
+                        "date": {
+                            "utcTime": "2026-05-25T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/161378/overview/bjarg",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T12:00:00.000Z",
+                            "homeTeam": "Sotra Sportsklubb",
+                            "homeTeamId": 189420,
+                            "homeScore": "1",
+                            "awayTeam": "Bjarg",
+                            "awayTeamId": 161378,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "189420",
+                            "name": "Sotra Sportsklubb",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "161378",
+                            "name": "Bjarg",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/257932_xsmall.png",
+                        "linkToMatch": "/matches/sotra-sportsklubb-vs-arendal-fotball/19yuk8dk#5143306",
+                        "date": {
+                            "utcTime": "2026-05-31T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/257932/overview/arendal-fotball",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T14:00:00.000Z",
+                            "homeTeam": "Arendal Fotball",
+                            "homeTeamId": 257932,
+                            "homeScore": "1",
+                            "awayTeam": "Sotra Sportsklubb",
+                            "awayTeamId": 189420,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "257932",
+                            "name": "Arendal Fotball",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "189420",
+                            "name": "Sotra Sportsklubb",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/47403_xsmall.png",
+                        "linkToMatch": "/matches/brattvag-vs-sotra-sportsklubb/cvrx2v3#5143315",
+                        "date": {
+                            "utcTime": "2026-06-14T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/47403/overview/brattvag",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T11:00:00.000Z",
+                            "homeTeam": "Sotra Sportsklubb",
+                            "homeTeamId": 189420,
+                            "homeScore": "0",
+                            "awayTeam": "Brattv\u00e5g",
+                            "awayTeamId": 47403,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "189420",
+                            "name": "Sotra Sportsklubb",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "47403",
+                            "name": "Brattv\u00e5g",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/5734_xsmall.png",
+                        "linkToMatch": "/matches/kvik-halden-vs-sotra-sportsklubb/8qxhz1t#5143320",
+                        "date": {
+                            "utcTime": "2026-06-20T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/5734/overview/kvik-halden",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T14:00:00.000Z",
+                            "homeTeam": "Kvik Halden",
+                            "homeTeamId": 5734,
+                            "homeScore": "2",
+                            "awayTeam": "Sotra Sportsklubb",
+                            "awayTeamId": 189420,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "5734",
+                            "name": "Kvik Halden",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "189420",
+                            "name": "Sotra Sportsklubb",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/257932_xsmall.png",
+                        "linkToMatch": "/matches/jerv-vs-arendal-fotball/fk09spa#5143294",
+                        "date": {
+                            "utcTime": "2026-05-16T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/257932/overview/arendal-fotball",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T14:00:00.000Z",
+                            "homeTeam": "Arendal Fotball",
+                            "homeTeamId": 257932,
+                            "homeScore": "1",
+                            "awayTeam": "Jerv",
+                            "awayTeamId": 2303,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "257932",
+                            "name": "Arendal Fotball",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2303",
+                            "name": "Jerv",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/5734_xsmall.png",
+                        "linkToMatch": "/matches/jerv-vs-kvik-halden/j8ft1#5143298",
+                        "date": {
+                            "utcTime": "2026-05-23T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/5734/overview/kvik-halden",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T14:00:00.000Z",
+                            "homeTeam": "Jerv",
+                            "homeTeamId": 2303,
+                            "homeScore": "2",
+                            "awayTeam": "Kvik Halden",
+                            "awayTeamId": 5734,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "2303",
+                            "name": "Jerv",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "5734",
+                            "name": "Kvik Halden",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9929_xsmall.png",
+                        "linkToMatch": "/matches/jerv-vs-notodden/18jsul#5143305",
+                        "date": {
+                            "utcTime": "2026-05-31T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9929/overview/notodden",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T14:00:00.000Z",
+                            "homeTeam": "Notodden",
+                            "homeTeamId": 9929,
+                            "homeScore": "0",
+                            "awayTeam": "Jerv",
+                            "awayTeamId": 2303,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "9929",
+                            "name": "Notodden",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2303",
+                            "name": "Jerv",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6242_xsmall.png",
+                        "linkToMatch": "/matches/jerv-vs-sandviken/lqq9f#5143314",
+                        "date": {
+                            "utcTime": "2026-06-14T12:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6242/overview/sandviken",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T12:30:00.000Z",
+                            "homeTeam": "Jerv",
+                            "homeTeamId": 2303,
+                            "homeScore": "2",
+                            "awayTeam": "Sandviken",
+                            "awayTeamId": 6242,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "2303",
+                            "name": "Jerv",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6242",
+                            "name": "Sandviken",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/47403_xsmall.png",
+                        "linkToMatch": "/matches/jerv-vs-brattvag/kfj8oi#5143322",
+                        "date": {
+                            "utcTime": "2026-06-21T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/47403/overview/brattvag",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T12:00:00.000Z",
+                            "homeTeam": "Brattv\u00e5g",
+                            "homeTeamId": 47403,
+                            "homeScore": "1",
+                            "awayTeam": "Jerv",
+                            "awayTeamId": 2303,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "47403",
+                            "name": "Brattv\u00e5g",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2303",
+                            "name": "Jerv",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5143329",
+                    "MatchId": 5143329,
+                    "HomeTeamId": 189420,
+                    "AwayTeamId": 2303,
+                    "HomeTeam": "Sotra SK",
+                    "AwayTeam": "Jerv",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "away_team",
+                                "11"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Jerv haven't lost in 11 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Sotra Sportsklubb have an average of 0.67 goals in their last three matches and Jerv have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Sotra Sportsklubb have an average of 0.67 goals in their last three matches and Jerv have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Sotra Sportsklubb haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 189420,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#00459c"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 189420,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 5 matches",
+                    "color": "#00459c"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2303,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#1D5DAA"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2303,
+                    "priority": 6,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 11,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 11 matches",
+                    "color": "#1D5DAA"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Sotra Sportsklubb and Jerv on Sun, 28 Jun 2026 15:00:00 GMT?",
+                    "answer": "Jerv won 3\u20131 over Sotra Sportsklubb on Sun, 28 Jun 2026 15:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5143329,
+            "lineupType": "simple",
+            "source": "enetpulse",
+            "availableFilters": [
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 189420,
+                "name": "Sotra Sportsklubb",
+                "starters": [
+                    {
+                        "id": 742382,
+                        "age": 30,
+                        "name": "Morten Grasmo",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Morten",
+                        "lastName": "Grasmo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 843063,
+                        "age": 27,
+                        "name": "Anders Johansen",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 58,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Anders",
+                        "lastName": "Johansen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 631755,
+                        "age": 27,
+                        "name": "Daniel T\u00f8rum",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "20",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Daniel",
+                        "lastName": "T\u00f8rum",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1049419,
+                        "age": 27,
+                        "name": "H\u00e5vard Arefjord Foldnes",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "8",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "H\u00e5vard Arefjord",
+                        "lastName": "Foldnes",
+                        "rankings": null
+                    },
+                    {
+                        "id": 937253,
+                        "age": 26,
+                        "name": "Kristian Skj\u00f8rli Ree",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Kristian Skj\u00f8rli",
+                        "lastName": "Ree",
+                        "rankings": null
+                    },
+                    {
+                        "id": 532094,
+                        "age": 30,
+                        "name": "Erlend Hellevik Larsen",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "24",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Erlend Hellevik",
+                        "lastName": "Larsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1248661,
+                        "age": 22,
+                        "name": "Isak Hjorteseth",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "19",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 107463,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 31
+                                }
+                            ]
+                        },
+                        "firstName": "Isak",
+                        "lastName": "Hjorteseth",
+                        "rankings": null
+                    },
+                    {
+                        "id": 737079,
+                        "age": 28,
+                        "name": "Lars Kilen",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 57205,
+                        "firstName": "Lars",
+                        "lastName": "Kilen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1353283,
+                        "age": 23,
+                        "name": "Mads Fosse Aaserud",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 24,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Mads Fosse",
+                        "lastName": "Aaserud",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1636180,
+                        "age": 21,
+                        "name": "Teodor H\u00e5land",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "11",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 59
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Teodor",
+                        "lastName": "H\u00e5land",
+                        "rankings": null
+                    },
+                    {
+                        "id": 538627,
+                        "age": 31,
+                        "name": "Frederic Falck",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Frederic",
+                        "lastName": "Falck",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1281380,
+                        "age": 24,
+                        "name": "Sander Wik",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "6",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 65
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 24,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Sander",
+                        "lastName": "Wik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1735283,
+                        "age": 21,
+                        "name": "Ole Martin Skaar",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 58,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Ole Martin",
+                        "lastName": "Skaar",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1744140,
+                        "age": 23,
+                        "name": "Magnus Eide Bildoey",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Magnus Eide",
+                        "lastName": "Bildoey",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1280698,
+                        "age": 22,
+                        "name": "Max Benjamin Myrmo",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Max Benjamin",
+                        "lastName": "Myrmo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2058945,
+                        "name": "Fredrik Midttveit",
+                        "positionId": 4,
+                        "shirtNumber": "25",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Fredrik",
+                        "lastName": "Midttveit",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1797822,
+                        "age": 20,
+                        "name": "Ruben Haga Sulen",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "16",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Ruben Haga",
+                        "lastName": "Sulen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1525710,
+                        "age": 21,
+                        "name": "Jakob Tveit",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 103103,
+                        "firstName": "Jakob",
+                        "lastName": "Tveit",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1647376,
+                        "age": 21,
+                        "name": "Adrian Hustad Amdam",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "21",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Adrian Hustad",
+                        "lastName": "Amdam",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1810864,
+                        "age": 17,
+                        "name": "Markus Faeoe",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "14",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Markus",
+                        "lastName": "Faeoe",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 27
+            },
+            "awayTeam": {
+                "id": 2303,
+                "name": "Jerv",
+                "starters": [
+                    {
+                        "id": 932617,
+                        "age": 25,
+                        "name": "Daniel Gadegaard Andersen",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "16",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "firstName": "Daniel Gadegaard",
+                        "lastName": "Andersen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1245529,
+                        "age": 28,
+                        "name": "Daniel Hultqvist",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 66
+                                }
+                            ]
+                        },
+                        "firstName": "Daniel",
+                        "lastName": "Hultqvist",
+                        "rankings": null
+                    },
+                    {
+                        "id": 930969,
+                        "age": 26,
+                        "name": "Mikael Alm\u00e9n",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "15",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 118146,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Mikael",
+                        "lastName": "Alm\u00e9n",
+                        "rankings": null
+                    },
+                    {
+                        "id": 629692,
+                        "age": 28,
+                        "name": "Samu Alanko",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "77",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Samu",
+                        "lastName": "Alanko",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1280704,
+                        "age": 22,
+                        "name": "Theodor Martin Agelin",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 267226,
+                        "firstName": "Theodor Martin",
+                        "lastName": "Agelin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1165805,
+                        "age": 26,
+                        "name": "Andr\u00e9 Rosmer Richstad",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "18",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 51
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Andr\u00e9 Rosmer",
+                        "lastName": "Richstad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1377160,
+                        "age": 21,
+                        "name": "Eivind Str\u00f8msheim Kolve",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 75
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Eivind Str\u00f8msheim",
+                        "lastName": "Kolve",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1363106,
+                        "age": 22,
+                        "name": "Sander Nordb\u00f8",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 87475,
+                        "firstName": "Sander",
+                        "lastName": "Nordb\u00f8",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1377067,
+                        "age": 20,
+                        "name": "Helge Strand",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Helge",
+                        "lastName": "Strand",
+                        "rankings": null
+                    },
+                    {
+                        "id": 978242,
+                        "age": 26,
+                        "name": "Kebba Badjie",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Gambia",
+                        "countryCode": "GAM",
+                        "marketValue": 97401,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 64
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Kebba",
+                        "lastName": "Badjie",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1489426,
+                        "age": 21,
+                        "name": "Phillip Syvertsen",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 61
+                                },
+                                {
+                                    "type": "yellowCard",
+                                    "time": 50
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 45
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 77,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Phillip",
+                        "lastName": "Syvertsen",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1457568,
+                        "age": 26,
+                        "name": "Pascal Simba",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "9",
+                        "countryName": "DR Congo",
+                        "countryCode": "COD",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Pascal",
+                        "lastName": "Simba",
+                        "rankings": null
+                    },
+                    {
+                        "id": 937343,
+                        "age": 26,
+                        "name": "Sindre Osestad",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "40",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 60465,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 73,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Sindre",
+                        "lastName": "Osestad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1948541,
+                        "age": 25,
+                        "name": "Javier Sanchez",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Spain",
+                        "countryCode": "ESP",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 77,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Javier",
+                        "lastName": "Sanchez",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1196701,
+                        "age": 22,
+                        "name": "Fritiof Hellichius",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 212293,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Fritiof",
+                        "lastName": "Hellichius",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1804699,
+                        "age": 18,
+                        "name": "Markus Syvertsen",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "42",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 83,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Markus",
+                        "lastName": "Syvertsen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1321131,
+                        "age": 22,
+                        "name": "Vincent Angelini",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Scotland",
+                        "countryCode": "SCO",
+                        "marketValue": 130801,
+                        "firstName": "Vincent",
+                        "lastName": "Angelini",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1745278,
+                        "age": 17,
+                        "name": "Lennard Kussl",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "41",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Lennard",
+                        "lastName": "Kussl",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1755797,
+                        "age": 19,
+                        "name": "Isak Andersen Abusdal",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "25",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "firstName": "Isak Andersen",
+                        "lastName": "Abusdal",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1281793,
+                        "age": 24,
+                        "name": "Vetle Wenaas",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 115214,
+                        "firstName": "Vetle",
+                        "lastName": "Wenaas",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 24.6
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919789",
+            "url": "https://data.fotmob.com/tables.ext.919789.fot.gz",
+            "teams": [
+                189420,
+                2303
+            ],
+            "tournamentNameForUrl": "2. Divisjon Avd. 1",
+            "parentLeagueId": 204,
+            "countryCode": "NOR"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                1,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-10-05T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/jerv-vs-sotra-sportsklubb/8fycqj5#4696446",
+                    "league": {
+                        "name": "2. Divisjon Avd. 1",
+                        "id": "204",
+                        "pageUrl": "/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    "home": {
+                        "name": "Jerv",
+                        "id": "2303"
+                    },
+                    "status": {
+                        "utcTime": "2025-10-05T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sotra Sportsklubb",
+                        "id": "189420"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-08T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/jerv-vs-sotra-sportsklubb/8fycqj5#4696348",
+                    "league": {
+                        "name": "2. Divisjon Avd. 1",
+                        "id": "204",
+                        "pageUrl": "/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    "home": {
+                        "name": "Sotra Sportsklubb",
+                        "id": "189420"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-08T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Jerv",
+                        "id": "2303"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-07-07T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/jerv-vs-sotra-sportsklubb/8fycqj5#4390209",
+                    "league": {
+                        "name": "2. Divisjon Avd. 1",
+                        "id": "204",
+                        "pageUrl": "/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    "home": {
+                        "name": "Jerv",
+                        "id": "2303"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-07T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sotra Sportsklubb",
+                        "id": "189420"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-27T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/jerv-vs-sotra-sportsklubb/8fycqj5#4390180",
+                    "league": {
+                        "name": "2. Divisjon Avd. 1",
+                        "id": "204",
+                        "pageUrl": "/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    "home": {
+                        "name": "Sotra Sportsklubb",
+                        "id": "189420"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-27T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Jerv",
+                        "id": "2303"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "sotra-sportsklubb-vs-jerv",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5143329",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Sotra Sportsklubb",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/189420.png",
+                "url": "https://www.fotmob.com/teams/189420/overview/sotra-sportsklubb",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Jerv",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2303.png",
+                "url": "https://www.fotmob.com/teams/2303/overview/jerv",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Sotra Sportsklubb vs Jerv",
+            "description": "Follow Sotra Sportsklubb vs Jerv live on fotmob.com",
+            "startDate": "2026-06-28T15:00:00.000Z",
+            "endDate": "2026-06-28T17:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/189420.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2303.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5143329",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T15:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Sotra Sportsklubb",
+                    "url": "https://www.fotmob.com/teams/189420/overview/sotra-sportsklubb"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Jerv",
+                    "url": "https://www.fotmob.com/teams/2303/overview/jerv"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "2. Divisjon Avd. 1",
+                        "item": "https://www.fotmob.com/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Sotra Sportsklubb - Jerv",
+                        "item": "https://www.fotmob.com/match/5143329"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "2. Divisjon Avd. 1",
+                        "item": "https://www.fotmob.com/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Jerv",
+                        "item": "https://www.fotmob.com/teams/2303/overview/jerv"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Sotra Sportsklubb - Jerv",
+                        "item": "https://www.fotmob.com/match/5143329"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "2. Divisjon Avd. 1",
+                        "item": "https://www.fotmob.com/leagues/204/overview/2-divisjon-avd-1"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Sotra Sportsklubb",
+                        "item": "https://www.fotmob.com/teams/189420/overview/sotra-sportsklubb"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Sotra Sportsklubb - Jerv",
+                        "item": "https://www.fotmob.com/match/5143329"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Sotra Sportsklubb and Jerv on Sun, 28 Jun 2026 15:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Jerv won 3\u20131 over Sotra Sportsklubb on Sun, 28 Jun 2026 15:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

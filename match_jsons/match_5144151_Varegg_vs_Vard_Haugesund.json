@@ -1,0 +1,995 @@
+{
+    "general": {
+        "matchId": "5144151",
+        "matchName": "Varegg-vs-Vard Haugesund_Sun, Jun 28, 2026, 12:00 UTC",
+        "matchRound": "12",
+        "teamColors": {
+            "darkMode": {
+                "home": "#005DAD",
+                "away": "#aa1307"
+            },
+            "lightMode": {
+                "home": "#005DAD",
+                "away": "#A00000"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 919794,
+        "leagueName": "3. Divisjon Avd. 3",
+        "leagueRoundName": "12",
+        "parentLeagueId": 205,
+        "countryCode": "NOR",
+        "homeTeam": {
+            "name": "Varegg",
+            "id": 4318
+        },
+        "awayTeam": {
+            "name": "Vard Haugesund",
+            "id": 8117
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Varegg",
+                "id": 4318,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4318_small.png",
+                "pageUrl": "/teams/4318/overview/varegg"
+            },
+            {
+                "name": "Vard Haugesund",
+                "id": 8117,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8117_small.png",
+                "pageUrl": "/teams/8117/overview/vard-haugesund"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 14:01:14",
+                "firstHalfEnded": "28.06.2026 14:48:54",
+                "secondHalfStarted": "28.06.2026 15:02:02",
+                "secondHalfEnded": "28.06.2026 15:51:22",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 15:51:22"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Waraas": [
+                    {
+                        "reactKey": "1421779764Goal1660697undefinedtrue",
+                        "timeStr": 64,
+                        "type": "Goal",
+                        "time": 64,
+                        "overloadTime": null,
+                        "eventId": 14217797,
+                        "player": {
+                            "id": 1660697,
+                            "name": "Andreas Waraas",
+                            "profileUrl": "/players/1660697/andreas-waraas"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1660697/andreas-waraas",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andreas Waraas",
+                        "firstName": "Andreas",
+                        "lastName": "Waraas",
+                        "fullName": "Andreas Waraas",
+                        "playerId": 1660697,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Eikje": [
+                    {
+                        "reactKey": "1421779359Goal1281130undefinedfalse",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 14217793,
+                        "player": {
+                            "id": 1281130,
+                            "name": "Mathias Kj\u00e6r Eikje",
+                            "profileUrl": "/players/1281130/mathias-kjaer-eikje"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1281130/mathias-kjaer-eikje",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mathias Kj\u00e6r Eikje",
+                        "firstName": "Mathias Kj\u00e6r",
+                        "lastName": "Eikje",
+                        "fullName": "Mathias Kj\u00e6r Eikje",
+                        "playerId": 1281130,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5144151,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421779359Goal1281130undefinedfalse",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 14217793,
+                        "player": {
+                            "id": 1281130,
+                            "name": "Mathias Kj\u00e6r Eikje",
+                            "profileUrl": "/players/1281130/mathias-kjaer-eikje"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1281130/mathias-kjaer-eikje",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mathias Kj\u00e6r Eikje",
+                        "firstName": "Mathias Kj\u00e6r",
+                        "lastName": "Eikje",
+                        "fullName": "Mathias Kj\u00e6r Eikje",
+                        "playerId": 1281130,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421779764Goal1660697undefinedtrue",
+                        "timeStr": 64,
+                        "type": "Goal",
+                        "time": 64,
+                        "overloadTime": null,
+                        "eventId": 14217797,
+                        "player": {
+                            "id": 1660697,
+                            "name": "Andreas Waraas",
+                            "profileUrl": "/players/1660697/andreas-waraas"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1660697/andreas-waraas",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andreas Waraas",
+                        "firstName": "Andreas",
+                        "lastName": "Waraas",
+                        "fullName": "Andreas Waraas",
+                        "playerId": 1660697,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Goal"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 919794,
+                    "parentLeagueId": 205,
+                    "link": "/leagues/205/overview/3-divisjon-avd-3",
+                    "leagueName": "3. Divisjon Avd. 3",
+                    "roundName": "12",
+                    "round": "12"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8291_xsmall.png",
+                        "linkToMatch": "/matches/varegg-vs-askoy/1bc4sk#5144104",
+                        "date": {
+                            "utcTime": "2026-05-09T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8291/overview/askoy",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T12:00:00.000Z",
+                            "homeTeam": "Ask\u00f8y",
+                            "homeTeamId": 8291,
+                            "homeScore": "2",
+                            "awayTeam": "Varegg",
+                            "awayTeamId": 4318,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8291",
+                            "name": "Ask\u00f8y",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4318",
+                            "name": "Varegg",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/246204_xsmall.png",
+                        "linkToMatch": "/matches/varegg-vs-asane-2/eezapvh#5144115",
+                        "date": {
+                            "utcTime": "2026-05-16T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/246204/overview/asane-2",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T11:00:00.000Z",
+                            "homeTeam": "Varegg",
+                            "homeTeamId": 4318,
+                            "homeScore": "0",
+                            "awayTeam": "\u00c5sane 2",
+                            "awayTeamId": 246204,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "4318",
+                            "name": "Varegg",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "246204",
+                            "name": "\u00c5sane 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/46917_xsmall.png",
+                        "linkToMatch": "/matches/varegg-vs-djerv-1919/lph96j#5144126",
+                        "date": {
+                            "utcTime": "2026-05-30T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/46917/overview/djerv-1919",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T12:00:00.000Z",
+                            "homeTeam": "Djerv 1919",
+                            "homeTeamId": 46917,
+                            "homeScore": "3",
+                            "awayTeam": "Varegg",
+                            "awayTeamId": 4318,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "46917",
+                            "name": "Djerv 1919",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4318",
+                            "name": "Varegg",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4305_xsmall.png",
+                        "linkToMatch": "/matches/gneist-vs-varegg/m51fq#5144135",
+                        "date": {
+                            "utcTime": "2026-06-13T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4305/overview/gneist",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T12:00:00.000Z",
+                            "homeTeam": "Varegg",
+                            "homeTeamId": 4318,
+                            "homeScore": "0",
+                            "awayTeam": "Gneist",
+                            "awayTeamId": 4305,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "4318",
+                            "name": "Varegg",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4305",
+                            "name": "Gneist",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7864_xsmall.png",
+                        "linkToMatch": "/matches/varegg-vs-stord/186oad#5144142",
+                        "date": {
+                            "utcTime": "2026-06-20T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7864/overview/stord",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T12:00:00.000Z",
+                            "homeTeam": "Stord",
+                            "homeTeamId": 7864,
+                            "homeScore": "1",
+                            "awayTeam": "Varegg",
+                            "awayTeamId": 4318,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "7864",
+                            "name": "Stord",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4318",
+                            "name": "Varegg",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/46917_xsmall.png",
+                        "linkToMatch": "/matches/vard-haugesund-vs-djerv-1919/p1mzb8#5144114",
+                        "date": {
+                            "utcTime": "2026-05-15T16:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/46917/overview/djerv-1919",
+                        "tooltipText": {
+                            "utcTime": "2026-05-15T16:30:00.000Z",
+                            "homeTeam": "Djerv 1919",
+                            "homeTeamId": 46917,
+                            "homeScore": "1",
+                            "awayTeam": "Vard Haugesund",
+                            "awayTeamId": 8117,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "46917",
+                            "name": "Djerv 1919",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8117",
+                            "name": "Vard Haugesund",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7864_xsmall.png",
+                        "linkToMatch": "/matches/stord-vs-vard-haugesund/241bfk#5144118",
+                        "date": {
+                            "utcTime": "2026-05-22T16:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7864/overview/stord",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T16:30:00.000Z",
+                            "homeTeam": "Vard Haugesund",
+                            "homeTeamId": 8117,
+                            "homeScore": "4",
+                            "awayTeam": "Stord",
+                            "awayTeamId": 7864,
+                            "awayScore": "1"
+                        },
+                        "score": "4 - 1",
+                        "home": {
+                            "id": "8117",
+                            "name": "Vard Haugesund",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "7864",
+                            "name": "Stord",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/246204_xsmall.png",
+                        "linkToMatch": "/matches/vard-haugesund-vs-asane-2/euu8g9q#5144129",
+                        "date": {
+                            "utcTime": "2026-06-01T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/246204/overview/asane-2",
+                        "tooltipText": {
+                            "utcTime": "2026-06-01T16:00:00.000Z",
+                            "homeTeam": "Vard Haugesund",
+                            "homeTeamId": 8117,
+                            "homeScore": "3",
+                            "awayTeam": "\u00c5sane 2",
+                            "awayTeamId": 246204,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "8117",
+                            "name": "Vard Haugesund",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "246204",
+                            "name": "\u00c5sane 2",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6539_xsmall.png",
+                        "linkToMatch": "/matches/forde-vs-vard-haugesund/1ry9n9#5144132",
+                        "date": {
+                            "utcTime": "2026-06-13T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6539/overview/forde",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T11:00:00.000Z",
+                            "homeTeam": "F\u00f8rde",
+                            "homeTeamId": 6539,
+                            "homeScore": "0",
+                            "awayTeam": "Vard Haugesund",
+                            "awayTeamId": 8117,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "6539",
+                            "name": "F\u00f8rde",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8117",
+                            "name": "Vard Haugesund",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6537_xsmall.png",
+                        "linkToMatch": "/matches/austevoll-vs-vard-haugesund/1rxn12#5144143",
+                        "date": {
+                            "utcTime": "2026-06-20T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6537/overview/austevoll",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T11:00:00.000Z",
+                            "homeTeam": "Vard Haugesund",
+                            "homeTeamId": 8117,
+                            "homeScore": "0",
+                            "awayTeam": "Austevoll",
+                            "awayTeamId": 6537,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "8117",
+                            "name": "Vard Haugesund",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6537",
+                            "name": "Austevoll",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5144151",
+                    "MatchId": 5144151,
+                    "HomeTeamId": 4318,
+                    "AwayTeamId": 8117,
+                    "HomeTeam": "Varegg",
+                    "AwayTeam": "Vard Haugesund",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Varegg haven't won a match in 7 attempts."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Varegg have an average of 1 goals in their last three matches and Vard Haugesund have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Varegg have an average of 1 goals in their last three matches and Vard Haugesund have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Varegg haven't won a match in 7 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4318,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 4 goals in their last 5 matches",
+                    "color": "#005DAD"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8117,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#A00000"
+                }
+            ],
+            "countryCode": "NOR",
+            "QAData": [
+                {
+                    "question": "Who won between Varegg and Vard Haugesund on Sun, 28 Jun 2026 12:00:00 GMT?",
+                    "answer": "Varegg vs Vard Haugesund on Sun, 28 Jun 2026 12:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "919794",
+            "url": "https://data.fotmob.com/tables.ext.919794.fot.gz",
+            "teams": [
+                4318,
+                8117
+            ],
+            "tournamentNameForUrl": "3. Divisjon Avd. 3",
+            "parentLeagueId": 205,
+            "countryCode": "NOR"
+        },
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "varegg-vs-vard-haugesund",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5144151",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Varegg",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4318.png",
+                "url": "https://www.fotmob.com/teams/4318/overview/varegg",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Vard Haugesund",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8117.png",
+                "url": "https://www.fotmob.com/teams/8117/overview/vard-haugesund",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Varegg vs Vard Haugesund",
+            "description": "Follow Varegg vs Vard Haugesund live on fotmob.com",
+            "startDate": "2026-06-28T12:00:00.000Z",
+            "endDate": "2026-06-28T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4318.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8117.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5144151",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Varegg",
+                    "url": "https://www.fotmob.com/teams/4318/overview/varegg"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Vard Haugesund",
+                    "url": "https://www.fotmob.com/teams/8117/overview/vard-haugesund"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 3",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-3"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Varegg - Vard Haugesund",
+                        "item": "https://www.fotmob.com/match/5144151"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 3",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-3"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Vard Haugesund",
+                        "item": "https://www.fotmob.com/teams/8117/overview/vard-haugesund"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Varegg - Vard Haugesund",
+                        "item": "https://www.fotmob.com/match/5144151"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "3. Divisjon Avd. 3",
+                        "item": "https://www.fotmob.com/leagues/205/overview/3-divisjon-avd-3"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Varegg",
+                        "item": "https://www.fotmob.com/teams/4318/overview/varegg"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Varegg - Vard Haugesund",
+                        "item": "https://www.fotmob.com/match/5144151"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Varegg and Vard Haugesund on Sun, 28 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Varegg vs Vard Haugesund on Sun, 28 Jun 2026 12:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

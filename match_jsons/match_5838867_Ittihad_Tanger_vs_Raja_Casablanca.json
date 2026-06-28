@@ -1,0 +1,3365 @@
+{
+    "general": {
+        "matchId": "5838867",
+        "matchName": "Ittihad Tanger-vs-Raja Casablanca_Sun, Jun 28, 2026, 17:00 UTC",
+        "matchRound": "28",
+        "teamColors": {
+            "darkMode": {
+                "home": "#302868",
+                "away": "#009040"
+            },
+            "lightMode": {
+                "home": "#302868",
+                "away": "#009040"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 530,
+        "leagueName": "Botola Pro",
+        "leagueRoundName": "28",
+        "parentLeagueId": 530,
+        "countryCode": "MAR",
+        "homeTeam": {
+            "name": "Ittihad Tanger",
+            "id": 316657
+        },
+        "awayTeam": {
+            "name": "Raja Casablanca",
+            "id": 102049
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 17:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T17:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Ittihad Tanger",
+                "id": 316657,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316657_small.png",
+                "pageUrl": "/teams/316657/overview/ittihad-tanger"
+            },
+            {
+                "name": "Raja Casablanca",
+                "id": 102049,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102049_small.png",
+                "pageUrl": "/teams/102049/overview/raja-casablanca"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T17:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 19:02:08",
+                "firstHalfEnded": "28.06.2026 19:52:24",
+                "secondHalfStarted": "28.06.2026 20:09:05",
+                "secondHalfEnded": "28.06.2026 21:03:40",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 21:03:40"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "El Ouadghiri": [
+                    {
+                        "reactKey": "1421861690Goal1433901undefinedtrue",
+                        "timeStr": "90 + 2",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "eventId": 14218616,
+                        "player": {
+                            "id": 1433901,
+                            "name": "Bilal El Ouadghiri",
+                            "profileUrl": "/players/1433901/bilal-el-ouadghiri"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1433901/bilal-el-ouadghiri",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bilal El Ouadghiri",
+                        "firstName": "Bilal",
+                        "lastName": "El Ouadghiri",
+                        "fullName": "Bilal El Ouadghiri",
+                        "playerId": 1433901,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mohamed El Arouch",
+                        "assistProfileUrl": "/players/1390092/mohamed-el-arouch",
+                        "assistPlayerId": 1390092,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mohamed El Arouch"
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Khafifi": [
+                    {
+                        "reactKey": "1421841744Goal978400undefinedfalse",
+                        "timeStr": 44,
+                        "type": "Goal",
+                        "time": 44,
+                        "overloadTime": null,
+                        "eventId": 14218417,
+                        "player": {
+                            "id": 978400,
+                            "name": "Abdellah Khafifi",
+                            "profileUrl": "/players/978400/abdellah-khafifi"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/978400/abdellah-khafifi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abdellah Khafifi",
+                        "firstName": "Abdellah",
+                        "lastName": "Khafifi",
+                        "fullName": "Abdellah Khafifi",
+                        "playerId": 978400,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {
+                "Banoune": [
+                    {
+                        "reactKey": "1421849267Card614781undefinedfalse",
+                        "timeStr": 67,
+                        "type": "Card",
+                        "time": 67,
+                        "overloadTime": null,
+                        "eventId": 14218492,
+                        "player": {
+                            "id": 614781,
+                            "name": "Badr Banoune",
+                            "profileUrl": "/players/614781/badr-banoune"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/614781/badr-banoune",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Badr Banoune",
+                        "firstName": "Badr",
+                        "lastName": "Banoune",
+                        "fullName": "Badr Banoune",
+                        "playerId": 614781,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5838867,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421841438Card1126732undefinedtrue",
+                        "timeStr": 38,
+                        "type": "Card",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 14218414,
+                        "player": {
+                            "id": 1126732,
+                            "name": "Zakaria Kiani",
+                            "profileUrl": "/players/1126732/zakaria-kiani"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1126732/zakaria-kiani",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Zakaria Kiani",
+                        "firstName": "Zakaria",
+                        "lastName": "Kiani",
+                        "fullName": "Zakaria Kiani",
+                        "playerId": 1126732,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421842043Card1403643undefinedtrue",
+                        "timeStr": 43,
+                        "type": "Card",
+                        "time": 43,
+                        "overloadTime": null,
+                        "eventId": 14218420,
+                        "player": {
+                            "id": 1403643,
+                            "name": "Mohamed Saoud",
+                            "profileUrl": "/players/1403643/mohamed-saoud"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1403643/mohamed-saoud",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Mohamed Saoud",
+                        "firstName": "Mohamed",
+                        "lastName": "Saoud",
+                        "fullName": "Mohamed Saoud",
+                        "playerId": 1403643,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421841744Goal978400undefinedfalse",
+                        "timeStr": 44,
+                        "type": "Goal",
+                        "time": 44,
+                        "overloadTime": null,
+                        "eventId": 14218417,
+                        "player": {
+                            "id": 978400,
+                            "name": "Abdellah Khafifi",
+                            "profileUrl": "/players/978400/abdellah-khafifi"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/978400/abdellah-khafifi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abdellah Khafifi",
+                        "firstName": "Abdellah",
+                        "lastName": "Khafifi",
+                        "fullName": "Abdellah Khafifi",
+                        "playerId": 978400,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1687525true",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Abdel Ma\u00e2li",
+                                "id": "1687525",
+                                "profileUrl": "/players/1687525/abdel-maali"
+                            },
+                            {
+                                "name": "Faouzi Abdoul Mutalib",
+                                "id": "1195341",
+                                "profileUrl": "/players/1195341/faouzi-abdoul-mutalib"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421849267Card614781undefinedfalse",
+                        "timeStr": 67,
+                        "type": "Card",
+                        "time": 67,
+                        "overloadTime": null,
+                        "eventId": 14218492,
+                        "player": {
+                            "id": 614781,
+                            "name": "Badr Banoune",
+                            "profileUrl": "/players/614781/badr-banoune"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/614781/badr-banoune",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Badr Banoune",
+                        "firstName": "Badr",
+                        "lastName": "Banoune",
+                        "fullName": "Badr Banoune",
+                        "playerId": 614781,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined72SubstitutionNaN1520099false",
+                        "timeStr": 72,
+                        "type": "Substitution",
+                        "time": 72,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mehdi Mchakhchekh",
+                                "id": "1520099",
+                                "profileUrl": "/players/1520099/mehdi-mchakhchekh"
+                            },
+                            {
+                                "name": "Amine Khammas",
+                                "id": "862617",
+                                "profileUrl": "/players/862617/amine-khammas"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined72SubstitutionNaN614062false",
+                        "timeStr": 72,
+                        "type": "Substitution",
+                        "time": 72,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Adam Ennaffati",
+                                "id": "614062",
+                                "profileUrl": "/players/614062/adam-ennaffati"
+                            },
+                            {
+                                "name": "Ismail Khafi",
+                                "id": "1097610",
+                                "profileUrl": "/players/1097610/ismail-khafi"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421853974Card1577583undefinedtrue",
+                        "timeStr": 74,
+                        "type": "Card",
+                        "time": 74,
+                        "overloadTime": null,
+                        "eventId": 14218539,
+                        "player": {
+                            "id": 1577583,
+                            "name": "Ennaama El Bellali",
+                            "profileUrl": "/players/1577583/ennaama-el-bellali"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1577583/ennaama-el-bellali",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Ennaama El Bellali",
+                        "firstName": "Ennaama",
+                        "lastName": "El Bellali",
+                        "fullName": "Ennaama El Bellali",
+                        "playerId": 1577583,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421854875Card942074undefinedfalse",
+                        "timeStr": 75,
+                        "type": "Card",
+                        "time": 75,
+                        "overloadTime": null,
+                        "eventId": 14218548,
+                        "player": {
+                            "id": 942074,
+                            "name": "Mohamed Al Makaazi",
+                            "profileUrl": "/players/942074/mohamed-al-makaazi"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/942074/mohamed-al-makaazi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Mohamed Al Makaazi",
+                        "firstName": "Mohamed",
+                        "lastName": "Al Makaazi",
+                        "fullName": "Mohamed Al Makaazi",
+                        "playerId": 942074,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421855278Card978400undefinedfalse",
+                        "timeStr": 78,
+                        "type": "Card",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 14218552,
+                        "player": {
+                            "id": 978400,
+                            "name": "Abdellah Khafifi",
+                            "profileUrl": "/players/978400/abdellah-khafifi"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/978400/abdellah-khafifi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Abdellah Khafifi",
+                        "firstName": "Abdellah",
+                        "lastName": "Khafifi",
+                        "fullName": "Abdellah Khafifi",
+                        "playerId": 978400,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1230612false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Papa Sakho",
+                                "id": "1230612",
+                                "profileUrl": "/players/1230612/papa-sakho"
+                            },
+                            {
+                                "name": "Aymen Barkok",
+                                "id": "803027",
+                                "profileUrl": "/players/803027/aymen-barkok"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1520062false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Balla Cont\u00e9",
+                                "id": "1520062",
+                                "profileUrl": "/players/1520062/balla-conte"
+                            },
+                            {
+                                "name": "Hilal Ferdaoussi",
+                                "id": "1557079",
+                                "profileUrl": "/players/1557079/hilal-ferdaoussi"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421857281Card1125841undefinedtrue",
+                        "timeStr": 81,
+                        "type": "Card",
+                        "time": 81,
+                        "overloadTime": null,
+                        "eventId": 14218572,
+                        "player": {
+                            "id": 1125841,
+                            "name": "Haitam El Bahja",
+                            "profileUrl": "/players/1125841/haitam-el-bahja"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1125841/haitam-el-bahja",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Haitam El Bahja",
+                        "firstName": "Haitam",
+                        "lastName": "El Bahja",
+                        "fullName": "Haitam El Bahja",
+                        "playerId": 1125841,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined88SubstitutionNaN1012194false",
+                        "timeStr": 88,
+                        "type": "Substitution",
+                        "time": 88,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mohamed Boulacsou",
+                                "id": "1012194",
+                                "profileUrl": "/players/1012194/mohamed-boulacsou"
+                            },
+                            {
+                                "name": "Adam Ennaffati",
+                                "id": "614062",
+                                "profileUrl": "/players/614062/adam-ennaffati"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421860688Card614062undefinedfalse",
+                        "timeStr": 88,
+                        "type": "Card",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14218606,
+                        "player": {
+                            "id": 614062,
+                            "name": "Adam Ennaffati",
+                            "profileUrl": "/players/614062/adam-ennaffati"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/614062/adam-ennaffati",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Adam Ennaffati",
+                        "firstName": "Adam",
+                        "lastName": "Ennaffati",
+                        "fullName": "Adam Ennaffati",
+                        "playerId": 614062,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421861790Card1214369undefinedfalse",
+                        "timeStr": "90 + 1",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14218617,
+                        "player": {
+                            "id": 1214369,
+                            "name": "Khalid Alaoui",
+                            "profileUrl": "/players/1214369/khalid-alaoui"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1214369/khalid-alaoui",
+                        "overloadTimeStr": "+1",
+                        "isHome": false,
+                        "nameStr": "Khalid Alaoui",
+                        "firstName": "Khalid",
+                        "lastName": "Alaoui",
+                        "fullName": "Khalid Alaoui",
+                        "playerId": 1214369,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421861690Goal1433901undefinedtrue",
+                        "timeStr": "90 + 2",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "eventId": 14218616,
+                        "player": {
+                            "id": 1433901,
+                            "name": "Bilal El Ouadghiri",
+                            "profileUrl": "/players/1433901/bilal-el-ouadghiri"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1433901/bilal-el-ouadghiri",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bilal El Ouadghiri",
+                        "firstName": "Bilal",
+                        "lastName": "El Ouadghiri",
+                        "fullName": "Bilal El Ouadghiri",
+                        "playerId": 1433901,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mohamed El Arouch",
+                        "assistProfileUrl": "/players/1390092/mohamed-el-arouch",
+                        "assistPlayerId": 1390092,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mohamed El Arouch"
+                    },
+                    {
+                        "reactKey": "1421863990Card1390092undefinedtrue",
+                        "timeStr": "90 + 4",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14218639,
+                        "player": {
+                            "id": 1390092,
+                            "name": "Mohamed El Arouch",
+                            "profileUrl": "/players/1390092/mohamed-el-arouch"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1390092/mohamed-el-arouch",
+                        "overloadTimeStr": "+4",
+                        "isHome": true,
+                        "nameStr": "Mohamed El Arouch",
+                        "firstName": "Mohamed",
+                        "lastName": "El Arouch",
+                        "fullName": "Mohamed El Arouch",
+                        "playerId": 1390092,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN1820627true",
+                        "timeStr": "90 + 7",
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 7,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+7",
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Achraf El Quaraoui",
+                                "id": "1820627",
+                                "profileUrl": "/players/1820627/achraf-el-quaraoui"
+                            },
+                            {
+                                "name": "Jawad Ghabra",
+                                "id": "1134301",
+                                "profileUrl": "/players/1134301/jawad-ghabra"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Goal",
+                    "Half",
+                    "Substitution",
+                    "Assist",
+                    "Yellow",
+                    "Red",
+                    "Injuries"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T17:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 530,
+                    "parentLeagueId": 530,
+                    "link": "/leagues/530/overview/botola-pro",
+                    "leagueName": "Botola Pro",
+                    "roundName": "28",
+                    "round": "28"
+                },
+                "Stadium": {
+                    "name": "Tangier Grand Stadium",
+                    "country": ""
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316652_xsmall.png",
+                        "linkToMatch": "/matches/rsb-berkane-vs-ittihad-tanger/2k4ksuo4#5740090",
+                        "date": {
+                            "utcTime": "2026-06-08T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/316652/overview/rsb-berkane",
+                        "tooltipText": {
+                            "utcTime": "2026-06-08T18:00:00.000Z",
+                            "homeTeam": "RSB Berkane",
+                            "homeTeamId": 316652,
+                            "homeScore": "1",
+                            "awayTeam": "Ittihad Tanger",
+                            "awayTeamId": 316657,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "316652",
+                            "name": "RSB Berkane",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "316657",
+                            "name": "Ittihad Tanger",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714_xsmall.png",
+                        "linkToMatch": "/matches/ittihad-tanger-vs-union-yacoub-el-mansour/s87uz9cj#5765491",
+                        "date": {
+                            "utcTime": "2026-06-14T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1786714/overview/union-yacoub-el-mansour",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T15:00:00.000Z",
+                            "homeTeam": "Ittihad Tanger",
+                            "homeTeamId": 316657,
+                            "homeScore": "2",
+                            "awayTeam": "Union Yacoub El-Mansour",
+                            "awayTeamId": 1786714,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "316657",
+                            "name": "Ittihad Tanger",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1786714",
+                            "name": "Union Yacoub El-Mansour",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102042_xsmall.png",
+                        "linkToMatch": "/matches/kacm-vs-ittihad-tanger/149nhu2b#5778515",
+                        "date": {
+                            "utcTime": "2026-06-17T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102042/overview/kacm",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T15:00:00.000Z",
+                            "homeTeam": "KACM",
+                            "homeTeamId": 102042,
+                            "homeScore": "0",
+                            "awayTeam": "Ittihad Tanger",
+                            "awayTeamId": 316657,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "102042",
+                            "name": "KACM",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "316657",
+                            "name": "Ittihad Tanger",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/950070_xsmall.png",
+                        "linkToMatch": "/matches/ittihad-tanger-vs-renaissance-club-zemamra/a8kkub7m#5793737",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/950070/overview/renaissance-club-zemamra",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Ittihad Tanger",
+                            "homeTeamId": 316657,
+                            "homeScore": "1",
+                            "awayTeam": "Renaissance Club Zemamra",
+                            "awayTeamId": 950070,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "316657",
+                            "name": "Ittihad Tanger",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "950070",
+                            "name": "Renaissance Club Zemamra",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/570487_xsmall.png",
+                        "linkToMatch": "/matches/ittihad-tanger-vs-olympique-dcheira/50rzmouj#5793743",
+                        "date": {
+                            "utcTime": "2026-06-25T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/570487/overview/olympique-dcheira",
+                        "tooltipText": {
+                            "utcTime": "2026-06-25T17:00:00.000Z",
+                            "homeTeam": "Olympique Dcheira",
+                            "homeTeamId": 570487,
+                            "homeScore": "2",
+                            "awayTeam": "Ittihad Tanger",
+                            "awayTeamId": 316657,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "570487",
+                            "name": "Olympique Dcheira",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "316657",
+                            "name": "Ittihad Tanger",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102042_xsmall.png",
+                        "linkToMatch": "/matches/kacm-vs-raja-casablanca/9kfq0az#5740094",
+                        "date": {
+                            "utcTime": "2026-06-09T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102042/overview/kacm",
+                        "tooltipText": {
+                            "utcTime": "2026-06-09T18:00:00.000Z",
+                            "homeTeam": "KACM",
+                            "homeTeamId": 102042,
+                            "homeScore": "2",
+                            "awayTeam": "Raja Casablanca",
+                            "awayTeamId": 102049,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "102042",
+                            "name": "KACM",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102049",
+                            "name": "Raja Casablanca",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/320835_xsmall.png",
+                        "linkToMatch": "/matches/raja-casablanca-vs-union-touarga-sport/152ryksd#5765492",
+                        "date": {
+                            "utcTime": "2026-06-14T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/320835/overview/union-touarga-sport",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T15:00:00.000Z",
+                            "homeTeam": "Raja Casablanca",
+                            "homeTeamId": 102049,
+                            "homeScore": "1",
+                            "awayTeam": "Union Touarga Sport",
+                            "awayTeamId": 320835,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "102049",
+                            "name": "Raja Casablanca",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "320835",
+                            "name": "Union Touarga Sport",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/950070_xsmall.png",
+                        "linkToMatch": "/matches/raja-casablanca-vs-renaissance-club-zemamra/729iwrxm#5778517",
+                        "date": {
+                            "utcTime": "2026-06-17T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/950070/overview/renaissance-club-zemamra",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T15:00:00.000Z",
+                            "homeTeam": "Renaissance Club Zemamra",
+                            "homeTeamId": 950070,
+                            "homeScore": "3",
+                            "awayTeam": "Raja Casablanca",
+                            "awayTeamId": 102049,
+                            "awayScore": "4"
+                        },
+                        "score": "3 - 4",
+                        "home": {
+                            "id": "950070",
+                            "name": "Renaissance Club Zemamra",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102049",
+                            "name": "Raja Casablanca",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102032_xsmall.png",
+                        "linkToMatch": "/matches/codm-meknes-vs-raja-casablanca/9kei9ka#5793740",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102032/overview/codm-meknes",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Raja Casablanca",
+                            "homeTeamId": 102049,
+                            "homeScore": "2",
+                            "awayTeam": "CODM Meknes",
+                            "awayTeamId": 102032,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "102049",
+                            "name": "Raja Casablanca",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102032",
+                            "name": "CODM Meknes",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714_xsmall.png",
+                        "linkToMatch": "/matches/raja-casablanca-vs-union-yacoub-el-mansour/mrfe6zc4#5793748",
+                        "date": {
+                            "utcTime": "2026-06-25T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1786714/overview/union-yacoub-el-mansour",
+                        "tooltipText": {
+                            "utcTime": "2026-06-25T17:00:00.000Z",
+                            "homeTeam": "Union Yacoub El-Mansour",
+                            "homeTeamId": 1786714,
+                            "homeScore": "2",
+                            "awayTeam": "Raja Casablanca",
+                            "awayTeamId": 102049,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1786714",
+                            "name": "Union Yacoub El-Mansour",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102049",
+                            "name": "Raja Casablanca",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5838867",
+                    "MatchId": 5838867,
+                    "HomeTeamId": 316657,
+                    "AwayTeamId": 102049,
+                    "HomeTeam": "Ittihad Tanger",
+                    "AwayTeam": "Raja Casablanca",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "0",
+                                "2",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Ittihad Tanger have 3W, 0D, 2L in five matches while Raja Casablanca have 2W, 1D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Ittihad Tanger have scored in their last 4 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "3",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Ittihad Tanger have scored 3 goals in their last 3 matches, while Raja Casablanca have scored 7."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "8"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Ittihad Tanger haven't drawn in their last 8 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 316657,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#302868"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 102049,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#009040"
+                }
+            ],
+            "countryCode": "MAR",
+            "QAData": [
+                {
+                    "question": "Who won between Ittihad Tanger and Raja Casablanca on Sun, 28 Jun 2026 17:00:00 GMT?",
+                    "answer": "Ittihad Tanger vs Raja Casablanca on Sun, 28 Jun 2026 17:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        51,
+                                        49
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        10,
+                                        12
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        7,
+                                        5
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        6,
+                                        4
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#302868",
+                            "away": "#009040"
+                        },
+                        "lightMode": {
+                            "home": "#302868",
+                            "away": "#009040"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5838867,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 316657,
+                "name": "Ittihad Tanger",
+                "formation": "3-4-1-2",
+                "starters": [
+                    {
+                        "id": 1707916,
+                        "age": 30,
+                        "name": "Amine El Ouaad",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "marketValue": 235635,
+                        "firstName": "Amine",
+                        "lastName": "El Ouaad",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1433901,
+                        "age": 24,
+                        "name": "Bilal El Ouadghiri",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.29
+                        },
+                        "marketValue": 507365,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Bilal",
+                        "lastName": "El Ouadghiri",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1403643,
+                        "age": 30,
+                        "name": "Mohamed Saoud",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.29
+                        },
+                        "marketValue": 342572,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 43
+                                }
+                            ]
+                        },
+                        "firstName": "Mohamed",
+                        "lastName": "Saoud",
+                        "rankings": null
+                    },
+                    {
+                        "id": 849544,
+                        "age": 28,
+                        "name": "Badr Gaddarine",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "97",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.29
+                        },
+                        "marketValue": 243189,
+                        "firstName": "Badr",
+                        "lastName": "Gaddarine",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1126732,
+                        "age": 29,
+                        "name": "Zakaria Kiani",
+                        "positionId": 62,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "22",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 236654,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 38
+                                }
+                            ]
+                        },
+                        "firstName": "Zakaria",
+                        "lastName": "Kiani",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1195341,
+                        "age": 32,
+                        "name": "Faouzi Abdoul Mutalib",
+                        "positionId": 64,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 233196,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Faouzi Abdoul",
+                        "lastName": "Mutalib",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1577583,
+                        "age": 28,
+                        "name": "Ennaama El Bellali",
+                        "positionId": 66,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 362794,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 74
+                                }
+                            ]
+                        },
+                        "firstName": "Ennaama",
+                        "lastName": "El Bellali",
+                        "rankings": null
+                    },
+                    {
+                        "id": 818196,
+                        "age": 32,
+                        "name": "Anass Mrabet",
+                        "positionId": 68,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "firstName": "Anass",
+                        "lastName": "Mrabet",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1390092,
+                        "age": 22,
+                        "name": "Mohamed El Arouch",
+                        "positionId": 85,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "marketValue": 490322,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                },
+                                {
+                                    "type": "assist",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Mohamed",
+                        "lastName": "El Arouch",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1134301,
+                        "age": 31,
+                        "name": "Jawad Ghabra",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.26
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 248282,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Jawad",
+                        "lastName": "Ghabra",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1125841,
+                        "age": 32,
+                        "name": "Haitam El Bahja",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "14",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 256586,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 81
+                                }
+                            ]
+                        },
+                        "firstName": "Haitam",
+                        "lastName": "El Bahja",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1734168,
+                    "age": 62,
+                    "name": "Abdelhak Benchikha",
+                    "countryName": "Algeria",
+                    "countryCode": "ALG",
+                    "firstName": "Abdelhak",
+                    "lastName": "Benchikha",
+                    "primaryTeamId": 316657,
+                    "primaryTeamName": "Ittihad Tanger",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1687525,
+                        "age": 20,
+                        "name": "Abdel Ma\u00e2li",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 795631,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Abdel",
+                        "lastName": "Ma\u00e2li",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1820627,
+                        "name": "Achraf El Quaraoui",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "48",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Achraf",
+                        "lastName": "El Quaraoui",
+                        "rankings": null
+                    },
+                    {
+                        "id": 970146,
+                        "age": 27,
+                        "name": "Malcolm Barcola",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Togo",
+                        "countryCode": "TOG",
+                        "marketValue": 281486,
+                        "firstName": "Malcolm",
+                        "lastName": "Barcola",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1687531,
+                        "age": 22,
+                        "name": "Akram El Wahabi",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 260322,
+                        "firstName": "Akram",
+                        "lastName": "El Wahabi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1683673,
+                        "age": 26,
+                        "name": "Oussama Al Aiz",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 344064,
+                        "firstName": "Oussama",
+                        "lastName": "Al Aiz",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1721461,
+                        "age": 21,
+                        "name": "Adam Darazi",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "29",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "marketValue": 306100,
+                        "firstName": "Adam",
+                        "lastName": "Darazi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1897420,
+                        "name": "Akram Tali",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "61",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Akram",
+                        "lastName": "Tali",
+                        "rankings": null
+                    },
+                    {
+                        "id": 932606,
+                        "age": 24,
+                        "name": "Siriky Sanogo",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "79",
+                        "countryName": "Ivory Coast",
+                        "countryCode": "CIV",
+                        "firstName": "Siriky",
+                        "lastName": "Sanogo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1562179,
+                        "name": "Karim Lagrouch",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "28",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Karim",
+                        "lastName": "Lagrouch",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 29.5,
+                "totalStarterMarketValue": 3156595
+            },
+            "awayTeam": {
+                "id": 102049,
+                "name": "Raja Casablanca",
+                "formation": "3-4-1-2",
+                "starters": [
+                    {
+                        "id": 1214369,
+                        "age": 30,
+                        "name": "Khalid Alaoui",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 90
+                                }
+                            ]
+                        },
+                        "firstName": "Khalid",
+                        "lastName": "Alaoui",
+                        "rankings": null
+                    },
+                    {
+                        "id": 614781,
+                        "age": 32,
+                        "name": "Badr Banoune",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.29
+                        },
+                        "marketValue": 407031,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "redCard",
+                                    "time": 67
+                                }
+                            ]
+                        },
+                        "firstName": "Badr",
+                        "lastName": "Banoune",
+                        "rankings": null
+                    },
+                    {
+                        "id": 978400,
+                        "age": 33,
+                        "name": "Abdellah Khafifi",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.29
+                        },
+                        "marketValue": 466345,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 78
+                                },
+                                {
+                                    "type": "goal",
+                                    "time": 44
+                                }
+                            ]
+                        },
+                        "firstName": "Abdellah",
+                        "lastName": "Khafifi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1033124,
+                        "age": 30,
+                        "name": "Ismail Mokadem",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.292,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.292,
+                            "height": 0.192,
+                            "width": 0.29
+                        },
+                        "marketValue": 602931,
+                        "firstName": "Ismail",
+                        "lastName": "Mokadem",
+                        "rankings": null
+                    },
+                    {
+                        "id": 898054,
+                        "age": 32,
+                        "name": "Ayoub El Amloud",
+                        "positionId": 62,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "17",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 325384,
+                        "firstName": "Ayoub",
+                        "lastName": "El Amloud",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1557079,
+                        "age": 27,
+                        "name": "Hilal Ferdaoussi",
+                        "positionId": 64,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 309079,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hilal",
+                        "lastName": "Ferdaoussi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 803027,
+                        "age": 28,
+                        "name": "Aymen Barkok",
+                        "positionId": 66,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 224166,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Aymen",
+                        "lastName": "Barkok",
+                        "rankings": null
+                    },
+                    {
+                        "id": 862617,
+                        "age": 27,
+                        "name": "Amine Khammas",
+                        "positionId": 68,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.485,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.485,
+                            "height": 0.192,
+                            "width": 0.25
+                        },
+                        "marketValue": 478827,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Amine",
+                        "lastName": "Khammas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 942074,
+                        "age": 31,
+                        "name": "Mohamed Al Makaazi",
+                        "positionId": 85,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.678,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.678,
+                            "height": 0.192,
+                            "width": 1
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 75
+                                }
+                            ]
+                        },
+                        "firstName": "Mohamed",
+                        "lastName": "Al Makaazi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1097610,
+                        "age": 30,
+                        "name": "Ismail Khafi",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.25,
+                            "width": 0.192
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 389432,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ismail",
+                        "lastName": "Khafi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1194484,
+                        "age": 27,
+                        "name": "Mathias Oyewusi",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "99",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.25,
+                            "width": 0.26
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.192,
+                            "width": 0.4
+                        },
+                        "marketValue": 343238,
+                        "firstName": "Mathias",
+                        "lastName": "Oyewusi",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 209210,
+                    "age": 45,
+                    "name": "Fadlu Davids",
+                    "countryName": "South Africa",
+                    "countryCode": "RSA",
+                    "firstName": "Fadlu",
+                    "lastName": "Davids",
+                    "primaryTeamId": 102049,
+                    "primaryTeamName": "Raja Casablanca",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1520099,
+                        "age": 22,
+                        "name": "Mehdi Mchakhchekh",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "33",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 532355,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mehdi",
+                        "lastName": "Mchakhchekh",
+                        "rankings": null
+                    },
+                    {
+                        "id": 614062,
+                        "age": 31,
+                        "name": "Adam Ennaffati",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "77",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 537456,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 88
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 72,
+                                    "type": "subIn"
+                                },
+                                {
+                                    "time": 88,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Adam",
+                        "lastName": "Ennaffati",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1520062,
+                        "age": 22,
+                        "name": "Balla Cont\u00e9",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "26",
+                        "countryName": "Guinea",
+                        "countryCode": "GUI",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Balla",
+                        "lastName": "Cont\u00e9",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1230612,
+                        "age": 29,
+                        "name": "Papa Sakho",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "79",
+                        "countryName": "Senegal",
+                        "countryCode": "SEN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Papa",
+                        "lastName": "Sakho",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1012194,
+                        "age": 27,
+                        "name": "Mohamed Boulacsou",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "7",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 694616,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mohamed",
+                        "lastName": "Boulacsou",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1523481,
+                        "age": 24,
+                        "name": "Yassine Zoubir",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "32",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Yassine",
+                        "lastName": "Zoubir",
+                        "rankings": null
+                    },
+                    {
+                        "id": 852166,
+                        "age": 30,
+                        "name": "Abdelkarim Baadi",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 235635,
+                        "firstName": "Abdelkarim",
+                        "lastName": "Baadi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 643242,
+                        "age": 29,
+                        "name": "Sabir Bougrine",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "34",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 466345,
+                        "firstName": "Sabir",
+                        "lastName": "Bougrine",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1911030,
+                        "age": 17,
+                        "name": "Yahya Iguiz",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Yahya",
+                        "lastName": "Iguiz",
+                        "rankings": null
+                    }
+                ],
+                "unavailable": [
+                    {
+                        "id": 1520520,
+                        "age": 23,
+                        "name": "Oualid Agougil",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "marketValue": 440386,
+                        "unavailability": {
+                            "injuryId": 14,
+                            "type": "injury",
+                            "expectedReturn": "Early August 2026"
+                        },
+                        "firstName": "Oualid",
+                        "lastName": "Agougil"
+                    }
+                ],
+                "averageStarterAge": 30.1,
+                "totalStarterMarketValue": 3546433
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "530",
+            "url": "https://data.fotmob.com/tables.ext.530.fot.gz",
+            "teams": [
+                316657,
+                102049
+            ],
+            "tournamentNameForUrl": "Botola Pro",
+            "parentLeagueId": 530,
+            "countryCode": "MAR"
+        },
+        "h2h": {
+            "summary": [
+                4,
+                6,
+                11
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-02-22T22:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#5184055",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-22T22:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-01-23T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#4700429",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2025-01-23T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-09-25T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#4630165",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2024-09-25T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-28T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#4480228",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-28T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-12-28T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#4390591",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2023-12-28T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "6 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-21T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#4168065",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-21T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-01-06T19:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#4091501",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2023-01-06T19:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-03-01T19:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#3824419",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2022-03-01T19:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-09-28T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#3728125",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2021-09-28T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-06-16T20:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#3604479",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2021-06-16T20:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-02-25T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#3531474",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2021-02-25T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-09-02T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#3376144",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2020-09-02T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-01-15T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#3162937",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2020-01-15T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-04-17T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2831623",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2019-04-17T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-11-07T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2831501",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2018-11-07T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-03-02T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2612536",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2018-03-02T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-10-01T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2599337",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2017-10-01T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-02-26T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2456284",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2017-02-26T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-12-07T15:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2358257",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2016-12-07T15:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-06-04T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2200441",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    },
+                    "status": {
+                        "utcTime": "2016-06-04T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-01-07T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/raja-casablanca-vs-ittihad-tanger/149p8nks#2033740",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Raja Casablanca",
+                        "id": "102049"
+                    },
+                    "status": {
+                        "utcTime": "2016-01-07T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Ittihad Tanger",
+                        "id": "316657"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "ittihad-tanger-vs-raja-casablanca",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5838867",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Ittihad Tanger",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
+                "url": "https://www.fotmob.com/teams/316657/overview/ittihad-tanger",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Raja Casablanca",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png",
+                "url": "https://www.fotmob.com/teams/102049/overview/raja-casablanca",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Ittihad Tanger vs Raja Casablanca",
+            "description": "Follow Ittihad Tanger vs Raja Casablanca live on fotmob.com",
+            "startDate": "2026-06-28T17:00:00.000Z",
+            "endDate": "2026-06-28T19:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Tangier Grand Stadium",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5838867",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T17:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Ittihad Tanger",
+                    "url": "https://www.fotmob.com/teams/316657/overview/ittihad-tanger"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Raja Casablanca",
+                    "url": "https://www.fotmob.com/teams/102049/overview/raja-casablanca"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ittihad Tanger - Raja Casablanca",
+                        "item": "https://www.fotmob.com/match/5838867"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Raja Casablanca",
+                        "item": "https://www.fotmob.com/teams/102049/overview/raja-casablanca"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Ittihad Tanger - Raja Casablanca",
+                        "item": "https://www.fotmob.com/match/5838867"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Ittihad Tanger",
+                        "item": "https://www.fotmob.com/teams/316657/overview/ittihad-tanger"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Ittihad Tanger - Raja Casablanca",
+                        "item": "https://www.fotmob.com/match/5838867"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Ittihad Tanger and Raja Casablanca on Sun, 28 Jun 2026 17:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Ittihad Tanger vs Raja Casablanca on Sun, 28 Jun 2026 17:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

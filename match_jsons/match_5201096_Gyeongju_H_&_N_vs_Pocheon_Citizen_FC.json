@@ -1,0 +1,1498 @@
+{
+    "general": {
+        "matchId": "5201096",
+        "matchName": "Gyeongju H & N-vs-Pocheon Citizen FC_Sun, Jun 28, 2026, 05:00 UTC",
+        "matchRound": "16",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 922584,
+        "leagueName": "K3 League",
+        "leagueRoundName": "16",
+        "parentLeagueId": 9537,
+        "countryCode": "KOR",
+        "homeTeam": {
+            "name": "Gyeongju H & N",
+            "id": 187959
+        },
+        "awayTeam": {
+            "name": "Pocheon Citizen FC",
+            "id": 739791
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 05:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T05:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Gyeongju H & N",
+                "id": 187959,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187959_small.png",
+                "pageUrl": "/teams/187959/overview/gyeongju-h-n"
+            },
+            {
+                "name": "Pocheon Citizen FC",
+                "id": 739791,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/739791_small.png",
+                "pageUrl": "/teams/739791/overview/pocheon-citizen-fc"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T05:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 07:01:14",
+                "firstHalfEnded": "28.06.2026 07:51:11",
+                "secondHalfStarted": "28.06.2026 08:07:20",
+                "secondHalfEnded": "28.06.2026 08:58:41",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 08:58:41"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Jin": [
+                    {
+                        "reactKey": "1421759284Goal308133undefinedtrue",
+                        "timeStr": 84,
+                        "type": "Goal",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 14217592,
+                        "player": {
+                            "id": 308133,
+                            "name": "Seong-Uk Jin",
+                            "profileUrl": "/players/308133/seong-uk-jin"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/308133/seong-uk-jin",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Seong-Uk Jin",
+                        "firstName": "Seong-Uk",
+                        "lastName": "Jin",
+                        "fullName": "Seong-Uk Jin",
+                        "playerId": 308133,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Lee": [
+                    {
+                        "reactKey": "1421755216Goal1756042undefinedfalse",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14217552,
+                        "player": {
+                            "id": 1756042,
+                            "name": "Cheol-Hee Lee",
+                            "profileUrl": "/players/1756042/cheol-hee-lee"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1756042/cheol-hee-lee",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cheol-Hee Lee",
+                        "firstName": "Cheol-Hee",
+                        "lastName": "Lee",
+                        "fullName": "Cheol-Hee Lee",
+                        "playerId": 1756042,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Yu": [
+                    {
+                        "reactKey": "1421756333Goal1011456undefinedfalse",
+                        "timeStr": 33,
+                        "type": "Goal",
+                        "time": 33,
+                        "overloadTime": null,
+                        "eventId": 14217563,
+                        "player": {
+                            "id": 1011456,
+                            "name": "Yong-Hyeon Yu",
+                            "profileUrl": "/players/1011456/yong-hyeon-yu"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1011456/yong-hyeon-yu",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Yong-Hyeon Yu",
+                        "firstName": "Yong-Hyeon",
+                        "lastName": "Yu",
+                        "fullName": "Yong-Hyeon Yu",
+                        "playerId": 1011456,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Kim": [
+                    {
+                        "reactKey": "1421758354Goal1094981undefinedfalse",
+                        "timeStr": 54,
+                        "type": "Goal",
+                        "time": 54,
+                        "overloadTime": null,
+                        "eventId": 14217583,
+                        "player": {
+                            "id": 1094981,
+                            "name": "Hyun-Joong Kim",
+                            "profileUrl": "/players/1094981/hyun-joong-kim"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1094981/hyun-joong-kim",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hyun-Joong Kim",
+                        "firstName": "Hyun-Joong",
+                        "lastName": "Kim",
+                        "fullName": "Hyun-Joong Kim",
+                        "playerId": 1094981,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5201096,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421755216Goal1756042undefinedfalse",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14217552,
+                        "player": {
+                            "id": 1756042,
+                            "name": "Cheol-Hee Lee",
+                            "profileUrl": "/players/1756042/cheol-hee-lee"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1756042/cheol-hee-lee",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cheol-Hee Lee",
+                        "firstName": "Cheol-Hee",
+                        "lastName": "Lee",
+                        "fullName": "Cheol-Hee Lee",
+                        "playerId": 1756042,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421756333Goal1011456undefinedfalse",
+                        "timeStr": 33,
+                        "type": "Goal",
+                        "time": 33,
+                        "overloadTime": null,
+                        "eventId": 14217563,
+                        "player": {
+                            "id": 1011456,
+                            "name": "Yong-Hyeon Yu",
+                            "profileUrl": "/players/1011456/yong-hyeon-yu"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1011456/yong-hyeon-yu",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Yong-Hyeon Yu",
+                        "firstName": "Yong-Hyeon",
+                        "lastName": "Yu",
+                        "fullName": "Yong-Hyeon Yu",
+                        "playerId": 1011456,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421758354Goal1094981undefinedfalse",
+                        "timeStr": 54,
+                        "type": "Goal",
+                        "time": 54,
+                        "overloadTime": null,
+                        "eventId": 14217583,
+                        "player": {
+                            "id": 1094981,
+                            "name": "Hyun-Joong Kim",
+                            "profileUrl": "/players/1094981/hyun-joong-kim"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1094981/hyun-joong-kim",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hyun-Joong Kim",
+                        "firstName": "Hyun-Joong",
+                        "lastName": "Kim",
+                        "fullName": "Hyun-Joong Kim",
+                        "playerId": 1094981,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421759284Goal308133undefinedtrue",
+                        "timeStr": 84,
+                        "type": "Goal",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 14217592,
+                        "player": {
+                            "id": 308133,
+                            "name": "Seong-Uk Jin",
+                            "profileUrl": "/players/308133/seong-uk-jin"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "/players/308133/seong-uk-jin",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Seong-Uk Jin",
+                        "firstName": "Seong-Uk",
+                        "lastName": "Jin",
+                        "fullName": "Seong-Uk Jin",
+                        "playerId": 308133,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T05:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 922584,
+                    "parentLeagueId": 9537,
+                    "link": "/leagues/9537/overview/k3-league",
+                    "leagueName": "K3 League",
+                    "roundName": "16",
+                    "round": "16"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/195451_xsmall.png",
+                        "linkToMatch": "/matches/gyeongju-h-n-vs-fc-mokpo/xrl6z3q#5201061",
+                        "date": {
+                            "utcTime": "2026-05-17T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/195451/overview/fc-mokpo",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T05:00:00.000Z",
+                            "homeTeam": "FC Mokpo",
+                            "homeTeamId": 195451,
+                            "homeScore": "0",
+                            "awayTeam": "Gyeongju H & N",
+                            "awayTeamId": 187959,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "195451",
+                            "name": "FC Mokpo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "187959",
+                            "name": "Gyeongju H & N",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/930076_xsmall.png",
+                        "linkToMatch": "/matches/gyeongju-h-n-vs-yeoju-fc/7z4ef7sq#5201064",
+                        "date": {
+                            "utcTime": "2026-05-23T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/930076/overview/yeoju-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T05:00:00.000Z",
+                            "homeTeam": "Gyeongju H & N",
+                            "homeTeamId": 187959,
+                            "homeScore": "0",
+                            "awayTeam": "Yeoju FC",
+                            "awayTeamId": 930076,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "187959",
+                            "name": "Gyeongju H & N",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "930076",
+                            "name": "Yeoju FC",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/833668_xsmall.png",
+                        "linkToMatch": "/matches/gyeongju-h-n-vs-chuncheon-fc/6nqna8tq#5201073",
+                        "date": {
+                            "utcTime": "2026-05-30T08:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/833668/overview/chuncheon-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T08:00:00.000Z",
+                            "homeTeam": "Chuncheon FC",
+                            "homeTeamId": 833668,
+                            "homeScore": "2",
+                            "awayTeam": "Gyeongju H & N",
+                            "awayTeamId": 187959,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "833668",
+                            "name": "Chuncheon FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "187959",
+                            "name": "Gyeongju H & N",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1713984_xsmall.png",
+                        "linkToMatch": "/matches/gyeongju-h-n-vs-jeonbuk-hyundai-motors-fc-reserves/n2wi52u3#5201077",
+                        "date": {
+                            "utcTime": "2026-06-06T07:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1713984/overview/jeonbuk-hyundai-motors-fc-reserves",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T07:00:00.000Z",
+                            "homeTeam": "Jeonbuk Hyundai Motors FC Reserves",
+                            "homeTeamId": 1713984,
+                            "homeScore": "1",
+                            "awayTeam": "Gyeongju H & N",
+                            "awayTeamId": 187959,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1713984",
+                            "name": "Jeonbuk Hyundai Motors FC Reserves",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "187959",
+                            "name": "Gyeongju H & N",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187955_xsmall.png",
+                        "linkToMatch": "/matches/busan-transport-corp-vs-gyeongju-h-n/wgis866#5201088",
+                        "date": {
+                            "utcTime": "2026-06-21T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187955/overview/busan-transport-corp",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T05:00:00.000Z",
+                            "homeTeam": "Busan Transport Corp",
+                            "homeTeamId": 187955,
+                            "homeScore": "1",
+                            "awayTeam": "Gyeongju H & N",
+                            "awayTeamId": 187959,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "187955",
+                            "name": "Busan Transport Corp",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "187959",
+                            "name": "Gyeongju H & N",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187943_xsmall.png",
+                        "linkToMatch": "/matches/changwon-city-vs-pocheon-citizen-fc/5hp54oho#5201058",
+                        "date": {
+                            "utcTime": "2026-05-16T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187943/overview/changwon-city",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T05:00:00.000Z",
+                            "homeTeam": "Pocheon Citizen FC",
+                            "homeTeamId": 739791,
+                            "homeScore": "0",
+                            "awayTeam": "Changwon City",
+                            "awayTeamId": 187943,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "739791",
+                            "name": "Pocheon Citizen FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "187943",
+                            "name": "Changwon City",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1713984_xsmall.png",
+                        "linkToMatch": "/matches/pocheon-citizen-fc-vs-jeonbuk-hyundai-motors-fc-reserves/12f0an1l3#5201069",
+                        "date": {
+                            "utcTime": "2026-05-23T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1713984/overview/jeonbuk-hyundai-motors-fc-reserves",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T05:00:00.000Z",
+                            "homeTeam": "Pocheon Citizen FC",
+                            "homeTeamId": 739791,
+                            "homeScore": "5",
+                            "awayTeam": "Jeonbuk Hyundai Motors FC Reserves",
+                            "awayTeamId": 1713984,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "739791",
+                            "name": "Pocheon Citizen FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1713984",
+                            "name": "Jeonbuk Hyundai Motors FC Reserves",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1150506_xsmall.png",
+                        "linkToMatch": "/matches/pocheon-citizen-fc-vs-ulsan-citizen/msrbab50#5201074",
+                        "date": {
+                            "utcTime": "2026-05-30T10:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1150506/overview/ulsan-citizen",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T10:00:00.000Z",
+                            "homeTeam": "Ulsan Citizen",
+                            "homeTeamId": 1150506,
+                            "homeScore": "0",
+                            "awayTeam": "Pocheon Citizen FC",
+                            "awayTeamId": 739791,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "1150506",
+                            "name": "Ulsan Citizen",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "739791",
+                            "name": "Pocheon Citizen FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187955_xsmall.png",
+                        "linkToMatch": "/matches/busan-transport-corp-vs-pocheon-citizen-fc/5hpbraoi#5201078",
+                        "date": {
+                            "utcTime": "2026-06-06T05:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187955/overview/busan-transport-corp",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T05:00:00.000Z",
+                            "homeTeam": "Pocheon Citizen FC",
+                            "homeTeamId": 739791,
+                            "homeScore": "1",
+                            "awayTeam": "Busan Transport Corp",
+                            "awayTeamId": 187955,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "739791",
+                            "name": "Pocheon Citizen FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "187955",
+                            "name": "Busan Transport Corp",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/187952_xsmall.png",
+                        "linkToMatch": "/matches/gangneung-city-vs-pocheon-citizen-fc/5hpa3n4f#5201090",
+                        "date": {
+                            "utcTime": "2026-06-21T09:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/187952/overview/gangneung-city",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T09:00:00.000Z",
+                            "homeTeam": "Pocheon Citizen FC",
+                            "homeTeamId": 739791,
+                            "homeScore": "3",
+                            "awayTeam": "Gangneung City",
+                            "awayTeamId": 187952,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "739791",
+                            "name": "Pocheon Citizen FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "187952",
+                            "name": "Gangneung City",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5201096",
+                    "MatchId": 5201096,
+                    "HomeTeamId": 187959,
+                    "AwayTeamId": 739791,
+                    "HomeTeam": "Gyeongju H & N",
+                    "AwayTeam": "Pocheon Citizen FC",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "3",
+                                "2",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Pocheon Citizen FC haven't lost to Gyeongju H & N in their last 3 meetings (2W, 1D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Pocheon Citizen FC have scored in their last 5 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Gyeongju H & N have scored 4 goals in their last 3 matches, while Pocheon Citizen FC have scored 5."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Gyeongju H & N haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 187959,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 187959,
+                    "priority": 6,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 6 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 739791,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 10,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 10 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 739791,
+                    "priority": 8,
+                    "defaultText": "Ranked {0} away from home this season",
+                    "localizedTextId": "insights_best_away",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "ordinal"
+                        }
+                    ],
+                    "text": "Ranked 3 away from home this season",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "KOR",
+            "QAData": [
+                {
+                    "question": "Who won between Gyeongju H & N and Pocheon Citizen FC on Sun, 28 Jun 2026 05:00:00 GMT?",
+                    "answer": "Pocheon Citizen FC won 3\u20131 over Gyeongju H & N on Sun, 28 Jun 2026 05:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "922584",
+            "url": "https://data.fotmob.com/tables.ext.922584.fot.gz",
+            "teams": [
+                187959,
+                739791
+            ],
+            "tournamentNameForUrl": "K3 League",
+            "parentLeagueId": 9537,
+            "countryCode": "KOR"
+        },
+        "h2h": {
+            "summary": [
+                4,
+                1,
+                4
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-03-22T05:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#5201006",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    },
+                    "status": {
+                        "utcTime": "2026-03-22T05:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-14T06:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#4729185",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-14T06:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-17T05:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#4728553",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-17T05:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-07-14T08:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#4425849",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-14T08:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-31T05:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#4425719",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-31T05:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-06-24T08:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#4118166",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    },
+                    "status": {
+                        "utcTime": "2023-06-24T08:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-03-11T05:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#4117416",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    },
+                    "status": {
+                        "utcTime": "2023-03-11T05:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-08-13T08:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#3824270",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    },
+                    "status": {
+                        "utcTime": "2022-08-13T08:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-04-16T06:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/gyeongju-h-n-vs-pocheon-citizen-fc/5hpdyu3o#3824159",
+                    "league": {
+                        "name": "K3 League",
+                        "id": "9537",
+                        "pageUrl": "/leagues/9537/overview/k3-league"
+                    },
+                    "home": {
+                        "name": "Gyeongju H & N",
+                        "id": "187959"
+                    },
+                    "status": {
+                        "utcTime": "2022-04-16T06:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Pocheon Citizen FC",
+                        "id": "739791"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "gyeongju-h-n-vs-pocheon-citizen-fc",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5201096",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Gyeongju H & N",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/187959.png",
+                "url": "https://www.fotmob.com/teams/187959/overview/gyeongju-h-n",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Pocheon Citizen FC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/739791.png",
+                "url": "https://www.fotmob.com/teams/739791/overview/pocheon-citizen-fc",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Gyeongju H & N vs Pocheon Citizen FC",
+            "description": "Follow Gyeongju H & N vs Pocheon Citizen FC live on fotmob.com",
+            "startDate": "2026-06-28T05:00:00.000Z",
+            "endDate": "2026-06-28T07:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/187959.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/739791.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5201096",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T05:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Gyeongju H & N",
+                    "url": "https://www.fotmob.com/teams/187959/overview/gyeongju-h-n"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Pocheon Citizen FC",
+                    "url": "https://www.fotmob.com/teams/739791/overview/pocheon-citizen-fc"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "K3 League",
+                        "item": "https://www.fotmob.com/leagues/9537/overview/k3-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Gyeongju H & N - Pocheon Citizen FC",
+                        "item": "https://www.fotmob.com/match/5201096"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "K3 League",
+                        "item": "https://www.fotmob.com/leagues/9537/overview/k3-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Pocheon Citizen FC",
+                        "item": "https://www.fotmob.com/teams/739791/overview/pocheon-citizen-fc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Gyeongju H & N - Pocheon Citizen FC",
+                        "item": "https://www.fotmob.com/match/5201096"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "K3 League",
+                        "item": "https://www.fotmob.com/leagues/9537/overview/k3-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Gyeongju H & N",
+                        "item": "https://www.fotmob.com/teams/187959/overview/gyeongju-h-n"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Gyeongju H & N - Pocheon Citizen FC",
+                        "item": "https://www.fotmob.com/match/5201096"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Gyeongju H & N and Pocheon Citizen FC on Sun, 28 Jun 2026 05:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Pocheon Citizen FC won 3\u20131 over Gyeongju H & N on Sun, 28 Jun 2026 05:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

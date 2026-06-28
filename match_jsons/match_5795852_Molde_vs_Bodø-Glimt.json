@@ -1,0 +1,2442 @@
+{
+    "general": {
+        "matchId": "5795852",
+        "matchName": "Molde-vs-Bod\u00f8/Glimt_Sun, Jun 28, 2026, 13:45 UTC",
+        "matchRound": null,
+        "teamColors": {
+            "darkMode": {
+                "home": "#0068b0",
+                "away": "#f8dc03"
+            },
+            "lightMode": {
+                "home": "#0D47A0",
+                "away": "#e09d00"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 915708,
+        "leagueName": "Club Friendlies",
+        "leagueRoundName": null,
+        "parentLeagueId": 489,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "Molde",
+            "id": 9917
+        },
+        "awayTeam": {
+            "name": "Bod\u00f8/Glimt",
+            "id": 8402
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 13:45 UTC",
+        "matchTimeUTCDate": "2026-06-28T13:45:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Molde",
+                "id": 9917,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9917_small.png",
+                "pageUrl": "/teams/9917/overview/molde"
+            },
+            {
+                "name": "Bod\u00f8/Glimt",
+                "id": 8402,
+                "score": 4,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_small.png",
+                "pageUrl": "/teams/8402/overview/bodoglimt"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T13:45:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 15:45:56",
+                "firstHalfEnded": "28.06.2026 16:32:20",
+                "secondHalfStarted": "28.06.2026 16:50:25",
+                "secondHalfEnded": "28.06.2026 17:34:46",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 17:34:46"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 4",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "<TBD>": [
+                    {
+                        "reactKey": "1421812780Goal0undefinedtrue",
+                        "timeStr": 80,
+                        "type": "Goal",
+                        "time": 80,
+                        "overloadTime": null,
+                        "eventId": 14218127,
+                        "player": {
+                            "id": 0,
+                            "name": "<TBD>",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "<TBD>",
+                        "firstName": "",
+                        "lastName": "<TBD>",
+                        "fullName": "<TBD>",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Helmersen": [
+                    {
+                        "reactKey": "1421787720Goal615292undefinedfalse",
+                        "timeStr": 20,
+                        "type": "Goal",
+                        "time": 20,
+                        "overloadTime": null,
+                        "eventId": 14217877,
+                        "player": {
+                            "id": 615292,
+                            "name": "Andreas Helmersen",
+                            "profileUrl": "/players/615292/andreas-helmersen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/615292/andreas-helmersen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andreas Helmersen",
+                        "firstName": "Andreas",
+                        "lastName": "Helmersen",
+                        "fullName": "Andreas Helmersen",
+                        "playerId": 615292,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421814683Goal615292undefinedfalse",
+                        "timeStr": 83,
+                        "type": "Goal",
+                        "time": 83,
+                        "overloadTime": null,
+                        "eventId": 14218146,
+                        "player": {
+                            "id": 615292,
+                            "name": "Andreas Helmersen",
+                            "profileUrl": "/players/615292/andreas-helmersen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/615292/andreas-helmersen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andreas Helmersen",
+                        "firstName": "Andreas",
+                        "lastName": "Helmersen",
+                        "fullName": "Andreas Helmersen",
+                        "playerId": 615292,
+                        "newScore": [
+                            1,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Evjen": [
+                    {
+                        "reactKey": "1421790738Goal632870undefinedfalse",
+                        "timeStr": 38,
+                        "type": "Goal",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 14217907,
+                        "player": {
+                            "id": 632870,
+                            "name": "H\u00e5kon Evjen",
+                            "profileUrl": "/players/632870/hakon-evjen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/632870/hakon-evjen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "H\u00e5kon Evjen",
+                        "firstName": "H\u00e5kon",
+                        "lastName": "Evjen",
+                        "fullName": "H\u00e5kon Evjen",
+                        "playerId": 632870,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Bro": [
+                    {
+                        "reactKey": "1421810276Goal1695316undefinedfalse",
+                        "timeStr": 76,
+                        "type": "Goal",
+                        "time": 76,
+                        "overloadTime": null,
+                        "eventId": 14218102,
+                        "player": {
+                            "id": 1695316,
+                            "name": "Mikkel Bro",
+                            "profileUrl": "/players/1695316/mikkel-bro"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1695316/mikkel-bro",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mikkel Bro",
+                        "firstName": "Mikkel",
+                        "lastName": "Bro",
+                        "fullName": "Mikkel Bro",
+                        "playerId": 1695316,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "head to head",
+        "injured"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5795852,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421787720Goal615292undefinedfalse",
+                        "timeStr": 20,
+                        "type": "Goal",
+                        "time": 20,
+                        "overloadTime": null,
+                        "eventId": 14217877,
+                        "player": {
+                            "id": 615292,
+                            "name": "Andreas Helmersen",
+                            "profileUrl": "/players/615292/andreas-helmersen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/615292/andreas-helmersen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andreas Helmersen",
+                        "firstName": "Andreas",
+                        "lastName": "Helmersen",
+                        "fullName": "Andreas Helmersen",
+                        "playerId": 615292,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421790738Goal632870undefinedfalse",
+                        "timeStr": 38,
+                        "type": "Goal",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 14217907,
+                        "player": {
+                            "id": 632870,
+                            "name": "H\u00e5kon Evjen",
+                            "profileUrl": "/players/632870/hakon-evjen"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/632870/hakon-evjen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "H\u00e5kon Evjen",
+                        "firstName": "H\u00e5kon",
+                        "lastName": "Evjen",
+                        "fullName": "H\u00e5kon Evjen",
+                        "playerId": 632870,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421810276Goal1695316undefinedfalse",
+                        "timeStr": 76,
+                        "type": "Goal",
+                        "time": 76,
+                        "overloadTime": null,
+                        "eventId": 14218102,
+                        "player": {
+                            "id": 1695316,
+                            "name": "Mikkel Bro",
+                            "profileUrl": "/players/1695316/mikkel-bro"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1695316/mikkel-bro",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mikkel Bro",
+                        "firstName": "Mikkel",
+                        "lastName": "Bro",
+                        "fullName": "Mikkel Bro",
+                        "playerId": 1695316,
+                        "newScore": [
+                            0,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421812780Goal0undefinedtrue",
+                        "timeStr": 80,
+                        "type": "Goal",
+                        "time": 80,
+                        "overloadTime": null,
+                        "eventId": 14218127,
+                        "player": {
+                            "id": 0,
+                            "name": "<TBD>",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "<TBD>",
+                        "firstName": "",
+                        "lastName": "<TBD>",
+                        "fullName": "<TBD>",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421814683Goal615292undefinedfalse",
+                        "timeStr": 83,
+                        "type": "Goal",
+                        "time": 83,
+                        "overloadTime": null,
+                        "eventId": 14218146,
+                        "player": {
+                            "id": 615292,
+                            "name": "Andreas Helmersen",
+                            "profileUrl": "/players/615292/andreas-helmersen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "/players/615292/andreas-helmersen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Andreas Helmersen",
+                        "firstName": "Andreas",
+                        "lastName": "Helmersen",
+                        "fullName": "Andreas Helmersen",
+                        "playerId": 615292,
+                        "newScore": [
+                            1,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Injuries"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T13:45:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 915708,
+                    "parentLeagueId": 489,
+                    "link": "/leagues/489/overview/club-friendlies",
+                    "leagueName": "Club Friendlies",
+                    "roundName": null,
+                    "round": null
+                },
+                "Stadium": {
+                    "name": "EXTRA Arena",
+                    "city": "Ranheim",
+                    "country": "Norway",
+                    "lat": 63.428383942,
+                    "long": 10.524044037,
+                    "capacity": 3000,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8402_xsmall.png",
+                        "linkToMatch": "/matches/bodoglimt-vs-molde/2rwsj9#5104897",
+                        "date": {
+                            "utcTime": "2026-05-04T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8402/overview/bodoglimt",
+                        "tooltipText": {
+                            "utcTime": "2026-05-04T17:00:00.000Z",
+                            "homeTeam": "Bod\u00f8/Glimt",
+                            "homeTeamId": 8402,
+                            "homeScore": "0",
+                            "awayTeam": "Molde",
+                            "awayTeamId": 9917,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "8402",
+                            "name": "Bod\u00f8/Glimt",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9917",
+                            "name": "Molde",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8608_xsmall.png",
+                        "linkToMatch": "/matches/tromso-vs-molde/2u64sw#5104904",
+                        "date": {
+                            "utcTime": "2026-05-10T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8608/overview/tromso",
+                        "tooltipText": {
+                            "utcTime": "2026-05-10T15:00:00.000Z",
+                            "homeTeam": "Troms\u00f8",
+                            "homeTeamId": 8608,
+                            "homeScore": "2",
+                            "awayTeam": "Molde",
+                            "awayTeamId": 9917,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8608",
+                            "name": "Troms\u00f8",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9917",
+                            "name": "Molde",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8605_xsmall.png",
+                        "linkToMatch": "/matches/kristiansund-vs-molde/2u4xx8#5104909",
+                        "date": {
+                            "utcTime": "2026-05-16T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8605/overview/kristiansund",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T14:00:00.000Z",
+                            "homeTeam": "Molde",
+                            "homeTeamId": 9917,
+                            "homeScore": "1",
+                            "awayTeam": "Kristiansund",
+                            "awayTeamId": 8605,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "9917",
+                            "name": "Molde",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8605",
+                            "name": "Kristiansund",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8509_xsmall.png",
+                        "linkToMatch": "/matches/sarpsborg-08-vs-molde/2t2xfw#5104920",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8509/overview/sarpsborg-08",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "Sarpsborg 08",
+                            "homeTeamId": 8509,
+                            "homeScore": "2",
+                            "awayTeam": "Molde",
+                            "awayTeamId": 9917,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8509",
+                            "name": "Sarpsborg 08",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9917",
+                            "name": "Molde",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8609_xsmall.png",
+                        "linkToMatch": "/matches/sandefjord-vs-molde/2u6j3i#5104926",
+                        "date": {
+                            "utcTime": "2026-05-30T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8609/overview/sandefjord",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:00:00.000Z",
+                            "homeTeam": "Molde",
+                            "homeTeamId": 9917,
+                            "homeScore": "2",
+                            "awayTeam": "Sandefjord",
+                            "awayTeamId": 8609,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "9917",
+                            "name": "Molde",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8609",
+                            "name": "Sandefjord",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8468_xsmall.png",
+                        "linkToMatch": "/matches/bodoglimt-vs-brann/2cqb89#5374904",
+                        "date": {
+                            "utcTime": "2026-05-09T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8468/overview/brann",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T16:00:00.000Z",
+                            "homeTeam": "Bod\u00f8/Glimt",
+                            "homeTeamId": 8402,
+                            "homeScore": "3",
+                            "awayTeam": "Brann",
+                            "awayTeamId": 8468,
+                            "awayScore": "3"
+                        },
+                        "score": "3 - 3",
+                        "home": {
+                            "id": "8402",
+                            "name": "Bod\u00f8/Glimt",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8468",
+                            "name": "Brann",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8608_xsmall.png",
+                        "linkToMatch": "/matches/bodoglimt-vs-tromso/2e55bv#5104912",
+                        "date": {
+                            "utcTime": "2026-05-16T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8608/overview/tromso",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T16:00:00.000Z",
+                            "homeTeam": "Bod\u00f8/Glimt",
+                            "homeTeamId": 8402,
+                            "homeScore": "5",
+                            "awayTeam": "Troms\u00f8",
+                            "awayTeamId": 8608,
+                            "awayScore": "0"
+                        },
+                        "score": "5 - 0",
+                        "home": {
+                            "id": "8402",
+                            "name": "Bod\u00f8/Glimt",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8608",
+                            "name": "Troms\u00f8",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9919_xsmall.png",
+                        "linkToMatch": "/matches/bodoglimt-vs-start/2rxkt4#5104903",
+                        "date": {
+                            "utcTime": "2026-05-20T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9919/overview/start",
+                        "tooltipText": {
+                            "utcTime": "2026-05-20T16:00:00.000Z",
+                            "homeTeam": "Start",
+                            "homeTeamId": 9919,
+                            "homeScore": "1",
+                            "awayTeam": "Bod\u00f8/Glimt",
+                            "awayTeamId": 8402,
+                            "awayScore": "4"
+                        },
+                        "score": "1 - 4",
+                        "home": {
+                            "id": "9919",
+                            "name": "Start",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8402",
+                            "name": "Bod\u00f8/Glimt",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8468_xsmall.png",
+                        "linkToMatch": "/matches/bodoglimt-vs-brann/2cqb89#5104916",
+                        "date": {
+                            "utcTime": "2026-05-24T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8468/overview/brann",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T14:00:00.000Z",
+                            "homeTeam": "Bod\u00f8/Glimt",
+                            "homeTeamId": 8402,
+                            "homeScore": "3",
+                            "awayTeam": "Brann",
+                            "awayTeamId": 8468,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "8402",
+                            "name": "Bod\u00f8/Glimt",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8468",
+                            "name": "Brann",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8422_xsmall.png",
+                        "linkToMatch": "/matches/bodoglimt-vs-rosenborg/2c9p7m#5104925",
+                        "date": {
+                            "utcTime": "2026-05-29T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8422/overview/rosenborg",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T17:00:00.000Z",
+                            "homeTeam": "Rosenborg",
+                            "homeTeamId": 8422,
+                            "homeScore": "2",
+                            "awayTeam": "Bod\u00f8/Glimt",
+                            "awayTeamId": 8402,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "8422",
+                            "name": "Rosenborg",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8402",
+                            "name": "Bod\u00f8/Glimt",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5795852",
+                    "MatchId": 5795852,
+                    "HomeTeamId": 9917,
+                    "AwayTeamId": 8402,
+                    "HomeTeam": "Molde",
+                    "AwayTeam": "Bod\u00f8/Glimt",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "away_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Bod\u00f8/Glimt haven't lost in 5 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Molde have scored in their last 4 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "9",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Bod\u00f8/Glimt have scored 9 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Molde haven't drawn in their last 6 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 9917,
+                    "priority": 1343,
+                    "defaultText": "{0} and {1} have not drawn any of their last {2} matches against each other.",
+                    "localizedTextId": "h2h_no_draws_v2",
+                    "statValues": [
+                        {
+                            "value": 9917,
+                            "name": "Molde",
+                            "type": "team"
+                        },
+                        {
+                            "value": 8402,
+                            "name": "Bod\u00f8/Glimt",
+                            "type": "team"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Molde and Bod\u00f8/Glimt have not drawn any of their last 3 matches against each other.",
+                    "color": "#0D47A0"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8402,
+                    "priority": 1343,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 5 matches",
+                    "color": "#e09d00"
+                }
+            ],
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between Molde and Bod\u00f8/Glimt on Sun, 28 Jun 2026 13:45:00 GMT?",
+                    "answer": "Bod\u00f8/Glimt won 4\u20131 over Molde on Sun, 28 Jun 2026 13:45:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 23,
+            "windSpeed": 4,
+            "windDirectionCardinal": "NE",
+            "iconCode": 30,
+            "relativeHumidity": 62,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 11,
+            "description": "Partly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-28T15:30:01Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": {
+            "matchId": 5795852,
+            "lineupType": "unavailable",
+            "source": "enetpulse",
+            "availableFilters": [],
+            "homeTeam": {
+                "id": 9917,
+                "name": "Molde",
+                "formation": "",
+                "starters": [],
+                "unavailable": [
+                    {
+                        "id": 1509545,
+                        "age": 21,
+                        "name": "Jalal Abdulai",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "marketValue": 2068243,
+                        "unavailability": {
+                            "injuryId": 130,
+                            "type": "injury",
+                            "expectedReturn": "Mid July 2026"
+                        },
+                        "firstName": "Jalal",
+                        "lastName": "Abdulai"
+                    },
+                    {
+                        "id": 935515,
+                        "age": 26,
+                        "name": "Casper \u00d8yvann",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 431028,
+                        "unavailability": {
+                            "injuryId": 6,
+                            "type": "injury",
+                            "expectedReturn": "Late July 2026"
+                        },
+                        "firstName": "Casper",
+                        "lastName": "\u00d8yvann"
+                    },
+                    {
+                        "id": 945616,
+                        "age": 26,
+                        "name": "Mads Kikkenborg",
+                        "countryName": "Denmark",
+                        "countryCode": "DEN",
+                        "marketValue": 373111,
+                        "unavailability": {
+                            "injuryId": 73,
+                            "type": "injury",
+                            "expectedReturn": "Early July 2026"
+                        },
+                        "firstName": "Mads",
+                        "lastName": "Kikkenborg"
+                    },
+                    {
+                        "id": 937340,
+                        "age": 27,
+                        "name": "Fredrik Kristensen Dahl",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 531256,
+                        "unavailability": {
+                            "injuryId": 14,
+                            "type": "injury",
+                            "expectedReturn": "Early August 2026"
+                        },
+                        "firstName": "Fredrik Kristensen",
+                        "lastName": "Dahl"
+                    }
+                ]
+            },
+            "awayTeam": {
+                "id": 8402,
+                "name": "Bod\u00f8/Glimt",
+                "formation": "",
+                "starters": [],
+                "unavailable": [
+                    {
+                        "id": 954167,
+                        "age": 25,
+                        "name": "August Mikkelsen",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 589724,
+                        "unavailability": {
+                            "injuryId": 130,
+                            "type": "injury",
+                            "expectedReturn": "Mid July 2026"
+                        },
+                        "firstName": "August",
+                        "lastName": "Mikkelsen"
+                    },
+                    {
+                        "id": 540975,
+                        "age": 29,
+                        "name": "Sondre Fet",
+                        "countryName": "Norway",
+                        "countryCode": "NOR",
+                        "marketValue": 559960,
+                        "unavailability": {
+                            "injuryId": 130,
+                            "type": "injury",
+                            "expectedReturn": "Mid July 2026"
+                        },
+                        "firstName": "Sondre",
+                        "lastName": "Fet"
+                    }
+                ]
+            }
+        },
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": {
+            "summary": [
+                14,
+                6,
+                12
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-05-04T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#5104897",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2026-05-04T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-03-05T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4989790",
+                    "league": {
+                        "name": "Cup",
+                        "id": "206",
+                        "pageUrl": "/leagues/206/overview/cup"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2026-03-05T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-10-26T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4695550",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2025-10-26T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-04-21T17:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4695370",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2025-04-21T17:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-03-22T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4726609",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2025-03-22T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-11-03T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4385492",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2024-11-03T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-21T17:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4385417",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-21T17:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-25T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4403258",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-25T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-12-09T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4301593",
+                    "league": {
+                        "name": "Cup",
+                        "id": "206",
+                        "pageUrl": "/leagues/206/overview/cup"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2023-12-09T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-10-08T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4077390",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2023-10-08T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-07-02T17:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4077114",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2023-07-02T17:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-04-02T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#4106163",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2023-04-02T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-09-03T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3803242",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2022-09-03T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-05-29T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3803192",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-29T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-05-01T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3847809",
+                    "league": {
+                        "name": "Cup",
+                        "id": "206",
+                        "pageUrl": "/leagues/206/overview/cup"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-01T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-10-27T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3517558",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2021-10-27T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-06-24T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3517159",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2021-06-24T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-05-02T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3574031",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2021-05-02T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-10-17T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3237846",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2020-10-17T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-07-26T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#3237665",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2020-07-26T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-12-01T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2948817",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2019-12-01T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-04-14T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2948788",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2019-04-14T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-10-07T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2684296",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2018-10-07T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-05-13T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2684318",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2018-05-13T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-02-02T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2678711",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2018-02-02T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-02-17T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2418357",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2017-02-17T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-08-06T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2147844",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2016-08-06T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-04-17T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#2147719",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2016-04-17T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-07-18T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#1879461",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2015-07-18T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-04-11T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#1879397",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2015-04-11T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-09-27T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#1622917",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Molde",
+                        "id": "9917"
+                    },
+                    "status": {
+                        "utcTime": "2014-09-27T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-06-12T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bodoglimt-vs-molde/2rwsj9#1622822",
+                    "league": {
+                        "name": "Eliteserien",
+                        "id": "59",
+                        "pageUrl": "/leagues/59/overview/eliteserien"
+                    },
+                    "home": {
+                        "name": "Bod\u00f8/Glimt",
+                        "id": "8402"
+                    },
+                    "status": {
+                        "utcTime": "2014-06-12T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Molde",
+                        "id": "9917"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "molde-vs-bodoglimt",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5795852",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Molde",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9917.png",
+                "url": "https://www.fotmob.com/teams/9917/overview/molde",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Bod\u00f8/Glimt",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8402.png",
+                "url": "https://www.fotmob.com/teams/8402/overview/bodoglimt",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Molde vs Bod\u00f8/Glimt",
+            "description": "Follow Molde vs Bod\u00f8/Glimt live on fotmob.com",
+            "startDate": "2026-06-28T13:45:00.000Z",
+            "endDate": "2026-06-28T15:45:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "EXTRA Arena",
+                "latitude": 63.428383942,
+                "longitude": 10.524044037,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Norway",
+                    "addressLocality": "Ranheim"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/9917.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8402.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5795852",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T13:45:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Molde",
+                    "url": "https://www.fotmob.com/teams/9917/overview/molde"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Bod\u00f8/Glimt",
+                    "url": "https://www.fotmob.com/teams/8402/overview/bodoglimt"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Molde - Bod\u00f8/Glimt",
+                        "item": "https://www.fotmob.com/match/5795852"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Bod\u00f8/Glimt",
+                        "item": "https://www.fotmob.com/teams/8402/overview/bodoglimt"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Molde - Bod\u00f8/Glimt",
+                        "item": "https://www.fotmob.com/match/5795852"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Molde",
+                        "item": "https://www.fotmob.com/teams/9917/overview/molde"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Molde - Bod\u00f8/Glimt",
+                        "item": "https://www.fotmob.com/match/5795852"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Molde and Bod\u00f8/Glimt on Sun, 28 Jun 2026 13:45:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Bod\u00f8/Glimt won 4\u20131 over Molde on Sun, 28 Jun 2026 13:45:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

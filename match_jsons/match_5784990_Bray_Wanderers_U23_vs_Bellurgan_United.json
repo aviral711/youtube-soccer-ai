@@ -1,0 +1,732 @@
+{
+    "general": {
+        "matchId": "5784990",
+        "matchName": "Bray Wanderers U23-vs-Bellurgan United_Sun, Jun 28, 2026, 14:00 UTC",
+        "matchRound": "1/16",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 10307,
+        "leagueName": "FAI Women's Cup",
+        "leagueRoundName": "1/16",
+        "parentLeagueId": 10307,
+        "countryCode": "IRL",
+        "homeTeam": {
+            "name": "Bray Wanderers U23",
+            "id": 2032322
+        },
+        "awayTeam": {
+            "name": "Bellurgan United",
+            "id": 2029739
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Bray Wanderers U23",
+                "id": 2032322,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2032322_small.png",
+                "pageUrl": "/teams/2032322/overview/bray-wanderers-u23"
+            },
+            {
+                "name": "Bellurgan United",
+                "id": 2029739,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2029739_small.png",
+                "pageUrl": "/teams/2029739/overview/bellurgan-united"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 17:07:53",
+                "firstHalfEnded": "28.06.2026 17:09:24",
+                "secondHalfStarted": "28.06.2026 17:09:37",
+                "secondHalfEnded": "28.06.2026 18:01:22",
+                "firstExtraHalfStarted": "28.06.2026 18:10:08",
+                "secondExtraHalfStarted": "28.06.2026 18:20:23",
+                "gameEnded": "28.06.2026 18:39:44"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "AET",
+                "shortKey": "afterextratime_short",
+                "long": "After extra time",
+                "longKey": "afterextra"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Farrelly": [
+                    {
+                        "reactKey": "1421820078Goal0undefinedtrue",
+                        "timeStr": 78,
+                        "type": "Goal",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 14218200,
+                        "player": {
+                            "id": 0,
+                            "name": "Annalily Farrelly",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Annalily Farrelly",
+                        "firstName": "Annalily",
+                        "lastName": "Farrelly",
+                        "fullName": "Annalily Farrelly",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Gilis": [
+                    {
+                        "reactKey": "14218285110Goal0undefinedtrue",
+                        "timeStr": 110,
+                        "type": "Goal",
+                        "time": 110,
+                        "overloadTime": null,
+                        "eventId": 14218285,
+                        "player": {
+                            "id": 0,
+                            "name": "Rachel Gilis",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Rachel Gilis",
+                        "firstName": "Rachel",
+                        "lastName": "Gilis",
+                        "fullName": "Rachel Gilis",
+                        "playerId": 0,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Murray": [
+                    {
+                        "reactKey": "1421819872Goal0undefinedfalse",
+                        "timeStr": 72,
+                        "type": "Goal",
+                        "time": 72,
+                        "overloadTime": null,
+                        "eventId": 14218198,
+                        "player": {
+                            "id": 0,
+                            "name": "Grace Murray",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Grace Murray",
+                        "firstName": "Grace",
+                        "lastName": "Murray",
+                        "fullName": "Grace Murray",
+                        "playerId": 0,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5784990,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421819872Goal0undefinedfalse",
+                        "timeStr": 72,
+                        "type": "Goal",
+                        "time": 72,
+                        "overloadTime": null,
+                        "eventId": 14218198,
+                        "player": {
+                            "id": 0,
+                            "name": "Grace Murray",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Grace Murray",
+                        "firstName": "Grace",
+                        "lastName": "Murray",
+                        "fullName": "Grace Murray",
+                        "playerId": 0,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421820078Goal0undefinedtrue",
+                        "timeStr": 78,
+                        "type": "Goal",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 14218200,
+                        "player": {
+                            "id": 0,
+                            "name": "Annalily Farrelly",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Annalily Farrelly",
+                        "firstName": "Annalily",
+                        "lastName": "Farrelly",
+                        "fullName": "Annalily Farrelly",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    },
+                    {
+                        "reactKey": "14218285110Goal0undefinedtrue",
+                        "timeStr": 110,
+                        "type": "Goal",
+                        "time": 110,
+                        "overloadTime": null,
+                        "eventId": 14218285,
+                        "player": {
+                            "id": 0,
+                            "name": "Rachel Gilis",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Rachel Gilis",
+                        "firstName": "Rachel",
+                        "lastName": "Gilis",
+                        "fullName": "Rachel Gilis",
+                        "playerId": 0,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined120HalfNaNundefinedundefined",
+                        "timeStr": 120,
+                        "type": "Half",
+                        "time": 120,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "AET",
+                        "halfStrKey": "afterextratime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Goal"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 10307,
+                    "parentLeagueId": 10307,
+                    "link": "/leagues/10307/overview/fai-womens-cup",
+                    "leagueName": "FAI Women's Cup",
+                    "roundName": "1/16",
+                    "round": "1/16"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2029738_xsmall.png",
+                        "linkToMatch": "/matches/longford-town-women-vs-bellurgan-united/2x5997rle#5776941",
+                        "date": {
+                            "utcTime": "2026-06-14T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2029738/overview/longford-town-women",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T13:00:00.000Z",
+                            "homeTeam": "Longford Town Women",
+                            "homeTeamId": 2029738,
+                            "homeScore": "1",
+                            "awayTeam": "Bellurgan United",
+                            "awayTeamId": 2029739,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "2029738",
+                            "name": "Longford Town Women",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2029739",
+                            "name": "Bellurgan United",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5784990",
+                    "MatchId": 5784990,
+                    "HomeTeamId": 2032322,
+                    "AwayTeamId": 2029739,
+                    "HomeTeam": "Bray Wanderers (W)",
+                    "AwayTeam": "Bellurgan United (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "",
+                            "TextTemplateId": "",
+                            "StatValues": [],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": null,
+                            "defaultText": ""
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Bray Wanderers (W) have an average of 0 goals in their last three matches and Bellurgan United (W) have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Bray Wanderers (W) have an average of 0 goals in their last three matches and Bellurgan United (W) have an average of 0.67."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "IRL",
+            "QAData": [
+                {
+                    "question": "Who won between Bray Wanderers U23 and Bellurgan United on Sun, 28 Jun 2026 14:00:00 GMT?",
+                    "answer": "Bray Wanderers U23 won 2\u20131 over Bellurgan United on Sun, 28 Jun 2026 14:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "bray-wanderers-u23-vs-bellurgan-united",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5784990",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Bray Wanderers U23",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2032322.png",
+                "url": "https://www.fotmob.com/teams/2032322/overview/bray-wanderers-u23",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Bellurgan United",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2029739.png",
+                "url": "https://www.fotmob.com/teams/2029739/overview/bellurgan-united",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Bray Wanderers U23 vs Bellurgan United",
+            "description": "Follow Bray Wanderers U23 vs Bellurgan United live on fotmob.com",
+            "startDate": "2026-06-28T14:00:00.000Z",
+            "endDate": "2026-06-28T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2032322.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2029739.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5784990",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Bray Wanderers U23",
+                    "url": "https://www.fotmob.com/teams/2032322/overview/bray-wanderers-u23"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Bellurgan United",
+                    "url": "https://www.fotmob.com/teams/2029739/overview/bellurgan-united"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Bray Wanderers U23 - Bellurgan United",
+                        "item": "https://www.fotmob.com/match/5784990"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Bellurgan United",
+                        "item": "https://www.fotmob.com/teams/2029739/overview/bellurgan-united"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Bray Wanderers U23 - Bellurgan United",
+                        "item": "https://www.fotmob.com/match/5784990"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Bray Wanderers U23",
+                        "item": "https://www.fotmob.com/teams/2032322/overview/bray-wanderers-u23"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Bray Wanderers U23 - Bellurgan United",
+                        "item": "https://www.fotmob.com/match/5784990"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Bray Wanderers U23 and Bellurgan United on Sun, 28 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Bray Wanderers U23 won 2\u20131 over Bellurgan United on Sun, 28 Jun 2026 14:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

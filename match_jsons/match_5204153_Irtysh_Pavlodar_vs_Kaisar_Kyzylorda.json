@@ -1,0 +1,1658 @@
+{
+    "general": {
+        "matchId": "5204153",
+        "matchName": "Irtysh Pavlodar-vs-Kaisar Kyzylorda_Sun, Jun 28, 2026, 12:00 UTC",
+        "matchRound": "15",
+        "teamColors": {
+            "darkMode": {
+                "home": "#333333",
+                "away": "#404040"
+            },
+            "lightMode": {
+                "home": "#100878",
+                "away": "#404040"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 922739,
+        "leagueName": "Premier League",
+        "leagueRoundName": "15",
+        "parentLeagueId": 225,
+        "countryCode": "KAZ",
+        "homeTeam": {
+            "name": "Irtysh Pavlodar",
+            "id": 2539
+        },
+        "awayTeam": {
+            "name": "Kaisar Kyzylorda",
+            "id": 2125
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Irtysh Pavlodar",
+                "id": 2539,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2539_small.png",
+                "pageUrl": "/teams/2539/overview/irtysh-pavlodar"
+            },
+            {
+                "name": "Kaisar Kyzylorda",
+                "id": 2125,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2125_small.png",
+                "pageUrl": "/teams/2125/overview/kaisar-kyzylorda"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 14:01:14",
+                "firstHalfEnded": "28.06.2026 14:48:54",
+                "secondHalfStarted": "28.06.2026 15:04:44",
+                "secondHalfEnded": "28.06.2026 15:57:06",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 15:57:06"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Poe": [
+                    {
+                        "reactKey": "1421772415Goal818311undefinedtrue",
+                        "timeStr": 15,
+                        "type": "Goal",
+                        "time": 15,
+                        "overloadTime": null,
+                        "eventId": 14217724,
+                        "player": {
+                            "id": 818311,
+                            "name": "Jean-Morel Poe",
+                            "profileUrl": "/players/818311/jean-morel-poe"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/818311/jean-morel-poe",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jean-Morel Poe",
+                        "firstName": "Jean-Morel",
+                        "lastName": "Poe",
+                        "fullName": "Jean-Morel Poe",
+                        "playerId": 818311,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Cuckic": [
+                    {
+                        "reactKey": "1421775744Goal640708undefinedfalse",
+                        "timeStr": 44,
+                        "type": "Goal",
+                        "time": 44,
+                        "overloadTime": null,
+                        "eventId": 14217757,
+                        "player": {
+                            "id": 640708,
+                            "name": "Nikola Cuckic",
+                            "profileUrl": "/players/640708/nikola-cuckic"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/640708/nikola-cuckic",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nikola Cuckic",
+                        "firstName": "Nikola",
+                        "lastName": "Cuckic",
+                        "fullName": "Nikola Cuckic",
+                        "playerId": 640708,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Bukorac": [
+                    {
+                        "reactKey": "1421780465Goal364817undefinedfalse",
+                        "timeStr": 65,
+                        "type": "Goal",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 14217804,
+                        "player": {
+                            "id": 364817,
+                            "name": "Stefan Bukorac",
+                            "profileUrl": "/players/364817/stefan-bukorac"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/364817/stefan-bukorac",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Stefan Bukorac",
+                        "firstName": "Stefan",
+                        "lastName": "Bukorac",
+                        "fullName": "Stefan Bukorac",
+                        "playerId": 364817,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5204153,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421772415Goal818311undefinedtrue",
+                        "timeStr": 15,
+                        "type": "Goal",
+                        "time": 15,
+                        "overloadTime": null,
+                        "eventId": 14217724,
+                        "player": {
+                            "id": 818311,
+                            "name": "Jean-Morel Poe",
+                            "profileUrl": "/players/818311/jean-morel-poe"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/818311/jean-morel-poe",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jean-Morel Poe",
+                        "firstName": "Jean-Morel",
+                        "lastName": "Poe",
+                        "fullName": "Jean-Morel Poe",
+                        "playerId": 818311,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421775744Goal640708undefinedfalse",
+                        "timeStr": 44,
+                        "type": "Goal",
+                        "time": 44,
+                        "overloadTime": null,
+                        "eventId": 14217757,
+                        "player": {
+                            "id": 640708,
+                            "name": "Nikola Cuckic",
+                            "profileUrl": "/players/640708/nikola-cuckic"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/640708/nikola-cuckic",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nikola Cuckic",
+                        "firstName": "Nikola",
+                        "lastName": "Cuckic",
+                        "fullName": "Nikola Cuckic",
+                        "playerId": 640708,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421780465Goal364817undefinedfalse",
+                        "timeStr": 65,
+                        "type": "Goal",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 14217804,
+                        "player": {
+                            "id": 364817,
+                            "name": "Stefan Bukorac",
+                            "profileUrl": "/players/364817/stefan-bukorac"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/364817/stefan-bukorac",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Stefan Bukorac",
+                        "firstName": "Stefan",
+                        "lastName": "Bukorac",
+                        "fullName": "Stefan Bukorac",
+                        "playerId": 364817,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 922739,
+                    "parentLeagueId": 225,
+                    "link": "/leagues/225/overview/premier-league",
+                    "leagueName": "Premier League",
+                    "roundName": "15",
+                    "round": "15"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/200281_xsmall.png",
+                        "linkToMatch": "/matches/irtysh-pavlodar-vs-fc-yelimay/9g5pc7p#5204114",
+                        "date": {
+                            "utcTime": "2026-05-16T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/200281/overview/fc-yelimay",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T14:00:00.000Z",
+                            "homeTeam": "Irtysh Pavlodar",
+                            "homeTeamId": 2539,
+                            "homeScore": "2",
+                            "awayTeam": "FC Yelimay",
+                            "awayTeamId": 200281,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "2539",
+                            "name": "Irtysh Pavlodar",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "200281",
+                            "name": "FC Yelimay",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/200279_xsmall.png",
+                        "linkToMatch": "/matches/irtysh-pavlodar-vs-kaspiy-aktau/9g5gn7y#5204125",
+                        "date": {
+                            "utcTime": "2026-05-22T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/200279/overview/kaspiy-aktau",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T14:00:00.000Z",
+                            "homeTeam": "Kaspiy Aktau",
+                            "homeTeamId": 200279,
+                            "homeScore": "2",
+                            "awayTeam": "Irtysh Pavlodar",
+                            "awayTeamId": 2539,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "200279",
+                            "name": "Kaspiy Aktau",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2539",
+                            "name": "Irtysh Pavlodar",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1622701_xsmall.png",
+                        "linkToMatch": "/matches/irtysh-pavlodar-vs-ulytau/guq0o66v#5204131",
+                        "date": {
+                            "utcTime": "2026-05-27T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1622701/overview/ulytau",
+                        "tooltipText": {
+                            "utcTime": "2026-05-27T13:00:00.000Z",
+                            "homeTeam": "Irtysh Pavlodar",
+                            "homeTeamId": 2539,
+                            "homeScore": "1",
+                            "awayTeam": "Ulytau",
+                            "awayTeamId": 1622701,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "2539",
+                            "name": "Irtysh Pavlodar",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1622701",
+                            "name": "Ulytau",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/166865_xsmall.png",
+                        "linkToMatch": "/matches/irtysh-pavlodar-vs-fc-astana/6lazopd#5204138",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/166865/overview/fc-astana",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "FC Astana",
+                            "homeTeamId": 166865,
+                            "homeScore": "2",
+                            "awayTeam": "Irtysh Pavlodar",
+                            "awayTeamId": 2539,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "166865",
+                            "name": "FC Astana",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2539",
+                            "name": "Irtysh Pavlodar",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1614087_xsmall.png",
+                        "linkToMatch": "/matches/irtysh-pavlodar-vs-zhenis/gob3mll2#5204152",
+                        "date": {
+                            "utcTime": "2026-06-20T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1614087/overview/zhenis",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T13:00:00.000Z",
+                            "homeTeam": "Zhenis",
+                            "homeTeamId": 1614087,
+                            "homeScore": "0",
+                            "awayTeam": "Irtysh Pavlodar",
+                            "awayTeamId": 2539,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "1614087",
+                            "name": "Zhenis",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2539",
+                            "name": "Irtysh Pavlodar",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7983_xsmall.png",
+                        "linkToMatch": "/matches/kaisar-kyzylorda-vs-tobol-kostanay/uf851#5204115",
+                        "date": {
+                            "utcTime": "2026-05-17T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7983/overview/tobol-kostanay",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T14:00:00.000Z",
+                            "homeTeam": "Kaisar Kyzylorda",
+                            "homeTeamId": 2125,
+                            "homeScore": "2",
+                            "awayTeam": "Tobol Kostanay",
+                            "awayTeamId": 7983,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "2125",
+                            "name": "Kaisar Kyzylorda",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "7983",
+                            "name": "Tobol Kostanay",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8037_xsmall.png",
+                        "linkToMatch": "/matches/kaisar-kyzylorda-vs-kairat-almaty/uqyhs#5204124",
+                        "date": {
+                            "utcTime": "2026-05-23T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8037/overview/kairat-almaty",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T13:00:00.000Z",
+                            "homeTeam": "Kairat Almaty",
+                            "homeTeamId": 8037,
+                            "homeScore": "0",
+                            "awayTeam": "Kaisar Kyzylorda",
+                            "awayTeamId": 2125,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "8037",
+                            "name": "Kairat Almaty",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2125",
+                            "name": "Kaisar Kyzylorda",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/200281_xsmall.png",
+                        "linkToMatch": "/matches/kaisar-kyzylorda-vs-fc-yelimay/9errg4y#5204132",
+                        "date": {
+                            "utcTime": "2026-05-28T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/200281/overview/fc-yelimay",
+                        "tooltipText": {
+                            "utcTime": "2026-05-28T14:00:00.000Z",
+                            "homeTeam": "Kaisar Kyzylorda",
+                            "homeTeamId": 2125,
+                            "homeScore": "2",
+                            "awayTeam": "FC Yelimay",
+                            "awayTeamId": 200281,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "2125",
+                            "name": "Kaisar Kyzylorda",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "200281",
+                            "name": "FC Yelimay",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/200279_xsmall.png",
+                        "linkToMatch": "/matches/kaisar-kyzylorda-vs-kaspiy-aktau/9erirs7#5204140",
+                        "date": {
+                            "utcTime": "2026-06-14T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/200279/overview/kaspiy-aktau",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T15:00:00.000Z",
+                            "homeTeam": "Kaspiy Aktau",
+                            "homeTeamId": 200279,
+                            "homeScore": "1",
+                            "awayTeam": "Kaisar Kyzylorda",
+                            "awayTeamId": 2125,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "200279",
+                            "name": "Kaspiy Aktau",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2125",
+                            "name": "Kaisar Kyzylorda",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1622701_xsmall.png",
+                        "linkToMatch": "/matches/kaisar-kyzylorda-vs-ulytau/guew4hy4#5204148",
+                        "date": {
+                            "utcTime": "2026-06-20T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1622701/overview/ulytau",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T15:00:00.000Z",
+                            "homeTeam": "Kaisar Kyzylorda",
+                            "homeTeamId": 2125,
+                            "homeScore": "0",
+                            "awayTeam": "Ulytau",
+                            "awayTeamId": 1622701,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "2125",
+                            "name": "Kaisar Kyzylorda",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1622701",
+                            "name": "Ulytau",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5204153",
+                    "MatchId": 5204153,
+                    "HomeTeamId": 2539,
+                    "AwayTeamId": 2125,
+                    "HomeTeam": "Irtysh Pavlodar",
+                    "AwayTeam": "Kaisar Kyzylorda",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "11"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Irtysh Pavlodar haven't won a match in 11 attempts."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.33",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Irtysh Pavlodar have an average of 0.33 goals in their last three matches and Kaisar Kyzylorda have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.33",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Irtysh Pavlodar have an average of 0.33 goals in their last three matches and Kaisar Kyzylorda have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "11"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Irtysh Pavlodar haven't won a match in 11 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2539,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#100878"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2125,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#404040"
+                }
+            ],
+            "countryCode": "KAZ",
+            "QAData": [
+                {
+                    "question": "Who won between Irtysh Pavlodar and Kaisar Kyzylorda on Sun, 28 Jun 2026 12:00:00 GMT?",
+                    "answer": "Kaisar Kyzylorda won 2\u20131 over Irtysh Pavlodar on Sun, 28 Jun 2026 12:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "922739",
+            "url": "https://data.fotmob.com/tables.ext.922739.fot.gz",
+            "teams": [
+                2539,
+                2125
+            ],
+            "tournamentNameForUrl": "Premier League",
+            "parentLeagueId": 225,
+            "countryCode": "KAZ"
+        },
+        "h2h": {
+            "summary": [
+                4,
+                6,
+                7
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2019-10-19T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#3149860",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2019-10-19T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-05-31T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2987770",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    },
+                    "status": {
+                        "utcTime": "2019-05-31T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-03-30T09:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2987709",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2019-03-30T09:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-10-21T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2866057",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2018-10-21T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-06-23T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2720388",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2018-06-23T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-04-14T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2720291",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    },
+                    "status": {
+                        "utcTime": "2018-04-14T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-08-20T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2598517",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2017-08-20T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-06-24T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2456616",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2017-06-24T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-04-16T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#2456557",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    },
+                    "status": {
+                        "utcTime": "2017-04-16T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-05-24T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#1926482",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2015-05-24T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-03-15T09:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#1926423",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    },
+                    "status": {
+                        "utcTime": "2015-03-15T09:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-06-14T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#1654457",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2014-06-14T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-04-13T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#1654397",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    },
+                    "status": {
+                        "utcTime": "2014-04-13T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-08-05T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#1175683",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2012-08-05T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-04-22T09:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#1175416",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    },
+                    "status": {
+                        "utcTime": "2012-04-22T09:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-06-25T12:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#974076",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    },
+                    "status": {
+                        "utcTime": "2011-06-25T12:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-04-09T09:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kaisar-kyzylorda-vs-irtysh-pavlodar/6h82v#974011",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Irtysh Pavlodar",
+                        "id": "2539"
+                    },
+                    "status": {
+                        "utcTime": "2011-04-09T09:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kaisar Kyzylorda",
+                        "id": "2125"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "irtysh-pavlodar-vs-kaisar-kyzylorda",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5204153",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Irtysh Pavlodar",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2539.png",
+                "url": "https://www.fotmob.com/teams/2539/overview/irtysh-pavlodar",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Kaisar Kyzylorda",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2125.png",
+                "url": "https://www.fotmob.com/teams/2125/overview/kaisar-kyzylorda",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Irtysh Pavlodar vs Kaisar Kyzylorda",
+            "description": "Follow Irtysh Pavlodar vs Kaisar Kyzylorda live on fotmob.com",
+            "startDate": "2026-06-28T12:00:00.000Z",
+            "endDate": "2026-06-28T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2539.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2125.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5204153",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Irtysh Pavlodar",
+                    "url": "https://www.fotmob.com/teams/2539/overview/irtysh-pavlodar"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Kaisar Kyzylorda",
+                    "url": "https://www.fotmob.com/teams/2125/overview/kaisar-kyzylorda"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Irtysh Pavlodar - Kaisar Kyzylorda",
+                        "item": "https://www.fotmob.com/match/5204153"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kaisar Kyzylorda",
+                        "item": "https://www.fotmob.com/teams/2125/overview/kaisar-kyzylorda"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Irtysh Pavlodar - Kaisar Kyzylorda",
+                        "item": "https://www.fotmob.com/match/5204153"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Irtysh Pavlodar",
+                        "item": "https://www.fotmob.com/teams/2539/overview/irtysh-pavlodar"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Irtysh Pavlodar - Kaisar Kyzylorda",
+                        "item": "https://www.fotmob.com/match/5204153"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Irtysh Pavlodar and Kaisar Kyzylorda on Sun, 28 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Kaisar Kyzylorda won 2\u20131 over Irtysh Pavlodar on Sun, 28 Jun 2026 12:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

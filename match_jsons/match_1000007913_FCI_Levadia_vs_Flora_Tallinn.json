@@ -1,0 +1,4545 @@
+{
+    "general": {
+        "matchId": "1000007913",
+        "matchName": "FCI Levadia-vs-Flora Tallinn_Sun, Jun 28, 2026, 16:00 UTC",
+        "matchRound": "19",
+        "teamColors": {
+            "darkMode": {
+                "home": "#1BA463",
+                "away": "#ffffff"
+            },
+            "lightMode": {
+                "home": "#1BA463",
+                "away": "#000000"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 248,
+        "leagueName": "Estonian Premium liiga",
+        "leagueRoundName": "19",
+        "parentLeagueId": 248,
+        "countryCode": "EST",
+        "homeTeam": {
+            "name": "FCI Levadia",
+            "id": 1588
+        },
+        "awayTeam": {
+            "name": "Flora Tallinn",
+            "id": 8155
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "FCI Levadia",
+                "id": 1588,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1588_small.png",
+                "pageUrl": "/teams/1588/overview/fci-levadia"
+            },
+            {
+                "name": "Flora Tallinn",
+                "id": 8155,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8155_small.png",
+                "pageUrl": "/teams/8155/overview/flora-tallinn"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T16:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 18:01:28",
+                "firstHalfEnded": "28.06.2026 18:47:41",
+                "secondHalfStarted": "28.06.2026 19:03:30",
+                "secondHalfEnded": "28.06.2026 19:52:59",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 19:52:59"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Gabriel": [
+                    {
+                        "reactKey": "024Goal1692409undefinedtrue",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1692409,
+                            "name": "Wendell Gabriel",
+                            "profileUrl": "/players/1692409/wendell-gabriel"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1692409/wendell-gabriel",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Wendell Gabriel",
+                        "firstName": "Wendell",
+                        "lastName": "Gabriel",
+                        "fullName": "Wendell Gabriel",
+                        "playerId": 1692409,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Alamaa": [
+                    {
+                        "reactKey": "082Goal1657530undefinedfalse",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1657530,
+                            "name": "Sander Alamaa",
+                            "profileUrl": "/players/1657530/sander-alamaa"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1657530/sander-alamaa",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Alamaa",
+                        "firstName": "Sander",
+                        "lastName": "Alamaa",
+                        "fullName": "Sander Alamaa",
+                        "playerId": 1657530,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Usta": [
+                    {
+                        "reactKey": "090Goal1082064undefinedfalse",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1082064,
+                            "name": "Taaniel Usta",
+                            "profileUrl": "/players/1082064/taaniel-usta"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1082064/taaniel-usta",
+                        "overloadTimeStr": "+3",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Taaniel Usta",
+                        "firstName": "Taaniel",
+                        "lastName": "Usta",
+                        "fullName": "Taaniel Usta",
+                        "playerId": 1082064,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000007913,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "024Goal1692409undefinedtrue",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1692409,
+                            "name": "Wendell Gabriel",
+                            "profileUrl": "/players/1692409/wendell-gabriel"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1692409/wendell-gabriel",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Wendell Gabriel",
+                        "firstName": "Wendell",
+                        "lastName": "Gabriel",
+                        "fullName": "Wendell Gabriel",
+                        "playerId": 1692409,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "038Card620980undefinedtrue",
+                        "timeStr": 38,
+                        "type": "Card",
+                        "time": 38,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 620980,
+                            "name": "Rasmus Peetson",
+                            "profileUrl": "/players/620980/rasmus-peetson"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/620980/rasmus-peetson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Rasmus Peetson",
+                        "firstName": "Rasmus",
+                        "lastName": "Peetson",
+                        "fullName": "Rasmus Peetson",
+                        "playerId": 620980,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "055Card432290undefinedfalse",
+                        "timeStr": 55,
+                        "type": "Card",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 432290,
+                            "name": "Ilja Antonov",
+                            "profileUrl": "/players/432290/ilja-antonov"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/432290/ilja-antonov",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Ilja Antonov",
+                        "firstName": "Ilja",
+                        "lastName": "Antonov",
+                        "fullName": "Ilja Antonov",
+                        "playerId": 432290,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined67SubstitutionNaN1436957true",
+                        "timeStr": 67,
+                        "type": "Substitution",
+                        "time": 67,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Enock Otoo",
+                                "id": "1436957",
+                                "profileUrl": "/players/1436957/enock-otoo"
+                            },
+                            {
+                                "name": "Wendell Gabriel",
+                                "id": "1692409",
+                                "profileUrl": "/players/1692409/wendell-gabriel"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN431847false",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Rauno Alliku",
+                                "id": "431847",
+                                "profileUrl": "/players/431847/rauno-alliku"
+                            },
+                            {
+                                "name": "Sergei Zenjov",
+                                "id": "77872",
+                                "profileUrl": "/players/77872/sergei-zenjov"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1635714false",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Maksim Kalimullin",
+                                "id": "1635714",
+                                "profileUrl": "/players/1635714/maksim-kalimullin"
+                            },
+                            {
+                                "name": "Remo Valdmets",
+                                "id": "1657529",
+                                "profileUrl": "/players/1657529/remo-valdmets"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined70SubstitutionNaN1267093true",
+                        "timeStr": 70,
+                        "type": "Substitution",
+                        "time": 70,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Alexandre",
+                                "id": "1267093",
+                                "profileUrl": "/players/1267093/alexandre"
+                            },
+                            {
+                                "name": "Frank Liivak",
+                                "id": "544973",
+                                "profileUrl": "/players/544973/frank-liivak"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "070Card1394614undefinedtrue",
+                        "timeStr": 70,
+                        "type": "Card",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1394614,
+                            "name": "Jo\u00e3o Pedro",
+                            "profileUrl": "/players/1394614/joao-pedro"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1394614/joao-pedro",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Jo\u00e3o Pedro",
+                        "firstName": "Jo\u00e3o",
+                        "lastName": "Pedro",
+                        "fullName": "Jo\u00e3o Pedro",
+                        "playerId": 1394614,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "072Card1776661undefinedfalse",
+                        "timeStr": 72,
+                        "type": "Card",
+                        "time": 72,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1776661,
+                            "name": "Sander Tovstik",
+                            "profileUrl": "/players/1776661/sander-tovstik"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1776661/sander-tovstik",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Sander Tovstik",
+                        "firstName": "Sander",
+                        "lastName": "Tovstik",
+                        "fullName": "Sander Tovstik",
+                        "playerId": 1776661,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1177438false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Danil Kuraksin",
+                                "id": "1177438",
+                                "profileUrl": "/players/1177438/danil-kuraksin"
+                            },
+                            {
+                                "name": "Sander Tovstik",
+                                "id": "1776661",
+                                "profileUrl": "/players/1776661/sander-tovstik"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined79SubstitutionNaN1082064false",
+                        "timeStr": 79,
+                        "type": "Substitution",
+                        "time": 79,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Taaniel Usta",
+                                "id": "1082064",
+                                "profileUrl": "/players/1082064/taaniel-usta"
+                            },
+                            {
+                                "name": "Tony Varjund",
+                                "id": "1507079",
+                                "profileUrl": "/players/1507079/tony-varjund"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "082Goal1657530undefinedfalse",
+                        "timeStr": 82,
+                        "type": "Goal",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1657530,
+                            "name": "Sander Alamaa",
+                            "profileUrl": "/players/1657530/sander-alamaa"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1657530/sander-alamaa",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Alamaa",
+                        "firstName": "Sander",
+                        "lastName": "Alamaa",
+                        "fullName": "Sander Alamaa",
+                        "playerId": 1657530,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined84SubstitutionNaN1764360false",
+                        "timeStr": 84,
+                        "type": "Substitution",
+                        "time": 84,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Andero Kaares",
+                                "id": "1764360",
+                                "profileUrl": "/players/1764360/andero-kaares"
+                            },
+                            {
+                                "name": "Sander Alamaa",
+                                "id": "1657530",
+                                "profileUrl": "/players/1657530/sander-alamaa"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "085Card1561539undefinedtrue",
+                        "timeStr": 85,
+                        "type": "Card",
+                        "time": 85,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1561539,
+                            "name": "Maksimilian Skvortsov",
+                            "profileUrl": "/players/1561539/maksimilian-skvortsov"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1561539/maksimilian-skvortsov",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Maksimilian Skvortsov",
+                        "firstName": "Maksimilian",
+                        "lastName": "Skvortsov",
+                        "fullName": "Maksimilian Skvortsov",
+                        "playerId": 1561539,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined87SubstitutionNaN432298true",
+                        "timeStr": 87,
+                        "type": "Substitution",
+                        "time": 87,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Robert Kirss",
+                                "id": "432298",
+                                "profileUrl": "/players/432298/robert-kirss"
+                            },
+                            {
+                                "name": "Bubacarr Tambedou",
+                                "id": "1367264",
+                                "profileUrl": "/players/1367264/bubacarr-tambedou"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined87SubstitutionNaN1828221true",
+                        "timeStr": 87,
+                        "type": "Substitution",
+                        "time": 87,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Moussa Sambe",
+                                "id": "1828221",
+                                "profileUrl": "/players/1828221/moussa-sambe"
+                            },
+                            {
+                                "name": "Maksimilian Skvortsov",
+                                "id": "1561539",
+                                "profileUrl": "/players/1561539/maksimilian-skvortsov"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "090Goal1082064undefinedfalse",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1082064,
+                            "name": "Taaniel Usta",
+                            "profileUrl": "/players/1082064/taaniel-usta"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1082064/taaniel-usta",
+                        "overloadTimeStr": "+3",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Taaniel Usta",
+                        "firstName": "Taaniel",
+                        "lastName": "Usta",
+                        "fullName": "Taaniel Usta",
+                        "playerId": 1082064,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Card",
+                    "Half",
+                    "Substitution",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 248,
+                    "parentLeagueId": 248,
+                    "link": "/leagues/248/overview/estonian-premium-liiga",
+                    "leagueName": "Estonian Premium liiga",
+                    "roundName": "19",
+                    "round": "19"
+                },
+                "Stadium": {
+                    "name": "A. Le Coq Arena",
+                    "city": "Tallinn",
+                    "country": "Estonia",
+                    "lat": 59.421302996,
+                    "long": 24.732021689
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/est.png",
+                    "text": "Joonas Jaanovits",
+                    "countryCode": "EST",
+                    "country": "Estonia"
+                },
+                "Attendance": 1553
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/828265_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-parnu-jk-vaprus/4e6kqp24#1000007844",
+                        "date": {
+                            "utcTime": "2026-05-24T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/828265/overview/parnu-jk-vaprus",
+                        "tooltipText": {
+                            "utcTime": "2026-05-24T14:00:00.000Z",
+                            "homeTeam": "Parnu JK Vaprus",
+                            "homeTeamId": 828265,
+                            "homeScore": "1",
+                            "awayTeam": "FCI Levadia",
+                            "awayTeamId": 1588,
+                            "awayScore": "6"
+                        },
+                        "score": "1 - 6",
+                        "home": {
+                            "id": "828265",
+                            "name": "Parnu JK Vaprus",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4147_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-tammeka/9smjj#1000007919",
+                        "date": {
+                            "utcTime": "2026-05-30T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4147/overview/tammeka",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T14:00:00.000Z",
+                            "homeTeam": "Tammeka",
+                            "homeTeamId": 4147,
+                            "homeScore": "0",
+                            "awayTeam": "FCI Levadia",
+                            "awayTeamId": 1588,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "4147",
+                            "name": "Tammeka",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8155_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1000007893",
+                        "date": {
+                            "utcTime": "2026-06-13T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8155/overview/flora-tallinn",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T16:00:00.000Z",
+                            "homeTeam": "Flora Tallinn",
+                            "homeTeamId": 8155,
+                            "homeScore": "1",
+                            "awayTeam": "FCI Levadia",
+                            "awayTeamId": 1588,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584714_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-nomme-united/26yigxpn#1000007899",
+                        "date": {
+                            "utcTime": "2026-06-17T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/584714/overview/nomme-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T16:00:00.000Z",
+                            "homeTeam": "Nomme United",
+                            "homeTeamId": 584714,
+                            "homeScore": "1",
+                            "awayTeam": "FCI Levadia",
+                            "awayTeamId": 1588,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "584714",
+                            "name": "Nomme United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/112484_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-nomme-jk-kalju/2zlnxgg#1000007903",
+                        "date": {
+                            "utcTime": "2026-06-20T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/112484/overview/nomme-jk-kalju",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T14:00:00.000Z",
+                            "homeTeam": "FCI Levadia",
+                            "homeTeamId": 1588,
+                            "homeScore": "1",
+                            "awayTeam": "Nomme JK Kalju",
+                            "awayTeamId": 112484,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "112484",
+                            "name": "Nomme JK Kalju",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2252_xsmall.png",
+                        "linkToMatch": "/matches/narva-trans-vs-flora-tallinn/w8yw7#1000007878",
+                        "date": {
+                            "utcTime": "2026-05-16T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2252/overview/narva-trans",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T11:30:00.000Z",
+                            "homeTeam": "Narva Trans",
+                            "homeTeamId": 2252,
+                            "homeScore": "0",
+                            "awayTeam": "Flora Tallinn",
+                            "awayTeamId": 8155,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "2252",
+                            "name": "Narva Trans",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584714_xsmall.png",
+                        "linkToMatch": "/matches/flora-tallinn-vs-nomme-united/28qjaxiy#1000007887",
+                        "date": {
+                            "utcTime": "2026-05-29T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/584714/overview/nomme-united",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T16:00:00.000Z",
+                            "homeTeam": "Nomme United",
+                            "homeTeamId": 584714,
+                            "homeScore": "0",
+                            "awayTeam": "Flora Tallinn",
+                            "awayTeamId": 8155,
+                            "awayScore": "4"
+                        },
+                        "score": "0 - 4",
+                        "home": {
+                            "id": "584714",
+                            "name": "Nomme United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1588_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1000007893",
+                        "date": {
+                            "utcTime": "2026-06-13T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1588/overview/fci-levadia",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T16:00:00.000Z",
+                            "homeTeam": "Flora Tallinn",
+                            "homeTeamId": 8155,
+                            "homeScore": "1",
+                            "awayTeam": "FCI Levadia",
+                            "awayTeamId": 1588,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/828265_xsmall.png",
+                        "linkToMatch": "/matches/flora-tallinn-vs-parnu-jk-vaprus/4gp25q8j#1000007897",
+                        "date": {
+                            "utcTime": "2026-06-16T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/828265/overview/parnu-jk-vaprus",
+                        "tooltipText": {
+                            "utcTime": "2026-06-16T16:00:00.000Z",
+                            "homeTeam": "Parnu JK Vaprus",
+                            "homeTeamId": 828265,
+                            "homeScore": "1",
+                            "awayTeam": "Flora Tallinn",
+                            "awayTeamId": 8155,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "828265",
+                            "name": "Parnu JK Vaprus",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163540_xsmall.png",
+                        "linkToMatch": "/matches/flora-tallinn-vs-paide-linnameeskond/6rrmi9v#1000007905",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163540/overview/paide-linnameeskond",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Flora Tallinn",
+                            "homeTeamId": 8155,
+                            "homeScore": "1",
+                            "awayTeam": "Paide Linnameeskond",
+                            "awayTeamId": 163540,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "163540",
+                            "name": "Paide Linnameeskond",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000007913",
+                    "MatchId": 1000007913,
+                    "HomeTeamId": 1588,
+                    "AwayTeamId": 8155,
+                    "HomeTeam": "FCI Levadia",
+                    "AwayTeam": "Flora Tallinn",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "FCI Levadia have won the previous 3 matches against Flora Tallinn."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "12",
+                                "away_team",
+                                "9"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "FCI Levadia have scored in their last 12 matches and Flora Tallinn have scored in their last 9 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "6",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "FCI Levadia have scored 6 goals in their last 3 matches, while Flora Tallinn have scored 4."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Flora Tallinn haven't drawn in their last 12 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "EST",
+            "QAData": [
+                {
+                    "question": "Who won between FCI Levadia and Flora Tallinn on Sun, 28 Jun 2026 16:00:00 GMT?",
+                    "answer": "Flora Tallinn won 2\u20131 over FCI Levadia on Sun, 28 Jun 2026 16:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": null
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 19,
+            "windSpeed": 3,
+            "windDirectionCardinal": "SSW",
+            "iconCode": 12,
+            "relativeHumidity": 95,
+            "precipitation": 7.62,
+            "snow": 0,
+            "cloudCover": 80,
+            "description": "Rain",
+            "apiUsed": "current",
+            "lastUpdated": "2026-06-28T17:30:01Z",
+            "localizedKey": "weather_condition_rain",
+            "defaultTitle": "Rain"
+        },
+        "lineup": {
+            "matchId": 1000007913,
+            "lineupType": "simple",
+            "source": "optaSdapi",
+            "availableFilters": [
+                "season",
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 1588,
+                "name": "FCI Levadia",
+                "starters": [
+                    {
+                        "id": 1202517,
+                        "age": 24,
+                        "optaId": "514143",
+                        "name": "Abraham Nwankwo",
+                        "shirtNumber": "20",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "marketValue": 95147,
+                        "firstName": "Abraham",
+                        "lastName": "Nwankwo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1394614,
+                        "age": 24,
+                        "optaId": "230962",
+                        "name": "Jo\u00e3o Pedro",
+                        "shirtNumber": "36",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 70
+                                }
+                            ]
+                        },
+                        "firstName": "Jo\u00e3o",
+                        "lastName": "Pedro",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1774518,
+                        "age": 21,
+                        "optaId": "649798",
+                        "name": "Victory Iboro",
+                        "shirtNumber": "35",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "firstName": "Victory",
+                        "lastName": "Iboro",
+                        "rankings": null
+                    },
+                    {
+                        "id": 465238,
+                        "age": 30,
+                        "optaId": "208965",
+                        "name": "Mihkel Ainsalu",
+                        "shirtNumber": "11",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Mihkel",
+                        "lastName": "Ainsalu",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1692409,
+                        "age": 22,
+                        "optaId": "617100",
+                        "name": "Wendell Gabriel",
+                        "shirtNumber": "10",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 24
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 67,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "Wendell",
+                        "lastName": "Gabriel",
+                        "rankings": null
+                    },
+                    {
+                        "id": 620980,
+                        "age": 31,
+                        "optaId": "194989",
+                        "name": "Rasmus Peetson",
+                        "shirtNumber": "6",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 38
+                                }
+                            ]
+                        },
+                        "firstName": "Rasmus",
+                        "lastName": "Peetson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1367264,
+                        "age": 24,
+                        "optaId": "571617",
+                        "name": "Bubacarr Tambedou",
+                        "shirtNumber": "9",
+                        "countryName": "Gambia",
+                        "countryCode": "GAM",
+                        "marketValue": 91300,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 87,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Bubacarr",
+                        "lastName": "Tambedou",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1238738,
+                        "age": 28,
+                        "optaId": "189517",
+                        "name": "Karl Vallner",
+                        "shirtNumber": "99",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Karl",
+                        "lastName": "Vallner",
+                        "rankings": null
+                    },
+                    {
+                        "id": 544973,
+                        "age": 29,
+                        "optaId": "172609",
+                        "name": "Frank Liivak",
+                        "shirtNumber": "23",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Frank",
+                        "lastName": "Liivak",
+                        "rankings": null
+                    },
+                    {
+                        "id": 651711,
+                        "age": 31,
+                        "optaId": "172614",
+                        "name": "Joseph Saliste",
+                        "shirtNumber": "29",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Joseph",
+                        "lastName": "Saliste",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1561539,
+                        "age": 18,
+                        "optaId": "642950",
+                        "name": "Maksimilian Skvortsov",
+                        "shirtNumber": "21",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 716325,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 85
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 87,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Maksimilian",
+                        "lastName": "Skvortsov",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 16496,
+                    "age": 44,
+                    "name": "Vjatseslav Zahovaiko",
+                    "countryName": "Estonia",
+                    "countryCode": "EST",
+                    "firstName": "Vjatseslav",
+                    "lastName": "Zahovaiko",
+                    "primaryTeamId": 1588,
+                    "primaryTeamName": "FCI Levadia",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1436957,
+                        "age": 22,
+                        "optaId": "629589",
+                        "name": "Enock Otoo",
+                        "shirtNumber": "33",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "marketValue": 68982,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 67,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Enock",
+                        "lastName": "Otoo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1267093,
+                        "age": 23,
+                        "optaId": "536840",
+                        "name": "Alexandre",
+                        "shirtNumber": "18",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "",
+                        "lastName": "Alexandre",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1828221,
+                        "age": 20,
+                        "optaId": "707961",
+                        "name": "Moussa Sambe",
+                        "shirtNumber": "19",
+                        "countryName": "Senegal",
+                        "countryCode": "SEN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 87,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Moussa",
+                        "lastName": "Sambe",
+                        "rankings": null
+                    },
+                    {
+                        "id": 432298,
+                        "age": 31,
+                        "optaId": "164618",
+                        "name": "Robert Kirss",
+                        "shirtNumber": "17",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 87,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Robert",
+                        "lastName": "Kirss",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1588795,
+                        "age": 22,
+                        "optaId": "543594",
+                        "name": "Gregor Lehtmets",
+                        "shirtNumber": "7",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 250874,
+                        "firstName": "Gregor",
+                        "lastName": "Lehtmets",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1780056,
+                        "age": 18,
+                        "optaId": "689002",
+                        "name": "Hubert Liiv",
+                        "shirtNumber": "30",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Hubert",
+                        "lastName": "Liiv",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1508210,
+                        "age": 27,
+                        "optaId": "600469",
+                        "name": "Oliver Ani",
+                        "shirtNumber": "1",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Oliver",
+                        "lastName": "Ani",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1745697,
+                        "age": 22,
+                        "optaId": "687905",
+                        "name": "Kau\u00e3 Davi",
+                        "shirtNumber": "71",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Kau\u00e3",
+                        "lastName": "Davi",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 26.1
+            },
+            "awayTeam": {
+                "id": 8155,
+                "name": "Flora Tallinn",
+                "starters": [
+                    {
+                        "id": 432290,
+                        "age": 33,
+                        "optaId": "113343",
+                        "name": "Ilja Antonov",
+                        "shirtNumber": "67",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 55
+                                }
+                            ]
+                        },
+                        "firstName": "Ilja",
+                        "lastName": "Antonov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1657529,
+                        "age": 18,
+                        "optaId": "650137",
+                        "name": "Remo Valdmets",
+                        "shirtNumber": "18",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 299372,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Remo",
+                        "lastName": "Valdmets",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1270366,
+                        "age": 25,
+                        "optaId": "543172",
+                        "name": "Evert Gr\u00fcnvald",
+                        "shirtNumber": "33",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 54090,
+                        "firstName": "Evert",
+                        "lastName": "Gr\u00fcnvald",
+                        "rankings": null
+                    },
+                    {
+                        "id": 948077,
+                        "age": 26,
+                        "optaId": "432675",
+                        "name": "Vladislav Kreida",
+                        "shirtNumber": "32",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Vladislav",
+                        "lastName": "Kreida",
+                        "rankings": null
+                    },
+                    {
+                        "id": 77872,
+                        "age": 37,
+                        "optaId": "56584",
+                        "name": "Sergei Zenjov",
+                        "shirtNumber": "20",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Sergei",
+                        "lastName": "Zenjov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1507079,
+                        "age": 19,
+                        "optaId": "590297",
+                        "name": "Tony Varjund",
+                        "shirtNumber": "14",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 622333,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Tony",
+                        "lastName": "Varjund",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1776661,
+                        "age": 20,
+                        "optaId": "654253",
+                        "name": "Sander Tovstik",
+                        "shirtNumber": "26",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 340655,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 72
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Sander",
+                        "lastName": "Tovstik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1507078,
+                        "age": 21,
+                        "optaId": "572669",
+                        "name": "Mihhail Kolobov",
+                        "shirtNumber": "23",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 376204,
+                        "firstName": "Mihhail",
+                        "lastName": "Kolobov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1653514,
+                        "age": 18,
+                        "optaId": "654447",
+                        "name": "Airon Kollo",
+                        "shirtNumber": "3",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 273491,
+                        "firstName": "Airon",
+                        "lastName": "Kollo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1657530,
+                        "age": 18,
+                        "optaId": "650138",
+                        "name": "Sander Alamaa",
+                        "shirtNumber": "29",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 332887,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 82
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "Sander",
+                        "lastName": "Alamaa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 431841,
+                        "age": 30,
+                        "optaId": "160233",
+                        "name": "Rauno Sappinen",
+                        "shirtNumber": "11",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Rauno",
+                        "lastName": "Sappinen",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 16511,
+                    "age": 41,
+                    "name": "Konstantin Vassiljev",
+                    "countryName": "Estonia",
+                    "countryCode": "EST",
+                    "firstName": "Konstantin",
+                    "lastName": "Vassiljev",
+                    "primaryTeamId": 8155,
+                    "primaryTeamName": "Flora Tallinn",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1635714,
+                        "age": 20,
+                        "optaId": "650133",
+                        "name": "Maksim Kalimullin",
+                        "shirtNumber": "89",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 385406,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Maksim",
+                        "lastName": "Kalimullin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 431847,
+                        "age": 36,
+                        "optaId": "71748",
+                        "name": "Rauno Alliku",
+                        "shirtNumber": "9",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 70,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Rauno",
+                        "lastName": "Alliku",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1082064,
+                        "age": 23,
+                        "optaId": "502688",
+                        "name": "Taaniel Usta",
+                        "shirtNumber": "17",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 99450,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "Taaniel",
+                        "lastName": "Usta",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1177438,
+                        "age": 23,
+                        "optaId": "514619",
+                        "name": "Danil Kuraksin",
+                        "shirtNumber": "7",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 360019,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 79,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Danil",
+                        "lastName": "Kuraksin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1764360,
+                        "age": 16,
+                        "optaId": "689094",
+                        "name": "Andero Kaares",
+                        "shirtNumber": "21",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 274307,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 84,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Andero",
+                        "lastName": "Kaares",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1041266,
+                        "age": 23,
+                        "optaId": "472888",
+                        "name": "Tristan Teev\u00e4li",
+                        "shirtNumber": "8",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 267357,
+                        "firstName": "Tristan",
+                        "lastName": "Teev\u00e4li",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1511245,
+                        "age": 20,
+                        "optaId": "556363",
+                        "name": "Robert Veering",
+                        "shirtNumber": "6",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 542859,
+                        "firstName": "Robert",
+                        "lastName": "Veering",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1326805,
+                        "age": 22,
+                        "optaId": "565136",
+                        "name": "Kaur Kivila",
+                        "shirtNumber": "99",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 298385,
+                        "firstName": "Kaur",
+                        "lastName": "Kivila",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1422224,
+                        "age": 22,
+                        "optaId": "604741",
+                        "name": "Andreas Vaher",
+                        "shirtNumber": "5",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 256996,
+                        "firstName": "Andreas",
+                        "lastName": "Vaher",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1792057,
+                        "age": 17,
+                        "optaId": "720150",
+                        "name": "Ronald Sammul",
+                        "shirtNumber": "53",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Ronald",
+                        "lastName": "Sammul",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1561543,
+                        "age": 19,
+                        "optaId": "582502",
+                        "name": "Oscar Pihela",
+                        "shirtNumber": "24",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 390338,
+                        "firstName": "Oscar",
+                        "lastName": "Pihela",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 24.5,
+                "totalStarterMarketValue": 2499032
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "248",
+            "url": "https://data.fotmob.com/tables.ext.248.fot.gz",
+            "teams": [
+                1588,
+                8155
+            ],
+            "tournamentNameForUrl": "Estonian Premium liiga",
+            "parentLeagueId": 248,
+            "countryCode": "EST"
+        },
+        "h2h": {
+            "summary": [
+                22,
+                24,
+                21
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-06-13T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1000007893",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2026-06-13T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-04-19T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1000007855",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2026-04-19T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-24T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4723475",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-24T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-17T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4723447",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-17T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-18T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4723523",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-18T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-04-12T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4723553",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2025-04-12T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-11-03T12:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4405099",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2024-11-03T12:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-08-30T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4405152",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2024-08-30T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-07-04T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4405175",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-04T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-05T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4405253",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-05T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-11-05T12:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4102830",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2023-11-05T12:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-09-03T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4102871",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2023-09-03T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-06-28T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4102931",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2023-06-28T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-04-23T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#4102981",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2023-04-23T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-11-12T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3825685",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2022-11-12T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-09-04T14:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3825698",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2022-09-04T14:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-05-29T14:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3825745",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-29T14:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-04-24T14:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3825780",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2022-04-24T14:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-02-25T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3799478",
+                    "league": {
+                        "name": "Super Cup",
+                        "id": "9069",
+                        "pageUrl": "/leagues/9069/overview/super-cup"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2022-02-25T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "Pen",
+                            "shortKey": "penalties_short",
+                            "long": "Pen 4 - 2",
+                            "longKey": "afterpenalties",
+                            "penalties": [
+                                "4",
+                                "2"
+                            ]
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-12-05T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3516462",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2021-12-05T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-12-01T17:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3516383",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2021-12-01T17:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-05-19T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3516349",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2021-05-19T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-04-25T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3516324",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2021-04-25T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-12-02T17:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3259236",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2020-12-02T17:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-07-18T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3259197",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2020-07-18T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-06-17T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#3259113",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2020-06-17T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-09-18T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2972724",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2019-09-18T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-07-06T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2972669",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2019-07-06T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-05-29T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2972641",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2019-05-29T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-04-28T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2972628",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2019-04-28T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-11-10T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2706611",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2018-11-10T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-08-29T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2706543",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2018-08-29T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-05-23T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2706499",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2018-05-23T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-04-14T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2706487",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2018-04-14T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-02-23T17:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2694645",
+                    "league": {
+                        "name": "Super Cup",
+                        "id": "9069",
+                        "pageUrl": "/leagues/9069/overview/super-cup"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2018-02-23T17:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "Pen",
+                            "shortKey": "penalties_short",
+                            "long": "Pen 3 - 4",
+                            "longKey": "afterpenalties",
+                            "penalties": [
+                                "3",
+                                "4"
+                            ]
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-11-04T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2437541",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2017-11-04T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-07-14T16:35:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2437471",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2017-07-14T16:35:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-07-09T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2437468",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2017-07-09T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-03-04T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2437399",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2017-03-04T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-11-05T11:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2159502",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2016-11-05T11:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-08-01T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2159414",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2016-08-01T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "6 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-04-26T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2159404",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2016-04-26T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-03-05T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#2159327",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2016-03-05T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-10-31T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1907689",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2015-10-31T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-07-27T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1907760",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2015-07-27T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-05-09T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1907638",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2015-05-09T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-05-02T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1907633",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2015-05-02T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-10-18T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1644243",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2014-10-18T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-08-04T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1644188",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2014-08-04T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-05-20T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1644140",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2014-05-20T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-04-05T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1644107",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2014-04-05T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-02-25T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1654290",
+                    "league": {
+                        "name": "Super Cup",
+                        "id": "9069",
+                        "pageUrl": "/leagues/9069/overview/super-cup"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2014-02-25T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-10-19T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1389220",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2013-10-19T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-08-09T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1389116",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2013-08-09T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-05-24T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1389142",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2013-05-24T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-04-13T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1389069",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2013-04-13T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-09-29T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1160648",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2012-09-29T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-08-20T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1160612",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2012-08-20T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-06-09T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1160565",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2012-06-09T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-03-20T16:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#1140510",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2012-03-20T16:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-09-24T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#950065",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2011-09-24T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-08-20T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#950026",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2011-08-20T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-08-16T15:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#949907",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2011-08-16T15:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-03-19T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#949811",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2011-03-19T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-03-01T16:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#949798",
+                    "league": {
+                        "name": "Super Cup",
+                        "id": "9069",
+                        "pageUrl": "/leagues/9069/overview/super-cup"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2011-03-01T16:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "Pen",
+                            "shortKey": "penalties_short",
+                            "long": "Pen 5 - 3",
+                            "longKey": "afterpenalties",
+                            "penalties": [
+                                "5",
+                                "3"
+                            ]
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-10-16T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#786868",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    },
+                    "status": {
+                        "utcTime": "2010-10-16T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-07-25T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#786813",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "FCI Levadia",
+                        "id": "1588"
+                    },
+                    "status": {
+                        "utcTime": "2010-07-25T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Flora Tallinn",
+                        "id": "8155"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "fci-levadia-vs-flora-tallinn",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000007913",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "FCI Levadia",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1588.png",
+                "url": "https://www.fotmob.com/teams/1588/overview/fci-levadia",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Flora Tallinn",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8155.png",
+                "url": "https://www.fotmob.com/teams/8155/overview/flora-tallinn",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "FCI Levadia vs Flora Tallinn",
+            "description": "Follow FCI Levadia vs Flora Tallinn live on fotmob.com",
+            "startDate": "2026-06-28T16:00:00.000Z",
+            "endDate": "2026-06-28T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "A. Le Coq Arena",
+                "latitude": 59.421302996,
+                "longitude": 24.732021689,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Estonia",
+                    "addressLocality": "Tallinn"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1588.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8155.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000007913",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "FCI Levadia",
+                    "url": "https://www.fotmob.com/teams/1588/overview/fci-levadia"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Flora Tallinn",
+                    "url": "https://www.fotmob.com/teams/8155/overview/flora-tallinn"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Estonian Premium liiga",
+                        "item": "https://www.fotmob.com/leagues/248/overview/estonian-premium-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "FCI Levadia - Flora Tallinn",
+                        "item": "https://www.fotmob.com/match/1000007913"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Estonian Premium liiga",
+                        "item": "https://www.fotmob.com/leagues/248/overview/estonian-premium-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Flora Tallinn",
+                        "item": "https://www.fotmob.com/teams/8155/overview/flora-tallinn"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "FCI Levadia - Flora Tallinn",
+                        "item": "https://www.fotmob.com/match/1000007913"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Estonian Premium liiga",
+                        "item": "https://www.fotmob.com/leagues/248/overview/estonian-premium-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "FCI Levadia",
+                        "item": "https://www.fotmob.com/teams/1588/overview/fci-levadia"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "FCI Levadia - Flora Tallinn",
+                        "item": "https://www.fotmob.com/match/1000007913"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between FCI Levadia and Flora Tallinn on Sun, 28 Jun 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Flora Tallinn won 2\u20131 over FCI Levadia on Sun, 28 Jun 2026 16:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

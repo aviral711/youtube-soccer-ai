@@ -1,0 +1,2203 @@
+{
+    "general": {
+        "matchId": "5127865",
+        "matchName": "BK Olympic-vs-Eskilsminne IF_Sun, Jun 28, 2026, 11:00 UTC",
+        "matchRound": "14",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 918053,
+        "leagueName": "Ettan Soedra",
+        "leagueRoundName": "14",
+        "parentLeagueId": 169,
+        "countryCode": "SWE",
+        "homeTeam": {
+            "name": "BK Olympic",
+            "id": 241064
+        },
+        "awayTeam": {
+            "name": "Eskilsminne IF",
+            "id": 303470
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 11:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T11:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "BK Olympic",
+                "id": 241064,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/241064_small.png",
+                "pageUrl": "/teams/241064/overview/bk-olympic"
+            },
+            {
+                "name": "Eskilsminne IF",
+                "id": 303470,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/303470_small.png",
+                "pageUrl": "/teams/303470/overview/eskilsminne-if"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T11:00:00.000Z",
+            "numberOfHomeRedCards": 1,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 13:02:02",
+                "firstHalfEnded": "28.06.2026 13:49:39",
+                "secondHalfStarted": "28.06.2026 14:06:24",
+                "secondHalfEnded": "28.06.2026 14:58:40",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 14:58:40"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Rob\u00e9rt": [
+                    {
+                        "reactKey": "1421772049Goal1351591undefinedtrue",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14217720,
+                        "player": {
+                            "id": 1351591,
+                            "name": "Alexander Rob\u00e9rt",
+                            "profileUrl": "/players/1351591/alexander-robert"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1351591/alexander-robert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alexander Rob\u00e9rt",
+                        "firstName": "Alexander",
+                        "lastName": "Rob\u00e9rt",
+                        "fullName": "Alexander Rob\u00e9rt",
+                        "playerId": 1351591,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Nilsson": [
+                    {
+                        "reactKey": "1421772759Goal1399839undefinedtrue",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 14217727,
+                        "player": {
+                            "id": 1399839,
+                            "name": "Casper Nilsson",
+                            "profileUrl": "/players/1399839/casper-nilsson"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1399839/casper-nilsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Casper Nilsson",
+                        "firstName": "Casper",
+                        "lastName": "Nilsson",
+                        "fullName": "Casper Nilsson",
+                        "playerId": 1399839,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Amer": [
+                    {
+                        "reactKey": "1421774270Goal1693296undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14217742,
+                        "player": {
+                            "id": 1693296,
+                            "name": "Baker Amer",
+                            "profileUrl": "/players/1693296/baker-amer"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1693296/baker-amer",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Baker Amer",
+                        "firstName": "Baker",
+                        "lastName": "Amer",
+                        "fullName": "Baker Amer",
+                        "playerId": 1693296,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {
+                "Ejimole": [
+                    {
+                        "reactKey": "1421776588Card1756301undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Card",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14217765,
+                        "player": {
+                            "id": 1756301,
+                            "name": "Blessing Ejimole",
+                            "profileUrl": "/players/1756301/blessing-ejimole"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1756301/blessing-ejimole",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Blessing Ejimole",
+                        "firstName": "Blessing",
+                        "lastName": "Ejimole",
+                        "fullName": "Blessing Ejimole",
+                        "playerId": 1756301,
+                        "card": "YellowRed",
+                        "cardDescription": null
+                    }
+                ]
+            },
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5127865,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421770835Card1245533undefinedtrue",
+                        "timeStr": 35,
+                        "type": "Card",
+                        "time": 35,
+                        "overloadTime": null,
+                        "eventId": 14217708,
+                        "player": {
+                            "id": 1245533,
+                            "name": "Albin Sundgren",
+                            "profileUrl": "/players/1245533/albin-sundgren"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1245533/albin-sundgren",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Albin Sundgren",
+                        "firstName": "Albin",
+                        "lastName": "Sundgren",
+                        "fullName": "Albin Sundgren",
+                        "playerId": 1245533,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421770945Card1756301undefinedtrue",
+                        "timeStr": "45 + 2",
+                        "type": "Card",
+                        "time": 45,
+                        "overloadTime": 2,
+                        "eventId": 14217709,
+                        "player": {
+                            "id": 1756301,
+                            "name": "Blessing Ejimole",
+                            "profileUrl": "/players/1756301/blessing-ejimole"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1756301/blessing-ejimole",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "nameStr": "Blessing Ejimole",
+                        "firstName": "Blessing",
+                        "lastName": "Ejimole",
+                        "fullName": "Blessing Ejimole",
+                        "playerId": 1756301,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421772049Goal1351591undefinedtrue",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14217720,
+                        "player": {
+                            "id": 1351591,
+                            "name": "Alexander Rob\u00e9rt",
+                            "profileUrl": "/players/1351591/alexander-robert"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1351591/alexander-robert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alexander Rob\u00e9rt",
+                        "firstName": "Alexander",
+                        "lastName": "Rob\u00e9rt",
+                        "fullName": "Alexander Rob\u00e9rt",
+                        "playerId": 1351591,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421772759Goal1399839undefinedtrue",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 14217727,
+                        "player": {
+                            "id": 1399839,
+                            "name": "Casper Nilsson",
+                            "profileUrl": "/players/1399839/casper-nilsson"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1399839/casper-nilsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Casper Nilsson",
+                        "firstName": "Casper",
+                        "lastName": "Nilsson",
+                        "fullName": "Casper Nilsson",
+                        "playerId": 1399839,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421774270Goal1693296undefinedfalse",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14217742,
+                        "player": {
+                            "id": 1693296,
+                            "name": "Baker Amer",
+                            "profileUrl": "/players/1693296/baker-amer"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1693296/baker-amer",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Baker Amer",
+                        "firstName": "Baker",
+                        "lastName": "Amer",
+                        "fullName": "Baker Amer",
+                        "playerId": 1693296,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined74SubstitutionNaN1536433false",
+                        "timeStr": 74,
+                        "type": "Substitution",
+                        "time": 74,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Melvin Larsson",
+                                "id": "1536433",
+                                "profileUrl": "/players/1536433/melvin-larsson"
+                            },
+                            {
+                                "name": "Hugo Lindahl",
+                                "id": "1536434",
+                                "profileUrl": "/players/1536434/hugo-lindahl"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined74SubstitutionNaN1337412false",
+                        "timeStr": 74,
+                        "type": "Substitution",
+                        "time": 74,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Hampus Stoltz",
+                                "id": "1337412",
+                                "profileUrl": "/players/1337412/hampus-stoltz"
+                            },
+                            {
+                                "name": "Teddy Bermudez",
+                                "id": "1735116",
+                                "profileUrl": "/players/1735116/teddy-bermudez"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN932101true",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mamudu Moro",
+                                "id": "932101",
+                                "profileUrl": "/players/932101/mamudu-moro"
+                            },
+                            {
+                                "name": "Yassin Mohammed",
+                                "id": "1958827",
+                                "profileUrl": "/players/1958827/yassin-mohammed"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined88SubstitutionNaN1807500true",
+                        "timeStr": 88,
+                        "type": "Substitution",
+                        "time": 88,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Ofoeke Chibuike Emmanuel",
+                                "id": "1807500",
+                                "profileUrl": "/players/1807500/ofoeke-chibuike-emmanuel"
+                            },
+                            {
+                                "name": "Osama Khattab",
+                                "id": "1351970",
+                                "profileUrl": "/players/1351970/osama-khattab"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421776588Card1756301undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Card",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14217765,
+                        "player": {
+                            "id": 1756301,
+                            "name": "Blessing Ejimole",
+                            "profileUrl": "/players/1756301/blessing-ejimole"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1756301/blessing-ejimole",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Blessing Ejimole",
+                        "firstName": "Blessing",
+                        "lastName": "Ejimole",
+                        "fullName": "Blessing Ejimole",
+                        "playerId": 1756301,
+                        "card": "YellowRed",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN1945618true",
+                        "timeStr": "90 + 2",
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Johan Martinsson",
+                                "id": "1945618",
+                                "profileUrl": "/players/1945618/johan-martinsson"
+                            },
+                            {
+                                "name": "Alexander Rob\u00e9rt",
+                                "id": "1351591",
+                                "profileUrl": "/players/1351591/alexander-robert"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN1945567true",
+                        "timeStr": "90 + 3",
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+3",
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Jacob Stern",
+                                "id": "1945567",
+                                "profileUrl": "/players/1945567/jacob-stern"
+                            },
+                            {
+                                "name": "Mattias Andersson",
+                                "id": "789020",
+                                "profileUrl": "/players/789020/mattias-andersson"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Half",
+                    "Goal",
+                    "Substitution",
+                    "Yellow",
+                    "YellowRed"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T11:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 918053,
+                    "parentLeagueId": 169,
+                    "link": "/leagues/169/overview/ettan-soedra",
+                    "leagueName": "Ettan Soedra",
+                    "roundName": "14",
+                    "round": "14"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1331261_xsmall.png",
+                        "linkToMatch": "/matches/bk-olympic-vs-afc-malmoe/fruwe77r#5629939",
+                        "date": {
+                            "utcTime": "2026-05-26T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1331261/overview/afc-malmoe",
+                        "tooltipText": {
+                            "utcTime": "2026-05-26T16:00:00.000Z",
+                            "homeTeam": "BK Olympic",
+                            "homeTeamId": 241064,
+                            "homeScore": "5",
+                            "awayTeam": "AFC Malmoe",
+                            "awayTeamId": 1331261,
+                            "awayScore": "3"
+                        },
+                        "score": "5 - 3",
+                        "home": {
+                            "id": "241064",
+                            "name": "BK Olympic",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1331261",
+                            "name": "AFC Malmoe",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6174_xsmall.png",
+                        "linkToMatch": "/matches/lunds-bk-vs-bk-olympic/e1gooer#5127833",
+                        "date": {
+                            "utcTime": "2026-06-03T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6174/overview/lunds-bk",
+                        "tooltipText": {
+                            "utcTime": "2026-06-03T17:00:00.000Z",
+                            "homeTeam": "BK Olympic",
+                            "homeTeamId": 241064,
+                            "homeScore": "1",
+                            "awayTeam": "Lunds BK",
+                            "awayTeamId": 6174,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "241064",
+                            "name": "BK Olympic",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6174",
+                            "name": "Lunds BK",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8189_xsmall.png",
+                        "linkToMatch": "/matches/angelholms-ff-vs-bk-olympic/e9qi2v0#5127846",
+                        "date": {
+                            "utcTime": "2026-06-08T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8189/overview/angelholms-ff",
+                        "tooltipText": {
+                            "utcTime": "2026-06-08T17:00:00.000Z",
+                            "homeTeam": "\u00c4ngelholms FF",
+                            "homeTeamId": 8189,
+                            "homeScore": "1",
+                            "awayTeam": "BK Olympic",
+                            "awayTeamId": 241064,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8189",
+                            "name": "\u00c4ngelholms FF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "241064",
+                            "name": "BK Olympic",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6173_xsmall.png",
+                        "linkToMatch": "/matches/laholms-fk-vs-bk-olympic/e1gjdn0#5127848",
+                        "date": {
+                            "utcTime": "2026-06-13T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6173/overview/laholms-fk",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T11:00:00.000Z",
+                            "homeTeam": "BK Olympic",
+                            "homeTeamId": 241064,
+                            "homeScore": "3",
+                            "awayTeam": "Laholms FK",
+                            "awayTeamId": 6173,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "241064",
+                            "name": "BK Olympic",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6173",
+                            "name": "Laholms FK",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1331261_xsmall.png",
+                        "linkToMatch": "/matches/bk-olympic-vs-afc-malmoe/fruwe77r#5127856",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1331261/overview/afc-malmoe",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "AFC Malmoe",
+                            "homeTeamId": 1331261,
+                            "homeScore": "1",
+                            "awayTeam": "BK Olympic",
+                            "awayTeamId": 241064,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "1331261",
+                            "name": "AFC Malmoe",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "241064",
+                            "name": "BK Olympic",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8333_xsmall.png",
+                        "linkToMatch": "/matches/trelleborgs-ff-vs-eskilsminne-if/mbxkfbr#5127834",
+                        "date": {
+                            "utcTime": "2026-05-30T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8333/overview/trelleborgs-ff",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T11:00:00.000Z",
+                            "homeTeam": "Eskilsminne IF",
+                            "homeTeamId": 303470,
+                            "homeScore": "2",
+                            "awayTeam": "Trelleborgs FF",
+                            "awayTeamId": 8333,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "303470",
+                            "name": "Eskilsminne IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8333",
+                            "name": "Trelleborgs FF",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1331261_xsmall.png",
+                        "linkToMatch": "/matches/eskilsminne-if-vs-afc-malmoe/h1tvemw0#5127840",
+                        "date": {
+                            "utcTime": "2026-06-07T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1331261/overview/afc-malmoe",
+                        "tooltipText": {
+                            "utcTime": "2026-06-07T11:00:00.000Z",
+                            "homeTeam": "AFC Malmoe",
+                            "homeTeamId": 1331261,
+                            "homeScore": "2",
+                            "awayTeam": "Eskilsminne IF",
+                            "awayTeamId": 303470,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1331261",
+                            "name": "AFC Malmoe",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "303470",
+                            "name": "Eskilsminne IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1225386_xsmall.png",
+                        "linkToMatch": "/matches/eskilsminne-if-vs-fbk-balkan/eww6n1cq#5629972",
+                        "date": {
+                            "utcTime": "2026-06-10T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1225386/overview/fbk-balkan",
+                        "tooltipText": {
+                            "utcTime": "2026-06-10T17:00:00.000Z",
+                            "homeTeam": "FBK Balkan",
+                            "homeTeamId": 1225386,
+                            "homeScore": "2",
+                            "awayTeam": "Eskilsminne IF",
+                            "awayTeamId": 303470,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "1225386",
+                            "name": "FBK Balkan",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "303470",
+                            "name": "Eskilsminne IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6622_xsmall.png",
+                        "linkToMatch": "/matches/atvidaberg-vs-eskilsminne-if/m34t3gs#5127855",
+                        "date": {
+                            "utcTime": "2026-06-13T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6622/overview/atvidaberg",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T14:00:00.000Z",
+                            "homeTeam": "\u00c5tvidaberg",
+                            "homeTeamId": 6622,
+                            "homeScore": "4",
+                            "awayTeam": "Eskilsminne IF",
+                            "awayTeamId": 303470,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "6622",
+                            "name": "\u00c5tvidaberg",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "303470",
+                            "name": "Eskilsminne IF",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6183_xsmall.png",
+                        "linkToMatch": "/matches/trollhattan-fc-vs-eskilsminne-if/m0vtefi#5127857",
+                        "date": {
+                            "utcTime": "2026-06-18T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6183/overview/trollhattan-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-06-18T17:00:00.000Z",
+                            "homeTeam": "Eskilsminne IF",
+                            "homeTeamId": 303470,
+                            "homeScore": "2",
+                            "awayTeam": "Trollh\u00e4ttan FC",
+                            "awayTeamId": 6183,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "303470",
+                            "name": "Eskilsminne IF",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6183",
+                            "name": "Trollh\u00e4ttan FC",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5127865",
+                    "MatchId": 5127865,
+                    "HomeTeamId": 241064,
+                    "AwayTeamId": 303470,
+                    "HomeTeam": "BK Olympic",
+                    "AwayTeam": "Eskilsminne IF",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "1",
+                                "1",
+                                "away_team",
+                                "2",
+                                "0",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "BK Olympic have 3W, 1D, 1L in five matches while Eskilsminne IF have 2W, 0D, 3L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "BK Olympic have scored in their last 6 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "6",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "BK Olympic have scored 6 goals in their last 3 matches, while Eskilsminne IF have scored 5."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Eskilsminne IF haven't drawn in their last 6 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 241064,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 12,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 12 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 303470,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "SWE",
+            "QAData": [
+                {
+                    "question": "Who won between BK Olympic and Eskilsminne IF on Sun, 28 Jun 2026 11:00:00 GMT?",
+                    "answer": "BK Olympic won 2\u20131 over Eskilsminne IF on Sun, 28 Jun 2026 11:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5127865,
+            "lineupType": "simple",
+            "source": "enetpulse",
+            "availableFilters": [
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 241064,
+                "name": "BK Olympic",
+                "starters": [
+                    {
+                        "id": 1635926,
+                        "age": 19,
+                        "name": "Joakim Persson",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Joakim",
+                        "lastName": "Persson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1245533,
+                        "age": 25,
+                        "name": "Albin Sundgren",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "22",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 35
+                                }
+                            ]
+                        },
+                        "firstName": "Albin",
+                        "lastName": "Sundgren",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1399839,
+                        "age": 22,
+                        "name": "Casper Nilsson",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 268927,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 59
+                                }
+                            ]
+                        },
+                        "firstName": "Casper",
+                        "lastName": "Nilsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1735327,
+                        "age": 19,
+                        "name": "Francis Dovi",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "firstName": "Francis",
+                        "lastName": "Dovi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 789020,
+                        "age": 28,
+                        "name": "Mattias Andersson",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Mattias",
+                        "lastName": "Andersson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1351591,
+                        "age": 25,
+                        "name": "Alexander Rob\u00e9rt",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 49
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Alexander",
+                        "lastName": "Rob\u00e9rt",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1351567,
+                        "age": 23,
+                        "name": "August Karlin",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 81005,
+                        "firstName": "August",
+                        "lastName": "Karlin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1648964,
+                        "age": 21,
+                        "name": "Eric Ologe",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "firstName": "Eric",
+                        "lastName": "Ologe",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1351970,
+                        "age": 23,
+                        "name": "Osama Khattab",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Palestine",
+                        "countryCode": "PLE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Osama",
+                        "lastName": "Khattab",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1756301,
+                        "age": 19,
+                        "name": "Blessing Ejimole",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "secondYellow",
+                                    "time": 88
+                                }
+                            ]
+                        },
+                        "firstName": "Blessing",
+                        "lastName": "Ejimole",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1958827,
+                        "age": 19,
+                        "name": "Yassin Mohammed",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Yassin",
+                        "lastName": "Mohammed",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 932101,
+                        "age": 31,
+                        "name": "Mamudu Moro",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "16",
+                        "countryName": "Ghana",
+                        "countryCode": "GHA",
+                        "marketValue": 112171,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mamudu",
+                        "lastName": "Moro",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1807500,
+                        "age": 22,
+                        "name": "Ofoeke Chibuike Emmanuel",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "19",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Ofoeke Chibuike",
+                        "lastName": "Emmanuel",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1945618,
+                        "age": 19,
+                        "name": "Johan Martinsson",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "14",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Johan",
+                        "lastName": "Martinsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1945567,
+                        "age": 20,
+                        "name": "Jacob Stern",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Jacob",
+                        "lastName": "Stern",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1484739,
+                        "age": 22,
+                        "name": "Vidar Egly",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "30",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Vidar",
+                        "lastName": "Egly",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1945625,
+                        "age": 18,
+                        "name": "Matteo Pavlak",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "29",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Matteo",
+                        "lastName": "Pavlak",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1816867,
+                        "name": "Yusuf Olatunji Salau",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "11",
+                        "countryName": "Unknown",
+                        "countryCode": "",
+                        "firstName": "Yusuf Olatunji",
+                        "lastName": "Salau",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 22.4
+            },
+            "awayTeam": {
+                "id": 303470,
+                "name": "Eskilsminne IF",
+                "starters": [
+                    {
+                        "id": 1035344,
+                        "age": 23,
+                        "name": "Ian Pettersson",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "40",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Ian",
+                        "lastName": "Pettersson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1074755,
+                        "age": 26,
+                        "name": "Axel Sj\u00f6berg",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "21",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "marketValue": 77379,
+                        "firstName": "Axel",
+                        "lastName": "Sj\u00f6berg",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1457570,
+                        "age": 27,
+                        "name": "Fabian Velander",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Fabian",
+                        "lastName": "Velander",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1693296,
+                        "age": 21,
+                        "name": "Baker Amer",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 70
+                                }
+                            ]
+                        },
+                        "firstName": "Baker",
+                        "lastName": "Amer",
+                        "rankings": null
+                    },
+                    {
+                        "id": 829870,
+                        "age": 26,
+                        "name": "Casper Seger",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "99",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Casper",
+                        "lastName": "Seger",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1457804,
+                        "age": 22,
+                        "name": "Egon Kurtulus",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "2",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Egon",
+                        "lastName": "Kurtulus",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1351595,
+                        "age": 27,
+                        "name": "Henrik Norrby",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "31",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Henrik",
+                        "lastName": "Norrby",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1536434,
+                        "age": 19,
+                        "name": "Hugo Lindahl",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Hugo",
+                        "lastName": "Lindahl",
+                        "rankings": null
+                    },
+                    {
+                        "id": 208614,
+                        "age": 33,
+                        "name": "Lucas Ohlander",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Lucas",
+                        "lastName": "Ohlander",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1399965,
+                        "age": 22,
+                        "name": "Andr\u00e9 Gustafson",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Andr\u00e9",
+                        "lastName": "Gustafson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1735116,
+                        "age": 25,
+                        "name": "Teddy Bermudez",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Teddy",
+                        "lastName": "Bermudez",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1536433,
+                        "age": 21,
+                        "name": "Melvin Larsson",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "16",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Melvin",
+                        "lastName": "Larsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1337412,
+                        "age": 21,
+                        "name": "Hampus Stoltz",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 74,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Hampus",
+                        "lastName": "Stoltz",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1245299,
+                        "age": 23,
+                        "name": "Hampus Pauli",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Hampus",
+                        "lastName": "Pauli",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1946046,
+                        "age": 23,
+                        "name": "David Carlsson",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "17",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "David",
+                        "lastName": "Carlsson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1965817,
+                        "age": 19,
+                        "name": "Gustav Pettersson",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "30",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Gustav",
+                        "lastName": "Pettersson",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1245528,
+                        "age": 21,
+                        "name": "Elliot Hintsa",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "18",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Elliot",
+                        "lastName": "Hintsa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1946042,
+                        "age": 19,
+                        "name": "Henrik Bengtsson",
+                        "positionId": 4,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "15",
+                        "countryName": "Sweden",
+                        "countryCode": "SWE",
+                        "firstName": "Henrik",
+                        "lastName": "Bengtsson",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.2
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "918053",
+            "url": "https://data.fotmob.com/tables.ext.918053.fot.gz",
+            "teams": [
+                241064,
+                303470
+            ],
+            "tournamentNameForUrl": "Ettan Soedra",
+            "parentLeagueId": 169,
+            "countryCode": "SWE"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                1,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-07-02T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bk-olympic-vs-eskilsminne-if/1w3xphwr#4713750",
+                    "league": {
+                        "name": "Ettan Soedra",
+                        "id": "169",
+                        "pageUrl": "/leagues/169/overview/ettan-soedra"
+                    },
+                    "home": {
+                        "name": "Eskilsminne IF",
+                        "id": "303470"
+                    },
+                    "status": {
+                        "utcTime": "2025-07-02T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "BK Olympic",
+                        "id": "241064"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-24T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bk-olympic-vs-eskilsminne-if/1w3xphwr#4713695",
+                    "league": {
+                        "name": "Ettan Soedra",
+                        "id": "169",
+                        "pageUrl": "/leagues/169/overview/ettan-soedra"
+                    },
+                    "home": {
+                        "name": "BK Olympic",
+                        "id": "241064"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-24T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Eskilsminne IF",
+                        "id": "303470"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-07-03T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bk-olympic-vs-eskilsminne-if/1w3xphwr#4398704",
+                    "league": {
+                        "name": "Ettan Soedra",
+                        "id": "169",
+                        "pageUrl": "/leagues/169/overview/ettan-soedra"
+                    },
+                    "home": {
+                        "name": "Eskilsminne IF",
+                        "id": "303470"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-03T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "BK Olympic",
+                        "id": "241064"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-13T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/bk-olympic-vs-eskilsminne-if/1w3xphwr#4398672",
+                    "league": {
+                        "name": "Ettan Soedra",
+                        "id": "169",
+                        "pageUrl": "/leagues/169/overview/ettan-soedra"
+                    },
+                    "home": {
+                        "name": "BK Olympic",
+                        "id": "241064"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-13T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Eskilsminne IF",
+                        "id": "303470"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-09-02T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bk-olympic-vs-eskilsminne-if/1w3xphwr#4086820",
+                    "league": {
+                        "name": "Ettan Soedra",
+                        "id": "169",
+                        "pageUrl": "/leagues/169/overview/ettan-soedra"
+                    },
+                    "home": {
+                        "name": "Eskilsminne IF",
+                        "id": "303470"
+                    },
+                    "status": {
+                        "utcTime": "2023-09-02T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "BK Olympic",
+                        "id": "241064"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-04-08T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/bk-olympic-vs-eskilsminne-if/1w3xphwr#4086704",
+                    "league": {
+                        "name": "Ettan Soedra",
+                        "id": "169",
+                        "pageUrl": "/leagues/169/overview/ettan-soedra"
+                    },
+                    "home": {
+                        "name": "BK Olympic",
+                        "id": "241064"
+                    },
+                    "status": {
+                        "utcTime": "2023-04-08T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Eskilsminne IF",
+                        "id": "303470"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "bk-olympic-vs-eskilsminne-if",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5127865",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "BK Olympic",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/241064.png",
+                "url": "https://www.fotmob.com/teams/241064/overview/bk-olympic",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Eskilsminne IF",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/303470.png",
+                "url": "https://www.fotmob.com/teams/303470/overview/eskilsminne-if",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "BK Olympic vs Eskilsminne IF",
+            "description": "Follow BK Olympic vs Eskilsminne IF live on fotmob.com",
+            "startDate": "2026-06-28T11:00:00.000Z",
+            "endDate": "2026-06-28T13:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/241064.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/303470.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5127865",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T11:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "BK Olympic",
+                    "url": "https://www.fotmob.com/teams/241064/overview/bk-olympic"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Eskilsminne IF",
+                    "url": "https://www.fotmob.com/teams/303470/overview/eskilsminne-if"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ettan Soedra",
+                        "item": "https://www.fotmob.com/leagues/169/overview/ettan-soedra"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "BK Olympic - Eskilsminne IF",
+                        "item": "https://www.fotmob.com/match/5127865"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ettan Soedra",
+                        "item": "https://www.fotmob.com/leagues/169/overview/ettan-soedra"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Eskilsminne IF",
+                        "item": "https://www.fotmob.com/teams/303470/overview/eskilsminne-if"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "BK Olympic - Eskilsminne IF",
+                        "item": "https://www.fotmob.com/match/5127865"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ettan Soedra",
+                        "item": "https://www.fotmob.com/leagues/169/overview/ettan-soedra"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "BK Olympic",
+                        "item": "https://www.fotmob.com/teams/241064/overview/bk-olympic"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "BK Olympic - Eskilsminne IF",
+                        "item": "https://www.fotmob.com/match/5127865"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between BK Olympic and Eskilsminne IF on Sun, 28 Jun 2026 11:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "BK Olympic won 2\u20131 over Eskilsminne IF on Sun, 28 Jun 2026 11:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

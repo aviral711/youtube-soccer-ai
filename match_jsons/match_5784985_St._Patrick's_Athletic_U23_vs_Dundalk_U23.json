@@ -1,0 +1,748 @@
+{
+    "general": {
+        "matchId": "5784985",
+        "matchName": "St. Patrick's Athletic U23-vs-Dundalk U23_Sun, Jun 28, 2026, 12:00 UTC",
+        "matchRound": "1/16",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 10307,
+        "leagueName": "FAI Women's Cup",
+        "leagueRoundName": "1/16",
+        "parentLeagueId": 10307,
+        "countryCode": "IRL",
+        "homeTeam": {
+            "name": "St. Patrick's Athletic U23",
+            "id": 1984661
+        },
+        "awayTeam": {
+            "name": "Dundalk U23",
+            "id": 1984659
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 12:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T12:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "St. Patrick's Athletic U23",
+                "id": 1984661,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1984661_small.png",
+                "pageUrl": "/teams/1984661/overview/st-patricks-athletic-u23"
+            },
+            {
+                "name": "Dundalk U23",
+                "id": 1984659,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1984659_small.png",
+                "pageUrl": "/teams/1984659/overview/dundalk-u23"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T12:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 14:02:27",
+                "firstHalfEnded": "28.06.2026 14:53:39",
+                "secondHalfStarted": "28.06.2026 16:05:18",
+                "secondHalfEnded": "28.06.2026 16:09:35",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 16:09:35"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Tighe": [
+                    {
+                        "reactKey": "1421774124Goal0undefinedtrue",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 14217741,
+                        "player": {
+                            "id": 0,
+                            "name": "Leah Tighe",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leah Tighe",
+                        "firstName": "Leah",
+                        "lastName": "Tighe",
+                        "fullName": "Leah Tighe",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Kirby": [
+                    {
+                        "reactKey": "1421777045Goal0undefinedfalse",
+                        "timeStr": "45 + 6",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 6,
+                        "eventId": 14217770,
+                        "player": {
+                            "id": 0,
+                            "name": "Siun Kirby",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+6",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Siun Kirby",
+                        "firstName": "Siun",
+                        "lastName": "Kirby",
+                        "fullName": "Siun Kirby",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Brady": [
+                    {
+                        "reactKey": "1421785490Goal0undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14217854,
+                        "player": {
+                            "id": 0,
+                            "name": "Ciara Brady",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ciara Brady",
+                        "firstName": "Ciara",
+                        "lastName": "Brady",
+                        "fullName": "Ciara Brady",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5784985,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421774124Goal0undefinedtrue",
+                        "timeStr": 24,
+                        "type": "Goal",
+                        "time": 24,
+                        "overloadTime": null,
+                        "eventId": 14217741,
+                        "player": {
+                            "id": 0,
+                            "name": "Leah Tighe",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leah Tighe",
+                        "firstName": "Leah",
+                        "lastName": "Tighe",
+                        "fullName": "Leah Tighe",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421777045Goal0undefinedfalse",
+                        "timeStr": "45 + 6",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 6,
+                        "eventId": 14217770,
+                        "player": {
+                            "id": 0,
+                            "name": "Siun Kirby",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+6",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Siun Kirby",
+                        "firstName": "Siun",
+                        "lastName": "Kirby",
+                        "fullName": "Siun Kirby",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421785490Goal0undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14217854,
+                        "player": {
+                            "id": 0,
+                            "name": "Ciara Brady",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ciara Brady",
+                        "firstName": "Ciara",
+                        "lastName": "Brady",
+                        "fullName": "Ciara Brady",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T12:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 10307,
+                    "parentLeagueId": 10307,
+                    "link": "/leagues/10307/overview/fai-womens-cup",
+                    "leagueName": "FAI Women's Cup",
+                    "roundName": "1/16",
+                    "round": "1/16"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1984660_xsmall.png",
+                        "linkToMatch": "/matches/cobh-ramblers-vs-st-patricks-athletic/2sizq1z02#5550106",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1984660/overview/cobh-ramblers",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "Cobh Ramblers",
+                            "homeTeamId": 1984660,
+                            "homeScore": "1",
+                            "awayTeam": "St. Patrick's Athletic",
+                            "awayTeamId": 1984661,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "1984660",
+                            "name": "Cobh Ramblers",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1984661",
+                            "name": "St. Patrick's Athletic",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1984658_xsmall.png",
+                        "linkToMatch": "/matches/ck-united-vs-dundalk/2sizglo0i#5550105",
+                        "date": {
+                            "utcTime": "2026-06-14T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1984658/overview/ck-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T12:00:00.000Z",
+                            "homeTeam": "Dundalk",
+                            "homeTeamId": 1984659,
+                            "homeScore": "4",
+                            "awayTeam": "CK United",
+                            "awayTeamId": 1984658,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "1984659",
+                            "name": "Dundalk",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1984658",
+                            "name": "CK United",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5784985",
+                    "MatchId": 5784985,
+                    "HomeTeamId": 1984661,
+                    "AwayTeamId": 1984659,
+                    "HomeTeam": "St. Patrick's Athletic (W)",
+                    "AwayTeam": "Dundalk (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "",
+                            "TextTemplateId": "",
+                            "StatValues": [],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": null,
+                            "defaultText": ""
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.33",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "St. Patrick's Athletic (W) have an average of 0.33 goals in their last three matches and Dundalk (W) have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.33",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "St. Patrick's Athletic (W) have an average of 0.33 goals in their last three matches and Dundalk (W) have an average of 1.33."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "IRL",
+            "QAData": [
+                {
+                    "question": "Who won between St. Patrick's Athletic U23 and Dundalk U23 on Sun, 28 Jun 2026 12:00:00 GMT?",
+                    "answer": "Dundalk U23 won 2\u20131 over St. Patrick's Athletic U23 on Sun, 28 Jun 2026 12:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "st-patricks-athletic-u23-vs-dundalk-u23",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5784985",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "St. Patrick's Athletic U23",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1984661.png",
+                "url": "https://www.fotmob.com/teams/1984661/overview/st-patricks-athletic-u23",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Dundalk U23",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1984659.png",
+                "url": "https://www.fotmob.com/teams/1984659/overview/dundalk-u23",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "St. Patrick's Athletic U23 vs Dundalk U23",
+            "description": "Follow St. Patrick's Athletic U23 vs Dundalk U23 live on fotmob.com",
+            "startDate": "2026-06-28T12:00:00.000Z",
+            "endDate": "2026-06-28T14:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1984661.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1984659.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5784985",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T12:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "St. Patrick's Athletic U23",
+                    "url": "https://www.fotmob.com/teams/1984661/overview/st-patricks-athletic-u23"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Dundalk U23",
+                    "url": "https://www.fotmob.com/teams/1984659/overview/dundalk-u23"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "St. Patrick's Athletic U23 - Dundalk U23",
+                        "item": "https://www.fotmob.com/match/5784985"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Dundalk U23",
+                        "item": "https://www.fotmob.com/teams/1984659/overview/dundalk-u23"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "St. Patrick's Athletic U23 - Dundalk U23",
+                        "item": "https://www.fotmob.com/match/5784985"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "St. Patrick's Athletic U23",
+                        "item": "https://www.fotmob.com/teams/1984661/overview/st-patricks-athletic-u23"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "St. Patrick's Athletic U23 - Dundalk U23",
+                        "item": "https://www.fotmob.com/match/5784985"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between St. Patrick's Athletic U23 and Dundalk U23 on Sun, 28 Jun 2026 12:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Dundalk U23 won 2\u20131 over St. Patrick's Athletic U23 on Sun, 28 Jun 2026 12:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

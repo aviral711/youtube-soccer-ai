@@ -1,0 +1,914 @@
+{
+    "general": {
+        "matchId": "5784986",
+        "matchName": "Whitehall Rangers-vs-Douglas Hall_Sun, Jun 28, 2026, 13:00 UTC",
+        "matchRound": "1/16",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 10307,
+        "leagueName": "FAI Women's Cup",
+        "leagueRoundName": "1/16",
+        "parentLeagueId": 10307,
+        "countryCode": "IRL",
+        "homeTeam": {
+            "name": "Whitehall Rangers",
+            "id": 1391432
+        },
+        "awayTeam": {
+            "name": "Douglas Hall",
+            "id": 1391434
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 13:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T13:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "female"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Whitehall Rangers",
+                "id": 1391432,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1391432_small.png",
+                "pageUrl": "/teams/1391432/overview/whitehall-rangers"
+            },
+            {
+                "name": "Douglas Hall",
+                "id": 1391434,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1391434_small.png",
+                "pageUrl": "/teams/1391434/overview/douglas-hall"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T13:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 16:51:54",
+                "firstHalfEnded": "28.06.2026 16:52:09",
+                "secondHalfStarted": "28.06.2026 16:52:12",
+                "secondHalfEnded": "28.06.2026 16:52:48",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 16:52:48"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Graham": [
+                    {
+                        "reactKey": "1421805249Goal0undefinedtrue",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14218052,
+                        "player": {
+                            "id": 0,
+                            "name": "Charlie Graham",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Charlie Graham",
+                        "firstName": "Charlie",
+                        "lastName": "Graham",
+                        "fullName": "Charlie Graham",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Lacey": [
+                    {
+                        "reactKey": "142180513Goal0undefinedfalse",
+                        "timeStr": 3,
+                        "type": "Goal",
+                        "time": 3,
+                        "overloadTime": null,
+                        "eventId": 14218051,
+                        "player": {
+                            "id": 0,
+                            "name": "Kara Lacey",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kara Lacey",
+                        "firstName": "Kara",
+                        "lastName": "Lacey",
+                        "fullName": "Kara Lacey",
+                        "playerId": 0,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421805463Goal0undefinedfalse",
+                        "timeStr": 63,
+                        "type": "Goal",
+                        "time": 63,
+                        "overloadTime": null,
+                        "eventId": 14218054,
+                        "player": {
+                            "id": 0,
+                            "name": "Kara Lacey",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kara Lacey",
+                        "firstName": "Kara",
+                        "lastName": "Lacey",
+                        "fullName": "Kara Lacey",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Taylor": [
+                    {
+                        "reactKey": "1421805358Goal0undefinedfalse",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14218053,
+                        "player": {
+                            "id": 0,
+                            "name": "Tiffany Taylor",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tiffany Taylor",
+                        "firstName": "Tiffany",
+                        "lastName": "Taylor",
+                        "fullName": "Tiffany Taylor",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5784986,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142180513Goal0undefinedfalse",
+                        "timeStr": 3,
+                        "type": "Goal",
+                        "time": 3,
+                        "overloadTime": null,
+                        "eventId": 14218051,
+                        "player": {
+                            "id": 0,
+                            "name": "Kara Lacey",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kara Lacey",
+                        "firstName": "Kara",
+                        "lastName": "Lacey",
+                        "fullName": "Kara Lacey",
+                        "playerId": 0,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421805249Goal0undefinedtrue",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14218052,
+                        "player": {
+                            "id": 0,
+                            "name": "Charlie Graham",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Charlie Graham",
+                        "firstName": "Charlie",
+                        "lastName": "Graham",
+                        "fullName": "Charlie Graham",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421805358Goal0undefinedfalse",
+                        "timeStr": 58,
+                        "type": "Goal",
+                        "time": 58,
+                        "overloadTime": null,
+                        "eventId": 14218053,
+                        "player": {
+                            "id": 0,
+                            "name": "Tiffany Taylor",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tiffany Taylor",
+                        "firstName": "Tiffany",
+                        "lastName": "Taylor",
+                        "fullName": "Tiffany Taylor",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421805463Goal0undefinedfalse",
+                        "timeStr": 63,
+                        "type": "Goal",
+                        "time": 63,
+                        "overloadTime": null,
+                        "eventId": 14218054,
+                        "player": {
+                            "id": 0,
+                            "name": "Kara Lacey",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kara Lacey",
+                        "firstName": "Kara",
+                        "lastName": "Lacey",
+                        "fullName": "Kara Lacey",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T13:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 10307,
+                    "parentLeagueId": 10307,
+                    "link": "/leagues/10307/overview/fai-womens-cup",
+                    "leagueName": "FAI Women's Cup",
+                    "roundName": "1/16",
+                    "round": "1/16"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/574626_xsmall.png",
+                        "linkToMatch": "/matches/dlr-waves-vs-whitehall-rangers/onv7v05l#4493766",
+                        "date": {
+                            "utcTime": "2024-08-03T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/574626/overview/dlr-waves",
+                        "tooltipText": {
+                            "utcTime": "2024-08-03T14:00:00.000Z",
+                            "homeTeam": "DLR Waves",
+                            "homeTeamId": 574626,
+                            "homeScore": "4",
+                            "awayTeam": "Whitehall Rangers",
+                            "awayTeamId": 1391432,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "574626",
+                            "name": "DLR Waves",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1391432",
+                            "name": "Whitehall Rangers",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1768154_xsmall.png",
+                        "linkToMatch": "/matches/whitehall-rangers-vs-newbridge-town/1rp27d0rx#4801355",
+                        "date": {
+                            "utcTime": "2025-06-27T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1768154/overview/newbridge-town",
+                        "tooltipText": {
+                            "utcTime": "2025-06-27T19:00:00.000Z",
+                            "homeTeam": "Newbridge Town",
+                            "homeTeamId": 1768154,
+                            "homeScore": "2",
+                            "awayTeam": "Whitehall Rangers",
+                            "awayTeamId": 1391432,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1768154",
+                            "name": "Newbridge Town",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1391432",
+                            "name": "Whitehall Rangers",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2029741_xsmall.png",
+                        "linkToMatch": "/matches/whitehall-rangers-vs-finn-harps/22ogycxk4#5776942",
+                        "date": {
+                            "utcTime": "2026-06-14T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2029741/overview/finn-harps",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T13:00:00.000Z",
+                            "homeTeam": "Whitehall Rangers",
+                            "homeTeamId": 1391432,
+                            "homeScore": "6",
+                            "awayTeam": "Finn Harps",
+                            "awayTeamId": 2029741,
+                            "awayScore": "5"
+                        },
+                        "score": "6 - 5",
+                        "home": {
+                            "id": "1391432",
+                            "name": "Whitehall Rangers",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2029741",
+                            "name": "Finn Harps",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/601595_xsmall.png",
+                        "linkToMatch": "/matches/cork-city-vs-douglas-hall/pce72lm2#4493770",
+                        "date": {
+                            "utcTime": "2024-08-03T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/601595/overview/cork-city",
+                        "tooltipText": {
+                            "utcTime": "2024-08-03T14:00:00.000Z",
+                            "homeTeam": "Cork City",
+                            "homeTeamId": 601595,
+                            "homeScore": "9",
+                            "awayTeam": "Douglas Hall",
+                            "awayTeamId": 1391434,
+                            "awayScore": "0"
+                        },
+                        "score": "9 - 0",
+                        "home": {
+                            "id": "601595",
+                            "name": "Cork City",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1391434",
+                            "name": "Douglas Hall",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2029737_xsmall.png",
+                        "linkToMatch": "/matches/douglas-hall-vs-ballingary/22ogua9yv#5776940",
+                        "date": {
+                            "utcTime": "2026-06-14T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2029737/overview/ballingary",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T13:00:00.000Z",
+                            "homeTeam": "Ballingary",
+                            "homeTeamId": 2029737,
+                            "homeScore": "0",
+                            "awayTeam": "Douglas Hall",
+                            "awayTeamId": 1391434,
+                            "awayScore": "6"
+                        },
+                        "score": "0 - 6",
+                        "home": {
+                            "id": "2029737",
+                            "name": "Ballingary",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1391434",
+                            "name": "Douglas Hall",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5784986",
+                    "MatchId": 5784986,
+                    "HomeTeamId": 1391432,
+                    "AwayTeamId": 1391434,
+                    "HomeTeam": "Whitehall Rangers (W)",
+                    "AwayTeam": "Douglas Hall (W)",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "",
+                            "TextTemplateId": "",
+                            "StatValues": [],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": null,
+                            "defaultText": ""
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "7",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Whitehall Rangers (W) have scored 7 goals in their last 3 matches, while Douglas Hall (W) have scored 6."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "7",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Whitehall Rangers (W) have scored 7 goals in their last 3 matches, while Douglas Hall (W) have scored 6."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "IRL",
+            "QAData": [
+                {
+                    "question": "Who won between Whitehall Rangers and Douglas Hall on Sun, 28 Jun 2026 13:00:00 GMT?",
+                    "answer": "Douglas Hall won 3\u20131 over Whitehall Rangers on Sun, 28 Jun 2026 13:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "whitehall-rangers-vs-douglas-hall",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5784986",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Whitehall Rangers",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1391432.png",
+                "url": "https://www.fotmob.com/teams/1391432/overview/whitehall-rangers",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Douglas Hall",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1391434.png",
+                "url": "https://www.fotmob.com/teams/1391434/overview/douglas-hall",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Whitehall Rangers vs Douglas Hall",
+            "description": "Follow Whitehall Rangers vs Douglas Hall live on fotmob.com",
+            "startDate": "2026-06-28T13:00:00.000Z",
+            "endDate": "2026-06-28T15:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1391432.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1391434.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5784986",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T13:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Whitehall Rangers",
+                    "url": "https://www.fotmob.com/teams/1391432/overview/whitehall-rangers"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Douglas Hall",
+                    "url": "https://www.fotmob.com/teams/1391434/overview/douglas-hall"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Whitehall Rangers - Douglas Hall",
+                        "item": "https://www.fotmob.com/match/5784986"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Douglas Hall",
+                        "item": "https://www.fotmob.com/teams/1391434/overview/douglas-hall"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Whitehall Rangers - Douglas Hall",
+                        "item": "https://www.fotmob.com/match/5784986"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "FAI Women's Cup",
+                        "item": "https://www.fotmob.com/leagues/10307/overview/fai-womens-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Whitehall Rangers",
+                        "item": "https://www.fotmob.com/teams/1391432/overview/whitehall-rangers"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Whitehall Rangers - Douglas Hall",
+                        "item": "https://www.fotmob.com/match/5784986"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Whitehall Rangers and Douglas Hall on Sun, 28 Jun 2026 13:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Douglas Hall won 3\u20131 over Whitehall Rangers on Sun, 28 Jun 2026 13:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

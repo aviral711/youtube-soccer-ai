@@ -1,0 +1,2287 @@
+{
+    "general": {
+        "matchId": "5838870",
+        "matchName": "Wydad Casablanca-vs-Olympique Dcheira_Sun, Jun 28, 2026, 17:00 UTC",
+        "matchRound": "28",
+        "teamColors": {
+            "darkMode": {
+                "home": "#E61E25",
+                "away": "#DDDDDD"
+            },
+            "lightMode": {
+                "home": "#E61E25",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 530,
+        "leagueName": "Botola Pro",
+        "leagueRoundName": "28",
+        "parentLeagueId": 530,
+        "countryCode": "MAR",
+        "homeTeam": {
+            "name": "Wydad Casablanca",
+            "id": 102050
+        },
+        "awayTeam": {
+            "name": "Olympique Dcheira",
+            "id": 570487
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 17:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T17:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Wydad Casablanca",
+                "id": 102050,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102050_small.png",
+                "pageUrl": "/teams/102050/overview/wydad-casablanca"
+            },
+            {
+                "name": "Olympique Dcheira",
+                "id": 570487,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/570487_small.png",
+                "pageUrl": "/teams/570487/overview/olympique-dcheira"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T17:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 19:02:08",
+                "firstHalfEnded": "28.06.2026 19:50:46",
+                "secondHalfStarted": "28.06.2026 20:07:03",
+                "secondHalfEnded": "28.06.2026 20:58:08",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 20:58:08"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Ben Yedder": [
+                    {
+                        "reactKey": "1421837814Goal210184undefinedtrue",
+                        "timeStr": 14,
+                        "type": "Goal",
+                        "time": 14,
+                        "overloadTime": null,
+                        "eventId": 14218378,
+                        "player": {
+                            "id": 210184,
+                            "name": "Wissam Ben Yedder",
+                            "profileUrl": "/players/210184/wissam-ben-yedder"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/210184/wissam-ben-yedder",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Wissam Ben Yedder",
+                        "firstName": "Wissam",
+                        "lastName": "Ben Yedder",
+                        "fullName": "Wissam Ben Yedder",
+                        "playerId": 210184,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Walid Nassi",
+                        "assistProfileUrl": "/players/1310123/walid-nassi",
+                        "assistPlayerId": 1310123,
+                        "assistKey": "assist_by",
+                        "assistInput": "Walid Nassi"
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Benaadi": [
+                    {
+                        "reactKey": "142183719Goal1762899undefinedfalse",
+                        "timeStr": 9,
+                        "type": "Goal",
+                        "time": 9,
+                        "overloadTime": null,
+                        "eventId": 14218371,
+                        "player": {
+                            "id": 1762899,
+                            "name": "Ayoub Benaadi",
+                            "profileUrl": "/players/1762899/ayoub-benaadi"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1762899/ayoub-benaadi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ayoub Benaadi",
+                        "firstName": "Ayoub",
+                        "lastName": "Benaadi",
+                        "fullName": "Ayoub Benaadi",
+                        "playerId": 1762899,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mohammed Adjar",
+                        "assistProfileUrl": "/players/1762914/mohammed-adjar",
+                        "assistPlayerId": 1762914,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mohammed Adjar"
+                    }
+                ],
+                "Amzili": [
+                    {
+                        "reactKey": "1421839832Goal1762883undefinedfalse",
+                        "timeStr": 32,
+                        "type": "Goal",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 14218398,
+                        "player": {
+                            "id": 1762883,
+                            "name": "Brahim Amzili",
+                            "profileUrl": "/players/1762883/brahim-amzili"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1762883/brahim-amzili",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Brahim Amzili",
+                        "firstName": "Brahim",
+                        "lastName": "Amzili",
+                        "fullName": "Brahim Amzili",
+                        "playerId": 1762883,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mohammed Adjar",
+                        "assistProfileUrl": "/players/1762914/mohammed-adjar",
+                        "assistPlayerId": 1762914,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mohammed Adjar"
+                    }
+                ],
+                "El Gouj": [
+                    {
+                        "reactKey": "1421851274Goal1762890undefinedfalse",
+                        "timeStr": 74,
+                        "type": "Goal",
+                        "time": 74,
+                        "overloadTime": null,
+                        "eventId": 14218512,
+                        "player": {
+                            "id": 1762890,
+                            "name": "Mounir El Gouj",
+                            "profileUrl": "/players/1762890/mounir-el-gouj"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1762890/mounir-el-gouj",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mounir El Gouj",
+                        "firstName": "Mounir",
+                        "lastName": "El Gouj",
+                        "fullName": "Mounir El Gouj",
+                        "playerId": 1762890,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Younes El Khafi",
+                        "assistProfileUrl": "/players/1810645/younes-el-khafi",
+                        "assistPlayerId": 1810645,
+                        "assistKey": "assist_by",
+                        "assistInput": "Younes El Khafi"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5838870,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142183719Goal1762899undefinedfalse",
+                        "timeStr": 9,
+                        "type": "Goal",
+                        "time": 9,
+                        "overloadTime": null,
+                        "eventId": 14218371,
+                        "player": {
+                            "id": 1762899,
+                            "name": "Ayoub Benaadi",
+                            "profileUrl": "/players/1762899/ayoub-benaadi"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1762899/ayoub-benaadi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ayoub Benaadi",
+                        "firstName": "Ayoub",
+                        "lastName": "Benaadi",
+                        "fullName": "Ayoub Benaadi",
+                        "playerId": 1762899,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mohammed Adjar",
+                        "assistProfileUrl": "/players/1762914/mohammed-adjar",
+                        "assistPlayerId": 1762914,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mohammed Adjar"
+                    },
+                    {
+                        "reactKey": "1421837814Goal210184undefinedtrue",
+                        "timeStr": 14,
+                        "type": "Goal",
+                        "time": 14,
+                        "overloadTime": null,
+                        "eventId": 14218378,
+                        "player": {
+                            "id": 210184,
+                            "name": "Wissam Ben Yedder",
+                            "profileUrl": "/players/210184/wissam-ben-yedder"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/210184/wissam-ben-yedder",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Wissam Ben Yedder",
+                        "firstName": "Wissam",
+                        "lastName": "Ben Yedder",
+                        "fullName": "Wissam Ben Yedder",
+                        "playerId": 210184,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Walid Nassi",
+                        "assistProfileUrl": "/players/1310123/walid-nassi",
+                        "assistPlayerId": 1310123,
+                        "assistKey": "assist_by",
+                        "assistInput": "Walid Nassi"
+                    },
+                    {
+                        "reactKey": "1421839832Goal1762883undefinedfalse",
+                        "timeStr": 32,
+                        "type": "Goal",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 14218398,
+                        "player": {
+                            "id": 1762883,
+                            "name": "Brahim Amzili",
+                            "profileUrl": "/players/1762883/brahim-amzili"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1762883/brahim-amzili",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Brahim Amzili",
+                        "firstName": "Brahim",
+                        "lastName": "Amzili",
+                        "fullName": "Brahim Amzili",
+                        "playerId": 1762883,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Mohammed Adjar",
+                        "assistProfileUrl": "/players/1762914/mohammed-adjar",
+                        "assistPlayerId": 1762914,
+                        "assistKey": "assist_by",
+                        "assistInput": "Mohammed Adjar"
+                    },
+                    {
+                        "reactKey": "1421842645Card1762890undefinedfalse",
+                        "timeStr": "45 + 2",
+                        "type": "Card",
+                        "time": 45,
+                        "overloadTime": 2,
+                        "eventId": 14218426,
+                        "player": {
+                            "id": 1762890,
+                            "name": "Mounir El Gouj",
+                            "profileUrl": "/players/1762890/mounir-el-gouj"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1762890/mounir-el-gouj",
+                        "overloadTimeStr": "+2",
+                        "isHome": false,
+                        "nameStr": "Mounir El Gouj",
+                        "firstName": "Mounir",
+                        "lastName": "El Gouj",
+                        "fullName": "Mounir El Gouj",
+                        "playerId": 1762890,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1451120true",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Nabil Khali",
+                                "id": "1451120",
+                                "profileUrl": "/players/1451120/nabil-khali"
+                            },
+                            {
+                                "name": "Ayoub Boucheta",
+                                "id": "1501219",
+                                "profileUrl": "/players/1501219/ayoub-boucheta"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined55SubstitutionNaN940141true",
+                        "timeStr": 55,
+                        "type": "Substitution",
+                        "time": 55,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Hamza Hannouri",
+                                "id": "940141",
+                                "profileUrl": "/players/940141/hamza-hannouri"
+                            },
+                            {
+                                "name": "Abdoulaye Coulibaly",
+                                "id": "1705368",
+                                "profileUrl": "/players/1705368/abdoulaye-coulibaly"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421849160Card1762899undefinedfalse",
+                        "timeStr": 60,
+                        "type": "Card",
+                        "time": 60,
+                        "overloadTime": null,
+                        "eventId": 14218491,
+                        "player": {
+                            "id": 1762899,
+                            "name": "Ayoub Benaadi",
+                            "profileUrl": "/players/1762899/ayoub-benaadi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1762899/ayoub-benaadi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Ayoub Benaadi",
+                        "firstName": "Ayoub",
+                        "lastName": "Benaadi",
+                        "fullName": "Ayoub Benaadi",
+                        "playerId": 1762899,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN46120true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Nordin Amrabat",
+                                "id": "46120",
+                                "profileUrl": "/players/46120/nordin-amrabat"
+                            },
+                            {
+                                "name": "Mohamed Bouchouari",
+                                "id": "1065453",
+                                "profileUrl": "/players/1065453/mohamed-bouchouari"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1415895true",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mois\u00e9s Paniagua",
+                                "id": "1415895",
+                                "profileUrl": "/players/1415895/moises-paniagua"
+                            },
+                            {
+                                "name": "Ramiro Vaca",
+                                "id": "832400",
+                                "profileUrl": "/players/832400/ramiro-vaca"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined62SubstitutionNaN1555165false",
+                        "timeStr": 62,
+                        "type": "Substitution",
+                        "time": 62,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mohamed Habbali",
+                                "id": "1555165",
+                                "profileUrl": "/players/1555165/mohamed-habbali"
+                            },
+                            {
+                                "name": "<TBD>",
+                                "id": "0",
+                                "profileUrl": ""
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1421864968Card1762883undefinedfalse",
+                        "timeStr": 68,
+                        "type": "Card",
+                        "time": 68,
+                        "overloadTime": null,
+                        "eventId": 14218649,
+                        "player": {
+                            "id": 1762883,
+                            "name": "Brahim Amzili",
+                            "profileUrl": "/players/1762883/brahim-amzili"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1762883/brahim-amzili",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Brahim Amzili",
+                        "firstName": "Brahim",
+                        "lastName": "Amzili",
+                        "fullName": "Brahim Amzili",
+                        "playerId": 1762883,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1421851274Goal1762890undefinedfalse",
+                        "timeStr": 74,
+                        "type": "Goal",
+                        "time": 74,
+                        "overloadTime": null,
+                        "eventId": 14218512,
+                        "player": {
+                            "id": 1762890,
+                            "name": "Mounir El Gouj",
+                            "profileUrl": "/players/1762890/mounir-el-gouj"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1762890/mounir-el-gouj",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mounir El Gouj",
+                        "firstName": "Mounir",
+                        "lastName": "El Gouj",
+                        "fullName": "Mounir El Gouj",
+                        "playerId": 1762890,
+                        "newScore": [
+                            1,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Younes El Khafi",
+                        "assistProfileUrl": "/players/1810645/younes-el-khafi",
+                        "assistPlayerId": 1810645,
+                        "assistKey": "assist_by",
+                        "assistInput": "Younes El Khafi"
+                    },
+                    {
+                        "reactKey": "undefined78SubstitutionNaN630674true",
+                        "timeStr": 78,
+                        "type": "Substitution",
+                        "time": 78,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Zouheir El Moutaraji",
+                                "id": "630674",
+                                "profileUrl": "/players/630674/zouheir-el-moutaraji"
+                            },
+                            {
+                                "name": "Walid Nassi",
+                                "id": "1310123",
+                                "profileUrl": "/players/1310123/walid-nassi"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined86SubstitutionNaN1762898false",
+                        "timeStr": 86,
+                        "type": "Substitution",
+                        "time": 86,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Brahim Ait Hammou",
+                                "id": "1762898",
+                                "profileUrl": "/players/1762898/brahim-ait-hammou"
+                            },
+                            {
+                                "name": "Yassine Jabrane",
+                                "id": "1810640",
+                                "profileUrl": "/players/1810640/yassine-jabrane"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN0false",
+                        "timeStr": "90 + 5",
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+5",
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "<TBD>",
+                                "id": "0",
+                                "profileUrl": ""
+                            },
+                            {
+                                "name": "Brahim Amzili",
+                                "id": "1762883",
+                                "profileUrl": "/players/1762883/brahim-amzili"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Assist",
+                    "Card",
+                    "Half",
+                    "Substitution",
+                    "Yellow",
+                    "Injuries",
+                    "InternationalDuty"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T17:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 530,
+                    "parentLeagueId": 530,
+                    "link": "/leagues/530/overview/botola-pro",
+                    "leagueName": "Botola Pro",
+                    "roundName": "28",
+                    "round": "28"
+                },
+                "Stadium": {
+                    "name": "Stade Mohamed V",
+                    "country": ""
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102047_xsmall.png",
+                        "linkToMatch": "/matches/olympic-club-de-safi-vs-wydad-casablanca/9kgg96r#5740091",
+                        "date": {
+                            "utcTime": "2026-06-08T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102047/overview/olympic-club-de-safi",
+                        "tooltipText": {
+                            "utcTime": "2026-06-08T18:00:00.000Z",
+                            "homeTeam": "Wydad Casablanca",
+                            "homeTeamId": 102050,
+                            "homeScore": "1",
+                            "awayTeam": "Olympic Club de Safi",
+                            "awayTeamId": 102047,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "102050",
+                            "name": "Wydad Casablanca",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102047",
+                            "name": "Olympic Club de Safi",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102035_xsmall.png",
+                        "linkToMatch": "/matches/far-rabat-vs-wydad-casablanca/9kezrg9#5765489",
+                        "date": {
+                            "utcTime": "2026-06-14T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102035/overview/far-rabat",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T15:00:00.000Z",
+                            "homeTeam": "FAR Rabat",
+                            "homeTeamId": 102035,
+                            "homeScore": "2",
+                            "awayTeam": "Wydad Casablanca",
+                            "awayTeamId": 102050,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102050",
+                            "name": "Wydad Casablanca",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102036_xsmall.png",
+                        "linkToMatch": "/matches/fus-rabat-vs-wydad-casablanca/9kf44xb#5778521",
+                        "date": {
+                            "utcTime": "2026-06-18T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102036/overview/fus-rabat",
+                        "tooltipText": {
+                            "utcTime": "2026-06-18T14:00:00.000Z",
+                            "homeTeam": "Wydad Casablanca",
+                            "homeTeamId": 102050,
+                            "homeScore": "1",
+                            "awayTeam": "FUS Rabat",
+                            "awayTeamId": 102036,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "102050",
+                            "name": "Wydad Casablanca",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102036",
+                            "name": "FUS Rabat",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102033_xsmall.png",
+                        "linkToMatch": "/matches/difaa-el-jadida-vs-wydad-casablanca/9ker0i8#5793733",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102033/overview/difaa-el-jadida",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Difaa El Jadida",
+                            "homeTeamId": 102033,
+                            "homeScore": "1",
+                            "awayTeam": "Wydad Casablanca",
+                            "awayTeamId": 102050,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "102033",
+                            "name": "Difaa El Jadida",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102050",
+                            "name": "Wydad Casablanca",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102043_xsmall.png",
+                        "linkToMatch": "/matches/mas-fes-vs-wydad-casablanca/9kfyr9h#5793747",
+                        "date": {
+                            "utcTime": "2026-06-25T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102043/overview/mas-fes",
+                        "tooltipText": {
+                            "utcTime": "2026-06-25T17:00:00.000Z",
+                            "homeTeam": "Wydad Casablanca",
+                            "homeTeamId": 102050,
+                            "homeScore": "0",
+                            "awayTeam": "MAS Fes",
+                            "awayTeamId": 102043,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "102050",
+                            "name": "Wydad Casablanca",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102043",
+                            "name": "MAS Fes",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102037_xsmall.png",
+                        "linkToMatch": "/matches/hassania-agadir-vs-olympique-dcheira/2vw0zvid#5740092",
+                        "date": {
+                            "utcTime": "2026-06-08T20:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102037/overview/hassania-agadir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-08T20:00:00.000Z",
+                            "homeTeam": "Olympique Dcheira",
+                            "homeTeamId": 570487,
+                            "homeScore": "0",
+                            "awayTeam": "Hassania Agadir",
+                            "awayTeamId": 102037,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "570487",
+                            "name": "Olympique Dcheira",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102037",
+                            "name": "Hassania Agadir",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102033_xsmall.png",
+                        "linkToMatch": "/matches/difaa-el-jadida-vs-olympique-dcheira/2vvze7tn#5765488",
+                        "date": {
+                            "utcTime": "2026-06-12T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102033/overview/difaa-el-jadida",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T17:00:00.000Z",
+                            "homeTeam": "Difaa El Jadida",
+                            "homeTeamId": 102033,
+                            "homeScore": "2",
+                            "awayTeam": "Olympique Dcheira",
+                            "awayTeamId": 570487,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "102033",
+                            "name": "Difaa El Jadida",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "570487",
+                            "name": "Olympique Dcheira",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102035_xsmall.png",
+                        "linkToMatch": "/matches/far-rabat-vs-olympique-dcheira/2vw071ny#5778520",
+                        "date": {
+                            "utcTime": "2026-06-18T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102035/overview/far-rabat",
+                        "tooltipText": {
+                            "utcTime": "2026-06-18T14:00:00.000Z",
+                            "homeTeam": "Olympique Dcheira",
+                            "homeTeamId": 570487,
+                            "homeScore": "1",
+                            "awayTeam": "FAR Rabat",
+                            "awayTeamId": 102035,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "570487",
+                            "name": "Olympique Dcheira",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102036_xsmall.png",
+                        "linkToMatch": "/matches/fus-rabat-vs-olympique-dcheira/2vw0lgl5#5793735",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102036/overview/fus-rabat",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "FUS Rabat",
+                            "homeTeamId": 102036,
+                            "homeScore": "0",
+                            "awayTeam": "Olympique Dcheira",
+                            "awayTeamId": 570487,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "102036",
+                            "name": "FUS Rabat",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "570487",
+                            "name": "Olympique Dcheira",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316657_xsmall.png",
+                        "linkToMatch": "/matches/ittihad-tanger-vs-olympique-dcheira/50rzmouj#5793743",
+                        "date": {
+                            "utcTime": "2026-06-25T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/316657/overview/ittihad-tanger",
+                        "tooltipText": {
+                            "utcTime": "2026-06-25T17:00:00.000Z",
+                            "homeTeam": "Olympique Dcheira",
+                            "homeTeamId": 570487,
+                            "homeScore": "2",
+                            "awayTeam": "Ittihad Tanger",
+                            "awayTeamId": 316657,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "570487",
+                            "name": "Olympique Dcheira",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "316657",
+                            "name": "Ittihad Tanger",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5838870",
+                    "MatchId": 5838870,
+                    "HomeTeamId": 102050,
+                    "AwayTeamId": 570487,
+                    "HomeTeam": "Wydad Casablanca",
+                    "AwayTeam": "Olympique Dcheira",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have lost their last {1} matches.",
+                            "TextTemplateId": "bad_form_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Wydad Casablanca have lost their last 4 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Olympique Dcheira have scored in their last 3 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.33",
+                                "1.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Wydad Casablanca have an average of 0.33 goals in their last three matches and Olympique Dcheira have an average of 1.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Wydad Casablanca haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 102050,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 3 goals in their last 5 matches",
+                    "color": "#E61E25"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 570487,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 7 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "MAR",
+            "QAData": [
+                {
+                    "question": "Who won between Wydad Casablanca and Olympique Dcheira on Sun, 28 Jun 2026 17:00:00 GMT?",
+                    "answer": "Olympique Dcheira won 3\u20131 over Wydad Casablanca on Sun, 28 Jun 2026 17:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        71,
+                                        29
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        16,
+                                        8
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        8,
+                                        5
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        6,
+                                        2
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#E61E25",
+                            "away": "#DDDDDD"
+                        },
+                        "lightMode": {
+                            "home": "#E61E25",
+                            "away": "#333333"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(29, 29, 29, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5838870,
+            "lineupType": "unavailable",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 102050,
+                "name": "Wydad Casablanca",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 1701927,
+                        "age": 23,
+                        "name": "Omar Aqzdaou",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "40",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "firstName": "Omar",
+                        "lastName": "Aqzdaou",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1065453,
+                        "age": 25,
+                        "name": "Mohamed Bouchouari",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "34",
+                        "countryName": "Belgium",
+                        "countryCode": "BEL",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 610827,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Mohamed",
+                        "lastName": "Bouchouari",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1497831,
+                        "age": 28,
+                        "name": "Salah Moussadak",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "13",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Salah",
+                        "lastName": "Moussadak",
+                        "rankings": null
+                    },
+                    {
+                        "id": 662534,
+                        "age": 29,
+                        "name": "Bart Meijers",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "22",
+                        "countryName": "Netherlands",
+                        "countryCode": "NED",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 318164,
+                        "firstName": "Bart",
+                        "lastName": "Meijers",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1501219,
+                        "age": 32,
+                        "name": "Ayoub Boucheta",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ayoub",
+                        "lastName": "Boucheta",
+                        "rankings": null
+                    },
+                    {
+                        "id": 467499,
+                        "age": 31,
+                        "name": "Mohamed Rayhi",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "8",
+                        "countryName": "Netherlands",
+                        "countryCode": "NED",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 309136,
+                        "firstName": "Mohamed",
+                        "lastName": "Rayhi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1366620,
+                        "age": 21,
+                        "name": "Na\u00efm Byar",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "32",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 465851,
+                        "firstName": "Na\u00efm",
+                        "lastName": "Byar",
+                        "rankings": null
+                    },
+                    {
+                        "id": 832400,
+                        "age": 26,
+                        "name": "Ramiro Vaca",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "10",
+                        "countryName": "Bolivia",
+                        "countryCode": "BOL",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 713757,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ramiro",
+                        "lastName": "Vaca",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1310123,
+                        "age": 25,
+                        "name": "Walid Nassi",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "28",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 355074,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 14
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Walid",
+                        "lastName": "Nassi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 210184,
+                        "age": 35,
+                        "name": "Wissam Ben Yedder",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 503442,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 14
+                                }
+                            ]
+                        },
+                        "firstName": "Wissam",
+                        "lastName": "Ben Yedder",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1705368,
+                        "age": 24,
+                        "name": "Abdoulaye Coulibaly",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "26",
+                        "countryName": "Mali",
+                        "countryCode": "MLI",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 55,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Abdoulaye",
+                        "lastName": "Coulibaly",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 115157,
+                    "age": 50,
+                    "name": "Mohammed Benchrifa",
+                    "countryName": "Morocco",
+                    "countryCode": "MAR",
+                    "firstName": "Mohammed",
+                    "lastName": "Benchrifa",
+                    "primaryTeamId": 102050,
+                    "primaryTeamName": "Wydad Casablanca",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1451120,
+                        "age": 28,
+                        "name": "Nabil Khali",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "25",
+                        "countryName": "France",
+                        "countryCode": "FRA",
+                        "marketValue": 72000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Nabil",
+                        "lastName": "Khali",
+                        "rankings": null
+                    },
+                    {
+                        "id": 940141,
+                        "age": 28,
+                        "name": "Hamza Hannouri",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 540325,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 55,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Hamza",
+                        "lastName": "Hannouri",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1415895,
+                        "age": 18,
+                        "name": "Mois\u00e9s Paniagua",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Bolivia",
+                        "countryCode": "BOL",
+                        "marketValue": 1788112,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mois\u00e9s",
+                        "lastName": "Paniagua",
+                        "rankings": null
+                    },
+                    {
+                        "id": 46120,
+                        "age": 39,
+                        "name": "Nordin Amrabat",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 242134,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Nordin",
+                        "lastName": "Amrabat",
+                        "rankings": null
+                    },
+                    {
+                        "id": 630674,
+                        "age": 30,
+                        "name": "Zouheir El Moutaraji",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "52",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 342888,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 78,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Zouheir",
+                        "lastName": "El Moutaraji",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1754718,
+                        "age": 21,
+                        "name": "Abderrazak El Wadi",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Abderrazak",
+                        "lastName": "El Wadi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1510008,
+                        "age": 22,
+                        "name": "Ayman El Wafi",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 2647904,
+                        "firstName": "Ayman",
+                        "lastName": "El Wafi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1751892,
+                        "age": 21,
+                        "name": "Rayane Mahtou",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 445483,
+                        "firstName": "Rayane",
+                        "lastName": "Mahtou",
+                        "rankings": null
+                    },
+                    {
+                        "id": 760308,
+                        "age": 31,
+                        "name": "Hamza El Wasti",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "18",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 345101,
+                        "firstName": "Hamza",
+                        "lastName": "El Wasti",
+                        "rankings": null
+                    }
+                ],
+                "unavailable": [
+                    {
+                        "id": 1921592,
+                        "age": 20,
+                        "name": "Salman Rihani",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "unavailability": {
+                            "type": "suspension",
+                            "expectedReturn": "Late June 2026",
+                            "expectedReturnDate": "2026-06-28T19:00:00Z"
+                        },
+                        "firstName": "Salman",
+                        "lastName": "Rihani"
+                    },
+                    {
+                        "id": 1423583,
+                        "age": 26,
+                        "name": "Guilherme Ferreira de Oliveira",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 451378,
+                        "unavailability": {
+                            "injuryId": 76,
+                            "type": "injury",
+                            "expectedReturn": "Unknown"
+                        },
+                        "firstName": "Guilherme Ferreira",
+                        "lastName": "de Oliveira"
+                    }
+                ],
+                "averageStarterAge": 27.8
+            },
+            "awayTeam": {
+                "id": 570487,
+                "name": "Olympique Dcheira",
+                "formation": "4-2-3-1",
+                "starters": [],
+                "coach": {
+                    "id": 103482,
+                    "age": 48,
+                    "name": "Bouchaib El Moubarki",
+                    "countryName": "Morocco",
+                    "countryCode": "MAR",
+                    "firstName": "Bouchaib",
+                    "lastName": "El Moubarki",
+                    "primaryTeamId": 570487,
+                    "primaryTeamName": "Olympique Dcheira",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1555165,
+                        "age": 34,
+                        "name": "Mohamed Habbali",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 386189,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 62,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mohamed",
+                        "lastName": "Habbali",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1762898,
+                        "age": 27,
+                        "name": "Brahim Ait Hammou",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "98",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Brahim",
+                        "lastName": "Ait Hammou",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1762875,
+                        "age": 29,
+                        "name": "Mouhcine Boumlik",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Mouhcine",
+                        "lastName": "Boumlik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1762874,
+                        "age": 32,
+                        "name": "Yassine Boughaz",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "8",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Yassine",
+                        "lastName": "Boughaz",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1531526,
+                        "age": 25,
+                        "name": "Mohssine Abba",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "77",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Mohssine",
+                        "lastName": "Abba",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1762897,
+                        "age": 30,
+                        "name": "Soufiane Jazouli",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "97",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "firstName": "Soufiane",
+                        "lastName": "Jazouli",
+                        "rankings": null
+                    }
+                ],
+                "unavailable": [
+                    {
+                        "id": 1762877,
+                        "age": 21,
+                        "name": "Aboujemaa Ameur",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "unavailability": {
+                            "type": "suspension",
+                            "expectedReturn": "Late June 2026",
+                            "expectedReturnDate": "2026-06-28T19:00:00Z"
+                        },
+                        "firstName": "Aboujemaa",
+                        "lastName": "Ameur"
+                    }
+                ]
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "530",
+            "url": "https://data.fotmob.com/tables.ext.530.fot.gz",
+            "teams": [
+                102050,
+                570487
+            ],
+            "tournamentNameForUrl": "Botola Pro",
+            "parentLeagueId": 530,
+            "countryCode": "MAR"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                0,
+                0
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-02-21T22:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wydad-casablanca-vs-olympique-dcheira/2vw679ks#5184051",
+                    "league": {
+                        "name": "Botola Pro",
+                        "id": "530",
+                        "pageUrl": "/leagues/530/overview/botola-pro"
+                    },
+                    "home": {
+                        "name": "Olympique Dcheira",
+                        "id": "570487"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-21T22:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wydad Casablanca",
+                        "id": "102050"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "wydad-casablanca-vs-olympique-dcheira",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5838870",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Wydad Casablanca",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
+                "url": "https://www.fotmob.com/teams/102050/overview/wydad-casablanca",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Olympique Dcheira",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png",
+                "url": "https://www.fotmob.com/teams/570487/overview/olympique-dcheira",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Wydad Casablanca vs Olympique Dcheira",
+            "description": "Follow Wydad Casablanca vs Olympique Dcheira live on fotmob.com",
+            "startDate": "2026-06-28T17:00:00.000Z",
+            "endDate": "2026-06-28T19:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Stade Mohamed V",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/570487.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5838870",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T17:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Wydad Casablanca",
+                    "url": "https://www.fotmob.com/teams/102050/overview/wydad-casablanca"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Olympique Dcheira",
+                    "url": "https://www.fotmob.com/teams/570487/overview/olympique-dcheira"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Wydad Casablanca - Olympique Dcheira",
+                        "item": "https://www.fotmob.com/match/5838870"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Olympique Dcheira",
+                        "item": "https://www.fotmob.com/teams/570487/overview/olympique-dcheira"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Wydad Casablanca - Olympique Dcheira",
+                        "item": "https://www.fotmob.com/match/5838870"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Botola Pro",
+                        "item": "https://www.fotmob.com/leagues/530/overview/botola-pro"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Wydad Casablanca",
+                        "item": "https://www.fotmob.com/teams/102050/overview/wydad-casablanca"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Wydad Casablanca - Olympique Dcheira",
+                        "item": "https://www.fotmob.com/match/5838870"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Wydad Casablanca and Olympique Dcheira on Sun, 28 Jun 2026 17:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Olympique Dcheira won 3\u20131 over Wydad Casablanca on Sun, 28 Jun 2026 17:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

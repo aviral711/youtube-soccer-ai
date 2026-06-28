@@ -1,0 +1,1431 @@
+{
+    "general": {
+        "matchId": "5204159",
+        "matchName": "Zhenis-vs-FC Astana_Sun, Jun 28, 2026, 14:00 UTC",
+        "matchRound": "15",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#FFEE00"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#59b2de"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 922739,
+        "leagueName": "Premier League",
+        "leagueRoundName": "15",
+        "parentLeagueId": 225,
+        "countryCode": "KAZ",
+        "homeTeam": {
+            "name": "Zhenis",
+            "id": 1614087
+        },
+        "awayTeam": {
+            "name": "FC Astana",
+            "id": 166865
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Sun, Jun 28, 2026, 14:00 UTC",
+        "matchTimeUTCDate": "2026-06-28T14:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Zhenis",
+                "id": 1614087,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1614087_small.png",
+                "pageUrl": "/teams/1614087/overview/zhenis"
+            },
+            {
+                "name": "FC Astana",
+                "id": 166865,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/166865_small.png",
+                "pageUrl": "/teams/166865/overview/fc-astana"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-06-28T14:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "28.06.2026 15:59:22",
+                "firstHalfEnded": "28.06.2026 16:51:23",
+                "secondHalfStarted": "28.06.2026 17:06:55",
+                "secondHalfEnded": "28.06.2026 17:56:25",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "28.06.2026 17:56:25"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Martins": [
+                    {
+                        "reactKey": "1421814568Goal667968undefinedtrue",
+                        "timeStr": 68,
+                        "type": "Goal",
+                        "time": 68,
+                        "overloadTime": null,
+                        "eventId": 14218145,
+                        "player": {
+                            "id": 667968,
+                            "name": "Gian Martins",
+                            "profileUrl": "/players/667968/gian-martins"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/667968/gian-martins",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gian Martins",
+                        "firstName": "Gian",
+                        "lastName": "Martins",
+                        "fullName": "Gian Martins",
+                        "playerId": 667968,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Khaseyn": [
+                    {
+                        "reactKey": "1421819179Goal1460514undefinedtrue",
+                        "timeStr": 79,
+                        "type": "Goal",
+                        "time": 79,
+                        "overloadTime": null,
+                        "eventId": 14218191,
+                        "player": {
+                            "id": 1460514,
+                            "name": "Madi Khaseyn",
+                            "profileUrl": "/players/1460514/madi-khaseyn"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1460514/madi-khaseyn",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Madi Khaseyn",
+                        "firstName": "Madi",
+                        "lastName": "Khaseyn",
+                        "fullName": "Madi Khaseyn",
+                        "playerId": 1460514,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Tomasov": [
+                    {
+                        "reactKey": "1421792330Goal97358undefinedfalse",
+                        "timeStr": 30,
+                        "type": "Goal",
+                        "time": 30,
+                        "overloadTime": null,
+                        "eventId": 14217923,
+                        "player": {
+                            "id": 97358,
+                            "name": "Marin Tomasov",
+                            "profileUrl": "/players/97358/marin-tomasov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/97358/marin-tomasov",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Marin Tomasov",
+                        "firstName": "Marin",
+                        "lastName": "Tomasov",
+                        "fullName": "Marin Tomasov",
+                        "playerId": 97358,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Kaltanov": [
+                    {
+                        "reactKey": "1421825390Goal1622918undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14218253,
+                        "player": {
+                            "id": 1622918,
+                            "name": "Akhmetali Kaltanov",
+                            "profileUrl": "/players/1622918/akhmetali-kaltanov"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1622918/akhmetali-kaltanov",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Akhmetali Kaltanov",
+                        "firstName": "Akhmetali",
+                        "lastName": "Kaltanov",
+                        "fullName": "Akhmetali Kaltanov",
+                        "playerId": 1622918,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {
+                "Beysebekov": [
+                    {
+                        "reactKey": "1421796339Card495234undefinedfalse",
+                        "timeStr": 39,
+                        "type": "Card",
+                        "time": 39,
+                        "overloadTime": null,
+                        "eventId": 14217963,
+                        "player": {
+                            "id": 495234,
+                            "name": "Abzal Beysebekov",
+                            "profileUrl": "/players/495234/abzal-beysebekov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/495234/abzal-beysebekov",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Abzal Beysebekov",
+                        "firstName": "Abzal",
+                        "lastName": "Beysebekov",
+                        "fullName": "Abzal Beysebekov",
+                        "playerId": 495234,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5204159,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1421792330Goal97358undefinedfalse",
+                        "timeStr": 30,
+                        "type": "Goal",
+                        "time": 30,
+                        "overloadTime": null,
+                        "eventId": 14217923,
+                        "player": {
+                            "id": 97358,
+                            "name": "Marin Tomasov",
+                            "profileUrl": "/players/97358/marin-tomasov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/97358/marin-tomasov",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Marin Tomasov",
+                        "firstName": "Marin",
+                        "lastName": "Tomasov",
+                        "fullName": "Marin Tomasov",
+                        "playerId": 97358,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421796339Card495234undefinedfalse",
+                        "timeStr": 39,
+                        "type": "Card",
+                        "time": 39,
+                        "overloadTime": null,
+                        "eventId": 14217963,
+                        "player": {
+                            "id": 495234,
+                            "name": "Abzal Beysebekov",
+                            "profileUrl": "/players/495234/abzal-beysebekov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/495234/abzal-beysebekov",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Abzal Beysebekov",
+                        "firstName": "Abzal",
+                        "lastName": "Beysebekov",
+                        "fullName": "Abzal Beysebekov",
+                        "playerId": 495234,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1421814568Goal667968undefinedtrue",
+                        "timeStr": 68,
+                        "type": "Goal",
+                        "time": 68,
+                        "overloadTime": null,
+                        "eventId": 14218145,
+                        "player": {
+                            "id": 667968,
+                            "name": "Gian Martins",
+                            "profileUrl": "/players/667968/gian-martins"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/667968/gian-martins",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gian Martins",
+                        "firstName": "Gian",
+                        "lastName": "Martins",
+                        "fullName": "Gian Martins",
+                        "playerId": 667968,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421819179Goal1460514undefinedtrue",
+                        "timeStr": 79,
+                        "type": "Goal",
+                        "time": 79,
+                        "overloadTime": null,
+                        "eventId": 14218191,
+                        "player": {
+                            "id": 1460514,
+                            "name": "Madi Khaseyn",
+                            "profileUrl": "/players/1460514/madi-khaseyn"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1460514/madi-khaseyn",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Madi Khaseyn",
+                        "firstName": "Madi",
+                        "lastName": "Khaseyn",
+                        "fullName": "Madi Khaseyn",
+                        "playerId": 1460514,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1421825390Goal1622918undefinedfalse",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14218253,
+                        "player": {
+                            "id": 1622918,
+                            "name": "Akhmetali Kaltanov",
+                            "profileUrl": "/players/1622918/akhmetali-kaltanov"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1622918/akhmetali-kaltanov",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Akhmetali Kaltanov",
+                        "firstName": "Akhmetali",
+                        "lastName": "Kaltanov",
+                        "fullName": "Akhmetali Kaltanov",
+                        "playerId": 1622918,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Card",
+                    "Half",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-06-28T14:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 922739,
+                    "parentLeagueId": 225,
+                    "link": "/leagues/225/overview/premier-league",
+                    "leagueName": "Premier League",
+                    "roundName": "15",
+                    "round": "15"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8037_xsmall.png",
+                        "linkToMatch": "/matches/kairat-almaty-vs-zhenis/gsecfwir#5204120",
+                        "date": {
+                            "utcTime": "2026-05-17T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8037/overview/kairat-almaty",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T12:00:00.000Z",
+                            "homeTeam": "Zhenis",
+                            "homeTeamId": 1614087,
+                            "homeScore": "1",
+                            "awayTeam": "Kairat Almaty",
+                            "awayTeamId": 8037,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "1614087",
+                            "name": "Zhenis",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8037",
+                            "name": "Kairat Almaty",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/200281_xsmall.png",
+                        "linkToMatch": "/matches/fc-yelimay-vs-zhenis/l05a3ax5#5204127",
+                        "date": {
+                            "utcTime": "2026-05-23T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/200281/overview/fc-yelimay",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T12:00:00.000Z",
+                            "homeTeam": "FC Yelimay",
+                            "homeTeamId": 200281,
+                            "homeScore": "2",
+                            "awayTeam": "Zhenis",
+                            "awayTeamId": 1614087,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "200281",
+                            "name": "FC Yelimay",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1614087",
+                            "name": "Zhenis",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/200279_xsmall.png",
+                        "linkToMatch": "/matches/kaspiy-aktau-vs-zhenis/l057xiyw#5204136",
+                        "date": {
+                            "utcTime": "2026-05-28T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/200279/overview/kaspiy-aktau",
+                        "tooltipText": {
+                            "utcTime": "2026-05-28T14:00:00.000Z",
+                            "homeTeam": "Zhenis",
+                            "homeTeamId": 1614087,
+                            "homeScore": "1",
+                            "awayTeam": "Kaspiy Aktau",
+                            "awayTeamId": 200279,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "1614087",
+                            "name": "Zhenis",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "200279",
+                            "name": "Kaspiy Aktau",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1622701_xsmall.png",
+                        "linkToMatch": "/matches/zhenis-vs-ulytau/1uuhl0h5b#5204142",
+                        "date": {
+                            "utcTime": "2026-06-14T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1622701/overview/ulytau",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T12:00:00.000Z",
+                            "homeTeam": "Ulytau",
+                            "homeTeamId": 1622701,
+                            "homeScore": "2",
+                            "awayTeam": "Zhenis",
+                            "awayTeamId": 1614087,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1622701",
+                            "name": "Ulytau",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1614087",
+                            "name": "Zhenis",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2539_xsmall.png",
+                        "linkToMatch": "/matches/irtysh-pavlodar-vs-zhenis/gob3mll2#5204152",
+                        "date": {
+                            "utcTime": "2026-06-20T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2539/overview/irtysh-pavlodar",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T13:00:00.000Z",
+                            "homeTeam": "Zhenis",
+                            "homeTeamId": 1614087,
+                            "homeScore": "0",
+                            "awayTeam": "Irtysh Pavlodar",
+                            "awayTeamId": 2539,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "1614087",
+                            "name": "Zhenis",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2539",
+                            "name": "Irtysh Pavlodar",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2128_xsmall.png",
+                        "linkToMatch": "/matches/okzhetpes-kokshetau-vs-fc-astana/6k5l6dd#5204117",
+                        "date": {
+                            "utcTime": "2026-05-16T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2128/overview/okzhetpes-kokshetau",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T12:00:00.000Z",
+                            "homeTeam": "Okzhetpes Kokshetau",
+                            "homeTeamId": 2128,
+                            "homeScore": "1",
+                            "awayTeam": "FC Astana",
+                            "awayTeamId": 166865,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "2128",
+                            "name": "Okzhetpes Kokshetau",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "166865",
+                            "name": "FC Astana",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1622701_xsmall.png",
+                        "linkToMatch": "/matches/fc-astana-vs-ulytau/kfm5de6q#5204123",
+                        "date": {
+                            "utcTime": "2026-05-22T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1622701/overview/ulytau",
+                        "tooltipText": {
+                            "utcTime": "2026-05-22T12:00:00.000Z",
+                            "homeTeam": "FC Astana",
+                            "homeTeamId": 166865,
+                            "homeScore": "3",
+                            "awayTeam": "Ulytau",
+                            "awayTeamId": 1622701,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "166865",
+                            "name": "FC Astana",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1622701",
+                            "name": "Ulytau",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/732295_xsmall.png",
+                        "linkToMatch": "/matches/fc-astana-vs-altai-semey/55phcqtv#5204129",
+                        "date": {
+                            "utcTime": "2026-05-27T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/732295/overview/altai-semey",
+                        "tooltipText": {
+                            "utcTime": "2026-05-27T11:00:00.000Z",
+                            "homeTeam": "Altai Semey",
+                            "homeTeamId": 732295,
+                            "homeScore": "1",
+                            "awayTeam": "FC Astana",
+                            "awayTeamId": 166865,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "732295",
+                            "name": "Altai Semey",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "166865",
+                            "name": "FC Astana",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2539_xsmall.png",
+                        "linkToMatch": "/matches/irtysh-pavlodar-vs-fc-astana/6lazopd#5204138",
+                        "date": {
+                            "utcTime": "2026-06-14T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2539/overview/irtysh-pavlodar",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T14:00:00.000Z",
+                            "homeTeam": "FC Astana",
+                            "homeTeamId": 166865,
+                            "homeScore": "2",
+                            "awayTeam": "Irtysh Pavlodar",
+                            "awayTeamId": 2539,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "166865",
+                            "name": "FC Astana",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2539",
+                            "name": "Irtysh Pavlodar",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8000_xsmall.png",
+                        "linkToMatch": "/matches/aktobe-vs-fc-astana/70unw49#5204145",
+                        "date": {
+                            "utcTime": "2026-06-21T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8000/overview/aktobe",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T15:00:00.000Z",
+                            "homeTeam": "Aktobe",
+                            "homeTeamId": 8000,
+                            "homeScore": "2",
+                            "awayTeam": "FC Astana",
+                            "awayTeamId": 166865,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8000",
+                            "name": "Aktobe",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "166865",
+                            "name": "FC Astana",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5204159",
+                    "MatchId": 5204159,
+                    "HomeTeamId": 1614087,
+                    "AwayTeamId": 166865,
+                    "HomeTeam": "Zhenis",
+                    "AwayTeam": "FC Astana",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "1",
+                                "1",
+                                "3",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Zhenis have 1W, 1D, 3L in five matches while FC Astana have 2W, 1D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Zhenis have an average of 0.67 goals in their last three matches and FC Astana have an average of 1."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Zhenis have an average of 0.67 goals in their last three matches and FC Astana have an average of 1."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "1",
+                                "1",
+                                "3",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Zhenis have 1W, 1D, 3L in five matches while FC Astana have 2W, 1D, 2L."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1614087,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 4 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 166865,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#59b2de"
+                }
+            ],
+            "countryCode": "KAZ",
+            "QAData": [
+                {
+                    "question": "Who won between Zhenis and FC Astana on Sun, 28 Jun 2026 14:00:00 GMT?",
+                    "answer": "Zhenis vs FC Astana on Sun, 28 Jun 2026 14:00:00 GMT ended in a 2\u20132 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "922739",
+            "url": "https://data.fotmob.com/tables.ext.922739.fot.gz",
+            "teams": [
+                1614087,
+                166865
+            ],
+            "tournamentNameForUrl": "Premier League",
+            "parentLeagueId": 225,
+            "countryCode": "KAZ"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                2,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-08-23T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-astana-vs-zhenis/k8jtknkt#4735521",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Zhenis",
+                        "id": "1614087"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-23T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Astana",
+                        "id": "166865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-24T14:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-astana-vs-zhenis/k8jtknkt#4735315",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Astana",
+                        "id": "166865"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-24T14:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Zhenis",
+                        "id": "1614087"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-14T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-astana-vs-zhenis/k8jtknkt#4773123",
+                    "league": {
+                        "name": "Cup",
+                        "id": "9515",
+                        "pageUrl": "/leagues/9515/overview/cup"
+                    },
+                    "home": {
+                        "name": "Zhenis",
+                        "id": "1614087"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-14T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "Pen",
+                            "shortKey": "penalties_short",
+                            "long": "Pen 4 - 3",
+                            "longKey": "afterpenalties",
+                            "penalties": [
+                                "4",
+                                "3"
+                            ]
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Astana",
+                        "id": "166865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-09-29T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-astana-vs-zhenis/k8jtknkt#4430681",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Zhenis",
+                        "id": "1614087"
+                    },
+                    "status": {
+                        "utcTime": "2024-09-29T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Astana",
+                        "id": "166865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-13T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-astana-vs-zhenis/k8jtknkt#4444114",
+                    "league": {
+                        "name": "Cup",
+                        "id": "9515",
+                        "pageUrl": "/leagues/9515/overview/cup"
+                    },
+                    "home": {
+                        "name": "Zhenis",
+                        "id": "1614087"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-13T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Astana",
+                        "id": "166865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-01T09:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/fc-astana-vs-zhenis/k8jtknkt#4430588",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "225",
+                        "pageUrl": "/leagues/225/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Astana",
+                        "id": "166865"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-01T09:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Zhenis",
+                        "id": "1614087"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "zhenis-vs-fc-astana",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5204159",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Zhenis",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1614087.png",
+                "url": "https://www.fotmob.com/teams/1614087/overview/zhenis",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "FC Astana",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/166865.png",
+                "url": "https://www.fotmob.com/teams/166865/overview/fc-astana",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Zhenis vs FC Astana",
+            "description": "Follow Zhenis vs FC Astana live on fotmob.com",
+            "startDate": "2026-06-28T14:00:00.000Z",
+            "endDate": "2026-06-28T16:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1614087.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/166865.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5204159",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-06-28T14:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Zhenis",
+                    "url": "https://www.fotmob.com/teams/1614087/overview/zhenis"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "FC Astana",
+                    "url": "https://www.fotmob.com/teams/166865/overview/fc-astana"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Zhenis - FC Astana",
+                        "item": "https://www.fotmob.com/match/5204159"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "FC Astana",
+                        "item": "https://www.fotmob.com/teams/166865/overview/fc-astana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Zhenis - FC Astana",
+                        "item": "https://www.fotmob.com/match/5204159"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/225/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Zhenis",
+                        "item": "https://www.fotmob.com/teams/1614087/overview/zhenis"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Zhenis - FC Astana",
+                        "item": "https://www.fotmob.com/match/5204159"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Zhenis and FC Astana on Sun, 28 Jun 2026 14:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Zhenis vs FC Astana on Sun, 28 Jun 2026 14:00:00 GMT ended in a 2\u20132 tie."
+                    }
+                }
+            ]
+        }
+    }
+}
