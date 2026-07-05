@@ -121,7 +121,7 @@ def normalize_match_date(match_date):
             f"Received: {match_date}"
         )
 
-    return parsed_date.strftime("%Y%m%d")
+    return parsed_date.strftime("%Y%m%d") 
 
 def parse_args():
     parser = argparse.ArgumentParser(
