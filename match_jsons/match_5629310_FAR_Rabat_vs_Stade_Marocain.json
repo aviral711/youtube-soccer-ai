@@ -1,0 +1,893 @@
+{
+    "general": {
+        "matchId": "5629310",
+        "matchName": "FAR Rabat-vs-Stade Marocain_Wed, Jul 8, 2026, 19:00 UTC",
+        "matchRound": "1/16",
+        "teamColors": {
+            "darkMode": {
+                "home": "#008000",
+                "away": "#DDDDDD"
+            },
+            "lightMode": {
+                "home": "#008000",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 931414,
+        "leagueName": "Throne Cup",
+        "leagueRoundName": "1/16",
+        "parentLeagueId": 11840,
+        "countryCode": "MAR",
+        "homeTeam": {
+            "name": "FAR Rabat",
+            "id": 102035
+        },
+        "awayTeam": {
+            "name": "Stade Marocain",
+            "id": 316661
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Wed, Jul 8, 2026, 19:00 UTC",
+        "matchTimeUTCDate": "2026-07-08T19:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "FAR Rabat",
+                "id": 102035,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102035_small.png",
+                "pageUrl": "/teams/102035/overview/far-rabat"
+            },
+            {
+                "name": "Stade Marocain",
+                "id": 316661,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316661_small.png",
+                "pageUrl": "/teams/316661/overview/stade-marocain"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-08T19:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "08.07.2026 21:00:25",
+                "firstHalfEnded": "08.07.2026 21:52:22",
+                "secondHalfStarted": "08.07.2026 22:08:58",
+                "secondHalfEnded": "08.07.2026 22:59:53",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "08.07.2026 22:59:53"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Slim": [
+                    {
+                        "reactKey": "1422583445Goal0undefinedtrue",
+                        "timeStr": "45 + 7",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 7,
+                        "eventId": 14225834,
+                        "player": {
+                            "id": 0,
+                            "name": "Reda Slim",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+7",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Reda Slim",
+                        "firstName": "Reda",
+                        "lastName": "Slim",
+                        "fullName": "Reda Slim",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422583788Goal0undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14225837,
+                        "player": {
+                            "id": 0,
+                            "name": "Reda Slim",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Reda Slim",
+                        "firstName": "Reda",
+                        "lastName": "Slim",
+                        "fullName": "Reda Slim",
+                        "playerId": 0,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Aatfallah": [
+                    {
+                        "reactKey": "1422583141Goal2073865undefinedfalse",
+                        "timeStr": 41,
+                        "type": "Goal",
+                        "time": 41,
+                        "overloadTime": null,
+                        "eventId": 14225831,
+                        "player": {
+                            "id": 2073865,
+                            "name": "Imad Aatfallah",
+                            "profileUrl": "/players/2073865/imad-aatfallah"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/2073865/imad-aatfallah",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Imad Aatfallah",
+                        "firstName": "Imad",
+                        "lastName": "Aatfallah",
+                        "fullName": "Imad Aatfallah",
+                        "playerId": 2073865,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "injured"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5629310,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422583141Goal2073865undefinedfalse",
+                        "timeStr": 41,
+                        "type": "Goal",
+                        "time": 41,
+                        "overloadTime": null,
+                        "eventId": 14225831,
+                        "player": {
+                            "id": 2073865,
+                            "name": "Imad Aatfallah",
+                            "profileUrl": "/players/2073865/imad-aatfallah"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/2073865/imad-aatfallah",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Imad Aatfallah",
+                        "firstName": "Imad",
+                        "lastName": "Aatfallah",
+                        "fullName": "Imad Aatfallah",
+                        "playerId": 2073865,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422583445Goal0undefinedtrue",
+                        "timeStr": "45 + 7",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 7,
+                        "eventId": 14225834,
+                        "player": {
+                            "id": 0,
+                            "name": "Reda Slim",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+7",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Reda Slim",
+                        "firstName": "Reda",
+                        "lastName": "Slim",
+                        "fullName": "Reda Slim",
+                        "playerId": 0,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422583788Goal0undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14225837,
+                        "player": {
+                            "id": 0,
+                            "name": "Reda Slim",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Reda Slim",
+                        "firstName": "Reda",
+                        "lastName": "Slim",
+                        "fullName": "Reda Slim",
+                        "playerId": 0,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "InternationalDuty"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-08T19:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 931414,
+                    "parentLeagueId": 11840,
+                    "link": "/leagues/11840/overview/throne-cup",
+                    "leagueName": "Throne Cup",
+                    "roundName": "1/16",
+                    "round": "1/16"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102042_xsmall.png",
+                        "linkToMatch": "/matches/far-rabat-vs-kacm/9ke0rol#5793734",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102042/overview/kacm",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "FAR Rabat",
+                            "homeTeamId": 102035,
+                            "homeScore": "2",
+                            "awayTeam": "KACM",
+                            "awayTeamId": 102042,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "102042",
+                            "name": "KACM",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316652_xsmall.png",
+                        "linkToMatch": "/matches/far-rabat-vs-rsb-berkane/149ki59o#5793741",
+                        "date": {
+                            "utcTime": "2026-06-25T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/316652/overview/rsb-berkane",
+                        "tooltipText": {
+                            "utcTime": "2026-06-25T17:00:00.000Z",
+                            "homeTeam": "RSB Berkane",
+                            "homeTeamId": 316652,
+                            "homeScore": "2",
+                            "awayTeam": "FAR Rabat",
+                            "awayTeamId": 102035,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "316652",
+                            "name": "RSB Berkane",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/320835_xsmall.png",
+                        "linkToMatch": "/matches/far-rabat-vs-union-touarga-sport/152ofoo0#5838864",
+                        "date": {
+                            "utcTime": "2026-06-28T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/320835/overview/union-touarga-sport",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T17:00:00.000Z",
+                            "homeTeam": "FAR Rabat",
+                            "homeTeamId": 102035,
+                            "homeScore": "2",
+                            "awayTeam": "Union Touarga Sport",
+                            "awayTeamId": 320835,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "320835",
+                            "name": "Union Touarga Sport",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/102032_xsmall.png",
+                        "linkToMatch": "/matches/codm-meknes-vs-far-rabat/9kct11l#5860591",
+                        "date": {
+                            "utcTime": "2026-07-02T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/102032/overview/codm-meknes",
+                        "tooltipText": {
+                            "utcTime": "2026-07-02T17:00:00.000Z",
+                            "homeTeam": "CODM Meknes",
+                            "homeTeamId": 102032,
+                            "homeScore": "3",
+                            "awayTeam": "FAR Rabat",
+                            "awayTeamId": 102035,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "102032",
+                            "name": "CODM Meknes",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/950070_xsmall.png",
+                        "linkToMatch": "/matches/far-rabat-vs-renaissance-club-zemamra/729a52ir#5888345",
+                        "date": {
+                            "utcTime": "2026-07-05T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/950070/overview/renaissance-club-zemamra",
+                        "tooltipText": {
+                            "utcTime": "2026-07-05T17:00:00.000Z",
+                            "homeTeam": "FAR Rabat",
+                            "homeTeamId": 102035,
+                            "homeScore": "0",
+                            "awayTeam": "Renaissance Club Zemamra",
+                            "awayTeamId": 950070,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "102035",
+                            "name": "FAR Rabat",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "950070",
+                            "name": "Renaissance Club Zemamra",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                []
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5629310",
+                    "MatchId": 5629310,
+                    "HomeTeamId": 102035,
+                    "AwayTeamId": 316661,
+                    "HomeTeam": "FAR Rabat",
+                    "AwayTeam": "Stade Marocain",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "",
+                            "TextTemplateId": "",
+                            "StatValues": [],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": null,
+                            "defaultText": ""
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1.33",
+                                "0"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "FAR Rabat have an average of 1.33 goals in their last three matches and Stade Marocain have an average of 0."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1.33",
+                                "0"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "FAR Rabat have an average of 1.33 goals in their last three matches and Stade Marocain have an average of 0."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "FAR Rabat haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "MAR",
+            "QAData": [
+                {
+                    "question": "Who won between FAR Rabat and Stade Marocain on Wed, 08 Jul 2026 19:00:00 GMT?",
+                    "answer": "FAR Rabat won 2\u20131 over Stade Marocain on Wed, 08 Jul 2026 19:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": {
+            "matchId": 5629310,
+            "lineupType": "unavailable",
+            "source": "enetpulse",
+            "availableFilters": [],
+            "homeTeam": {
+                "id": 102035,
+                "name": "FAR Rabat",
+                "formation": "",
+                "starters": [],
+                "unavailable": [
+                    {
+                        "id": 1315595,
+                        "age": 27,
+                        "name": "Zineddine Derrag",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "unavailability": {
+                            "type": "suspension",
+                            "expectedReturn": "Early July 2026",
+                            "expectedReturnDate": "2026-07-09T00:00:00Z"
+                        },
+                        "firstName": "Zineddine",
+                        "lastName": "Derrag"
+                    }
+                ]
+            },
+            "awayTeam": {
+                "id": 316661,
+                "name": "Stade Marocain",
+                "formation": "",
+                "starters": []
+            }
+        },
+        "hasPlayoff": true,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "far-rabat-vs-stade-marocain",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5629310",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "FAR Rabat",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
+                "url": "https://www.fotmob.com/teams/102035/overview/far-rabat",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Stade Marocain",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/316661.png",
+                "url": "https://www.fotmob.com/teams/316661/overview/stade-marocain",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "FAR Rabat vs Stade Marocain",
+            "description": "Follow FAR Rabat vs Stade Marocain live on fotmob.com",
+            "startDate": "2026-07-08T19:00:00.000Z",
+            "endDate": "2026-07-08T21:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/316661.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5629310",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-08T19:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "FAR Rabat",
+                    "url": "https://www.fotmob.com/teams/102035/overview/far-rabat"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Stade Marocain",
+                    "url": "https://www.fotmob.com/teams/316661/overview/stade-marocain"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Throne Cup",
+                        "item": "https://www.fotmob.com/leagues/11840/overview/throne-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "FAR Rabat - Stade Marocain",
+                        "item": "https://www.fotmob.com/match/5629310"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Throne Cup",
+                        "item": "https://www.fotmob.com/leagues/11840/overview/throne-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Stade Marocain",
+                        "item": "https://www.fotmob.com/teams/316661/overview/stade-marocain"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "FAR Rabat - Stade Marocain",
+                        "item": "https://www.fotmob.com/match/5629310"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Throne Cup",
+                        "item": "https://www.fotmob.com/leagues/11840/overview/throne-cup"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "FAR Rabat",
+                        "item": "https://www.fotmob.com/teams/102035/overview/far-rabat"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "FAR Rabat - Stade Marocain",
+                        "item": "https://www.fotmob.com/match/5629310"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between FAR Rabat and Stade Marocain on Wed, 08 Jul 2026 19:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "FAR Rabat won 2\u20131 over Stade Marocain on Wed, 08 Jul 2026 19:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

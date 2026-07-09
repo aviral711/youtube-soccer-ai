@@ -16,6 +16,12 @@ def load_match(
     """
         
     ## Database insert statement for Matches table
+
+    #   Fields to add to the matches database table
+    #       season	VARCHAR(20)	e.g., "2026" or "2026/27"
+    #       stage	VARCHAR(50)	Group Stage, Round of 16, Quarterfinal, etc.
+    #       venue_name	VARCHAR(200)	Useful for AI narration
+
     match_insert = text("""
     INSERT INTO soccer.matches
     (

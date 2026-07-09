@@ -1,0 +1,2620 @@
+{
+    "general": {
+        "matchId": "5785671",
+        "matchName": "CS Petrocub-vs-Egnatia_Wed, Jul 8, 2026, 17:00 UTC",
+        "matchRound": "1",
+        "teamColors": {
+            "darkMode": {
+                "home": "#ffffff",
+                "away": "#2FAE4C"
+            },
+            "lightMode": {
+                "home": "#101010",
+                "away": "#2FAE4C"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 937348,
+        "leagueName": "Champions League Qualification",
+        "leagueRoundName": "1",
+        "parentLeagueId": 10611,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "CS Petrocub",
+            "id": 561981
+        },
+        "awayTeam": {
+            "name": "Egnatia",
+            "id": 10039
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Wed, Jul 8, 2026, 17:00 UTC",
+        "matchTimeUTCDate": "2026-07-08T17:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "CS Petrocub",
+                "id": 561981,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/561981_small.png",
+                "pageUrl": "/teams/561981/overview/cs-petrocub"
+            },
+            {
+                "name": "Egnatia",
+                "id": 10039,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10039_small.png",
+                "pageUrl": "/teams/10039/overview/egnatia"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-08T17:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "08.07.2026 19:00:22",
+                "firstHalfEnded": "08.07.2026 19:50:15",
+                "secondHalfStarted": "08.07.2026 20:06:24",
+                "secondHalfEnded": "08.07.2026 20:57:12",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "08.07.2026 20:57:12"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Popescu": [
+                    {
+                        "reactKey": "142256651Goal1272202undefinedtrue",
+                        "timeStr": 1,
+                        "type": "Goal",
+                        "time": 1,
+                        "overloadTime": null,
+                        "eventId": 14225665,
+                        "player": {
+                            "id": 1272202,
+                            "name": "Petru Popescu",
+                            "profileUrl": "/players/1272202/petru-popescu"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1272202/petru-popescu",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Petru Popescu",
+                        "firstName": "Petru",
+                        "lastName": "Popescu",
+                        "fullName": "Petru Popescu",
+                        "playerId": 1272202,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Kryeziu": [
+                    {
+                        "reactKey": "1422570435Goal1106841undefinedfalse",
+                        "timeStr": 35,
+                        "type": "Goal",
+                        "time": 35,
+                        "overloadTime": null,
+                        "eventId": 14225704,
+                        "player": {
+                            "id": 1106841,
+                            "name": "Altin Kryeziu",
+                            "profileUrl": "/players/1106841/altin-kryeziu"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1106841/altin-kryeziu",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Altin Kryeziu",
+                        "firstName": "Altin",
+                        "lastName": "Kryeziu",
+                        "fullName": "Altin Kryeziu",
+                        "playerId": 1106841,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Guillem Jaime",
+                        "assistProfileUrl": "/players/1011895/guillem-jaime",
+                        "assistPlayerId": 1011895,
+                        "assistKey": "assist_by",
+                        "assistInput": "Guillem Jaime"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {
+                "Aleksi": [
+                    {
+                        "reactKey": "1422572545Card948488undefinedfalse",
+                        "timeStr": "45 + 1",
+                        "type": "Card",
+                        "time": 45,
+                        "overloadTime": 1,
+                        "eventId": 14225725,
+                        "player": {
+                            "id": 948488,
+                            "name": "Albano Aleksi",
+                            "profileUrl": "/players/948488/albano-aleksi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/948488/albano-aleksi",
+                        "overloadTimeStr": "+1",
+                        "isHome": false,
+                        "nameStr": "Albano Aleksi",
+                        "firstName": "Albano",
+                        "lastName": "Aleksi",
+                        "fullName": "Albano Aleksi",
+                        "playerId": 948488,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "liveticker",
+        "lineup",
+        "stats"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5785671,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142256651Goal1272202undefinedtrue",
+                        "timeStr": 1,
+                        "type": "Goal",
+                        "time": 1,
+                        "overloadTime": null,
+                        "eventId": 14225665,
+                        "player": {
+                            "id": 1272202,
+                            "name": "Petru Popescu",
+                            "profileUrl": "/players/1272202/petru-popescu"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1272202/petru-popescu",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Petru Popescu",
+                        "firstName": "Petru",
+                        "lastName": "Popescu",
+                        "fullName": "Petru Popescu",
+                        "playerId": 1272202,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422569829Card1727060undefinedtrue",
+                        "timeStr": 29,
+                        "type": "Card",
+                        "time": 29,
+                        "overloadTime": null,
+                        "eventId": 14225698,
+                        "player": {
+                            "id": 1727060,
+                            "name": "Ovidiu David",
+                            "profileUrl": "/players/1727060/ovidiu-david"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1727060/ovidiu-david",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Ovidiu David",
+                        "firstName": "Ovidiu",
+                        "lastName": "David",
+                        "fullName": "Ovidiu David",
+                        "playerId": 1727060,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1422570435Goal1106841undefinedfalse",
+                        "timeStr": 35,
+                        "type": "Goal",
+                        "time": 35,
+                        "overloadTime": null,
+                        "eventId": 14225704,
+                        "player": {
+                            "id": 1106841,
+                            "name": "Altin Kryeziu",
+                            "profileUrl": "/players/1106841/altin-kryeziu"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1106841/altin-kryeziu",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Altin Kryeziu",
+                        "firstName": "Altin",
+                        "lastName": "Kryeziu",
+                        "fullName": "Altin Kryeziu",
+                        "playerId": 1106841,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Guillem Jaime",
+                        "assistProfileUrl": "/players/1011895/guillem-jaime",
+                        "assistPlayerId": 1011895,
+                        "assistKey": "assist_by",
+                        "assistInput": "Guillem Jaime"
+                    },
+                    {
+                        "reactKey": "1422572545Card948488undefinedfalse",
+                        "timeStr": "45 + 1",
+                        "type": "Card",
+                        "time": 45,
+                        "overloadTime": 1,
+                        "eventId": 14225725,
+                        "player": {
+                            "id": 948488,
+                            "name": "Albano Aleksi",
+                            "profileUrl": "/players/948488/albano-aleksi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/948488/albano-aleksi",
+                        "overloadTimeStr": "+1",
+                        "isHome": false,
+                        "nameStr": "Albano Aleksi",
+                        "firstName": "Albano",
+                        "lastName": "Aleksi",
+                        "fullName": "Albano Aleksi",
+                        "playerId": 948488,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN176566true",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Mihail Platica",
+                                "id": "176566",
+                                "profileUrl": "/players/176566/mihail-platica"
+                            },
+                            {
+                                "name": "Ovidiu David",
+                                "id": "1727060",
+                                "profileUrl": "/players/1727060/ovidiu-david"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN775661false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Karim Loukili",
+                                "id": "775661",
+                                "profileUrl": "/players/775661/karim-loukili"
+                            },
+                            {
+                                "name": "Ildi Gruda",
+                                "id": "1179624",
+                                "profileUrl": "/players/1179624/ildi-gruda"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1785966false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Ibrahim Diabate",
+                                "id": "1785966",
+                                "profileUrl": "/players/1785966/ibrahim-diabate"
+                            },
+                            {
+                                "name": "Guillem Jaime",
+                                "id": "1011895",
+                                "profileUrl": "/players/1011895/guillem-jaime"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined61SubstitutionNaN1195214true",
+                        "timeStr": 61,
+                        "type": "Substitution",
+                        "time": 61,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Marius Iosipoi",
+                                "id": "1195214",
+                                "profileUrl": "/players/1195214/marius-iosipoi"
+                            },
+                            {
+                                "name": "Mihai Lupan",
+                                "id": "1381423",
+                                "profileUrl": "/players/1381423/mihai-lupan"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1422575465Card1413871undefinedfalse",
+                        "timeStr": 65,
+                        "type": "Card",
+                        "time": 65,
+                        "overloadTime": null,
+                        "eventId": 14225754,
+                        "player": {
+                            "id": 1413871,
+                            "name": "Soumaila Bakayoko",
+                            "profileUrl": "/players/1413871/soumaila-bakayoko"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1413871/soumaila-bakayoko",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Soumaila Bakayoko",
+                        "firstName": "Soumaila",
+                        "lastName": "Bakayoko",
+                        "fullName": "Soumaila Bakayoko",
+                        "playerId": 1413871,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined71SubstitutionNaN1770627true",
+                        "timeStr": 71,
+                        "type": "Substitution",
+                        "time": 71,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Nicolae Rotaru",
+                                "id": "1770627",
+                                "profileUrl": "/players/1770627/nicolae-rotaru"
+                            },
+                            {
+                                "name": "Dan Puscas",
+                                "id": "1179613",
+                                "profileUrl": "/players/1179613/dan-puscas"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1422576377Card942794undefinedtrue",
+                        "timeStr": 77,
+                        "type": "Card",
+                        "time": 77,
+                        "overloadTime": null,
+                        "eventId": 14225763,
+                        "player": {
+                            "id": 942794,
+                            "name": "Jessie Guera Djou",
+                            "profileUrl": "/players/942794/jessie-guera-djou"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/942794/jessie-guera-djou",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Jessie Guera Djou",
+                        "firstName": "Jessie Guera",
+                        "lastName": "Djou",
+                        "fullName": "Jessie Guera Djou",
+                        "playerId": 942794,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN1284353false",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Geralb Smajli",
+                                "id": "1284353",
+                                "profileUrl": "/players/1284353/geralb-smajli"
+                            },
+                            {
+                                "name": "Ibrahim Diabate",
+                                "id": "1785966",
+                                "profileUrl": "/players/1785966/ibrahim-diabate"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN552649false",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Edison Ndreca",
+                                "id": "552649",
+                                "profileUrl": "/players/552649/edison-ndreca"
+                            },
+                            {
+                                "name": "Andrey Yago",
+                                "id": "1508198",
+                                "profileUrl": "/players/1508198/andrey-yago"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1422577384Card1382338undefinedtrue",
+                        "timeStr": 84,
+                        "type": "Card",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 14225773,
+                        "player": {
+                            "id": 1382338,
+                            "name": "Ion Bors",
+                            "profileUrl": "/players/1382338/ion-bors"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1382338/ion-bors",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Ion Bors",
+                        "firstName": "Ion",
+                        "lastName": "Bors",
+                        "fullName": "Ion Bors",
+                        "playerId": 1382338,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined88SubstitutionNaN1682192true",
+                        "timeStr": 88,
+                        "type": "Substitution",
+                        "time": 88,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Vlad Pascari",
+                                "id": "1682192",
+                                "profileUrl": "/players/1682192/vlad-pascari"
+                            },
+                            {
+                                "name": "Ion Bors",
+                                "id": "1382338",
+                                "profileUrl": "/players/1382338/ion-bors"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1422577488Card775661undefinedfalse",
+                        "timeStr": 88,
+                        "type": "Card",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14225774,
+                        "player": {
+                            "id": 775661,
+                            "name": "Karim Loukili",
+                            "profileUrl": "/players/775661/karim-loukili"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/775661/karim-loukili",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Karim Loukili",
+                        "firstName": "Karim",
+                        "lastName": "Loukili",
+                        "fullName": "Karim Loukili",
+                        "playerId": 775661,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN1897357false",
+                        "timeStr": "90 + 4",
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+4",
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Daniel Adjessa",
+                                "id": "1897357",
+                                "profileUrl": "/players/1897357/daniel-adjessa"
+                            },
+                            {
+                                "name": "Soumaila Bakayoko",
+                                "id": "1413871",
+                                "profileUrl": "/players/1413871/soumaila-bakayoko"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Card",
+                    "Assist",
+                    "Half",
+                    "Substitution",
+                    "Yellow",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": {
+                    "bestOf": 2,
+                    "bestOfNum": 1,
+                    "localizedString": {
+                        "key": "first_leg",
+                        "fallback": "1st leg"
+                    }
+                },
+                "Match Date": {
+                    "utcTime": "2026-07-08T17:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 937348,
+                    "parentLeagueId": 10611,
+                    "link": "/leagues/10611/overview/champions-league-qualification",
+                    "leagueName": "Champions League Qualification",
+                    "roundName": "1",
+                    "round": "1"
+                },
+                "Stadium": {
+                    "name": "Stadionul Zimbru",
+                    "city": "Chi\u0219in\u0103u",
+                    "country": "Moldova",
+                    "lat": 46.980321893,
+                    "long": 28.867891431,
+                    "capacity": 10104,
+                    "surface": "grass"
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/kaz.png",
+                    "text": "Sayat Karabayev",
+                    "countryCode": "KAZ",
+                    "country": "Kazakhstan"
+                },
+                "Attendance": 8798
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/175682_xsmall.png",
+                        "linkToMatch": "/matches/fc-milsami-orhei-vs-cs-petrocub/3gzm0399#5186842",
+                        "date": {
+                            "utcTime": "2026-05-02T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/175682/overview/fc-milsami-orhei",
+                        "tooltipText": {
+                            "utcTime": "2026-05-02T17:00:00.000Z",
+                            "homeTeam": "FC Milsami Orhei",
+                            "homeTeamId": 175682,
+                            "homeScore": "0",
+                            "awayTeam": "CS Petrocub",
+                            "awayTeamId": 561981,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "175682",
+                            "name": "FC Milsami Orhei",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "561981",
+                            "name": "CS Petrocub",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8012_xsmall.png",
+                        "linkToMatch": "/matches/fc-balti-vs-cs-petrocub/22mkc1mh#5186845",
+                        "date": {
+                            "utcTime": "2026-05-10T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8012/overview/fc-balti",
+                        "tooltipText": {
+                            "utcTime": "2026-05-10T15:00:00.000Z",
+                            "homeTeam": "CS Petrocub",
+                            "homeTeamId": 561981,
+                            "homeScore": "3",
+                            "awayTeam": "FC Balti",
+                            "awayTeamId": 8012,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "561981",
+                            "name": "CS Petrocub",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8012",
+                            "name": "FC Balti",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8039_xsmall.png",
+                        "linkToMatch": "/matches/zimbru-vs-cs-petrocub/22mthwsh#5186849",
+                        "date": {
+                            "utcTime": "2026-05-17T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8039/overview/zimbru",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T17:30:00.000Z",
+                            "homeTeam": "Zimbru",
+                            "homeTeamId": 8039,
+                            "homeScore": "1",
+                            "awayTeam": "CS Petrocub",
+                            "awayTeamId": 561981,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8039",
+                            "name": "Zimbru",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "561981",
+                            "name": "CS Petrocub",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/188151_xsmall.png",
+                        "linkToMatch": "/matches/dacia-buiucani-vs-cs-petrocub/3l90hrj3#5774041",
+                        "date": {
+                            "utcTime": "2026-06-28T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/188151/overview/dacia-buiucani",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T17:00:00.000Z",
+                            "homeTeam": "CS Petrocub",
+                            "homeTeamId": 561981,
+                            "homeScore": "2",
+                            "awayTeam": "Dacia Buiucani",
+                            "awayTeamId": 188151,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "561981",
+                            "name": "CS Petrocub",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "188151",
+                            "name": "Dacia Buiucani",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/175682_xsmall.png",
+                        "linkToMatch": "/matches/fc-milsami-orhei-vs-cs-petrocub/3gzm0399#5827446",
+                        "date": {
+                            "utcTime": "2026-07-04T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/175682/overview/fc-milsami-orhei",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T17:00:00.000Z",
+                            "homeTeam": "CS Petrocub",
+                            "homeTeamId": 561981,
+                            "homeScore": "5",
+                            "awayTeam": "FC Milsami Orhei",
+                            "awayTeamId": 175682,
+                            "awayScore": "0"
+                        },
+                        "score": "5 - 0",
+                        "home": {
+                            "id": "561981",
+                            "name": "CS Petrocub",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "175682",
+                            "name": "FC Milsami Orhei",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10028_xsmall.png",
+                        "linkToMatch": "/matches/partizani-vs-egnatia/3bvw5p#4888440",
+                        "date": {
+                            "utcTime": "2026-05-06T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10028/overview/partizani",
+                        "tooltipText": {
+                            "utcTime": "2026-05-06T14:00:00.000Z",
+                            "homeTeam": "Egnatia",
+                            "homeTeamId": 10039,
+                            "homeScore": "2",
+                            "awayTeam": "Partizani",
+                            "awayTeamId": 10028,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "10039",
+                            "name": "Egnatia",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10028",
+                            "name": "Partizani",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10037_xsmall.png",
+                        "linkToMatch": "/matches/teuta-durres-vs-egnatia/3bzrjp#4888445",
+                        "date": {
+                            "utcTime": "2026-05-10T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10037/overview/teuta-durres",
+                        "tooltipText": {
+                            "utcTime": "2026-05-10T14:00:00.000Z",
+                            "homeTeam": "Teuta Durres",
+                            "homeTeamId": 10037,
+                            "homeScore": "3",
+                            "awayTeam": "Egnatia",
+                            "awayTeamId": 10039,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "10037",
+                            "name": "Teuta Durres",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10039",
+                            "name": "Egnatia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10038_xsmall.png",
+                        "linkToMatch": "/matches/elbasani-vs-egnatia/3c071e#5524079",
+                        "date": {
+                            "utcTime": "2026-05-17T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10038/overview/elbasani",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T17:00:00.000Z",
+                            "homeTeam": "Elbasani",
+                            "homeTeamId": 10038,
+                            "homeScore": "0",
+                            "awayTeam": "Egnatia",
+                            "awayTeamId": 10039,
+                            "awayScore": "4"
+                        },
+                        "score": "0 - 4",
+                        "home": {
+                            "id": "10038",
+                            "name": "Elbasani",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10039",
+                            "name": "Egnatia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10034_xsmall.png",
+                        "linkToMatch": "/matches/vllaznia-vs-egnatia/3byh2s#5524080",
+                        "date": {
+                            "utcTime": "2026-05-23T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10034/overview/vllaznia",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T17:00:00.000Z",
+                            "homeTeam": "Vllaznia",
+                            "homeTeamId": 10034,
+                            "homeScore": "1",
+                            "awayTeam": "Egnatia",
+                            "awayTeamId": 10039,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "10034",
+                            "name": "Vllaznia",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10039",
+                            "name": "Egnatia",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10027_xsmall.png",
+                        "linkToMatch": "/matches/fc-dinamo-city-vs-egnatia/3bvgoa#5524082",
+                        "date": {
+                            "utcTime": "2026-05-31T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10027/overview/fc-dinamo-city",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T17:00:00.000Z",
+                            "homeTeam": "Egnatia",
+                            "homeTeamId": 10039,
+                            "homeScore": "2",
+                            "awayTeam": "FC Dinamo City",
+                            "awayTeamId": 10027,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "10039",
+                            "name": "Egnatia",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10027",
+                            "name": "FC Dinamo City",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5785671",
+                    "MatchId": 5785671,
+                    "HomeTeamId": 561981,
+                    "AwayTeamId": 10039,
+                    "HomeTeam": "CS Petrocub",
+                    "AwayTeam": "Egnatia",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "home_team",
+                                "10"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "CS Petrocub haven't lost in 10 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "10",
+                                "away_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "CS Petrocub have scored in their last 10 matches and Egnatia have scored in their last 5 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "8",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "CS Petrocub have scored 8 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "10"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Egnatia haven't drawn in their last 10 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 561981,
+                    "priority": 6,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 10,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 10 matches",
+                    "color": "#101010"
+                }
+            ],
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between CS Petrocub and Egnatia on Wed, 08 Jul 2026 17:00:00 GMT?",
+                    "answer": "CS Petrocub vs Egnatia on Wed, 08 Jul 2026 17:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": {
+            "langs": "de_gen,en_gen,es_gen,fr_gen,it_gen",
+            "teams": [
+                "CS Petrocub",
+                "Egnatia"
+            ]
+        },
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        51,
+                                        49
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        13,
+                                        6
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        9,
+                                        2
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        3,
+                                        6
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#ffffff",
+                            "away": "#2FAE4C"
+                        },
+                        "lightMode": {
+                            "home": "#101010",
+                            "away": "#2FAE4C"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(29, 29, 29, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 18,
+            "windSpeed": 3,
+            "windDirectionCardinal": "NW",
+            "iconCode": 29,
+            "relativeHumidity": 70,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 55,
+            "description": "Partly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-08T18:30:01Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": {
+            "matchId": 5785671,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 561981,
+                "name": "CS Petrocub",
+                "formation": "5-4-1",
+                "starters": [
+                    {
+                        "id": 468192,
+                        "age": 31,
+                        "name": "Cristian Avram",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 257287,
+                        "firstName": "Cristian",
+                        "lastName": "Avram",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1382338,
+                        "age": 23,
+                        "name": "Ion Bors",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "66",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 114317,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 84
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ion",
+                        "lastName": "Bors",
+                        "rankings": null
+                    },
+                    {
+                        "id": 942794,
+                        "age": 29,
+                        "name": "Jessie Guera Djou",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "44",
+                        "countryName": "Cameroon",
+                        "countryCode": "CMR",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 77
+                                }
+                            ]
+                        },
+                        "firstName": "Jessie Guera",
+                        "lastName": "Djou",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1464119,
+                        "age": 22,
+                        "name": "Catalin Cucos",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 67447,
+                        "firstName": "Catalin",
+                        "lastName": "Cucos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 169935,
+                        "age": 36,
+                        "name": "Ion Jardan",
+                        "positionId": 51,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "90",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 50000,
+                        "firstName": "Ion",
+                        "lastName": "Jardan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 274671,
+                        "age": 35,
+                        "name": "Sergiu Platica",
+                        "positionId": 59,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "11",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.371,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.371,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 50000,
+                        "firstName": "Sergiu",
+                        "lastName": "Platica",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1179829,
+                        "age": 26,
+                        "name": "Victor Bogaciuc",
+                        "positionId": 72,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "79",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.875,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 76186,
+                        "firstName": "Victor",
+                        "lastName": "Bogaciuc",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1727060,
+                        "age": 29,
+                        "name": "Ovidiu David",
+                        "positionId": 74,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "24",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.625,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 157066,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 29
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ovidiu",
+                        "lastName": "David",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1179613,
+                        "age": 25,
+                        "name": "Dan Puscas",
+                        "positionId": 76,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "37",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.375,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 100216,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Dan",
+                        "lastName": "Puscas",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1381423,
+                        "age": 21,
+                        "name": "Mihai Lupan",
+                        "positionId": 78,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "23",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.125,
+                            "height": 0.195,
+                            "width": 0.243
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 346681,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 61,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Mihai",
+                        "lastName": "Lupan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1272202,
+                        "age": 24,
+                        "name": "Petru Popescu",
+                        "positionId": 115,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "15",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 66631,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 1
+                                }
+                            ]
+                        },
+                        "firstName": "Petru",
+                        "lastName": "Popescu",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 2068222,
+                    "age": 68,
+                    "name": "Leonid Pascaru",
+                    "countryName": "Moldova",
+                    "countryCode": "MDA",
+                    "firstName": "Leonid",
+                    "lastName": "Pascaru",
+                    "primaryTeamId": 561981,
+                    "primaryTeamName": "CS Petrocub",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 176566,
+                        "age": 36,
+                        "name": "Mihail Platica",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "5",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Mihail",
+                        "lastName": "Platica",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1195214,
+                        "age": 26,
+                        "name": "Marius Iosipoi",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 84333,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 61,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Marius",
+                        "lastName": "Iosipoi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1770627,
+                        "age": 20,
+                        "name": "Nicolae Rotaru",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 103206,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Nicolae",
+                        "lastName": "Rotaru",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1682192,
+                        "age": 19,
+                        "name": "Vlad Pascari",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Vlad",
+                        "lastName": "Pascari",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1288441,
+                        "age": 23,
+                        "name": "Silviu Smalenea",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 87060,
+                        "firstName": "Silviu",
+                        "lastName": "Smalenea",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1667041,
+                        "age": 22,
+                        "name": "Victor Dodon",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "31",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 170908,
+                        "firstName": "Victor",
+                        "lastName": "Dodon",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1169338,
+                        "age": 27,
+                        "name": "Dumitru Demian",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "8",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 50964,
+                        "firstName": "Dumitru",
+                        "lastName": "Demian",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1463254,
+                        "age": 22,
+                        "name": "Ilie Botnari",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "25",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 92217,
+                        "firstName": "Ilie",
+                        "lastName": "Botnari",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1776637,
+                        "age": 18,
+                        "name": "Mihail Sava",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "27",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "firstName": "Mihail",
+                        "lastName": "Sava",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1476443,
+                        "age": 21,
+                        "name": "Pavel Nazari",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "92",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "firstName": "Pavel",
+                        "lastName": "Nazari",
+                        "rankings": null
+                    },
+                    {
+                        "id": 761699,
+                        "age": 28,
+                        "name": "Maxim Cojocaru",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "13",
+                        "countryName": "Moldova",
+                        "countryCode": "MDA",
+                        "marketValue": 50000,
+                        "firstName": "Maxim",
+                        "lastName": "Cojocaru",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 27.9,
+                "totalStarterMarketValue": 1335831
+            },
+            "awayTeam": {
+                "id": 10039,
+                "name": "Egnatia",
+                "formation": "3-5-2",
+                "starters": [
+                    {
+                        "id": 761795,
+                        "age": 27,
+                        "name": "Mario Dajsinani",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "98",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 599228,
+                        "firstName": "Mario",
+                        "lastName": "Dajsinani",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1259208,
+                        "age": 28,
+                        "name": "Eljon Sota",
+                        "positionId": 33,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "28",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.79,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 385826,
+                        "firstName": "Eljon",
+                        "lastName": "Sota",
+                        "rankings": null
+                    },
+                    {
+                        "id": 948198,
+                        "age": 29,
+                        "name": "Eneo Bitri",
+                        "positionId": 35,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "33",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 150793,
+                        "firstName": "Eneo",
+                        "lastName": "Bitri",
+                        "rankings": null
+                    },
+                    {
+                        "id": 867169,
+                        "age": 28,
+                        "name": "Arbenit Xhemajli",
+                        "positionId": 37,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "19",
+                        "countryName": "Kosovo",
+                        "countryCode": "KVX",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.21,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 461979,
+                        "firstName": "Arbenit",
+                        "lastName": "Xhemajli",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1011895,
+                        "age": 27,
+                        "name": "Guillem Jaime",
+                        "positionId": 71,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "22",
+                        "countryName": "Spain",
+                        "countryCode": "ESP",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.89,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.11,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 368024,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 35
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Guillem",
+                        "lastName": "Jaime",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1106841,
+                        "age": 24,
+                        "name": "Altin Kryeziu",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "17",
+                        "countryName": "Kosovo",
+                        "countryCode": "KVX",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.695,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.305,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 282957,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 35
+                                }
+                            ]
+                        },
+                        "firstName": "Altin",
+                        "lastName": "Kryeziu",
+                        "rankings": null
+                    },
+                    {
+                        "id": 948488,
+                        "age": 33,
+                        "name": "Albano Aleksi",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 454759,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "redCard",
+                                    "time": 45
+                                }
+                            ]
+                        },
+                        "firstName": "Albano",
+                        "lastName": "Aleksi",
+                        "rankings": null
+                    },
+                    {
+                        "id": 699693,
+                        "age": 30,
+                        "name": "Fernando Medeiros",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "7",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.305,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.695,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "marketValue": 438294,
+                        "firstName": "Fernando",
+                        "lastName": "Medeiros",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1508198,
+                        "age": 28,
+                        "name": "Andrey Yago",
+                        "positionId": 79,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "29",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.11,
+                            "height": 0.195,
+                            "width": 0.773
+                        },
+                        "verticalLayout": {
+                            "x": 0.89,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.195
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Andrey",
+                        "lastName": "Yago",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1179624,
+                        "age": 26,
+                        "name": "Ildi Gruda",
+                        "positionId": 104,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "77",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.7,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.3,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 451979,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ildi",
+                        "lastName": "Gruda",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1413871,
+                        "age": 24,
+                        "name": "Soumaila Bakayoko",
+                        "positionId": 106,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Ivory Coast",
+                        "countryCode": "CIV",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.3,
+                            "height": 0.195,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.7,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.4
+                        },
+                        "marketValue": 234866,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 65
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Soumaila",
+                        "lastName": "Bakayoko",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 78427,
+                    "age": 51,
+                    "name": "Nevil Dede",
+                    "countryName": "Albania",
+                    "countryCode": "ALB",
+                    "firstName": "Nevil",
+                    "lastName": "Dede",
+                    "primaryTeamId": 10039,
+                    "primaryTeamName": "Egnatia",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1785966,
+                        "age": 22,
+                        "name": "Ibrahim Diabate",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Ivory Coast",
+                        "countryCode": "CIV",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn"
+                                },
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Ibrahim",
+                        "lastName": "Diabate",
+                        "rankings": null
+                    },
+                    {
+                        "id": 775661,
+                        "age": 29,
+                        "name": "Karim Loukili",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "20",
+                        "countryName": "Morocco",
+                        "countryCode": "MAR",
+                        "marketValue": 369308,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 88
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Karim",
+                        "lastName": "Loukili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 552649,
+                        "age": 32,
+                        "name": "Edison Ndreca",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "16",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "marketValue": 229968,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Edison",
+                        "lastName": "Ndreca",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1284353,
+                        "age": 24,
+                        "name": "Geralb Smajli",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "55",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "marketValue": 396361,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Geralb",
+                        "lastName": "Smajli",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1897357,
+                        "age": 23,
+                        "name": "Daniel Adjessa",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "2",
+                        "countryName": "Cameroon",
+                        "countryCode": "CMR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Daniel",
+                        "lastName": "Adjessa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1508360,
+                        "age": 26,
+                        "name": "Bruno Puja",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "12",
+                        "countryName": "Albania",
+                        "countryCode": "ALB",
+                        "firstName": "Bruno",
+                        "lastName": "Puja",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1768382,
+                        "age": 23,
+                        "name": "Levan Tandilashvili",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "marketValue": 147740,
+                        "firstName": "Levan",
+                        "lastName": "Tandilashvili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1685339,
+                        "age": 20,
+                        "name": "Numan Ajetovikj",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "North Macedonia",
+                        "countryCode": "MKD",
+                        "firstName": "Numan",
+                        "lastName": "Ajetovikj",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1168833,
+                        "age": 26,
+                        "name": "Alessandro Albanese",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Belgium",
+                        "countryCode": "BEL",
+                        "marketValue": 446839,
+                        "firstName": "Alessandro",
+                        "lastName": "Albanese",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1003369,
+                        "age": 25,
+                        "name": "Jurguens Montenegro",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "99",
+                        "countryName": "Costa Rica",
+                        "countryCode": "CRC",
+                        "marketValue": 141201,
+                        "firstName": "Jurguens",
+                        "lastName": "Montenegro",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 28.2,
+                "totalStarterMarketValue": 3828705
+            }
+        },
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "cs-petrocub-vs-egnatia",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5785671",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "CS Petrocub",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/561981.png",
+                "url": "https://www.fotmob.com/teams/561981/overview/cs-petrocub",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Egnatia",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10039.png",
+                "url": "https://www.fotmob.com/teams/10039/overview/egnatia",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "CS Petrocub vs Egnatia",
+            "description": "Follow CS Petrocub vs Egnatia live on fotmob.com",
+            "startDate": "2026-07-08T17:00:00.000Z",
+            "endDate": "2026-07-08T19:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Stadionul Zimbru",
+                "latitude": 46.980321893,
+                "longitude": 28.867891431,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Moldova",
+                    "addressLocality": "Chi\u0219in\u0103u"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/561981.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/10039.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5785671",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-08T17:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "CS Petrocub",
+                    "url": "https://www.fotmob.com/teams/561981/overview/cs-petrocub"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Egnatia",
+                    "url": "https://www.fotmob.com/teams/10039/overview/egnatia"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Champions League Qualification",
+                        "item": "https://www.fotmob.com/leagues/10611/overview/champions-league-qualification"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "CS Petrocub - Egnatia",
+                        "item": "https://www.fotmob.com/match/5785671"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Champions League Qualification",
+                        "item": "https://www.fotmob.com/leagues/10611/overview/champions-league-qualification"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Egnatia",
+                        "item": "https://www.fotmob.com/teams/10039/overview/egnatia"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "CS Petrocub - Egnatia",
+                        "item": "https://www.fotmob.com/match/5785671"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Champions League Qualification",
+                        "item": "https://www.fotmob.com/leagues/10611/overview/champions-league-qualification"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "CS Petrocub",
+                        "item": "https://www.fotmob.com/teams/561981/overview/cs-petrocub"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "CS Petrocub - Egnatia",
+                        "item": "https://www.fotmob.com/match/5785671"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between CS Petrocub and Egnatia on Wed, 08 Jul 2026 17:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "CS Petrocub vs Egnatia on Wed, 08 Jul 2026 17:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

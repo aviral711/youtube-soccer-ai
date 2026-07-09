@@ -1,0 +1,1239 @@
+{
+    "general": {
+        "matchId": "5900219",
+        "matchName": "Lyon-vs-Macon 71_Wed, Jul 8, 2026, 08:30 UTC",
+        "matchRound": null,
+        "teamColors": {
+            "darkMode": {
+                "home": "#ffffff",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#0160A0",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 915708,
+        "leagueName": "Club Friendlies",
+        "leagueRoundName": null,
+        "parentLeagueId": 489,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "Lyon",
+            "id": 9748
+        },
+        "awayTeam": {
+            "name": "Macon 71",
+            "id": 292006
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Wed, Jul 8, 2026, 08:30 UTC",
+        "matchTimeUTCDate": "2026-07-08T08:30:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Lyon",
+                "id": 9748,
+                "score": 5,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+                "pageUrl": "/teams/9748/overview/lyon"
+            },
+            {
+                "name": "Macon 71",
+                "id": 292006,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/292006_small.png",
+                "pageUrl": "/teams/292006/overview/macon-71"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-08T08:30:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "08.07.2026 10:34:00",
+                "firstHalfEnded": "08.07.2026 11:23:37",
+                "secondHalfStarted": "08.07.2026 11:38:59",
+                "secondHalfEnded": "08.07.2026 12:32:50",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "08.07.2026 12:32:50"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "5 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Hamdani": [
+                    {
+                        "reactKey": "142255806Goal1853988undefinedtrue",
+                        "timeStr": 6,
+                        "type": "Goal",
+                        "time": 6,
+                        "overloadTime": null,
+                        "eventId": 14225580,
+                        "player": {
+                            "id": 1853988,
+                            "name": "Adil Hamdani",
+                            "profileUrl": "/players/1853988/adil-hamdani"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1853988/adil-hamdani",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Adil Hamdani",
+                        "firstName": "Adil",
+                        "lastName": "Hamdani",
+                        "fullName": "Adil Hamdani",
+                        "playerId": 1853988,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Himbert": [
+                    {
+                        "reactKey": "1422558170Goal1793704undefinedtrue",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14225581,
+                        "player": {
+                            "id": 1793704,
+                            "name": "R\u00e9mi Himbert",
+                            "profileUrl": "/players/1793704/remi-himbert"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1793704/remi-himbert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "R\u00e9mi Himbert",
+                        "firstName": "R\u00e9mi",
+                        "lastName": "Himbert",
+                        "fullName": "R\u00e9mi Himbert",
+                        "playerId": 1793704,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422558474Goal1793704undefinedtrue",
+                        "timeStr": 74,
+                        "type": "Goal",
+                        "time": 74,
+                        "overloadTime": null,
+                        "eventId": 14225584,
+                        "player": {
+                            "id": 1793704,
+                            "name": "R\u00e9mi Himbert",
+                            "profileUrl": "/players/1793704/remi-himbert"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1793704/remi-himbert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "R\u00e9mi Himbert",
+                        "firstName": "R\u00e9mi",
+                        "lastName": "Himbert",
+                        "fullName": "R\u00e9mi Himbert",
+                        "playerId": 1793704,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422558680Goal1793704undefinedtrue",
+                        "timeStr": 80,
+                        "type": "Goal",
+                        "time": 80,
+                        "overloadTime": null,
+                        "eventId": 14225586,
+                        "player": {
+                            "id": 1793704,
+                            "name": "R\u00e9mi Himbert",
+                            "profileUrl": "/players/1793704/remi-himbert"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1793704/remi-himbert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "R\u00e9mi Himbert",
+                        "firstName": "R\u00e9mi",
+                        "lastName": "Himbert",
+                        "fullName": "R\u00e9mi Himbert",
+                        "playerId": 1793704,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Mol\u00e9b\u00e9": [
+                    {
+                        "reactKey": "1422558787Goal1647188undefinedtrue",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14225587,
+                        "player": {
+                            "id": 1647188,
+                            "name": "Enzo Mol\u00e9b\u00e9",
+                            "profileUrl": "/players/1647188/enzo-molebe"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1647188/enzo-molebe",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Enzo Mol\u00e9b\u00e9",
+                        "firstName": "Enzo",
+                        "lastName": "Mol\u00e9b\u00e9",
+                        "fullName": "Enzo Mol\u00e9b\u00e9",
+                        "playerId": 1647188,
+                        "newScore": [
+                            5,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Abner": [
+                    {
+                        "reactKey": "1422558576Goal1060604undefinedfalse",
+                        "timeStr": 76,
+                        "type": "Goal",
+                        "time": 76,
+                        "overloadTime": null,
+                        "eventId": 14225585,
+                        "player": {
+                            "id": 1060604,
+                            "name": "Abner",
+                            "profileUrl": "/players/1060604/abner"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1060604/abner",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abner",
+                        "firstName": "",
+                        "lastName": "Abner",
+                        "fullName": "Abner",
+                        "playerId": 1060604,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Rachidi": [
+                    {
+                        "reactKey": "1422559290Goal2071746undefinedfalse",
+                        "timeStr": 90,
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14225592,
+                        "player": {
+                            "id": 2071746,
+                            "name": "Hamza Rachidi",
+                            "profileUrl": "/players/2071746/hamza-rachidi"
+                        },
+                        "homeScore": 5,
+                        "awayScore": 1,
+                        "profileUrl": "/players/2071746/hamza-rachidi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hamza Rachidi",
+                        "firstName": "Hamza",
+                        "lastName": "Rachidi",
+                        "fullName": "Hamza Rachidi",
+                        "playerId": 2071746,
+                        "newScore": [
+                            5,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5900219,
+            "highlights": {
+                "image": "https://i.ytimg.com/vi/rxdmeAdqT4w/maxresdefault.jpg",
+                "url": "https://www.youtube.com/watch?v=rxdmeAdqT4w",
+                "source": "www.youtube.com"
+            },
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142255806Goal1853988undefinedtrue",
+                        "timeStr": 6,
+                        "type": "Goal",
+                        "time": 6,
+                        "overloadTime": null,
+                        "eventId": 14225580,
+                        "player": {
+                            "id": 1853988,
+                            "name": "Adil Hamdani",
+                            "profileUrl": "/players/1853988/adil-hamdani"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1853988/adil-hamdani",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Adil Hamdani",
+                        "firstName": "Adil",
+                        "lastName": "Hamdani",
+                        "fullName": "Adil Hamdani",
+                        "playerId": 1853988,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422558170Goal1793704undefinedtrue",
+                        "timeStr": 70,
+                        "type": "Goal",
+                        "time": 70,
+                        "overloadTime": null,
+                        "eventId": 14225581,
+                        "player": {
+                            "id": 1793704,
+                            "name": "R\u00e9mi Himbert",
+                            "profileUrl": "/players/1793704/remi-himbert"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1793704/remi-himbert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "R\u00e9mi Himbert",
+                        "firstName": "R\u00e9mi",
+                        "lastName": "Himbert",
+                        "fullName": "R\u00e9mi Himbert",
+                        "playerId": 1793704,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422558474Goal1793704undefinedtrue",
+                        "timeStr": 74,
+                        "type": "Goal",
+                        "time": 74,
+                        "overloadTime": null,
+                        "eventId": 14225584,
+                        "player": {
+                            "id": 1793704,
+                            "name": "R\u00e9mi Himbert",
+                            "profileUrl": "/players/1793704/remi-himbert"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1793704/remi-himbert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "R\u00e9mi Himbert",
+                        "firstName": "R\u00e9mi",
+                        "lastName": "Himbert",
+                        "fullName": "R\u00e9mi Himbert",
+                        "playerId": 1793704,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422558576Goal1060604undefinedfalse",
+                        "timeStr": 76,
+                        "type": "Goal",
+                        "time": 76,
+                        "overloadTime": null,
+                        "eventId": 14225585,
+                        "player": {
+                            "id": 1060604,
+                            "name": "Abner",
+                            "profileUrl": "/players/1060604/abner"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1060604/abner",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Abner",
+                        "firstName": "",
+                        "lastName": "Abner",
+                        "fullName": "Abner",
+                        "playerId": 1060604,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422558680Goal1793704undefinedtrue",
+                        "timeStr": 80,
+                        "type": "Goal",
+                        "time": 80,
+                        "overloadTime": null,
+                        "eventId": 14225586,
+                        "player": {
+                            "id": 1793704,
+                            "name": "R\u00e9mi Himbert",
+                            "profileUrl": "/players/1793704/remi-himbert"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1793704/remi-himbert",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "R\u00e9mi Himbert",
+                        "firstName": "R\u00e9mi",
+                        "lastName": "Himbert",
+                        "fullName": "R\u00e9mi Himbert",
+                        "playerId": 1793704,
+                        "newScore": [
+                            4,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422558787Goal1647188undefinedtrue",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14225587,
+                        "player": {
+                            "id": 1647188,
+                            "name": "Enzo Mol\u00e9b\u00e9",
+                            "profileUrl": "/players/1647188/enzo-molebe"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1647188/enzo-molebe",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Enzo Mol\u00e9b\u00e9",
+                        "firstName": "Enzo",
+                        "lastName": "Mol\u00e9b\u00e9",
+                        "fullName": "Enzo Mol\u00e9b\u00e9",
+                        "playerId": 1647188,
+                        "newScore": [
+                            5,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422559290Goal2071746undefinedfalse",
+                        "timeStr": 90,
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14225592,
+                        "player": {
+                            "id": 2071746,
+                            "name": "Hamza Rachidi",
+                            "profileUrl": "/players/2071746/hamza-rachidi"
+                        },
+                        "homeScore": 5,
+                        "awayScore": 1,
+                        "profileUrl": "/players/2071746/hamza-rachidi",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hamza Rachidi",
+                        "firstName": "Hamza",
+                        "lastName": "Rachidi",
+                        "fullName": "Hamza Rachidi",
+                        "playerId": 2071746,
+                        "newScore": [
+                            5,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-08T08:30:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 915708,
+                    "parentLeagueId": 489,
+                    "link": "/leagues/489/overview/club-friendlies",
+                    "leagueName": "Club Friendlies",
+                    "roundName": null,
+                    "round": null
+                },
+                "Stadium": {
+                    "name": "Terrain d'honneur G\u00e9rard Houllier",
+                    "city": "D\u00e9cines-Charpieu",
+                    "country": "France",
+                    "lat": 45.763938077,
+                    "long": 4.976845077,
+                    "capacity": 3000,
+                    "surface": "grass"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_xsmall.png",
+                        "linkToMatch": "/matches/lyon-vs-paris-saint-germain/36b9fd#4830726",
+                        "date": {
+                            "utcTime": "2026-04-19T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9847/overview/paris-saint-germain",
+                        "tooltipText": {
+                            "utcTime": "2026-04-19T18:45:00.000Z",
+                            "homeTeam": "Paris Saint-Germain",
+                            "homeTeamId": 9847,
+                            "homeScore": "1",
+                            "awayTeam": "Lyon",
+                            "awayTeamId": 9748,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "9847",
+                            "name": "Paris Saint-Germain",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9748",
+                            "name": "Lyon",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_xsmall.png",
+                        "linkToMatch": "/matches/auxerre-vs-lyon/2s1i32#4830732",
+                        "date": {
+                            "utcTime": "2026-04-25T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8583/overview/auxerre",
+                        "tooltipText": {
+                            "utcTime": "2026-04-25T13:00:00.000Z",
+                            "homeTeam": "Lyon",
+                            "homeTeamId": 9748,
+                            "homeScore": "3",
+                            "awayTeam": "Auxerre",
+                            "awayTeamId": 8583,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "9748",
+                            "name": "Lyon",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8583",
+                            "name": "Auxerre",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_xsmall.png",
+                        "linkToMatch": "/matches/lyon-vs-rennes/36cxwz#4830739",
+                        "date": {
+                            "utcTime": "2026-05-03T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9851/overview/rennes",
+                        "tooltipText": {
+                            "utcTime": "2026-05-03T18:45:00.000Z",
+                            "homeTeam": "Lyon",
+                            "homeTeamId": 9748,
+                            "homeScore": "4",
+                            "awayTeam": "Rennes",
+                            "awayTeamId": 9851,
+                            "awayScore": "2"
+                        },
+                        "score": "4 - 2",
+                        "home": {
+                            "id": "9748",
+                            "name": "Lyon",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9851",
+                            "name": "Rennes",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_xsmall.png",
+                        "linkToMatch": "/matches/lyon-vs-toulouse/37eu6q#4830754",
+                        "date": {
+                            "utcTime": "2026-05-10T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9941/overview/toulouse",
+                        "tooltipText": {
+                            "utcTime": "2026-05-10T19:00:00.000Z",
+                            "homeTeam": "Toulouse",
+                            "homeTeamId": 9941,
+                            "homeScore": "2",
+                            "awayTeam": "Lyon",
+                            "awayTeamId": 9748,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "9941",
+                            "name": "Toulouse",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9748",
+                            "name": "Lyon",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_xsmall.png",
+                        "linkToMatch": "/matches/lens-vs-lyon/2s3gtg#4830758",
+                        "date": {
+                            "utcTime": "2026-05-17T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8588/overview/lens",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T19:00:00.000Z",
+                            "homeTeam": "Lyon",
+                            "homeTeamId": 9748,
+                            "homeScore": "0",
+                            "awayTeam": "Lens",
+                            "awayTeamId": 8588,
+                            "awayScore": "4"
+                        },
+                        "score": "0 - 4",
+                        "home": {
+                            "id": "9748",
+                            "name": "Lyon",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8588",
+                            "name": "Lens",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6309_xsmall.png",
+                        "linkToMatch": "/matches/saint-louis-neuweg-vs-macon-71/kfvtb9j#3535133",
+                        "date": {
+                            "utcTime": "2021-02-21T14:05:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6309/overview/saint-louis-neuweg",
+                        "tooltipText": {
+                            "utcTime": "2021-02-21T14:05:00.000Z",
+                            "homeTeam": "Macon 71",
+                            "homeTeamId": 292006,
+                            "homeScore": "0",
+                            "awayTeam": "Saint Louis Neuweg",
+                            "awayTeamId": 6309,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "292006",
+                            "name": "Macon 71",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6309",
+                            "name": "Saint Louis Neuweg",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5900219",
+                    "MatchId": 5900219,
+                    "HomeTeamId": 9748,
+                    "AwayTeamId": 292006,
+                    "HomeTeam": "Lyon",
+                    "AwayTeam": "Macon 71",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "",
+                            "TextTemplateId": "",
+                            "StatValues": [],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": null,
+                            "defaultText": ""
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1.67",
+                                "0"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Lyon have an average of 1.67 goals in their last three matches and Macon 71 have an average of 0."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1.67",
+                                "0"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Lyon have an average of 1.67 goals in their last three matches and Macon 71 have an average of 0."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Lyon haven't drawn in their last 6 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 9748,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 5 matches",
+                    "color": "#0160A0"
+                }
+            ],
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between Lyon and Macon 71 on Wed, 08 Jul 2026 08:30:00 GMT?",
+                    "answer": "Lyon won 5\u20132 over Macon 71 on Wed, 08 Jul 2026 08:30:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 33,
+            "windSpeed": 4,
+            "windDirectionCardinal": "NNW",
+            "iconCode": 32,
+            "relativeHumidity": 23,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 0,
+            "description": "Sunny",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-08T10:15:00Z",
+            "localizedKey": "weather_condition_sunny",
+            "defaultTitle": "Sunny"
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "lyon-vs-macon-71",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5900219",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Lyon",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
+                "url": "https://www.fotmob.com/teams/9748/overview/lyon",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Macon 71",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/292006.png",
+                "url": "https://www.fotmob.com/teams/292006/overview/macon-71",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Lyon vs Macon 71",
+            "description": "Follow Lyon vs Macon 71 live on fotmob.com",
+            "startDate": "2026-07-08T08:30:00.000Z",
+            "endDate": "2026-07-08T10:30:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Terrain d'honneur G\u00e9rard Houllier",
+                "latitude": 45.763938077,
+                "longitude": 4.976845077,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "France",
+                    "addressLocality": "D\u00e9cines-Charpieu"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/9748.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/292006.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5900219",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-08T08:30:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Lyon",
+                    "url": "https://www.fotmob.com/teams/9748/overview/lyon"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Macon 71",
+                    "url": "https://www.fotmob.com/teams/292006/overview/macon-71"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Lyon - Macon 71",
+                        "item": "https://www.fotmob.com/match/5900219"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Macon 71",
+                        "item": "https://www.fotmob.com/teams/292006/overview/macon-71"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Lyon - Macon 71",
+                        "item": "https://www.fotmob.com/match/5900219"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Lyon",
+                        "item": "https://www.fotmob.com/teams/9748/overview/lyon"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Lyon - Macon 71",
+                        "item": "https://www.fotmob.com/match/5900219"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Lyon and Macon 71 on Wed, 08 Jul 2026 08:30:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Lyon won 5\u20132 over Macon 71 on Wed, 08 Jul 2026 08:30:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

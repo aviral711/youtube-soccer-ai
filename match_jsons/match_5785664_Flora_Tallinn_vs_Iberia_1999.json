@@ -1,0 +1,2792 @@
+{
+    "general": {
+        "matchId": "5785664",
+        "matchName": "Flora Tallinn-vs-Iberia 1999_Wed, Jul 8, 2026, 16:00 UTC",
+        "matchRound": "1",
+        "teamColors": {
+            "darkMode": {
+                "home": "#008040",
+                "away": "#ffffff"
+            },
+            "lightMode": {
+                "home": "#008040",
+                "away": "#101010"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 937348,
+        "leagueName": "Champions League Qualification",
+        "leagueRoundName": "1",
+        "parentLeagueId": 10611,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "Flora Tallinn",
+            "id": 8155
+        },
+        "awayTeam": {
+            "name": "Iberia 1999",
+            "id": 480291
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Wed, Jul 8, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-07-08T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Flora Tallinn",
+                "id": 8155,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8155_small.png",
+                "pageUrl": "/teams/8155/overview/flora-tallinn"
+            },
+            {
+                "name": "Iberia 1999",
+                "id": 480291,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/480291_small.png",
+                "pageUrl": "/teams/480291/overview/iberia-1999"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-08T16:00:00.000Z",
+            "numberOfHomeRedCards": 1,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "08.07.2026 18:00:11",
+                "firstHalfEnded": "08.07.2026 18:47:11",
+                "secondHalfStarted": "08.07.2026 19:04:09",
+                "secondHalfEnded": "08.07.2026 19:54:21",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "08.07.2026 19:54:21"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 3",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Kreida": [
+                    {
+                        "reactKey": "1422563528Goal948077undefinedtrue",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14225635,
+                        "player": {
+                            "id": 948077,
+                            "name": "Vladislav Kreida",
+                            "profileUrl": "/players/948077/vladislav-kreida"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/948077/vladislav-kreida",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Vladislav Kreida",
+                        "firstName": "Vladislav",
+                        "lastName": "Kreida",
+                        "fullName": "Vladislav Kreida",
+                        "playerId": 948077,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Alamaa": [
+                    {
+                        "reactKey": "1422569973Goal1657530undefinedtrue",
+                        "timeStr": 73,
+                        "type": "Goal",
+                        "time": 73,
+                        "overloadTime": null,
+                        "eventId": 14225699,
+                        "player": {
+                            "id": 1657530,
+                            "name": "Sander Alamaa",
+                            "profileUrl": "/players/1657530/sander-alamaa"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1657530/sander-alamaa",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Alamaa",
+                        "firstName": "Sander",
+                        "lastName": "Alamaa",
+                        "fullName": "Sander Alamaa",
+                        "playerId": 1657530,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sergei Zenjov",
+                        "assistProfileUrl": "/players/77872/sergei-zenjov",
+                        "assistPlayerId": 77872,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sergei Zenjov"
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Natchkebia": [
+                    {
+                        "reactKey": "1422562518Goal1445810undefinedfalse",
+                        "timeStr": 18,
+                        "type": "Goal",
+                        "time": 18,
+                        "overloadTime": null,
+                        "eventId": 14225625,
+                        "player": {
+                            "id": 1445810,
+                            "name": "Zviad Natchkebia",
+                            "profileUrl": "/players/1445810/zviad-natchkebia"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1445810/zviad-natchkebia",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Zviad Natchkebia",
+                        "firstName": "Zviad",
+                        "lastName": "Natchkebia",
+                        "fullName": "Zviad Natchkebia",
+                        "playerId": 1445810,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Vakho Bedoshvili",
+                        "assistProfileUrl": "/players/1754672/vakho-bedoshvili",
+                        "assistPlayerId": 1754672,
+                        "assistKey": "assist_by",
+                        "assistInput": "Vakho Bedoshvili"
+                    }
+                ],
+                "Jinjolava": [
+                    {
+                        "reactKey": "1422563121Goal1065639undefinedfalse",
+                        "timeStr": 21,
+                        "type": "Goal",
+                        "time": 21,
+                        "overloadTime": null,
+                        "eventId": 14225631,
+                        "player": {
+                            "id": 1065639,
+                            "name": "Jemali-Giorgi Jinjolava",
+                            "profileUrl": "/players/1065639/jemali-giorgi-jinjolava"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1065639/jemali-giorgi-jinjolava",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jemali-Giorgi Jinjolava",
+                        "firstName": "Jemali-Giorgi",
+                        "lastName": "Jinjolava",
+                        "fullName": "Jemali-Giorgi Jinjolava",
+                        "playerId": 1065639,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Kardava": [
+                    {
+                        "reactKey": "1422570375Goal653584undefinedfalse",
+                        "timeStr": 75,
+                        "type": "Goal",
+                        "time": 75,
+                        "overloadTime": null,
+                        "eventId": 14225703,
+                        "player": {
+                            "id": 653584,
+                            "name": "Bakar Kardava",
+                            "profileUrl": "/players/653584/bakar-kardava"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/653584/bakar-kardava",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bakar Kardava",
+                        "firstName": "Bakar",
+                        "lastName": "Kardava",
+                        "fullName": "Bakar Kardava",
+                        "playerId": 653584,
+                        "newScore": [
+                            2,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Giorgi Kutsia",
+                        "assistProfileUrl": "/players/851852/giorgi-kutsia",
+                        "assistPlayerId": 851852,
+                        "assistKey": "assist_by",
+                        "assistInput": "Giorgi Kutsia"
+                    }
+                ]
+            },
+            "homeTeamRedCards": {
+                "Kollo": [
+                    {
+                        "reactKey": "1422567961Card1764319undefinedtrue",
+                        "timeStr": 61,
+                        "type": "Card",
+                        "time": 61,
+                        "overloadTime": null,
+                        "eventId": 14225679,
+                        "player": {
+                            "id": 1764319,
+                            "name": "Airon Kollo",
+                            "profileUrl": "/players/1764319/airon-kollo"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1764319/airon-kollo",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Airon Kollo",
+                        "firstName": "Airon",
+                        "lastName": "Kollo",
+                        "fullName": "Airon Kollo",
+                        "playerId": 1764319,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            },
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "liveticker",
+        "lineup",
+        "stats"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5785664,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422562518Goal1445810undefinedfalse",
+                        "timeStr": 18,
+                        "type": "Goal",
+                        "time": 18,
+                        "overloadTime": null,
+                        "eventId": 14225625,
+                        "player": {
+                            "id": 1445810,
+                            "name": "Zviad Natchkebia",
+                            "profileUrl": "/players/1445810/zviad-natchkebia"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1445810/zviad-natchkebia",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Zviad Natchkebia",
+                        "firstName": "Zviad",
+                        "lastName": "Natchkebia",
+                        "fullName": "Zviad Natchkebia",
+                        "playerId": 1445810,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Vakho Bedoshvili",
+                        "assistProfileUrl": "/players/1754672/vakho-bedoshvili",
+                        "assistPlayerId": 1754672,
+                        "assistKey": "assist_by",
+                        "assistInput": "Vakho Bedoshvili"
+                    },
+                    {
+                        "reactKey": "1422563420Card1507078undefinedtrue",
+                        "timeStr": 20,
+                        "type": "Card",
+                        "time": 20,
+                        "overloadTime": null,
+                        "eventId": 14225634,
+                        "player": {
+                            "id": 1507078,
+                            "name": "Mihhail Kolobov",
+                            "profileUrl": "/players/1507078/mihhail-kolobov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1507078/mihhail-kolobov",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Mihhail Kolobov",
+                        "firstName": "Mihhail",
+                        "lastName": "Kolobov",
+                        "fullName": "Mihhail Kolobov",
+                        "playerId": 1507078,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1422563121Goal1065639undefinedfalse",
+                        "timeStr": 21,
+                        "type": "Goal",
+                        "time": 21,
+                        "overloadTime": null,
+                        "eventId": 14225631,
+                        "player": {
+                            "id": 1065639,
+                            "name": "Jemali-Giorgi Jinjolava",
+                            "profileUrl": "/players/1065639/jemali-giorgi-jinjolava"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1065639/jemali-giorgi-jinjolava",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jemali-Giorgi Jinjolava",
+                        "firstName": "Jemali-Giorgi",
+                        "lastName": "Jinjolava",
+                        "fullName": "Jemali-Giorgi Jinjolava",
+                        "playerId": 1065639,
+                        "newScore": [
+                            0,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422563528Goal948077undefinedtrue",
+                        "timeStr": 28,
+                        "type": "Goal",
+                        "time": 28,
+                        "overloadTime": null,
+                        "eventId": 14225635,
+                        "player": {
+                            "id": 948077,
+                            "name": "Vladislav Kreida",
+                            "profileUrl": "/players/948077/vladislav-kreida"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "profileUrl": "/players/948077/vladislav-kreida",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Vladislav Kreida",
+                        "firstName": "Vladislav",
+                        "lastName": "Kreida",
+                        "fullName": "Vladislav Kreida",
+                        "playerId": 948077,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422564736Card1754672undefinedfalse",
+                        "timeStr": 36,
+                        "type": "Card",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14225647,
+                        "player": {
+                            "id": 1754672,
+                            "name": "Vakho Bedoshvili",
+                            "profileUrl": "/players/1754672/vakho-bedoshvili"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1754672/vakho-bedoshvili",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Vakho Bedoshvili",
+                        "firstName": "Vakho",
+                        "lastName": "Bedoshvili",
+                        "fullName": "Vakho Bedoshvili",
+                        "playerId": 1754672,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1422564836Card1776661undefinedtrue",
+                        "timeStr": 36,
+                        "type": "Card",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14225648,
+                        "player": {
+                            "id": 1776661,
+                            "name": "Sander Tovstik",
+                            "profileUrl": "/players/1776661/sander-tovstik"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1776661/sander-tovstik",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Sander Tovstik",
+                        "firstName": "Sander",
+                        "lastName": "Tovstik",
+                        "fullName": "Sander Tovstik",
+                        "playerId": 1776661,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422567961Card1764319undefinedtrue",
+                        "timeStr": 61,
+                        "type": "Card",
+                        "time": 61,
+                        "overloadTime": null,
+                        "eventId": 14225679,
+                        "player": {
+                            "id": 1764319,
+                            "name": "Airon Kollo",
+                            "profileUrl": "/players/1764319/airon-kollo"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1764319/airon-kollo",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Airon Kollo",
+                        "firstName": "Airon",
+                        "lastName": "Kollo",
+                        "fullName": "Airon Kollo",
+                        "playerId": 1764319,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined66SubstitutionNaN1511245true",
+                        "timeStr": 66,
+                        "type": "Substitution",
+                        "time": 66,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Robert Veering",
+                                "id": "1511245",
+                                "profileUrl": "/players/1511245/robert-veering"
+                            },
+                            {
+                                "name": "Remo Valdmets",
+                                "id": "1657529",
+                                "profileUrl": "/players/1657529/remo-valdmets"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined71SubstitutionNaN851852false",
+                        "timeStr": 71,
+                        "type": "Substitution",
+                        "time": 71,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Giorgi Kutsia",
+                                "id": "851852",
+                                "profileUrl": "/players/851852/giorgi-kutsia"
+                            },
+                            {
+                                "name": "Vakho Bedoshvili",
+                                "id": "1754672",
+                                "profileUrl": "/players/1754672/vakho-bedoshvili"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "1422569973Goal1657530undefinedtrue",
+                        "timeStr": 73,
+                        "type": "Goal",
+                        "time": 73,
+                        "overloadTime": null,
+                        "eventId": 14225699,
+                        "player": {
+                            "id": 1657530,
+                            "name": "Sander Alamaa",
+                            "profileUrl": "/players/1657530/sander-alamaa"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1657530/sander-alamaa",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sander Alamaa",
+                        "firstName": "Sander",
+                        "lastName": "Alamaa",
+                        "fullName": "Sander Alamaa",
+                        "playerId": 1657530,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Sergei Zenjov",
+                        "assistProfileUrl": "/players/77872/sergei-zenjov",
+                        "assistPlayerId": 77872,
+                        "assistKey": "assist_by",
+                        "assistInput": "Sergei Zenjov"
+                    },
+                    {
+                        "reactKey": "1422570375Goal653584undefinedfalse",
+                        "timeStr": 75,
+                        "type": "Goal",
+                        "time": 75,
+                        "overloadTime": null,
+                        "eventId": 14225703,
+                        "player": {
+                            "id": 653584,
+                            "name": "Bakar Kardava",
+                            "profileUrl": "/players/653584/bakar-kardava"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/653584/bakar-kardava",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Bakar Kardava",
+                        "firstName": "Bakar",
+                        "lastName": "Kardava",
+                        "fullName": "Bakar Kardava",
+                        "playerId": 653584,
+                        "newScore": [
+                            2,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": "assist by Giorgi Kutsia",
+                        "assistProfileUrl": "/players/851852/giorgi-kutsia",
+                        "assistPlayerId": 851852,
+                        "assistKey": "assist_by",
+                        "assistInput": "Giorgi Kutsia"
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN1187006false",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Eldar Kuliiev",
+                                "id": "1187006",
+                                "profileUrl": "/players/1187006/eldar-kuliiev"
+                            },
+                            {
+                                "name": "Andria Bartishvili",
+                                "id": "1975599",
+                                "profileUrl": "/players/1975599/andria-bartishvili"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined80SubstitutionNaN1447817false",
+                        "timeStr": 80,
+                        "type": "Substitution",
+                        "time": 80,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Lado Chikhradze",
+                                "id": "1447817",
+                                "profileUrl": "/players/1447817/lado-chikhradze"
+                            },
+                            {
+                                "name": "Nika Sikharulashvili",
+                                "id": "1617957",
+                                "profileUrl": "/players/1617957/nika-sikharulashvili"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN432290true",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Ilja Antonov",
+                                "id": "432290",
+                                "profileUrl": "/players/432290/ilja-antonov"
+                            },
+                            {
+                                "name": "Sander Alamaa",
+                                "id": "1657530",
+                                "profileUrl": "/players/1657530/sander-alamaa"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN431847true",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Rauno Alliku",
+                                "id": "431847",
+                                "profileUrl": "/players/431847/rauno-alliku"
+                            },
+                            {
+                                "name": "Danil Kuraksin",
+                                "id": "1177438",
+                                "profileUrl": "/players/1177438/danil-kuraksin"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined82SubstitutionNaN1082064true",
+                        "timeStr": 82,
+                        "type": "Substitution",
+                        "time": 82,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Taaniel Usta",
+                                "id": "1082064",
+                                "profileUrl": "/players/1082064/taaniel-usta"
+                            },
+                            {
+                                "name": "Sergei Zenjov",
+                                "id": "77872",
+                                "profileUrl": "/players/77872/sergei-zenjov"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined86SubstitutionNaN976051false",
+                        "timeStr": 86,
+                        "type": "Substitution",
+                        "time": 86,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Giorgi Kobuladze",
+                                "id": "976051",
+                                "profileUrl": "/players/976051/giorgi-kobuladze"
+                            },
+                            {
+                                "name": "Armel Zohouri",
+                                "id": "1210298",
+                                "profileUrl": "/players/1210298/armel-zohouri"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Assist",
+                    "Card",
+                    "Half",
+                    "Substitution",
+                    "Yellow",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": {
+                    "bestOf": 2,
+                    "bestOfNum": 1,
+                    "localizedString": {
+                        "key": "first_leg",
+                        "fallback": "1st leg"
+                    }
+                },
+                "Match Date": {
+                    "utcTime": "2026-07-08T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 937348,
+                    "parentLeagueId": 10611,
+                    "link": "/leagues/10611/overview/champions-league-qualification",
+                    "leagueName": "Champions League Qualification",
+                    "roundName": "1",
+                    "round": "1"
+                },
+                "Stadium": {
+                    "name": "A. Le Coq Arena",
+                    "city": "Tallinn",
+                    "country": "Estonia",
+                    "lat": 59.421302996,
+                    "long": 24.732021689,
+                    "capacity": 14336,
+                    "surface": "grass"
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/den.png",
+                    "text": "Sandi Putros",
+                    "countryCode": "DEN",
+                    "country": "Denmark"
+                },
+                "Attendance": 2017
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1588_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#5164335",
+                        "date": {
+                            "utcTime": "2026-06-13T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1588/overview/fci-levadia",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T16:00:00.000Z",
+                            "homeTeam": "Flora Tallinn",
+                            "homeTeamId": 8155,
+                            "homeScore": "1",
+                            "awayTeam": "FCI Levadia",
+                            "awayTeamId": 1588,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/828265_xsmall.png",
+                        "linkToMatch": "/matches/flora-tallinn-vs-parnu-jk-vaprus/4gp25q8j#5164331",
+                        "date": {
+                            "utcTime": "2026-06-16T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/828265/overview/parnu-jk-vaprus",
+                        "tooltipText": {
+                            "utcTime": "2026-06-16T16:00:00.000Z",
+                            "homeTeam": "Parnu JK Vaprus",
+                            "homeTeamId": 828265,
+                            "homeScore": "1",
+                            "awayTeam": "Flora Tallinn",
+                            "awayTeamId": 8155,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "828265",
+                            "name": "Parnu JK Vaprus",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163540_xsmall.png",
+                        "linkToMatch": "/matches/flora-tallinn-vs-paide-linnameeskond/6rrmi9v#5164323",
+                        "date": {
+                            "utcTime": "2026-06-21T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163540/overview/paide-linnameeskond",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T14:00:00.000Z",
+                            "homeTeam": "Flora Tallinn",
+                            "homeTeamId": 8155,
+                            "homeScore": "1",
+                            "awayTeam": "Paide Linnameeskond",
+                            "awayTeamId": 163540,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "163540",
+                            "name": "Paide Linnameeskond",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1588_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-flora-tallinn/s9kr7#5164320",
+                        "date": {
+                            "utcTime": "2026-06-28T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1588/overview/fci-levadia",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T16:00:00.000Z",
+                            "homeTeam": "FCI Levadia",
+                            "homeTeamId": 1588,
+                            "homeScore": "1",
+                            "awayTeam": "Flora Tallinn",
+                            "awayTeamId": 8155,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4146_xsmall.png",
+                        "linkToMatch": "/matches/fc-kuressaare-vs-flora-tallinn/191wl2#5164319",
+                        "date": {
+                            "utcTime": "2026-07-02T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4146/overview/fc-kuressaare",
+                        "tooltipText": {
+                            "utcTime": "2026-07-02T16:00:00.000Z",
+                            "homeTeam": "FC Kuressaare",
+                            "homeTeamId": 4146,
+                            "homeScore": "0",
+                            "awayTeam": "Flora Tallinn",
+                            "awayTeamId": 8155,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "4146",
+                            "name": "FC Kuressaare",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8155",
+                            "name": "Flora Tallinn",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316432_xsmall.png",
+                        "linkToMatch": "/matches/fc-samgurali-tskhaltubo-vs-iberia-1999/41symhqp#5165314",
+                        "date": {
+                            "utcTime": "2026-05-25T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/316432/overview/fc-samgurali-tskhaltubo",
+                        "tooltipText": {
+                            "utcTime": "2026-05-25T15:00:00.000Z",
+                            "homeTeam": "FC Samgurali Tskhaltubo",
+                            "homeTeamId": 316432,
+                            "homeScore": "3",
+                            "awayTeam": "Iberia 1999",
+                            "awayTeamId": 480291,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "316432",
+                            "name": "FC Samgurali Tskhaltubo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "480291",
+                            "name": "Iberia 1999",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6193_xsmall.png",
+                        "linkToMatch": "/matches/dinamo-batumi-vs-iberia-1999/1id0riub#5165318",
+                        "date": {
+                            "utcTime": "2026-05-29T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6193/overview/dinamo-batumi",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T17:00:00.000Z",
+                            "homeTeam": "Iberia 1999",
+                            "homeTeamId": 480291,
+                            "homeScore": "1",
+                            "awayTeam": "Dinamo Batumi",
+                            "awayTeamId": 6193,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "480291",
+                            "name": "Iberia 1999",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6193",
+                            "name": "Dinamo Batumi",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1328532_xsmall.png",
+                        "linkToMatch": "/matches/iberia-1999-vs-spaeri/kvj5jo13#5165279",
+                        "date": {
+                            "utcTime": "2026-06-12T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1328532/overview/spaeri",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T15:00:00.000Z",
+                            "homeTeam": "Iberia 1999",
+                            "homeTeamId": 480291,
+                            "homeScore": "1",
+                            "awayTeam": "Spaeri",
+                            "awayTeamId": 1328532,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "480291",
+                            "name": "Iberia 1999",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1328532",
+                            "name": "Spaeri",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/321780_xsmall.png",
+                        "linkToMatch": "/matches/fc-rustavi-vs-iberia-1999/43rnye2f#5165329",
+                        "date": {
+                            "utcTime": "2026-06-17T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/321780/overview/fc-rustavi",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T15:00:00.000Z",
+                            "homeTeam": "Iberia 1999",
+                            "homeTeamId": 480291,
+                            "homeScore": "1",
+                            "awayTeam": "FC Rustavi",
+                            "awayTeamId": 321780,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "480291",
+                            "name": "Iberia 1999",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "321780",
+                            "name": "FC Rustavi",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/316427_xsmall.png",
+                        "linkToMatch": "/matches/fc-meshakhte-tkibuli-vs-iberia-1999/41sw93z0#5165333",
+                        "date": {
+                            "utcTime": "2026-06-23T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/316427/overview/fc-meshakhte-tkibuli",
+                        "tooltipText": {
+                            "utcTime": "2026-06-23T15:00:00.000Z",
+                            "homeTeam": "Iberia 1999",
+                            "homeTeamId": 480291,
+                            "homeScore": "2",
+                            "awayTeam": "FC Meshakhte Tkibuli",
+                            "awayTeamId": 316427,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "480291",
+                            "name": "Iberia 1999",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "316427",
+                            "name": "FC Meshakhte Tkibuli",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5785664",
+                    "MatchId": 5785664,
+                    "HomeTeamId": 8155,
+                    "AwayTeamId": 480291,
+                    "HomeTeam": "Flora Tallinn",
+                    "AwayTeam": "Iberia 1999",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "0",
+                                "2",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Flora Tallinn have 3W, 0D, 2L in five matches while Iberia 1999 have 2W, 1D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "11",
+                                "away_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Flora Tallinn have scored in their last 11 matches and Iberia 1999 have scored in their last 6 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "6",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Flora Tallinn have scored 6 goals in their last 3 matches, while Iberia 1999 have scored 4."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "12"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Flora Tallinn haven't drawn in their last 12 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between Flora Tallinn and Iberia 1999 on Wed, 08 Jul 2026 16:00:00 GMT?",
+                    "answer": "Iberia 1999 won 3\u20132 over Flora Tallinn on Wed, 08 Jul 2026 16:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": {
+            "langs": "de_gen,en_gen,es_gen,fr_gen,it_gen",
+            "teams": [
+                "Flora Tallinn",
+                "Iberia 1999"
+            ]
+        },
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": {
+                    "stats": [
+                        {
+                            "title": "Top stats",
+                            "key": "top_stats",
+                            "stats": [
+                                {
+                                    "title": "Ball possession",
+                                    "key": "BallPossesion",
+                                    "stats": [
+                                        37,
+                                        63
+                                    ],
+                                    "format": "integer",
+                                    "type": "graph",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Total shots",
+                                    "key": "total_shots",
+                                    "stats": [
+                                        8,
+                                        19
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Shots on target",
+                                    "key": "ShotsOnTarget",
+                                    "stats": [
+                                        4,
+                                        7
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "away"
+                                },
+                                {
+                                    "title": "Corners",
+                                    "key": "corners",
+                                    "stats": [
+                                        4,
+                                        3
+                                    ],
+                                    "format": "integer",
+                                    "type": "text",
+                                    "highlighted": "home"
+                                }
+                            ]
+                        }
+                    ],
+                    "teamColors": {
+                        "darkMode": {
+                            "home": "#008040",
+                            "away": "#ffffff"
+                        },
+                        "lightMode": {
+                            "home": "#008040",
+                            "away": "#101010"
+                        },
+                        "fontDarkMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(29, 29, 29, 1.0)"
+                        },
+                        "fontLightMode": {
+                            "home": "rgba(255, 255, 255, 1.0)",
+                            "away": "rgba(255, 255, 255, 1.0)"
+                        }
+                    }
+                }
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 17,
+            "windSpeed": 4,
+            "windDirectionCardinal": "N",
+            "iconCode": 11,
+            "relativeHumidity": 75,
+            "precipitation": 0.76,
+            "snow": 0,
+            "cloudCover": 100,
+            "description": "Light Rain",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-08T17:30:00Z",
+            "localizedKey": "weather_condition_light_rain",
+            "defaultTitle": "Light Rain"
+        },
+        "lineup": {
+            "matchId": 5785664,
+            "lineupType": "standard",
+            "source": "enetpulse",
+            "availableFilters": [
+                "marketValue",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 8155,
+                "name": "Flora Tallinn",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 1270366,
+                        "age": 25,
+                        "name": "Evert Gr\u00fcnvald",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "33",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 54090,
+                        "firstName": "Evert",
+                        "lastName": "Gr\u00fcnvald",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1177438,
+                        "age": 23,
+                        "name": "Danil Kuraksin",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "7",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 360019,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Danil",
+                        "lastName": "Kuraksin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1507078,
+                        "age": 21,
+                        "name": "Mihhail Kolobov",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "23",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 375638,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 20
+                                }
+                            ]
+                        },
+                        "firstName": "Mihhail",
+                        "lastName": "Kolobov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1764319,
+                        "age": 18,
+                        "name": "Airon Kollo",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "3",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "redCard",
+                                    "time": 61
+                                }
+                            ]
+                        },
+                        "firstName": "Airon",
+                        "lastName": "Kollo",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1776661,
+                        "age": 20,
+                        "name": "Sander Tovstik",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "26",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 340655,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 36
+                                }
+                            ]
+                        },
+                        "firstName": "Sander",
+                        "lastName": "Tovstik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1657529,
+                        "age": 18,
+                        "name": "Remo Valdmets",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "18",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 299372,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Remo",
+                        "lastName": "Valdmets",
+                        "rankings": null
+                    },
+                    {
+                        "id": 948077,
+                        "age": 26,
+                        "name": "Vladislav Kreida",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "32",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 28
+                                }
+                            ]
+                        },
+                        "firstName": "Vladislav",
+                        "lastName": "Kreida",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1507079,
+                        "age": 19,
+                        "name": "Tony Varjund",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "14",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 622333,
+                        "firstName": "Tony",
+                        "lastName": "Varjund",
+                        "rankings": null
+                    },
+                    {
+                        "id": 77872,
+                        "age": 37,
+                        "name": "Sergei Zenjov",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "20",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 73
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Sergei",
+                        "lastName": "Zenjov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 431841,
+                        "age": 30,
+                        "name": "Rauno Sappinen",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 50000,
+                        "firstName": "Rauno",
+                        "lastName": "Sappinen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1657530,
+                        "age": 18,
+                        "name": "Sander Alamaa",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "29",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 332887,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 73
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Sander",
+                        "lastName": "Alamaa",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 16511,
+                    "age": 41,
+                    "name": "Konstantin Vassiljev",
+                    "countryName": "Estonia",
+                    "countryCode": "EST",
+                    "firstName": "Konstantin",
+                    "lastName": "Vassiljev",
+                    "primaryTeamId": 8155,
+                    "primaryTeamName": "Flora Tallinn",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1511245,
+                        "age": 20,
+                        "name": "Robert Veering",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "6",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 529197,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 66,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Robert",
+                        "lastName": "Veering",
+                        "rankings": null
+                    },
+                    {
+                        "id": 432290,
+                        "age": 33,
+                        "name": "Ilja Antonov",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "67",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Ilja",
+                        "lastName": "Antonov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 431847,
+                        "age": 36,
+                        "name": "Rauno Alliku",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Rauno",
+                        "lastName": "Alliku",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1082064,
+                        "age": 23,
+                        "name": "Taaniel Usta",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "17",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 119340,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 82,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Taaniel",
+                        "lastName": "Usta",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1915139,
+                        "age": 15,
+                        "name": "Andero Tatrik",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "22",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Andero",
+                        "lastName": "Tatrik",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1326805,
+                        "age": 22,
+                        "name": "Kaur Kivila",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "99",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 298385,
+                        "firstName": "Kaur",
+                        "lastName": "Kivila",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1422224,
+                        "age": 22,
+                        "name": "Andreas Vaher",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 308395,
+                        "firstName": "Andreas",
+                        "lastName": "Vaher",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1561543,
+                        "age": 19,
+                        "name": "Oscar Pihela",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "24",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 359692,
+                        "firstName": "Oscar",
+                        "lastName": "Pihela",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1792057,
+                        "age": 17,
+                        "name": "Ronald Sammul",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "53",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Ronald",
+                        "lastName": "Sammul",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1635714,
+                        "age": 20,
+                        "name": "Maksim Kalimullin",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "89",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 377839,
+                        "firstName": "Maksim",
+                        "lastName": "Kalimullin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1922713,
+                        "age": 17,
+                        "name": "Marten Kukkonen",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "51",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Marten",
+                        "lastName": "Kukkonen",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1041266,
+                        "age": 23,
+                        "name": "Tristan Teev\u00e4li",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 287776,
+                        "firstName": "Tristan",
+                        "lastName": "Teev\u00e4li",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 23.6,
+                "totalStarterMarketValue": 2534994
+            },
+            "awayTeam": {
+                "id": 480291,
+                "name": "Iberia 1999",
+                "formation": "4-3-3",
+                "starters": [
+                    {
+                        "id": 104432,
+                        "age": 36,
+                        "name": "Giorgi Makaridze",
+                        "positionId": 11,
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "31",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.1,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.2
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.1,
+                            "height": 0.2,
+                            "width": 1
+                        },
+                        "marketValue": 50000,
+                        "firstName": "Giorgi",
+                        "lastName": "Makaridze",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1210298,
+                        "age": 25,
+                        "name": "Armel Zohouri",
+                        "positionId": 32,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "20",
+                        "countryName": "Ivory Coast",
+                        "countryCode": "CIV",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.875,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.125,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 143010,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Armel",
+                        "lastName": "Zohouri",
+                        "rankings": null
+                    },
+                    {
+                        "id": 766608,
+                        "age": 29,
+                        "name": "Vahid Selimovic",
+                        "positionId": 34,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "4",
+                        "countryName": "Luxembourg",
+                        "countryCode": "LUX",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.625,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.375,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 50000,
+                        "firstName": "Vahid",
+                        "lastName": "Selimovic",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1780047,
+                        "age": 19,
+                        "name": "Aleksandre Amisulashvili",
+                        "positionId": 36,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "25",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.375,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.625,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "firstName": "Aleksandre",
+                        "lastName": "Amisulashvili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1065639,
+                        "age": 26,
+                        "name": "Jemali-Giorgi Jinjolava",
+                        "positionId": 38,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "5",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.357,
+                            "y": 0.125,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.875,
+                            "y": 0.357,
+                            "height": 0.2,
+                            "width": 0.25
+                        },
+                        "marketValue": 66646,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 21
+                                }
+                            ]
+                        },
+                        "firstName": "Jemali-Giorgi",
+                        "lastName": "Jinjolava",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1617957,
+                        "age": 22,
+                        "name": "Nika Sikharulashvili",
+                        "positionId": 73,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 341457,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Nika",
+                        "lastName": "Sikharulashvili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1661580,
+                        "age": 21,
+                        "name": "Nikoloz Dadiani",
+                        "positionId": 75,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "6",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 67086,
+                        "firstName": "Nikoloz",
+                        "lastName": "Dadiani",
+                        "rankings": null
+                    },
+                    {
+                        "id": 653584,
+                        "age": 31,
+                        "name": "Bakar Kardava",
+                        "positionId": 77,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "8",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.613,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.613,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 50000,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 75
+                                }
+                            ]
+                        },
+                        "firstName": "Bakar",
+                        "lastName": "Kardava",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1975599,
+                        "age": 17,
+                        "name": "Andria Bartishvili",
+                        "positionId": 103,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "11",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.79,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.21,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Andria",
+                        "lastName": "Bartishvili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1754672,
+                        "age": 22,
+                        "name": "Vakho Bedoshvili",
+                        "positionId": 105,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "24",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.5,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.5,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 174181,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 36
+                                },
+                                {
+                                    "type": "assist",
+                                    "time": 18
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subOut"
+                                }
+                            ]
+                        },
+                        "firstName": "Vakho",
+                        "lastName": "Bedoshvili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1445810,
+                        "age": 26,
+                        "name": "Zviad Natchkebia",
+                        "positionId": 107,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "10",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "horizontalLayout": {
+                            "x": 0.87,
+                            "y": 0.21,
+                            "height": 0.25,
+                            "width": 0.257
+                        },
+                        "verticalLayout": {
+                            "x": 0.79,
+                            "y": 0.87,
+                            "height": 0.2,
+                            "width": 0.29
+                        },
+                        "marketValue": 90975,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 18
+                                }
+                            ]
+                        },
+                        "firstName": "Zviad",
+                        "lastName": "Natchkebia",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 9515,
+                    "age": 49,
+                    "name": "Andrey Demchenko",
+                    "countryName": "Ukraine",
+                    "countryCode": "UKR",
+                    "firstName": "Andrey",
+                    "lastName": "Demchenko",
+                    "primaryTeamId": 480291,
+                    "primaryTeamName": "Iberia 1999",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 851852,
+                        "age": 26,
+                        "name": "Giorgi Kutsia",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "27",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "marketValue": 164236,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "assist",
+                                    "time": 75
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 71,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Giorgi",
+                        "lastName": "Kutsia",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1187006,
+                        "age": 24,
+                        "name": "Eldar Kuliiev",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "23",
+                        "countryName": "Ukraine",
+                        "countryCode": "UKR",
+                        "marketValue": 424606,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Eldar",
+                        "lastName": "Kuliiev",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1447817,
+                        "age": 24,
+                        "name": "Lado Chikhradze",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "29",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "marketValue": 84085,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 80,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Lado",
+                        "lastName": "Chikhradze",
+                        "rankings": null
+                    },
+                    {
+                        "id": 976051,
+                        "age": 29,
+                        "name": "Giorgi Kobuladze",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "40",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 86,
+                                    "type": "subIn"
+                                }
+                            ]
+                        },
+                        "firstName": "Giorgi",
+                        "lastName": "Kobuladze",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1178795,
+                        "age": 26,
+                        "name": "Tornike Megrelishvili",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "marketValue": 91911,
+                        "firstName": "Tornike",
+                        "lastName": "Megrelishvili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1782725,
+                        "age": 21,
+                        "name": "Andrey Victor",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "33",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Andrey",
+                        "lastName": "Victor",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1667423,
+                        "age": 20,
+                        "name": "Givi Khachidze",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "22",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "firstName": "Givi",
+                        "lastName": "Khachidze",
+                        "rankings": null
+                    },
+                    {
+                        "id": 2073258,
+                        "age": 18,
+                        "name": "Nikoloz Botchorishvili",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "30",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "firstName": "Nikoloz",
+                        "lastName": "Botchorishvili",
+                        "rankings": null
+                    },
+                    {
+                        "id": 858710,
+                        "age": 29,
+                        "name": "Ibrahim Alhassan",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "14",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "marketValue": 204323,
+                        "firstName": "Ibrahim",
+                        "lastName": "Alhassan",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1761101,
+                        "age": 24,
+                        "name": "Amiran Dzagania",
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "9",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "marketValue": 91159,
+                        "firstName": "Amiran",
+                        "lastName": "Dzagania",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.4,
+                "totalStarterMarketValue": 1033355
+            }
+        },
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "flora-tallinn-vs-iberia-1999",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5785664",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Flora Tallinn",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8155.png",
+                "url": "https://www.fotmob.com/teams/8155/overview/flora-tallinn",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Iberia 1999",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/480291.png",
+                "url": "https://www.fotmob.com/teams/480291/overview/iberia-1999",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Flora Tallinn vs Iberia 1999",
+            "description": "Follow Flora Tallinn vs Iberia 1999 live on fotmob.com",
+            "startDate": "2026-07-08T16:00:00.000Z",
+            "endDate": "2026-07-08T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "A. Le Coq Arena",
+                "latitude": 59.421302996,
+                "longitude": 24.732021689,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Estonia",
+                    "addressLocality": "Tallinn"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8155.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/480291.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5785664",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-08T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Flora Tallinn",
+                    "url": "https://www.fotmob.com/teams/8155/overview/flora-tallinn"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Iberia 1999",
+                    "url": "https://www.fotmob.com/teams/480291/overview/iberia-1999"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Champions League Qualification",
+                        "item": "https://www.fotmob.com/leagues/10611/overview/champions-league-qualification"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Flora Tallinn - Iberia 1999",
+                        "item": "https://www.fotmob.com/match/5785664"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Champions League Qualification",
+                        "item": "https://www.fotmob.com/leagues/10611/overview/champions-league-qualification"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Iberia 1999",
+                        "item": "https://www.fotmob.com/teams/480291/overview/iberia-1999"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Flora Tallinn - Iberia 1999",
+                        "item": "https://www.fotmob.com/match/5785664"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Champions League Qualification",
+                        "item": "https://www.fotmob.com/leagues/10611/overview/champions-league-qualification"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Flora Tallinn",
+                        "item": "https://www.fotmob.com/teams/8155/overview/flora-tallinn"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Flora Tallinn - Iberia 1999",
+                        "item": "https://www.fotmob.com/match/5785664"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Flora Tallinn and Iberia 1999 on Wed, 08 Jul 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Iberia 1999 won 3\u20132 over Flora Tallinn on Wed, 08 Jul 2026 16:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}
