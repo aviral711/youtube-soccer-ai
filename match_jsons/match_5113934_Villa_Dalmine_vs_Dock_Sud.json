@@ -1,0 +1,1310 @@
+{
+    "general": {
+        "matchId": "5113934",
+        "matchName": "Villa Dalmine-vs-Dock Sud_Fri, Jul 10, 2026, 18:00 UTC",
+        "matchRound": "24",
+        "teamColors": {
+            "darkMode": {
+                "home": "#333333",
+                "away": "#DDDDDD"
+            },
+            "lightMode": {
+                "home": "#400060",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 916561,
+        "leagueName": "Primera B Metropolitana",
+        "leagueRoundName": "24",
+        "parentLeagueId": 9213,
+        "countryCode": "ARG",
+        "homeTeam": {
+            "name": "Villa Dalmine",
+            "id": 298630
+        },
+        "awayTeam": {
+            "name": "Dock Sud",
+            "id": 581802
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 18:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T18:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Villa Dalmine",
+                "id": 298630,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/298630_small.png",
+                "pageUrl": "/teams/298630/overview/villa-dalmine"
+            },
+            {
+                "name": "Dock Sud",
+                "id": 581802,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581802_small.png",
+                "pageUrl": "/teams/581802/overview/dock-sud"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T18:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 20:05:17",
+                "firstHalfEnded": "10.07.2026 20:54:04",
+                "secondHalfStarted": "10.07.2026 21:12:58",
+                "secondHalfEnded": "10.07.2026 22:03:12",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 22:03:12"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Torres": [
+                    {
+                        "reactKey": "142269312Goal1209065undefinedtrue",
+                        "timeStr": 2,
+                        "type": "Goal",
+                        "time": 2,
+                        "overloadTime": null,
+                        "eventId": 14226931,
+                        "player": {
+                            "id": 1209065,
+                            "name": "Cristian Torres",
+                            "profileUrl": "/players/1209065/cristian-torres"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1209065/cristian-torres",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cristian Torres",
+                        "firstName": "Cristian",
+                        "lastName": "Torres",
+                        "fullName": "Cristian Torres",
+                        "playerId": 1209065,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Prim": [
+                    {
+                        "reactKey": "1422697462Goal185626undefinedtrue",
+                        "timeStr": 62,
+                        "type": "Goal",
+                        "time": 62,
+                        "overloadTime": null,
+                        "eventId": 14226974,
+                        "player": {
+                            "id": 185626,
+                            "name": "Santiago Prim",
+                            "profileUrl": "/players/185626/santiago-prim"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/185626/santiago-prim",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Santiago Prim",
+                        "firstName": "Santiago",
+                        "lastName": "Prim",
+                        "fullName": "Santiago Prim",
+                        "playerId": 185626,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Alvarez": [
+                    {
+                        "reactKey": "1422694045Goal1011904undefinedfalse",
+                        "timeStr": "45 + 2",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 2,
+                        "eventId": 14226940,
+                        "player": {
+                            "id": 1011904,
+                            "name": "Iv\u00e1n Alvarez",
+                            "profileUrl": "/players/1011904/ivan-alvarez"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1011904/ivan-alvarez",
+                        "overloadTimeStr": "+2",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Iv\u00e1n Alvarez",
+                        "firstName": "Iv\u00e1n",
+                        "lastName": "Alvarez",
+                        "fullName": "Iv\u00e1n Alvarez",
+                        "playerId": 1011904,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {
+                "<TBD>": [
+                    {
+                        "reactKey": "1422701484Card0undefinedfalse",
+                        "timeStr": 84,
+                        "type": "Card",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 14227014,
+                        "player": {
+                            "id": 0,
+                            "name": "<TBD>",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "<TBD>",
+                        "firstName": "",
+                        "lastName": "<TBD>",
+                        "fullName": "<TBD>",
+                        "playerId": 0,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5113934,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142269312Goal1209065undefinedtrue",
+                        "timeStr": 2,
+                        "type": "Goal",
+                        "time": 2,
+                        "overloadTime": null,
+                        "eventId": 14226931,
+                        "player": {
+                            "id": 1209065,
+                            "name": "Cristian Torres",
+                            "profileUrl": "/players/1209065/cristian-torres"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1209065/cristian-torres",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cristian Torres",
+                        "firstName": "Cristian",
+                        "lastName": "Torres",
+                        "fullName": "Cristian Torres",
+                        "playerId": 1209065,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422694045Goal1011904undefinedfalse",
+                        "timeStr": "45 + 2",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 2,
+                        "eventId": 14226940,
+                        "player": {
+                            "id": 1011904,
+                            "name": "Iv\u00e1n Alvarez",
+                            "profileUrl": "/players/1011904/ivan-alvarez"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1011904/ivan-alvarez",
+                        "overloadTimeStr": "+2",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Iv\u00e1n Alvarez",
+                        "firstName": "Iv\u00e1n",
+                        "lastName": "Alvarez",
+                        "fullName": "Iv\u00e1n Alvarez",
+                        "playerId": 1011904,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422697462Goal185626undefinedtrue",
+                        "timeStr": 62,
+                        "type": "Goal",
+                        "time": 62,
+                        "overloadTime": null,
+                        "eventId": 14226974,
+                        "player": {
+                            "id": 185626,
+                            "name": "Santiago Prim",
+                            "profileUrl": "/players/185626/santiago-prim"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/185626/santiago-prim",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Santiago Prim",
+                        "firstName": "Santiago",
+                        "lastName": "Prim",
+                        "fullName": "Santiago Prim",
+                        "playerId": 185626,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422701484Card0undefinedfalse",
+                        "timeStr": 84,
+                        "type": "Card",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 14227014,
+                        "player": {
+                            "id": 0,
+                            "name": "<TBD>",
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "<TBD>",
+                        "firstName": "",
+                        "lastName": "<TBD>",
+                        "fullName": "<TBD>",
+                        "playerId": 0,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Card",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T18:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 916561,
+                    "parentLeagueId": 9213,
+                    "link": "/leagues/9213/overview/primera-b-metropolitana",
+                    "leagueName": "Primera B Metropolitana",
+                    "roundName": "24",
+                    "round": "24"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213526_xsmall.png",
+                        "linkToMatch": "/matches/villa-san-carlos-vs-villa-dalmine/1o90rxi4#5113880",
+                        "date": {
+                            "utcTime": "2026-06-06T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213526/overview/villa-san-carlos",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T18:30:00.000Z",
+                            "homeTeam": "Villa Dalmine",
+                            "homeTeamId": 298630,
+                            "homeScore": "0",
+                            "awayTeam": "Villa San Carlos",
+                            "awayTeamId": 213526,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "298630",
+                            "name": "Villa Dalmine",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "213526",
+                            "name": "Villa San Carlos",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581825_xsmall.png",
+                        "linkToMatch": "/matches/villa-dalmine-vs-san-martin-burzaco/4y27xv7h#5113889",
+                        "date": {
+                            "utcTime": "2026-06-12T23:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581825/overview/san-martin-burzaco",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T23:15:00.000Z",
+                            "homeTeam": "San Martin Burzaco",
+                            "homeTeamId": 581825,
+                            "homeScore": "0",
+                            "awayTeam": "Villa Dalmine",
+                            "awayTeamId": 298630,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "581825",
+                            "name": "San Martin Burzaco",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "298630",
+                            "name": "Villa Dalmine",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213533_xsmall.png",
+                        "linkToMatch": "/matches/sportivo-italiano-vs-villa-dalmine/1o92wrss#5113902",
+                        "date": {
+                            "utcTime": "2026-06-20T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213533/overview/sportivo-italiano",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T18:30:00.000Z",
+                            "homeTeam": "Villa Dalmine",
+                            "homeTeamId": 298630,
+                            "homeScore": "2",
+                            "awayTeam": "Sportivo Italiano",
+                            "awayTeamId": 213533,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "298630",
+                            "name": "Villa Dalmine",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "213533",
+                            "name": "Sportivo Italiano",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/837624_xsmall.png",
+                        "linkToMatch": "/matches/villa-dalmine-vs-casd-camioneros/88k0nard#5113913",
+                        "date": {
+                            "utcTime": "2026-06-27T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/837624/overview/casd-camioneros",
+                        "tooltipText": {
+                            "utcTime": "2026-06-27T16:00:00.000Z",
+                            "homeTeam": "Villa Dalmine",
+                            "homeTeamId": 298630,
+                            "homeScore": "0",
+                            "awayTeam": "CASD Camioneros",
+                            "awayTeamId": 837624,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "298630",
+                            "name": "Villa Dalmine",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "837624",
+                            "name": "CASD Camioneros",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/178272_xsmall.png",
+                        "linkToMatch": "/matches/deportivo-merlo-vs-villa-dalmine/1g8oxqob#5113917",
+                        "date": {
+                            "utcTime": "2026-07-04T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/178272/overview/deportivo-merlo",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T18:00:00.000Z",
+                            "homeTeam": "Deportivo Merlo",
+                            "homeTeamId": 178272,
+                            "homeScore": "1",
+                            "awayTeam": "Villa Dalmine",
+                            "awayTeamId": 298630,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "178272",
+                            "name": "Deportivo Merlo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "298630",
+                            "name": "Villa Dalmine",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581808_xsmall.png",
+                        "linkToMatch": "/matches/dock-sud-vs-laferrere/8n09icz3#5113877",
+                        "date": {
+                            "utcTime": "2026-06-07T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581808/overview/laferrere",
+                        "tooltipText": {
+                            "utcTime": "2026-06-07T17:30:00.000Z",
+                            "homeTeam": "Laferrere",
+                            "homeTeamId": 581808,
+                            "homeScore": "2",
+                            "awayTeam": "Dock Sud",
+                            "awayTeamId": 581802,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "581808",
+                            "name": "Laferrere",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581802",
+                            "name": "Dock Sud",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581805_xsmall.png",
+                        "linkToMatch": "/matches/dock-sud-vs-ca-talleres-remedios-de-escalada/8n07fjfl#5113886",
+                        "date": {
+                            "utcTime": "2026-06-13T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581805/overview/ca-talleres-remedios-de-escalada",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T18:30:00.000Z",
+                            "homeTeam": "Dock Sud",
+                            "homeTeamId": 581802,
+                            "homeScore": "1",
+                            "awayTeam": "CA Talleres Remedios de Escalada",
+                            "awayTeamId": 581805,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "581802",
+                            "name": "Dock Sud",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "581805",
+                            "name": "CA Talleres Remedios de Escalada",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581809_xsmall.png",
+                        "linkToMatch": "/matches/dock-sud-vs-argentino-de-merlo/8n0a7atn#5113892",
+                        "date": {
+                            "utcTime": "2026-06-21T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581809/overview/argentino-de-merlo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T17:30:00.000Z",
+                            "homeTeam": "Argentino de Merlo",
+                            "homeTeamId": 581809,
+                            "homeScore": "3",
+                            "awayTeam": "Dock Sud",
+                            "awayTeamId": 581802,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "581809",
+                            "name": "Argentino de Merlo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581802",
+                            "name": "Dock Sud",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10098_xsmall.png",
+                        "linkToMatch": "/matches/arsenal-sarandi-vs-dock-sud/28h1vyo0#5113904",
+                        "date": {
+                            "utcTime": "2026-06-28T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10098/overview/arsenal-sarandi",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T18:00:00.000Z",
+                            "homeTeam": "Arsenal Sarandi",
+                            "homeTeamId": 10098,
+                            "homeScore": "0",
+                            "awayTeam": "Dock Sud",
+                            "awayTeamId": 581802,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "10098",
+                            "name": "Arsenal Sarandi",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581802",
+                            "name": "Dock Sud",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/298633_xsmall.png",
+                        "linkToMatch": "/matches/excursionistas-vs-dock-sud/4y1xgg2g#5113920",
+                        "date": {
+                            "utcTime": "2026-07-04T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/298633/overview/excursionistas",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T18:00:00.000Z",
+                            "homeTeam": "Dock Sud",
+                            "homeTeamId": 581802,
+                            "homeScore": "3",
+                            "awayTeam": "Excursionistas",
+                            "awayTeamId": 298633,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "581802",
+                            "name": "Dock Sud",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "298633",
+                            "name": "Excursionistas",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5113934",
+                    "MatchId": 5113934,
+                    "HomeTeamId": 298630,
+                    "AwayTeamId": 581802,
+                    "HomeTeam": "Villa Dalmine",
+                    "AwayTeam": "Dock Sud",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4",
+                                "2",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Villa Dalmine haven't lost to Dock Sud in their last 4 meetings (2W, 2D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Villa Dalmine have scored 4 goals in their last 3 matches, while Dock Sud have scored 4."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Villa Dalmine have scored 4 goals in their last 3 matches, while Dock Sud have scored 4."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Villa Dalmine haven't drawn in their last 4 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 298630,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#400060"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 581802,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "ARG",
+            "QAData": [
+                {
+                    "question": "Who won between Villa Dalmine and Dock Sud on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "answer": "Villa Dalmine won 2\u20131 over Dock Sud on Fri, 10 Jul 2026 18:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "916561",
+            "url": "https://data.fotmob.com/tables.ext.916561.fot.gz",
+            "teams": [
+                298630,
+                581802
+            ],
+            "tournamentNameForUrl": "Primera B Metropolitana",
+            "parentLeagueId": 9213,
+            "countryCode": "ARG"
+        },
+        "h2h": {
+            "summary": [
+                2,
+                2,
+                1
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-02-27T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/villa-dalmine-vs-dock-sud/4y1vvu0y#5113700",
+                    "league": {
+                        "name": "Primera B Metropolitana",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    "home": {
+                        "name": "Dock Sud",
+                        "id": "581802"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-27T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Villa Dalmine",
+                        "id": "298630"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-07-26T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/villa-dalmine-vs-dock-sud/4y1vvu0y#4823166",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Villa Dalmine",
+                        "id": "298630"
+                    },
+                    "status": {
+                        "utcTime": "2025-07-26T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dock Sud",
+                        "id": "581802"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-03-09T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/villa-dalmine-vs-dock-sud/4y1vvu0y#4704533",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Dock Sud",
+                        "id": "581802"
+                    },
+                    "status": {
+                        "utcTime": "2025-03-09T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Villa Dalmine",
+                        "id": "298630"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-06-30T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/villa-dalmine-vs-dock-sud/4y1vvu0y#4408830",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Villa Dalmine",
+                        "id": "298630"
+                    },
+                    "status": {
+                        "utcTime": "2024-06-30T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dock Sud",
+                        "id": "581802"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-02-11T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/villa-dalmine-vs-dock-sud/4y1vvu0y#4408602",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Dock Sud",
+                        "id": "581802"
+                    },
+                    "status": {
+                        "utcTime": "2024-02-11T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Villa Dalmine",
+                        "id": "298630"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "villa-dalmine-vs-dock-sud",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5113934",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Villa Dalmine",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/298630.png",
+                "url": "https://www.fotmob.com/teams/298630/overview/villa-dalmine",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Dock Sud",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/581802.png",
+                "url": "https://www.fotmob.com/teams/581802/overview/dock-sud",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Villa Dalmine vs Dock Sud",
+            "description": "Follow Villa Dalmine vs Dock Sud live on fotmob.com",
+            "startDate": "2026-07-10T18:00:00.000Z",
+            "endDate": "2026-07-10T20:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/298630.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/581802.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5113934",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T18:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Villa Dalmine",
+                    "url": "https://www.fotmob.com/teams/298630/overview/villa-dalmine"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Dock Sud",
+                    "url": "https://www.fotmob.com/teams/581802/overview/dock-sud"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Villa Dalmine - Dock Sud",
+                        "item": "https://www.fotmob.com/match/5113934"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Dock Sud",
+                        "item": "https://www.fotmob.com/teams/581802/overview/dock-sud"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Villa Dalmine - Dock Sud",
+                        "item": "https://www.fotmob.com/match/5113934"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Villa Dalmine",
+                        "item": "https://www.fotmob.com/teams/298630/overview/villa-dalmine"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Villa Dalmine - Dock Sud",
+                        "item": "https://www.fotmob.com/match/5113934"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Villa Dalmine and Dock Sud on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Villa Dalmine won 2\u20131 over Dock Sud on Fri, 10 Jul 2026 18:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

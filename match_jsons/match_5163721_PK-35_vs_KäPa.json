@@ -1,0 +1,1922 @@
+{
+    "general": {
+        "matchId": "5163721",
+        "matchName": "PK-35-vs-K\u00e4Pa_Fri, Jul 10, 2026, 16:00 UTC",
+        "matchRound": "1",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 920261,
+        "leagueName": "Ykkosliiga",
+        "leagueRoundName": "1",
+        "parentLeagueId": 251,
+        "countryCode": "FIN",
+        "homeTeam": {
+            "name": "PK-35",
+            "id": 260273
+        },
+        "awayTeam": {
+            "name": "K\u00e4Pa",
+            "id": 2159
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "PK-35",
+                "id": 260273,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/260273_small.png",
+                "pageUrl": "/teams/260273/overview/pk-35"
+            },
+            {
+                "name": "K\u00e4Pa",
+                "id": 2159,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2159_small.png",
+                "pageUrl": "/teams/2159/overview/kapa"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T16:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 18:02:23",
+                "firstHalfEnded": "10.07.2026 18:47:15",
+                "secondHalfStarted": "10.07.2026 19:02:19",
+                "secondHalfEnded": "10.07.2026 19:50:58",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 19:50:58"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Kawakita": [
+                    {
+                        "reactKey": "1422687217Goal1757941undefinedtrue",
+                        "timeStr": 17,
+                        "type": "Goal",
+                        "time": 17,
+                        "overloadTime": null,
+                        "eventId": 14226872,
+                        "player": {
+                            "id": 1757941,
+                            "name": "Emu Kawakita",
+                            "profileUrl": "/players/1757941/emu-kawakita"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1757941/emu-kawakita",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Emu Kawakita",
+                        "firstName": "Emu",
+                        "lastName": "Kawakita",
+                        "fullName": "Emu Kawakita",
+                        "playerId": 1757941,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Sipi": [
+                    {
+                        "reactKey": "1422687320Goal1396485undefinedtrue",
+                        "timeStr": 20,
+                        "type": "Goal",
+                        "time": 20,
+                        "overloadTime": null,
+                        "eventId": 14226873,
+                        "player": {
+                            "id": 1396485,
+                            "name": "Rasmus Sipi",
+                            "profileUrl": "/players/1396485/rasmus-sipi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1396485/rasmus-sipi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Rasmus Sipi",
+                        "firstName": "Rasmus",
+                        "lastName": "Sipi",
+                        "fullName": "Rasmus Sipi",
+                        "playerId": 1396485,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Sadik": [
+                    {
+                        "reactKey": "1422692390Goal835928undefinedtrue",
+                        "timeStr": "90 + 2",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "eventId": 14226923,
+                        "player": {
+                            "id": 835928,
+                            "name": "Irfan Sadik",
+                            "profileUrl": "/players/835928/irfan-sadik"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/835928/irfan-sadik",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Irfan Sadik",
+                        "firstName": "Irfan",
+                        "lastName": "Sadik",
+                        "fullName": "Irfan Sadik",
+                        "playerId": 835928,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Kuningas": [
+                    {
+                        "reactKey": "1422689859Goal629723undefinedfalse",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 14226898,
+                        "player": {
+                            "id": 629723,
+                            "name": "Mikko Kuningas",
+                            "profileUrl": "/players/629723/mikko-kuningas"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/629723/mikko-kuningas",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mikko Kuningas",
+                        "firstName": "Mikko",
+                        "lastName": "Kuningas",
+                        "fullName": "Mikko Kuningas",
+                        "playerId": 629723,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5163721,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422687217Goal1757941undefinedtrue",
+                        "timeStr": 17,
+                        "type": "Goal",
+                        "time": 17,
+                        "overloadTime": null,
+                        "eventId": 14226872,
+                        "player": {
+                            "id": 1757941,
+                            "name": "Emu Kawakita",
+                            "profileUrl": "/players/1757941/emu-kawakita"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1757941/emu-kawakita",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Emu Kawakita",
+                        "firstName": "Emu",
+                        "lastName": "Kawakita",
+                        "fullName": "Emu Kawakita",
+                        "playerId": 1757941,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422687320Goal1396485undefinedtrue",
+                        "timeStr": 20,
+                        "type": "Goal",
+                        "time": 20,
+                        "overloadTime": null,
+                        "eventId": 14226873,
+                        "player": {
+                            "id": 1396485,
+                            "name": "Rasmus Sipi",
+                            "profileUrl": "/players/1396485/rasmus-sipi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1396485/rasmus-sipi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Rasmus Sipi",
+                        "firstName": "Rasmus",
+                        "lastName": "Sipi",
+                        "fullName": "Rasmus Sipi",
+                        "playerId": 1396485,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422689859Goal629723undefinedfalse",
+                        "timeStr": 59,
+                        "type": "Goal",
+                        "time": 59,
+                        "overloadTime": null,
+                        "eventId": 14226898,
+                        "player": {
+                            "id": 629723,
+                            "name": "Mikko Kuningas",
+                            "profileUrl": "/players/629723/mikko-kuningas"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/629723/mikko-kuningas",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Mikko Kuningas",
+                        "firstName": "Mikko",
+                        "lastName": "Kuningas",
+                        "fullName": "Mikko Kuningas",
+                        "playerId": 629723,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422692390Goal835928undefinedtrue",
+                        "timeStr": "90 + 2",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 2,
+                        "eventId": 14226923,
+                        "player": {
+                            "id": 835928,
+                            "name": "Irfan Sadik",
+                            "profileUrl": "/players/835928/irfan-sadik"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "profileUrl": "/players/835928/irfan-sadik",
+                        "overloadTimeStr": "+2",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Irfan Sadik",
+                        "firstName": "Irfan",
+                        "lastName": "Sadik",
+                        "fullName": "Irfan Sadik",
+                        "playerId": 835928,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 920261,
+                    "parentLeagueId": 251,
+                    "link": "/leagues/251/overview/ykkosliiga",
+                    "leagueName": "Ykkosliiga",
+                    "roundName": "1",
+                    "round": "1"
+                },
+                "Stadium": {
+                    "name": "Markku.fi Areena",
+                    "city": "Helsinki",
+                    "country": "Finland",
+                    "lat": 60.234692982,
+                    "long": 24.962557554,
+                    "capacity": 3112,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2160_xsmall.png",
+                        "linkToMatch": "/matches/klubi-04-vs-pk-35/fti9ile#5163696",
+                        "date": {
+                            "utcTime": "2026-05-27T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2160/overview/klubi-04",
+                        "tooltipText": {
+                            "utcTime": "2026-05-27T16:00:00.000Z",
+                            "homeTeam": "Klubi 04",
+                            "homeTeamId": 2160,
+                            "homeScore": "0",
+                            "awayTeam": "PK-35",
+                            "awayTeamId": 260273,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "2160",
+                            "name": "Klubi 04",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "260273",
+                            "name": "PK-35",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2160_xsmall.png",
+                        "linkToMatch": "/matches/klubi-04-vs-pk-35/fti9ile#5163700",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2160/overview/klubi-04",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "PK-35",
+                            "homeTeamId": 260273,
+                            "homeScore": "1",
+                            "awayTeam": "Klubi 04",
+                            "awayTeamId": 2160,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "260273",
+                            "name": "PK-35",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2160",
+                            "name": "Klubi 04",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1906_xsmall.png",
+                        "linkToMatch": "/matches/japs-vs-pk-35/fselhrb#5163707",
+                        "date": {
+                            "utcTime": "2026-06-12T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1906/overview/japs",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T15:30:00.000Z",
+                            "homeTeam": "J\u00e4PS",
+                            "homeTeamId": 1906,
+                            "homeScore": "0",
+                            "awayTeam": "PK-35",
+                            "awayTeamId": 260273,
+                            "awayScore": "5"
+                        },
+                        "score": "0 - 5",
+                        "home": {
+                            "id": "1906",
+                            "name": "J\u00e4PS",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "260273",
+                            "name": "PK-35",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6003_xsmall.png",
+                        "linkToMatch": "/matches/mp-vs-pk-35/gaayoel#5163712",
+                        "date": {
+                            "utcTime": "2026-06-26T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6003/overview/mp",
+                        "tooltipText": {
+                            "utcTime": "2026-06-26T16:00:00.000Z",
+                            "homeTeam": "PK-35",
+                            "homeTeamId": 260273,
+                            "homeScore": "2",
+                            "awayTeam": "MP",
+                            "awayTeamId": 6003,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "260273",
+                            "name": "PK-35",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6003",
+                            "name": "MP",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162142_xsmall.png",
+                        "linkToMatch": "/matches/eif-vs-pk-35/14zhwobt#5163718",
+                        "date": {
+                            "utcTime": "2026-07-04T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/162142/overview/eif",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T13:00:00.000Z",
+                            "homeTeam": "EIF",
+                            "homeTeamId": 162142,
+                            "homeScore": "0",
+                            "awayTeam": "PK-35",
+                            "awayTeamId": 260273,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "162142",
+                            "name": "EIF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "260273",
+                            "name": "PK-35",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/162142_xsmall.png",
+                        "linkToMatch": "/matches/kapa-vs-eif/67824q2#5163694",
+                        "date": {
+                            "utcTime": "2026-05-23T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/162142/overview/eif",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T14:00:00.000Z",
+                            "homeTeam": "EIF",
+                            "homeTeamId": 162142,
+                            "homeScore": "1",
+                            "awayTeam": "K\u00e4Pa",
+                            "awayTeamId": 2159,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "162142",
+                            "name": "EIF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2159",
+                            "name": "K\u00e4Pa",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1906_xsmall.png",
+                        "linkToMatch": "/matches/japs-vs-kapa/4x6bk#5163699",
+                        "date": {
+                            "utcTime": "2026-05-29T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1906/overview/japs",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T16:00:00.000Z",
+                            "homeTeam": "K\u00e4Pa",
+                            "homeTeamId": 2159,
+                            "homeScore": "2",
+                            "awayTeam": "J\u00e4PS",
+                            "awayTeamId": 1906,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "2159",
+                            "name": "K\u00e4Pa",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1906",
+                            "name": "J\u00e4PS",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6701_xsmall.png",
+                        "linkToMatch": "/matches/kapa-vs-fc-ktp/ndhxf#5163702",
+                        "date": {
+                            "utcTime": "2026-06-05T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6701/overview/fc-ktp",
+                        "tooltipText": {
+                            "utcTime": "2026-06-05T16:00:00.000Z",
+                            "homeTeam": "K\u00e4Pa",
+                            "homeTeamId": 2159,
+                            "homeScore": "1",
+                            "awayTeam": "FC KTP",
+                            "awayTeamId": 6701,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "2159",
+                            "name": "K\u00e4Pa",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6701",
+                            "name": "FC KTP",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2362_xsmall.png",
+                        "linkToMatch": "/matches/kapa-vs-jippo/6355j#5163708",
+                        "date": {
+                            "utcTime": "2026-06-13T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2362/overview/jippo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T13:00:00.000Z",
+                            "homeTeam": "JIPPO",
+                            "homeTeamId": 2362,
+                            "homeScore": "3",
+                            "awayTeam": "K\u00e4Pa",
+                            "awayTeamId": 2159,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "2362",
+                            "name": "JIPPO",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2159",
+                            "name": "K\u00e4Pa",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1906_xsmall.png",
+                        "linkToMatch": "/matches/japs-vs-kapa/4x6bk#5163715",
+                        "date": {
+                            "utcTime": "2026-06-28T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1906/overview/japs",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T13:00:00.000Z",
+                            "homeTeam": "K\u00e4Pa",
+                            "homeTeamId": 2159,
+                            "homeScore": "3",
+                            "awayTeam": "J\u00e4PS",
+                            "awayTeamId": 1906,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "2159",
+                            "name": "K\u00e4Pa",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1906",
+                            "name": "J\u00e4PS",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5163721",
+                    "MatchId": 5163721,
+                    "HomeTeamId": 260273,
+                    "AwayTeamId": 2159,
+                    "HomeTeam": "PK-35",
+                    "AwayTeam": "K\u00e4Pa",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} and {1} have drawn their last {2} matches against each other.",
+                            "TextTemplateId": "h2h_draw_streak_v2",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "PK-35 and K\u00e4Pa have drawn their last 3 matches against each other."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "10",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "PK-35 have scored 10 goals in their last 3 matches, while K\u00e4Pa have scored 4."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "home_team",
+                                "10",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "PK-35 have scored 10 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "away_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "K\u00e4Pa haven't drawn in their last 5 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 260273,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 12,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 12 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 260273,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (8)",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2159,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 6 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 2159,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "FIN",
+            "QAData": [
+                {
+                    "question": "Who won between PK-35 and K\u00e4Pa on Fri, 10 Jul 2026 16:00:00 GMT?",
+                    "answer": "PK-35 won 3\u20131 over K\u00e4Pa on Fri, 10 Jul 2026 16:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 20,
+            "windSpeed": 4,
+            "windDirectionCardinal": "ESE",
+            "iconCode": 32,
+            "relativeHumidity": 59,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 51,
+            "description": "Sunny",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-10T17:30:01Z",
+            "localizedKey": "weather_condition_sunny",
+            "defaultTitle": "Sunny"
+        },
+        "lineup": {
+            "matchId": 5163721,
+            "lineupType": "simple",
+            "source": "optaSdapiLegacyIntegration",
+            "availableFilters": [
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 260273,
+                "name": "PK-35",
+                "starters": [
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Karo R\u00e4s\u00e4nen",
+                        "shirtNumber": "21",
+                        "firstName": "Karo",
+                        "lastName": "R\u00e4s\u00e4nen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Jasper Pikkuhookana",
+                        "shirtNumber": "88",
+                        "firstName": "Jasper",
+                        "lastName": "Pikkuhookana",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 1508688,
+                        "age": 21,
+                        "optaId": "549361",
+                        "name": "Alex Ramula",
+                        "usualPlayingPositionId": 0,
+                        "shirtNumber": "1",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "firstName": "Alex",
+                        "lastName": "Ramula",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Shunta Uchiyama",
+                        "shirtNumber": "23",
+                        "firstName": "Shunta",
+                        "lastName": "Uchiyama",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Alexander Forsstr\u00f6m",
+                        "shirtNumber": "3",
+                        "firstName": "Alexander",
+                        "lastName": "Forsstr\u00f6m",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Emu Kawakita",
+                        "shirtNumber": "14",
+                        "firstName": "Emu",
+                        "lastName": "Kawakita",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Rasmus Sipi",
+                        "shirtNumber": "2",
+                        "firstName": "Rasmus",
+                        "lastName": "Sipi",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Joona Tapani",
+                        "shirtNumber": "15",
+                        "firstName": "Joona",
+                        "lastName": "Tapani",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Juta Nakanishi",
+                        "shirtNumber": "6",
+                        "firstName": "Juta",
+                        "lastName": "Nakanishi",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Pedro Miguel Cascalhais Diniz",
+                        "shirtNumber": "7",
+                        "firstName": "Pedro Miguel Cascalhais",
+                        "lastName": "Diniz",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 830983,
+                        "age": 25,
+                        "optaId": "250627",
+                        "name": "Maximo Tolonen",
+                        "positionId": 3,
+                        "usualPlayingPositionId": 3,
+                        "shirtNumber": "19",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 236847,
+                        "firstName": "Maximo",
+                        "lastName": "Tolonen",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 1509021,
+                        "age": 22,
+                        "optaId": "623605",
+                        "name": "Otto Salmensuu",
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "10",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 257332,
+                        "firstName": "Otto",
+                        "lastName": "Salmensuu",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1368014,
+                        "age": 24,
+                        "optaId": "707906",
+                        "name": "Ayuub Ahmed-Nur",
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "27",
+                        "countryName": "Somalia",
+                        "countryCode": "SOM",
+                        "marketValue": 214884,
+                        "firstName": "Ayuub",
+                        "lastName": "Ahmed-Nur",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Irfan Sadik",
+                        "shirtNumber": "9",
+                        "firstName": "Irfan",
+                        "lastName": "Sadik",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Liam Lokake",
+                        "shirtNumber": "22",
+                        "firstName": "Liam",
+                        "lastName": "Lokake",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Ngabo Ndaziramiye",
+                        "shirtNumber": "24",
+                        "firstName": "Ngabo",
+                        "lastName": "Ndaziramiye",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Atte Kivel\u00e4",
+                        "shirtNumber": "25",
+                        "firstName": "Atte",
+                        "lastName": "Kivel\u00e4",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Eino-Iivari Pitk\u00e4l\u00e4",
+                        "shirtNumber": "18",
+                        "firstName": "Eino-Iivari",
+                        "lastName": "Pitk\u00e4l\u00e4",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Jo\u00e3o Pedro Costa do Esp\u00edrito San",
+                        "shirtNumber": "8",
+                        "firstName": "Jo\u00e3o Pedro Costa",
+                        "lastName": "do Esp\u00edrito San",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Niklas Jokiniemi",
+                        "shirtNumber": "16",
+                        "firstName": "Niklas",
+                        "lastName": "Jokiniemi",
+                        "shortName": 0,
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 23.4
+            },
+            "awayTeam": {
+                "id": 2159,
+                "name": "K\u00e4Pa",
+                "starters": [
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Daniel Ripatti",
+                        "shirtNumber": "22",
+                        "firstName": "Daniel",
+                        "lastName": "Ripatti",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Yllson Lika",
+                        "shirtNumber": "10",
+                        "firstName": "Yllson",
+                        "lastName": "Lika",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Tuomas Collin",
+                        "shirtNumber": "1",
+                        "firstName": "Tuomas",
+                        "lastName": "Collin",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Niklas Leinonen",
+                        "shirtNumber": "7",
+                        "firstName": "Niklas",
+                        "lastName": "Leinonen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Pekka Hietalahti",
+                        "shirtNumber": "4",
+                        "firstName": "Pekka",
+                        "lastName": "Hietalahti",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Denis Cukici",
+                        "shirtNumber": "36",
+                        "firstName": "Denis",
+                        "lastName": "Cukici",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Reko Huhtam\u00e4ki",
+                        "shirtNumber": "8",
+                        "firstName": "Reko",
+                        "lastName": "Huhtam\u00e4ki",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 1733997,
+                        "age": 22,
+                        "optaId": "560981",
+                        "name": "Urho Huhtam\u00e4ki",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "2",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 199485,
+                        "firstName": "Urho",
+                        "lastName": "Huhtam\u00e4ki",
+                        "rankings": null
+                    },
+                    {
+                        "id": 924277,
+                        "age": 27,
+                        "optaId": "481795",
+                        "name": "Samba Sillah",
+                        "positionId": 1,
+                        "usualPlayingPositionId": 1,
+                        "shirtNumber": "11",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 163541,
+                        "firstName": "Samba",
+                        "lastName": "Sillah",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1348113,
+                        "age": 22,
+                        "optaId": "530631",
+                        "name": "Antonio Alm\u00e9n",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "9",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 244414,
+                        "firstName": "Antonio",
+                        "lastName": "Alm\u00e9n",
+                        "rankings": null
+                    },
+                    {
+                        "id": 629723,
+                        "age": 28,
+                        "optaId": "212819",
+                        "name": "Mikko Kuningas",
+                        "positionId": 2,
+                        "usualPlayingPositionId": 2,
+                        "shirtNumber": "25",
+                        "countryName": "Finland",
+                        "countryCode": "FIN",
+                        "marketValue": 240067,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 59
+                                }
+                            ]
+                        },
+                        "firstName": "Mikko",
+                        "lastName": "Kuningas",
+                        "rankings": null
+                    }
+                ],
+                "subs": [
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Viljami Jokiranta",
+                        "shirtNumber": "17",
+                        "firstName": "Viljami",
+                        "lastName": "Jokiranta",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Joonas Salmi",
+                        "shirtNumber": "29",
+                        "firstName": "Joonas",
+                        "lastName": "Salmi",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Mikael Pulkkinen",
+                        "shirtNumber": "13",
+                        "firstName": "Mikael",
+                        "lastName": "Pulkkinen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Otto Heinonen",
+                        "shirtNumber": "37",
+                        "firstName": "Otto",
+                        "lastName": "Heinonen",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Sebastian Savini",
+                        "shirtNumber": "39",
+                        "firstName": "Sebastian",
+                        "lastName": "Savini",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "optaId": "0",
+                        "name": "Riku Piekkanen",
+                        "shirtNumber": "12",
+                        "firstName": "Riku",
+                        "lastName": "Piekkanen",
+                        "shortName": 0,
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 25.2
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "920261",
+            "url": "https://data.fotmob.com/tables.ext.920261.fot.gz",
+            "teams": [
+                260273,
+                2159
+            ],
+            "tournamentNameForUrl": "Ykkosliiga",
+            "parentLeagueId": 251,
+            "countryCode": "FIN"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                4,
+                0
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-09-11T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#5163767",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    },
+                    "status": {
+                        "utcTime": "2026-09-11T16:00:00.000Z",
+                        "started": false,
+                        "cancelled": false,
+                        "finished": false
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-05-17T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#5163688",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    },
+                    "status": {
+                        "utcTime": "2026-05-17T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-12T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#4915012",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-12T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-07-09T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#4753473",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    },
+                    "status": {
+                        "utcTime": "2025-07-09T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-18T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#4753429",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-18T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-09-22T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#4583352",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    },
+                    "status": {
+                        "utcTime": "2024-09-22T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-31T15:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#4426448",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-31T15:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-13T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/kapa-vs-pk-35/fti3w3l#4426424",
+                    "league": {
+                        "name": "Ykkosliiga",
+                        "id": "251",
+                        "pageUrl": "/leagues/251/overview/ykkosliiga"
+                    },
+                    "home": {
+                        "name": "PK-35",
+                        "id": "260273"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-13T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "K\u00e4Pa",
+                        "id": "2159"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "pk-35-vs-kapa",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5163721",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "PK-35",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/260273.png",
+                "url": "https://www.fotmob.com/teams/260273/overview/pk-35",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "K\u00e4Pa",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2159.png",
+                "url": "https://www.fotmob.com/teams/2159/overview/kapa",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "PK-35 vs K\u00e4Pa",
+            "description": "Follow PK-35 vs K\u00e4Pa live on fotmob.com",
+            "startDate": "2026-07-10T16:00:00.000Z",
+            "endDate": "2026-07-10T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Markku.fi Areena",
+                "latitude": 60.234692982,
+                "longitude": 24.962557554,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Finland",
+                    "addressLocality": "Helsinki"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/260273.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2159.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5163721",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "PK-35",
+                    "url": "https://www.fotmob.com/teams/260273/overview/pk-35"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "K\u00e4Pa",
+                    "url": "https://www.fotmob.com/teams/2159/overview/kapa"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ykkosliiga",
+                        "item": "https://www.fotmob.com/leagues/251/overview/ykkosliiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "PK-35 - K\u00e4Pa",
+                        "item": "https://www.fotmob.com/match/5163721"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ykkosliiga",
+                        "item": "https://www.fotmob.com/leagues/251/overview/ykkosliiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "K\u00e4Pa",
+                        "item": "https://www.fotmob.com/teams/2159/overview/kapa"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "PK-35 - K\u00e4Pa",
+                        "item": "https://www.fotmob.com/match/5163721"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Ykkosliiga",
+                        "item": "https://www.fotmob.com/leagues/251/overview/ykkosliiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "PK-35",
+                        "item": "https://www.fotmob.com/teams/260273/overview/pk-35"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "PK-35 - K\u00e4Pa",
+                        "item": "https://www.fotmob.com/match/5163721"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between PK-35 and K\u00e4Pa on Fri, 10 Jul 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "PK-35 won 3\u20131 over K\u00e4Pa on Fri, 10 Jul 2026 16:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

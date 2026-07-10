@@ -1,0 +1,1658 @@
+{
+    "general": {
+        "matchId": "5101238",
+        "matchName": "Wexford FC-vs-Kerry FC_Fri, Jul 10, 2026, 18:45 UTC",
+        "matchRound": "23",
+        "teamColors": {
+            "darkMode": {
+                "home": "#0060A0",
+                "away": "#DDDDDD"
+            },
+            "lightMode": {
+                "home": "#0060A0",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 916016,
+        "leagueName": "First Division",
+        "leagueRoundName": "23",
+        "parentLeagueId": 218,
+        "countryCode": "IRL",
+        "homeTeam": {
+            "name": "Wexford FC",
+            "id": 62337
+        },
+        "awayTeam": {
+            "name": "Kerry FC",
+            "id": 1426348
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 18:45 UTC",
+        "matchTimeUTCDate": "2026-07-10T18:45:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Wexford FC",
+                "id": 62337,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/62337_small.png",
+                "pageUrl": "/teams/62337/overview/wexford-fc"
+            },
+            {
+                "name": "Kerry FC",
+                "id": 1426348,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1426348_small.png",
+                "pageUrl": "/teams/1426348/overview/kerry-fc"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T18:45:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 20:47:29",
+                "firstHalfEnded": "10.07.2026 21:33:07",
+                "secondHalfStarted": "10.07.2026 21:47:52",
+                "secondHalfEnded": "10.07.2026 22:36:57",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 22:36:58"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Harnett": [
+                    {
+                        "reactKey": "1422694825Goal1638275undefinedtrue",
+                        "timeStr": 25,
+                        "type": "Goal",
+                        "time": 25,
+                        "overloadTime": null,
+                        "eventId": 14226948,
+                        "player": {
+                            "id": 1638275,
+                            "name": "Kaylem Harnett",
+                            "profileUrl": "/players/1638275/kaylem-harnett"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1638275/kaylem-harnett",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kaylem Harnett",
+                        "firstName": "Kaylem",
+                        "lastName": "Harnett",
+                        "fullName": "Kaylem Harnett",
+                        "playerId": 1638275,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "O'Sullivan": [
+                    {
+                        "reactKey": "1422709090Goal1717412undefinedtrue",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14227090,
+                        "player": {
+                            "id": 1717412,
+                            "name": "Zak O'Sullivan",
+                            "profileUrl": "/players/1717412/zak-osullivan"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1717412/zak-osullivan",
+                        "overloadTimeStr": "+4",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Zak O'Sullivan",
+                        "firstName": "Zak",
+                        "lastName": "O'Sullivan",
+                        "fullName": "Zak O'Sullivan",
+                        "playerId": 1717412,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "H\u00e4kkinen": [
+                    {
+                        "reactKey": "1422695530Goal1030581undefinedfalse",
+                        "timeStr": 30,
+                        "type": "Goal",
+                        "time": 30,
+                        "overloadTime": null,
+                        "eventId": 14226955,
+                        "player": {
+                            "id": 1030581,
+                            "name": "Jonas H\u00e4kkinen",
+                            "profileUrl": "/players/1030581/jonas-hakkinen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1030581/jonas-hakkinen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jonas H\u00e4kkinen",
+                        "firstName": "Jonas",
+                        "lastName": "H\u00e4kkinen",
+                        "fullName": "Jonas H\u00e4kkinen",
+                        "playerId": 1030581,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "McGrath": [
+                    {
+                        "reactKey": "1422707986Goal1395551undefinedfalse",
+                        "timeStr": 86,
+                        "type": "Goal",
+                        "time": 86,
+                        "overloadTime": null,
+                        "eventId": 14227079,
+                        "player": {
+                            "id": 1395551,
+                            "name": "Sean McGrath",
+                            "profileUrl": "/players/1395551/sean-mcgrath"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1395551/sean-mcgrath",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sean McGrath",
+                        "firstName": "Sean",
+                        "lastName": "McGrath",
+                        "fullName": "Sean McGrath",
+                        "playerId": 1395551,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5101238,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422694825Goal1638275undefinedtrue",
+                        "timeStr": 25,
+                        "type": "Goal",
+                        "time": 25,
+                        "overloadTime": null,
+                        "eventId": 14226948,
+                        "player": {
+                            "id": 1638275,
+                            "name": "Kaylem Harnett",
+                            "profileUrl": "/players/1638275/kaylem-harnett"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1638275/kaylem-harnett",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kaylem Harnett",
+                        "firstName": "Kaylem",
+                        "lastName": "Harnett",
+                        "fullName": "Kaylem Harnett",
+                        "playerId": 1638275,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422695530Goal1030581undefinedfalse",
+                        "timeStr": 30,
+                        "type": "Goal",
+                        "time": 30,
+                        "overloadTime": null,
+                        "eventId": 14226955,
+                        "player": {
+                            "id": 1030581,
+                            "name": "Jonas H\u00e4kkinen",
+                            "profileUrl": "/players/1030581/jonas-hakkinen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1030581/jonas-hakkinen",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Jonas H\u00e4kkinen",
+                        "firstName": "Jonas",
+                        "lastName": "H\u00e4kkinen",
+                        "fullName": "Jonas H\u00e4kkinen",
+                        "playerId": 1030581,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422707986Goal1395551undefinedfalse",
+                        "timeStr": 86,
+                        "type": "Goal",
+                        "time": 86,
+                        "overloadTime": null,
+                        "eventId": 14227079,
+                        "player": {
+                            "id": 1395551,
+                            "name": "Sean McGrath",
+                            "profileUrl": "/players/1395551/sean-mcgrath"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1395551/sean-mcgrath",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sean McGrath",
+                        "firstName": "Sean",
+                        "lastName": "McGrath",
+                        "fullName": "Sean McGrath",
+                        "playerId": 1395551,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422709090Goal1717412undefinedtrue",
+                        "timeStr": "90 + 4",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 4,
+                        "eventId": 14227090,
+                        "player": {
+                            "id": 1717412,
+                            "name": "Zak O'Sullivan",
+                            "profileUrl": "/players/1717412/zak-osullivan"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1717412/zak-osullivan",
+                        "overloadTimeStr": "+4",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Zak O'Sullivan",
+                        "firstName": "Zak",
+                        "lastName": "O'Sullivan",
+                        "fullName": "Zak O'Sullivan",
+                        "playerId": 1717412,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T18:45:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 916016,
+                    "parentLeagueId": 218,
+                    "link": "/leagues/218/overview/first-division",
+                    "leagueName": "First Division",
+                    "roundName": "23",
+                    "round": "23"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1629_xsmall.png",
+                        "linkToMatch": "/matches/bray-wanderers-vs-wexford-fc/xu354i#5101209",
+                        "date": {
+                            "utcTime": "2026-05-29T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1629/overview/bray-wanderers",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T18:45:00.000Z",
+                            "homeTeam": "Bray Wanderers",
+                            "homeTeamId": 1629,
+                            "homeScore": "4",
+                            "awayTeam": "Wexford FC",
+                            "awayTeamId": 62337,
+                            "awayScore": "0"
+                        },
+                        "score": "4 - 0",
+                        "home": {
+                            "id": "1629",
+                            "name": "Bray Wanderers",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "62337",
+                            "name": "Wexford FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2201_xsmall.png",
+                        "linkToMatch": "/matches/cork-city-vs-wexford-fc/yfyvhc#5101217",
+                        "date": {
+                            "utcTime": "2026-06-12T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2201/overview/cork-city",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T18:45:00.000Z",
+                            "homeTeam": "Wexford FC",
+                            "homeTeamId": 62337,
+                            "homeScore": "0",
+                            "awayTeam": "Cork City",
+                            "awayTeamId": 2201,
+                            "awayScore": "2"
+                        },
+                        "score": "0 - 2",
+                        "home": {
+                            "id": "62337",
+                            "name": "Wexford FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2201",
+                            "name": "Cork City",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2378_xsmall.png",
+                        "linkToMatch": "/matches/athlone-town-vs-wexford-fc/yms1ur#5101219",
+                        "date": {
+                            "utcTime": "2026-06-19T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2378/overview/athlone-town",
+                        "tooltipText": {
+                            "utcTime": "2026-06-19T18:45:00.000Z",
+                            "homeTeam": "Athlone Town",
+                            "homeTeamId": 2378,
+                            "homeScore": "2",
+                            "awayTeam": "Wexford FC",
+                            "awayTeamId": 62337,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "2378",
+                            "name": "Athlone Town",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "62337",
+                            "name": "Wexford FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1233534_xsmall.png",
+                        "linkToMatch": "/matches/wexford-fc-vs-treaty-united/apq4w2gx#5101228",
+                        "date": {
+                            "utcTime": "2026-06-26T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1233534/overview/treaty-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-26T18:45:00.000Z",
+                            "homeTeam": "Wexford FC",
+                            "homeTeamId": 62337,
+                            "homeScore": "0",
+                            "awayTeam": "Treaty United",
+                            "awayTeamId": 1233534,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "62337",
+                            "name": "Wexford FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1233534",
+                            "name": "Treaty United",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1627_xsmall.png",
+                        "linkToMatch": "/matches/finn-harps-vs-wexford-fc/xu0eev#5101231",
+                        "date": {
+                            "utcTime": "2026-07-03T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1627/overview/finn-harps",
+                        "tooltipText": {
+                            "utcTime": "2026-07-03T18:45:00.000Z",
+                            "homeTeam": "Finn Harps",
+                            "homeTeamId": 1627,
+                            "homeScore": "1",
+                            "awayTeam": "Wexford FC",
+                            "awayTeamId": 62337,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "1627",
+                            "name": "Finn Harps",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "62337",
+                            "name": "Wexford FC",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2383_xsmall.png",
+                        "linkToMatch": "/matches/cobh-ramblers-vs-kerry-fc/d0vgtv4p#5101210",
+                        "date": {
+                            "utcTime": "2026-05-29T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2383/overview/cobh-ramblers",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T18:45:00.000Z",
+                            "homeTeam": "Cobh Ramblers",
+                            "homeTeamId": 2383,
+                            "homeScore": "2",
+                            "awayTeam": "Kerry FC",
+                            "awayTeamId": 1426348,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "2383",
+                            "name": "Cobh Ramblers",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1426348",
+                            "name": "Kerry FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2378_xsmall.png",
+                        "linkToMatch": "/matches/athlone-town-vs-kerry-fc/d0vckr1z#5101215",
+                        "date": {
+                            "utcTime": "2026-06-12T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2378/overview/athlone-town",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T18:45:00.000Z",
+                            "homeTeam": "Kerry FC",
+                            "homeTeamId": 1426348,
+                            "homeScore": "1",
+                            "awayTeam": "Athlone Town",
+                            "awayTeamId": 2378,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "1426348",
+                            "name": "Kerry FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2378",
+                            "name": "Athlone Town",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1578_xsmall.png",
+                        "linkToMatch": "/matches/ucd-vs-kerry-fc/d0cg9jev#5101223",
+                        "date": {
+                            "utcTime": "2026-06-19T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1578/overview/ucd",
+                        "tooltipText": {
+                            "utcTime": "2026-06-19T18:45:00.000Z",
+                            "homeTeam": "UCD",
+                            "homeTeamId": 1578,
+                            "homeScore": "0",
+                            "awayTeam": "Kerry FC",
+                            "awayTeamId": 1426348,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "1578",
+                            "name": "UCD",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1426348",
+                            "name": "Kerry FC",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4569_xsmall.png",
+                        "linkToMatch": "/matches/longford-town-vs-kerry-fc/d2b5qaeg#5101226",
+                        "date": {
+                            "utcTime": "2026-06-26T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4569/overview/longford-town",
+                        "tooltipText": {
+                            "utcTime": "2026-06-26T18:45:00.000Z",
+                            "homeTeam": "Kerry FC",
+                            "homeTeamId": 1426348,
+                            "homeScore": "2",
+                            "awayTeam": "Longford Town",
+                            "awayTeamId": 4569,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1426348",
+                            "name": "Kerry FC",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4569",
+                            "name": "Longford Town",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1233534_xsmall.png",
+                        "linkToMatch": "/matches/treaty-united-vs-kerry-fc/1953ljneb#5101232",
+                        "date": {
+                            "utcTime": "2026-07-03T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1233534/overview/treaty-united",
+                        "tooltipText": {
+                            "utcTime": "2026-07-03T18:45:00.000Z",
+                            "homeTeam": "Treaty United",
+                            "homeTeamId": 1233534,
+                            "homeScore": "2",
+                            "awayTeam": "Kerry FC",
+                            "awayTeamId": 1426348,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "1233534",
+                            "name": "Treaty United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "1426348",
+                            "name": "Kerry FC",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5101238",
+                    "MatchId": 5101238,
+                    "HomeTeamId": 62337,
+                    "AwayTeamId": 1426348,
+                    "HomeTeam": "Wexford FC",
+                    "AwayTeam": "Kerry FC",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Wexford FC haven't won a match in 5 attempts."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Wexford FC have an average of 0.67 goals in their last three matches and Kerry FC have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "1.33"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Wexford FC have an average of 0.67 goals in their last three matches and Kerry FC have an average of 1.33."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Wexford FC haven't won a match in 5 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 62337,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 2 goals in their last 5 matches",
+                    "color": "#0060A0"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 1426348,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "IRL",
+            "QAData": [
+                {
+                    "question": "Who won between Wexford FC and Kerry FC on Fri, 10 Jul 2026 18:45:00 GMT?",
+                    "answer": "Wexford FC vs Kerry FC on Fri, 10 Jul 2026 18:45:00 GMT ended in a 2\u20132 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "916016",
+            "url": "https://data.fotmob.com/tables.ext.916016.fot.gz",
+            "teams": [
+                62337,
+                1426348
+            ],
+            "tournamentNameForUrl": "First Division",
+            "parentLeagueId": 218,
+            "countryCode": "IRL"
+        },
+        "h2h": {
+            "summary": [
+                8,
+                4,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-09-25T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#5101285",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2026-09-25T18:45:00.000Z",
+                        "started": false,
+                        "cancelled": false,
+                        "finished": false
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-05-15T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#5101200",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2026-05-15T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-03-13T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#5101148",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    },
+                    "status": {
+                        "utcTime": "2026-03-13T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-10-10T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4691849",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2025-10-10T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-27T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4691781",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-27T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-16T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4691737",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-16T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-03-21T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4690745",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    },
+                    "status": {
+                        "utcTime": "2025-03-21T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-10-11T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4381679",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-11T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-06-28T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4381576",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2024-06-28T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-17T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4381550",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-17T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-03-29T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4381484",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2024-03-29T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-10-06T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4080644",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2023-10-06T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-08-11T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4080614",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    },
+                    "status": {
+                        "utcTime": "2023-08-11T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-26T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4080553",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-26T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 6",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-03-17T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/wexford-fc-vs-kerry-fc/e51tk364#4079625",
+                    "league": {
+                        "name": "First Division",
+                        "id": "218",
+                        "pageUrl": "/leagues/218/overview/first-division"
+                    },
+                    "home": {
+                        "name": "Wexford FC",
+                        "id": "62337"
+                    },
+                    "status": {
+                        "utcTime": "2023-03-17T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Kerry FC",
+                        "id": "1426348"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "wexford-fc-vs-kerry-fc",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5101238",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Wexford FC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/62337.png",
+                "url": "https://www.fotmob.com/teams/62337/overview/wexford-fc",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Kerry FC",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/1426348.png",
+                "url": "https://www.fotmob.com/teams/1426348/overview/kerry-fc",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Wexford FC vs Kerry FC",
+            "description": "Follow Wexford FC vs Kerry FC live on fotmob.com",
+            "startDate": "2026-07-10T18:45:00.000Z",
+            "endDate": "2026-07-10T20:45:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/62337.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/1426348.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5101238",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T18:45:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Wexford FC",
+                    "url": "https://www.fotmob.com/teams/62337/overview/wexford-fc"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Kerry FC",
+                    "url": "https://www.fotmob.com/teams/1426348/overview/kerry-fc"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "First Division",
+                        "item": "https://www.fotmob.com/leagues/218/overview/first-division"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Wexford FC - Kerry FC",
+                        "item": "https://www.fotmob.com/match/5101238"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "First Division",
+                        "item": "https://www.fotmob.com/leagues/218/overview/first-division"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Kerry FC",
+                        "item": "https://www.fotmob.com/teams/1426348/overview/kerry-fc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Wexford FC - Kerry FC",
+                        "item": "https://www.fotmob.com/match/5101238"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "First Division",
+                        "item": "https://www.fotmob.com/leagues/218/overview/first-division"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Wexford FC",
+                        "item": "https://www.fotmob.com/teams/62337/overview/wexford-fc"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Wexford FC - Kerry FC",
+                        "item": "https://www.fotmob.com/match/5101238"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Wexford FC and Kerry FC on Fri, 10 Jul 2026 18:45:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Wexford FC vs Kerry FC on Fri, 10 Jul 2026 18:45:00 GMT ended in a 2\u20132 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

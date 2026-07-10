@@ -1,0 +1,129 @@
+{
+  "match": {
+    "match_id": "5113930",
+    "home_team": "CS Deportivo Liniers",
+    "away_team": "Sportivo Italiano",
+    "home_score": 0,
+    "away_score": 1,
+    "country_code": "ARG",
+    "country_name": "Argentina",
+    "competition": "Primera B Metropolitana",
+    "match_date": "2026-07-10 18:00:00",
+    "winner": "Sportivo Italiano",
+    "created_at": "2026-07-10 17:50:49.871920"
+  },
+  "final_score": {
+    "home": 0,
+    "away": 1,
+    "display": "0-1",
+    "winner": "Sportivo Italiano",
+    "outcome": "away_win"
+  },
+  "stats": [],
+  "timeline": [
+    {
+      "clock": "26'",
+      "minute": 26,
+      "minute_added": null,
+      "type": "Goal",
+      "team_side": "AWAY",
+      "team": "Sportivo Italiano",
+      "player": "Axel Guerra",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "0-1",
+      "description": "26' Goal — Axel Guerra (Sportivo Italiano). 0-1"
+    },
+    {
+      "clock": "75'",
+      "minute": 75,
+      "minute_added": null,
+      "type": "Card",
+      "team_side": "AWAY",
+      "team": "Sportivo Italiano",
+      "player": "Javier Molina",
+      "assist": null,
+      "card_type": "Red",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "0-1",
+      "description": "75' Red card — Javier Molina (Sportivo Italiano)"
+    },
+    {
+      "clock": "90+1'",
+      "minute": 90,
+      "minute_added": 1,
+      "type": "Card",
+      "team_side": "HOME",
+      "team": "CS Deportivo Liniers",
+      "player": "Leandro Lugarzo",
+      "assist": null,
+      "card_type": "Red",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "0-1",
+      "description": "90+1' Red card — Leandro Lugarzo (CS Deportivo Liniers)"
+    }
+  ],
+  "storyline": {
+    "outcome": "away_win",
+    "winner": "Sportivo Italiano",
+    "final_score": "0-1",
+    "opening_goal": {
+      "clock": "26'",
+      "type": "Goal",
+      "team": "Sportivo Italiano",
+      "player": "Axel Guerra",
+      "card_type": null,
+      "score_after": "0-1",
+      "description": "26' Goal — Axel Guerra (Sportivo Italiano). 0-1"
+    },
+    "goals": [
+      {
+        "clock": "26'",
+        "type": "Goal",
+        "team": "Sportivo Italiano",
+        "player": "Axel Guerra",
+        "card_type": null,
+        "score_after": "0-1",
+        "description": "26' Goal — Axel Guerra (Sportivo Italiano). 0-1"
+      }
+    ],
+    "lead_changes": 0,
+    "red_cards": [
+      {
+        "clock": "75'",
+        "type": "Card",
+        "team": "Sportivo Italiano",
+        "player": "Javier Molina",
+        "card_type": "Red",
+        "score_after": "0-1",
+        "description": "75' Red card — Javier Molina (Sportivo Italiano)"
+      },
+      {
+        "clock": "90+1'",
+        "type": "Card",
+        "team": "CS Deportivo Liniers",
+        "player": "Leandro Lugarzo",
+        "card_type": "Red",
+        "score_after": "0-1",
+        "description": "90+1' Red card — Leandro Lugarzo (CS Deportivo Liniers)"
+      }
+    ],
+    "tags": [
+      "clean_sheet",
+      "red_card"
+    ]
+  }
+}

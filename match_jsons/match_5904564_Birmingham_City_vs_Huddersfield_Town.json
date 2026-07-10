@@ -1,0 +1,1989 @@
+{
+    "general": {
+        "matchId": "5904564",
+        "matchName": "Birmingham City-vs-Huddersfield Town_Fri, Jul 10, 2026, 10:00 UTC",
+        "matchRound": null,
+        "teamColors": {
+            "darkMode": {
+                "home": "#0053bb",
+                "away": "#FFFFFF"
+            },
+            "lightMode": {
+                "home": "#0032A0",
+                "away": "#000000"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(29, 29, 29, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 915708,
+        "leagueName": "Club Friendlies",
+        "leagueRoundName": null,
+        "parentLeagueId": 489,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "Birmingham City",
+            "id": 8658
+        },
+        "awayTeam": {
+            "name": "Huddersfield Town",
+            "id": 9796
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 10:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T10:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Birmingham City",
+                "id": 8658,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8658_small.png",
+                "pageUrl": "/teams/8658/overview/birmingham-city"
+            },
+            {
+                "name": "Huddersfield Town",
+                "id": 9796,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9796_small.png",
+                "pageUrl": "/teams/9796/overview/huddersfield-town"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T10:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 12:02:10",
+                "firstHalfEnded": "10.07.2026 12:49:34",
+                "secondHalfStarted": "10.07.2026 13:07:01",
+                "secondHalfEnded": "10.07.2026 13:52:43",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 13:52:43"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Gray": [
+                    {
+                        "reactKey": "1422676720Goal492586undefinedtrue",
+                        "timeStr": 20,
+                        "type": "Goal",
+                        "time": 20,
+                        "overloadTime": null,
+                        "eventId": 14226767,
+                        "player": {
+                            "id": 492586,
+                            "name": "Demarai Gray",
+                            "profileUrl": "/players/492586/demarai-gray"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/492586/demarai-gray",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Demarai Gray",
+                        "firstName": "Demarai",
+                        "lastName": "Gray",
+                        "fullName": "Demarai Gray",
+                        "playerId": 492586,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Furuhashi": [
+                    {
+                        "reactKey": "1422681287Goal826089undefinedtrue",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14226812,
+                        "player": {
+                            "id": 826089,
+                            "name": "Kyogo Furuhashi",
+                            "profileUrl": "/players/826089/kyogo-furuhashi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/826089/kyogo-furuhashi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kyogo Furuhashi",
+                        "firstName": "Kyogo",
+                        "lastName": "Furuhashi",
+                        "fullName": "Kyogo Furuhashi",
+                        "playerId": 826089,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422681388Goal826089undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14226813,
+                        "player": {
+                            "id": 826089,
+                            "name": "Kyogo Furuhashi",
+                            "profileUrl": "/players/826089/kyogo-furuhashi"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/826089/kyogo-furuhashi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kyogo Furuhashi",
+                        "firstName": "Kyogo",
+                        "lastName": "Furuhashi",
+                        "fullName": "Kyogo Furuhashi",
+                        "playerId": 826089,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Sebine": [
+                    {
+                        "reactKey": "1422681490Goal1692237undefinedfalse",
+                        "timeStr": 90,
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14226814,
+                        "player": {
+                            "id": 1692237,
+                            "name": "George Sebine",
+                            "profileUrl": "/players/1692237/george-sebine"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1692237/george-sebine",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "George Sebine",
+                        "firstName": "George",
+                        "lastName": "Sebine",
+                        "fullName": "George Sebine",
+                        "playerId": 1692237,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5904564,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422676720Goal492586undefinedtrue",
+                        "timeStr": 20,
+                        "type": "Goal",
+                        "time": 20,
+                        "overloadTime": null,
+                        "eventId": 14226767,
+                        "player": {
+                            "id": 492586,
+                            "name": "Demarai Gray",
+                            "profileUrl": "/players/492586/demarai-gray"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/492586/demarai-gray",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Demarai Gray",
+                        "firstName": "Demarai",
+                        "lastName": "Gray",
+                        "fullName": "Demarai Gray",
+                        "playerId": 492586,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422681287Goal826089undefinedtrue",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14226812,
+                        "player": {
+                            "id": 826089,
+                            "name": "Kyogo Furuhashi",
+                            "profileUrl": "/players/826089/kyogo-furuhashi"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/826089/kyogo-furuhashi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kyogo Furuhashi",
+                        "firstName": "Kyogo",
+                        "lastName": "Furuhashi",
+                        "fullName": "Kyogo Furuhashi",
+                        "playerId": 826089,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422681388Goal826089undefinedtrue",
+                        "timeStr": 88,
+                        "type": "Goal",
+                        "time": 88,
+                        "overloadTime": null,
+                        "eventId": 14226813,
+                        "player": {
+                            "id": 826089,
+                            "name": "Kyogo Furuhashi",
+                            "profileUrl": "/players/826089/kyogo-furuhashi"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/826089/kyogo-furuhashi",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kyogo Furuhashi",
+                        "firstName": "Kyogo",
+                        "lastName": "Furuhashi",
+                        "fullName": "Kyogo Furuhashi",
+                        "playerId": 826089,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422681490Goal1692237undefinedfalse",
+                        "timeStr": 90,
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": null,
+                        "eventId": 14226814,
+                        "player": {
+                            "id": 1692237,
+                            "name": "George Sebine",
+                            "profileUrl": "/players/1692237/george-sebine"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1692237/george-sebine",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "George Sebine",
+                        "firstName": "George",
+                        "lastName": "Sebine",
+                        "fullName": "George Sebine",
+                        "playerId": 1692237,
+                        "newScore": [
+                            3,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T10:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 915708,
+                    "parentLeagueId": 489,
+                    "link": "/leagues/489/overview/club-friendlies",
+                    "leagueName": "Club Friendlies",
+                    "roundName": null,
+                    "round": null
+                },
+                "Stadium": {
+                    "name": "Est\u00e1dio da Nora",
+                    "city": "Albufeira",
+                    "country": "Portugal",
+                    "lat": 37.124396634,
+                    "long": -8.242717981,
+                    "capacity": 2000,
+                    "surface": "grass"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9841_xsmall.png",
+                        "linkToMatch": "/matches/birmingham-city-vs-wrexham/2tvtcn#4825526",
+                        "date": {
+                            "utcTime": "2026-04-12T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9841/overview/wrexham",
+                        "tooltipText": {
+                            "utcTime": "2026-04-12T11:00:00.000Z",
+                            "homeTeam": "Birmingham City",
+                            "homeTeamId": 8658,
+                            "homeScore": "2",
+                            "awayTeam": "Wrexham",
+                            "awayTeamId": 9841,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8658",
+                            "name": "Birmingham City",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9841",
+                            "name": "Wrexham",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8667_xsmall.png",
+                        "linkToMatch": "/matches/birmingham-city-vs-hull-city/2hd25i#4825541",
+                        "date": {
+                            "utcTime": "2026-04-18T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8667/overview/hull-city",
+                        "tooltipText": {
+                            "utcTime": "2026-04-18T14:00:00.000Z",
+                            "homeTeam": "Hull City",
+                            "homeTeamId": 8667,
+                            "homeScore": "1",
+                            "awayTeam": "Birmingham City",
+                            "awayTeamId": 8658,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8667",
+                            "name": "Hull City",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8658",
+                            "name": "Birmingham City",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8411_xsmall.png",
+                        "linkToMatch": "/matches/preston-north-end-vs-birmingham-city/2eqp3x#4825558",
+                        "date": {
+                            "utcTime": "2026-04-22T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8411/overview/preston-north-end",
+                        "tooltipText": {
+                            "utcTime": "2026-04-22T18:45:00.000Z",
+                            "homeTeam": "Birmingham City",
+                            "homeTeamId": 8658,
+                            "homeScore": "2",
+                            "awayTeam": "Preston North End",
+                            "awayTeamId": 8411,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8658",
+                            "name": "Birmingham City",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8411",
+                            "name": "Preston North End",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8427_xsmall.png",
+                        "linkToMatch": "/matches/bristol-city-vs-birmingham-city/2ewjxx#4825562",
+                        "date": {
+                            "utcTime": "2026-04-25T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8427/overview/bristol-city",
+                        "tooltipText": {
+                            "utcTime": "2026-04-25T14:00:00.000Z",
+                            "homeTeam": "Birmingham City",
+                            "homeTeamId": 8658,
+                            "homeScore": "2",
+                            "awayTeam": "Bristol City",
+                            "awayTeamId": 8427,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8658",
+                            "name": "Birmingham City",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8427",
+                            "name": "Bristol City",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8462_xsmall.png",
+                        "linkToMatch": "/matches/portsmouth-vs-birmingham-city/2f9dtu#4825580",
+                        "date": {
+                            "utcTime": "2026-05-02T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8462/overview/portsmouth",
+                        "tooltipText": {
+                            "utcTime": "2026-05-02T11:30:00.000Z",
+                            "homeTeam": "Portsmouth",
+                            "homeTeamId": 8462,
+                            "homeScore": "1",
+                            "awayTeam": "Birmingham City",
+                            "awayTeamId": 8658,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8462",
+                            "name": "Portsmouth",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8658",
+                            "name": "Birmingham City",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8676_xsmall.png",
+                        "linkToMatch": "/matches/wycombe-wanderers-vs-huddersfield-town/2tl46w#4826086",
+                        "date": {
+                            "utcTime": "2026-04-11T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8676/overview/wycombe-wanderers",
+                        "tooltipText": {
+                            "utcTime": "2026-04-11T14:00:00.000Z",
+                            "homeTeam": "Huddersfield Town",
+                            "homeTeamId": 9796,
+                            "homeScore": "3",
+                            "awayTeam": "Wycombe Wanderers",
+                            "awayTeamId": 8676,
+                            "awayScore": "3"
+                        },
+                        "score": "3 - 3",
+                        "home": {
+                            "id": "9796",
+                            "name": "Huddersfield Town",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8676",
+                            "name": "Wycombe Wanderers",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8344_xsmall.png",
+                        "linkToMatch": "/matches/cardiff-city-vs-huddersfield-town/2pyuka#4826050",
+                        "date": {
+                            "utcTime": "2026-04-14T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8344/overview/cardiff-city",
+                        "tooltipText": {
+                            "utcTime": "2026-04-14T18:45:00.000Z",
+                            "homeTeam": "Huddersfield Town",
+                            "homeTeamId": 9796,
+                            "homeScore": "1",
+                            "awayTeam": "Cardiff City",
+                            "awayTeamId": 8344,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "9796",
+                            "name": "Huddersfield Town",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8344",
+                            "name": "Cardiff City",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8559_xsmall.png",
+                        "linkToMatch": "/matches/bolton-wanderers-vs-huddersfield-town/2saxte#4826095",
+                        "date": {
+                            "utcTime": "2026-04-18T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8559/overview/bolton-wanderers",
+                        "tooltipText": {
+                            "utcTime": "2026-04-18T11:30:00.000Z",
+                            "homeTeam": "Bolton Wanderers",
+                            "homeTeamId": 8559,
+                            "homeScore": "3",
+                            "awayTeam": "Huddersfield Town",
+                            "awayTeamId": 9796,
+                            "awayScore": "3"
+                        },
+                        "score": "3 - 3",
+                        "home": {
+                            "id": "8559",
+                            "name": "Bolton Wanderers",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9796",
+                            "name": "Huddersfield Town",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9818_xsmall.png",
+                        "linkToMatch": "/matches/huddersfield-town-vs-mansfield-town/36j8tn#4826110",
+                        "date": {
+                            "utcTime": "2026-04-25T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9818/overview/mansfield-town",
+                        "tooltipText": {
+                            "utcTime": "2026-04-25T14:00:00.000Z",
+                            "homeTeam": "Huddersfield Town",
+                            "homeTeamId": 9796,
+                            "homeScore": "1",
+                            "awayTeam": "Mansfield Town",
+                            "awayTeamId": 9818,
+                            "awayScore": "4"
+                        },
+                        "score": "1 - 4",
+                        "home": {
+                            "id": "9796",
+                            "name": "Huddersfield Town",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9818",
+                            "name": "Mansfield Town",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/158319_xsmall.png",
+                        "linkToMatch": "/matches/huddersfield-town-vs-afc-wimbledon/6hphdte#4826117",
+                        "date": {
+                            "utcTime": "2026-05-02T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/158319/overview/afc-wimbledon",
+                        "tooltipText": {
+                            "utcTime": "2026-05-02T14:00:00.000Z",
+                            "homeTeam": "AFC Wimbledon",
+                            "homeTeamId": 158319,
+                            "homeScore": "0",
+                            "awayTeam": "Huddersfield Town",
+                            "awayTeamId": 9796,
+                            "awayScore": "4"
+                        },
+                        "score": "0 - 4",
+                        "home": {
+                            "id": "158319",
+                            "name": "AFC Wimbledon",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9796",
+                            "name": "Huddersfield Town",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5904564",
+                    "MatchId": 5904564,
+                    "HomeTeamId": 8658,
+                    "AwayTeamId": 9796,
+                    "HomeTeam": "Birmingham",
+                    "AwayTeam": "Huddersfield",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4",
+                                "3",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Birmingham City haven't lost to Huddersfield Town in their last 4 meetings (3W, 1D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "6",
+                                "away_team",
+                                "9"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Birmingham City have scored in their last 6 matches and Huddersfield Town have scored in their last 9 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {1} goals in their last {2} matches.",
+                            "TextTemplateId": "goals_team",
+                            "StatValues": [
+                                "away_team",
+                                "8",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Huddersfield Town have scored 8 goals in their last 3 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4",
+                                "3",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Birmingham City haven't lost to Huddersfield Town in their last 4 meetings (3W, 1D)."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8658,
+                    "priority": 1343,
+                    "defaultText": "Haven't lost in {0} matches",
+                    "localizedTextId": "insights_undefeated_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't lost in 5 matches",
+                    "color": "#0032A0"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8658,
+                    "priority": 8,
+                    "defaultText": "{0} have won the previous {2} matches against {1}.",
+                    "localizedTextId": "h2h_winstreak",
+                    "statValues": [
+                        {
+                            "value": 8658,
+                            "name": "Birmingham City",
+                            "type": "team"
+                        },
+                        {
+                            "value": 9796,
+                            "name": "Huddersfield Town",
+                            "type": "team"
+                        },
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Birmingham City have won the previous 2 matches against Huddersfield Town.",
+                    "color": "#0032A0"
+                }
+            ],
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between Birmingham City and Huddersfield Town on Fri, 10 Jul 2026 10:00:00 GMT?",
+                    "answer": "Birmingham City won 3\u20131 over Huddersfield Town on Fri, 10 Jul 2026 10:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 23,
+            "windSpeed": 4,
+            "windDirectionCardinal": "SSW",
+            "iconCode": 32,
+            "relativeHumidity": 63,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 0,
+            "description": "Sunny",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-10T11:30:00Z",
+            "localizedKey": "weather_condition_sunny",
+            "defaultTitle": "Sunny"
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": {
+            "summary": [
+                8,
+                9,
+                7
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2025-01-28T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#4520130",
+                    "league": {
+                        "name": "League One",
+                        "id": "108",
+                        "pageUrl": "/leagues/108/overview/league-one"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2025-01-28T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-10-01T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#4519890",
+                    "league": {
+                        "name": "League One",
+                        "id": "108",
+                        "pageUrl": "/leagues/108/overview/league-one"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2024-10-01T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-27T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#4202749",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-27T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-10-03T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#4202313",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2023-10-03T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-02-18T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3915652",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2023-02-18T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-08-05T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3915313",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2022-08-05T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-02-26T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3619861",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2022-02-26T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-10-20T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3619565",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2021-10-20T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-03-02T19:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3414335",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2021-03-02T19:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-10-28T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3413019",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2020-10-28T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2020-07-01T17:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3066312",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2020-07-01T17:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-11-23T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#3066041",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2019-11-23T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-02-06T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#2712766",
+                    "league": {
+                        "name": "FA Cup",
+                        "id": "132",
+                        "pageUrl": "/leagues/132/overview/fa-cup"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2018-02-06T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                            "short": "AET",
+                            "shortKey": "afterextratime_short",
+                            "long": "After extra time",
+                            "longKey": "afterextra"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-01-27T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#2694824",
+                    "league": {
+                        "name": "FA Cup",
+                        "id": "132",
+                        "pageUrl": "/leagues/132/overview/fa-cup"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2018-01-27T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-04-29T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#2259813",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2017-04-29T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-11-05T15:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#2259468",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2016-11-05T15:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-04-23T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1988146",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2016-04-23T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-12-05T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1987842",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2015-12-05T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-03-14T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1724803",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2015-03-14T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-12-20T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1724617",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2014-12-20T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-02-15T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1475615",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2014-02-15T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-11-09T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1475424",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2013-11-09T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-01-12T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1229923",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    },
+                    "status": {
+                        "utcTime": "2013-01-12T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-10-06T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/birmingham-city-vs-huddersfield-town/2tdzr5#1229685",
+                    "league": {
+                        "name": "Championship",
+                        "id": "48",
+                        "pageUrl": "/leagues/48/overview/championship"
+                    },
+                    "home": {
+                        "name": "Birmingham City",
+                        "id": "8658"
+                    },
+                    "status": {
+                        "utcTime": "2012-10-06T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Huddersfield Town",
+                        "id": "9796"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "birmingham-city-vs-huddersfield-town",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5904564",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Birmingham City",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8658.png",
+                "url": "https://www.fotmob.com/teams/8658/overview/birmingham-city",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Huddersfield Town",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png",
+                "url": "https://www.fotmob.com/teams/9796/overview/huddersfield-town",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Birmingham City vs Huddersfield Town",
+            "description": "Follow Birmingham City vs Huddersfield Town live on fotmob.com",
+            "startDate": "2026-07-10T10:00:00.000Z",
+            "endDate": "2026-07-10T12:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Est\u00e1dio da Nora",
+                "latitude": 37.124396634,
+                "longitude": -8.242717981,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Portugal",
+                    "addressLocality": "Albufeira"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8658.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/9796.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5904564",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T10:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Birmingham City",
+                    "url": "https://www.fotmob.com/teams/8658/overview/birmingham-city"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Huddersfield Town",
+                    "url": "https://www.fotmob.com/teams/9796/overview/huddersfield-town"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Birmingham City - Huddersfield Town",
+                        "item": "https://www.fotmob.com/match/5904564"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Huddersfield Town",
+                        "item": "https://www.fotmob.com/teams/9796/overview/huddersfield-town"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Birmingham City - Huddersfield Town",
+                        "item": "https://www.fotmob.com/match/5904564"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Birmingham City",
+                        "item": "https://www.fotmob.com/teams/8658/overview/birmingham-city"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Birmingham City - Huddersfield Town",
+                        "item": "https://www.fotmob.com/match/5904564"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Birmingham City and Huddersfield Town on Fri, 10 Jul 2026 10:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Birmingham City won 3\u20131 over Huddersfield Town on Fri, 10 Jul 2026 10:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

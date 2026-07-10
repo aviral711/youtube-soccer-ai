@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(./.venv/Scripts/python.exe -m py_compile generate_summary.py)",
+      "Bash(./.venv/Scripts/python.exe -c ' *)"
+    ]
+  }
+}

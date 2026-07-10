@@ -1,0 +1,1440 @@
+{
+    "general": {
+        "matchId": "5113925",
+        "matchName": "Argentino de Merlo-vs-Argentino de Quilmes_Fri, Jul 10, 2026, 18:00 UTC",
+        "matchRound": "24",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 916561,
+        "leagueName": "Primera B Metropolitana",
+        "leagueRoundName": "24",
+        "parentLeagueId": 9213,
+        "countryCode": "ARG",
+        "homeTeam": {
+            "name": "Argentino de Merlo",
+            "id": 581809
+        },
+        "awayTeam": {
+            "name": "Argentino de Quilmes",
+            "id": 581807
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 18:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T18:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Argentino de Merlo",
+                "id": 581809,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581809_small.png",
+                "pageUrl": "/teams/581809/overview/argentino-de-merlo"
+            },
+            {
+                "name": "Argentino de Quilmes",
+                "id": 581807,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581807_small.png",
+                "pageUrl": "/teams/581807/overview/argentino-de-quilmes"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T18:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 20:03:28",
+                "firstHalfEnded": "10.07.2026 20:50:26",
+                "secondHalfStarted": "10.07.2026 21:07:25",
+                "secondHalfEnded": "10.07.2026 21:54:48",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 21:54:48"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 0",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Salvador": [
+                    {
+                        "reactKey": "1422693418Goal1219966undefinedtrue",
+                        "timeStr": 18,
+                        "type": "Goal",
+                        "time": 18,
+                        "overloadTime": null,
+                        "eventId": 14226934,
+                        "player": {
+                            "id": 1219966,
+                            "name": "Alan Salvador",
+                            "profileUrl": "/players/1219966/alan-salvador"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1219966/alan-salvador",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alan Salvador",
+                        "firstName": "Alan",
+                        "lastName": "Salvador",
+                        "fullName": "Alan Salvador",
+                        "playerId": 1219966,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Marcial": [
+                    {
+                        "reactKey": "1422699981Goal979345undefinedtrue",
+                        "timeStr": 81,
+                        "type": "Goal",
+                        "time": 81,
+                        "overloadTime": null,
+                        "eventId": 14226999,
+                        "player": {
+                            "id": 979345,
+                            "name": "Cristian Marcial",
+                            "profileUrl": "/players/979345/cristian-marcial"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/979345/cristian-marcial",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cristian Marcial",
+                        "firstName": "Cristian",
+                        "lastName": "Marcial",
+                        "fullName": "Cristian Marcial",
+                        "playerId": 979345,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Sayago": [
+                    {
+                        "reactKey": "1422701387Goal1442444undefinedtrue",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14227013,
+                        "player": {
+                            "id": 1442444,
+                            "name": "Tom\u00e1s Jerez Sayago",
+                            "profileUrl": "/players/1442444/tomas-jerez-sayago"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1442444/tomas-jerez-sayago",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tom\u00e1s Jerez Sayago",
+                        "firstName": "Tom\u00e1s Jerez",
+                        "lastName": "Sayago",
+                        "fullName": "Tom\u00e1s Jerez Sayago",
+                        "playerId": 1442444,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {},
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {
+                "S\u00e1nchez": [
+                    {
+                        "reactKey": "1422700785Card1460280undefinedfalse",
+                        "timeStr": 85,
+                        "type": "Card",
+                        "time": 85,
+                        "overloadTime": null,
+                        "eventId": 14227007,
+                        "player": {
+                            "id": 1460280,
+                            "name": "Nicol\u00e1s S\u00e1nchez",
+                            "profileUrl": "/players/1460280/nicolas-sanchez"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1460280/nicolas-sanchez",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Nicol\u00e1s S\u00e1nchez",
+                        "firstName": "Nicol\u00e1s",
+                        "lastName": "S\u00e1nchez",
+                        "fullName": "Nicol\u00e1s S\u00e1nchez",
+                        "playerId": 1460280,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5113925,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422693418Goal1219966undefinedtrue",
+                        "timeStr": 18,
+                        "type": "Goal",
+                        "time": 18,
+                        "overloadTime": null,
+                        "eventId": 14226934,
+                        "player": {
+                            "id": 1219966,
+                            "name": "Alan Salvador",
+                            "profileUrl": "/players/1219966/alan-salvador"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1219966/alan-salvador",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alan Salvador",
+                        "firstName": "Alan",
+                        "lastName": "Salvador",
+                        "fullName": "Alan Salvador",
+                        "playerId": 1219966,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422699981Goal979345undefinedtrue",
+                        "timeStr": 81,
+                        "type": "Goal",
+                        "time": 81,
+                        "overloadTime": null,
+                        "eventId": 14226999,
+                        "player": {
+                            "id": 979345,
+                            "name": "Cristian Marcial",
+                            "profileUrl": "/players/979345/cristian-marcial"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/979345/cristian-marcial",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cristian Marcial",
+                        "firstName": "Cristian",
+                        "lastName": "Marcial",
+                        "fullName": "Cristian Marcial",
+                        "playerId": 979345,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422700785Card1460280undefinedfalse",
+                        "timeStr": 85,
+                        "type": "Card",
+                        "time": 85,
+                        "overloadTime": null,
+                        "eventId": 14227007,
+                        "player": {
+                            "id": 1460280,
+                            "name": "Nicol\u00e1s S\u00e1nchez",
+                            "profileUrl": "/players/1460280/nicolas-sanchez"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1460280/nicolas-sanchez",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Nicol\u00e1s S\u00e1nchez",
+                        "firstName": "Nicol\u00e1s",
+                        "lastName": "S\u00e1nchez",
+                        "fullName": "Nicol\u00e1s S\u00e1nchez",
+                        "playerId": 1460280,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1422701387Goal1442444undefinedtrue",
+                        "timeStr": 87,
+                        "type": "Goal",
+                        "time": 87,
+                        "overloadTime": null,
+                        "eventId": 14227013,
+                        "player": {
+                            "id": 1442444,
+                            "name": "Tom\u00e1s Jerez Sayago",
+                            "profileUrl": "/players/1442444/tomas-jerez-sayago"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1442444/tomas-jerez-sayago",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tom\u00e1s Jerez Sayago",
+                        "firstName": "Tom\u00e1s Jerez",
+                        "lastName": "Sayago",
+                        "fullName": "Tom\u00e1s Jerez Sayago",
+                        "playerId": 1442444,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Card",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T18:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 916561,
+                    "parentLeagueId": 9213,
+                    "link": "/leagues/9213/overview/primera-b-metropolitana",
+                    "leagueName": "Primera B Metropolitana",
+                    "roundName": "24",
+                    "round": "24"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/837624_xsmall.png",
+                        "linkToMatch": "/matches/argentino-de-merlo-vs-casd-camioneros/cushwmqd#5113870",
+                        "date": {
+                            "utcTime": "2026-06-06T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/837624/overview/casd-camioneros",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T18:30:00.000Z",
+                            "homeTeam": "Argentino de Merlo",
+                            "homeTeamId": 581809,
+                            "homeScore": "0",
+                            "awayTeam": "CASD Camioneros",
+                            "awayTeamId": 837624,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "581809",
+                            "name": "Argentino de Merlo",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "837624",
+                            "name": "CASD Camioneros",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/178272_xsmall.png",
+                        "linkToMatch": "/matches/deportivo-merlo-vs-argentino-de-merlo/3op9aeve#5113884",
+                        "date": {
+                            "utcTime": "2026-06-14T22:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/178272/overview/deportivo-merlo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T22:00:00.000Z",
+                            "homeTeam": "Deportivo Merlo",
+                            "homeTeamId": 178272,
+                            "homeScore": "2",
+                            "awayTeam": "Argentino de Merlo",
+                            "awayTeamId": 581809,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "178272",
+                            "name": "Deportivo Merlo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581809",
+                            "name": "Argentino de Merlo",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581802_xsmall.png",
+                        "linkToMatch": "/matches/dock-sud-vs-argentino-de-merlo/8n0a7atn#5113892",
+                        "date": {
+                            "utcTime": "2026-06-21T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581802/overview/dock-sud",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T17:30:00.000Z",
+                            "homeTeam": "Argentino de Merlo",
+                            "homeTeamId": 581809,
+                            "homeScore": "3",
+                            "awayTeam": "Dock Sud",
+                            "awayTeamId": 581802,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "581809",
+                            "name": "Argentino de Merlo",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "581802",
+                            "name": "Dock Sud",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213536_xsmall.png",
+                        "linkToMatch": "/matches/comunicaciones-vs-argentino-de-merlo/41atlj6y#5113903",
+                        "date": {
+                            "utcTime": "2026-06-28T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213536/overview/comunicaciones",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T18:00:00.000Z",
+                            "homeTeam": "Argentino de Merlo",
+                            "homeTeamId": 581809,
+                            "homeScore": "3",
+                            "awayTeam": "Comunicaciones",
+                            "awayTeamId": 213536,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "581809",
+                            "name": "Argentino de Merlo",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "213536",
+                            "name": "Comunicaciones",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/425967_xsmall.png",
+                        "linkToMatch": "/matches/ca-defensores-unidos-vs-argentino-de-merlo/6ha7d6v5#5113916",
+                        "date": {
+                            "utcTime": "2026-07-05T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/425967/overview/ca-defensores-unidos",
+                        "tooltipText": {
+                            "utcTime": "2026-07-05T18:00:00.000Z",
+                            "homeTeam": "CA Defensores Unidos",
+                            "homeTeamId": 425967,
+                            "homeScore": "1",
+                            "awayTeam": "Argentino de Merlo",
+                            "awayTeamId": 581809,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "425967",
+                            "name": "CA Defensores Unidos",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581809",
+                            "name": "Argentino de Merlo",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213537_xsmall.png",
+                        "linkToMatch": "/matches/flandria-vs-argentino-de-quilmes/41at4hhz#5113875",
+                        "date": {
+                            "utcTime": "2026-06-06T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213537/overview/flandria",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T18:30:00.000Z",
+                            "homeTeam": "Flandria",
+                            "homeTeamId": 213537,
+                            "homeScore": "0",
+                            "awayTeam": "Argentino de Quilmes",
+                            "awayTeamId": 581807,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "213537",
+                            "name": "Flandria",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581807",
+                            "name": "Argentino de Quilmes",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213527_xsmall.png",
+                        "linkToMatch": "/matches/deportivo-armenio-vs-argentino-de-quilmes/41aoe0mc#5113881",
+                        "date": {
+                            "utcTime": "2026-06-14T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213527/overview/deportivo-armenio",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T17:00:00.000Z",
+                            "homeTeam": "Argentino de Quilmes",
+                            "homeTeamId": 581807,
+                            "homeScore": "1",
+                            "awayTeam": "Deportivo Armenio",
+                            "awayTeamId": 213527,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "581807",
+                            "name": "Argentino de Quilmes",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "213527",
+                            "name": "Deportivo Armenio",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213532_xsmall.png",
+                        "linkToMatch": "/matches/brown-de-adrogue-vs-argentino-de-quilmes/41aqr91t#5113894",
+                        "date": {
+                            "utcTime": "2026-06-20T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213532/overview/brown-de-adrogue",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T18:00:00.000Z",
+                            "homeTeam": "Brown de Adrogue",
+                            "homeTeamId": 213532,
+                            "homeScore": "2",
+                            "awayTeam": "Argentino de Quilmes",
+                            "awayTeamId": 581807,
+                            "awayScore": "4"
+                        },
+                        "score": "2 - 4",
+                        "home": {
+                            "id": "213532",
+                            "name": "Brown de Adrogue",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581807",
+                            "name": "Argentino de Quilmes",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581808_xsmall.png",
+                        "linkToMatch": "/matches/argentino-de-quilmes-vs-laferrere/8n0cz280#5113908",
+                        "date": {
+                            "utcTime": "2026-06-28T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581808/overview/laferrere",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T16:00:00.000Z",
+                            "homeTeam": "Laferrere",
+                            "homeTeamId": 581808,
+                            "homeScore": "1",
+                            "awayTeam": "Argentino de Quilmes",
+                            "awayTeamId": 581807,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "581808",
+                            "name": "Laferrere",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581807",
+                            "name": "Argentino de Quilmes",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581805_xsmall.png",
+                        "linkToMatch": "/matches/ca-talleres-remedios-de-escalada-vs-argentino-de-quilmes/8n0aw8o5#5113914",
+                        "date": {
+                            "utcTime": "2026-07-05T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581805/overview/ca-talleres-remedios-de-escalada",
+                        "tooltipText": {
+                            "utcTime": "2026-07-05T16:00:00.000Z",
+                            "homeTeam": "Argentino de Quilmes",
+                            "homeTeamId": 581807,
+                            "homeScore": "0",
+                            "awayTeam": "CA Talleres Remedios de Escalada",
+                            "awayTeamId": 581805,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "581807",
+                            "name": "Argentino de Quilmes",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "581805",
+                            "name": "CA Talleres Remedios de Escalada",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5113925",
+                    "MatchId": 5113925,
+                    "HomeTeamId": 581809,
+                    "AwayTeamId": 581807,
+                    "HomeTeam": "Argentino de Merlo",
+                    "AwayTeam": "Argentino de Quilmes",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost in {1} matches.",
+                            "TextTemplateId": "undefeated_team",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_stat_up",
+                            "defaultText": "Argentino de Merlo haven't lost in 6 matches."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Argentino de Quilmes have scored in their last 3 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "7",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Argentino de Merlo have scored 7 goals in their last 3 matches, while Argentino de Quilmes have scored 5."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} and {1} have not drawn any of their last {2} matches against each other.",
+                            "TextTemplateId": "h2h_no_draws_v2",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "8"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Argentino de Merlo and Argentino de Quilmes have not drawn any of their last 8 matches against each other."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 581809,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 581807,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 7 goals in their last 5 matches",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "ARG",
+            "QAData": [
+                {
+                    "question": "Who won between Argentino de Merlo and Argentino de Quilmes on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "answer": "Argentino de Merlo won 3\u20130 over Argentino de Quilmes on Fri, 10 Jul 2026 18:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "916561",
+            "url": "https://data.fotmob.com/tables.ext.916561.fot.gz",
+            "teams": [
+                581809,
+                581807
+            ],
+            "tournamentNameForUrl": "Primera B Metropolitana",
+            "parentLeagueId": 9213,
+            "countryCode": "ARG"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                1,
+                5
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-02-27T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#5113694",
+                    "league": {
+                        "name": "Primera B Metropolitana",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    "home": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-27T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-11-04T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4823301",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    },
+                    "status": {
+                        "utcTime": "2025-11-04T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-07T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4704687",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-07T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-11-17T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4672482",
+                    "league": {
+                        "name": "Primera B Metropolitana Promotion Playoff",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-promotion-playoff"
+                    },
+                    "home": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    },
+                    "status": {
+                        "utcTime": "2024-11-17T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-11-10T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4672481",
+                    "league": {
+                        "name": "Primera B Metropolitana Promotion Playoff",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-promotion-playoff"
+                    },
+                    "home": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    },
+                    "status": {
+                        "utcTime": "2024-11-10T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-08-24T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4408897",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    },
+                    "status": {
+                        "utcTime": "2024-08-24T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-08T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4408716",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-08T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-10-09T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4101388",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    },
+                    "status": {
+                        "utcTime": "2023-10-09T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-06-04T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/argentino-de-quilmes-vs-argentino-de-merlo/8n0do02p#4099865",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Argentino de Quilmes",
+                        "id": "581807"
+                    },
+                    "status": {
+                        "utcTime": "2023-06-04T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Argentino de Merlo",
+                        "id": "581809"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "argentino-de-merlo-vs-argentino-de-quilmes",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5113925",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Argentino de Merlo",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/581809.png",
+                "url": "https://www.fotmob.com/teams/581809/overview/argentino-de-merlo",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Argentino de Quilmes",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/581807.png",
+                "url": "https://www.fotmob.com/teams/581807/overview/argentino-de-quilmes",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Argentino de Merlo vs Argentino de Quilmes",
+            "description": "Follow Argentino de Merlo vs Argentino de Quilmes live on fotmob.com",
+            "startDate": "2026-07-10T18:00:00.000Z",
+            "endDate": "2026-07-10T20:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/581809.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/581807.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5113925",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T18:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Argentino de Merlo",
+                    "url": "https://www.fotmob.com/teams/581809/overview/argentino-de-merlo"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Argentino de Quilmes",
+                    "url": "https://www.fotmob.com/teams/581807/overview/argentino-de-quilmes"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Argentino de Merlo - Argentino de Quilmes",
+                        "item": "https://www.fotmob.com/match/5113925"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Argentino de Quilmes",
+                        "item": "https://www.fotmob.com/teams/581807/overview/argentino-de-quilmes"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Argentino de Merlo - Argentino de Quilmes",
+                        "item": "https://www.fotmob.com/match/5113925"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Argentino de Merlo",
+                        "item": "https://www.fotmob.com/teams/581809/overview/argentino-de-merlo"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Argentino de Merlo - Argentino de Quilmes",
+                        "item": "https://www.fotmob.com/match/5113925"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Argentino de Merlo and Argentino de Quilmes on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Argentino de Merlo won 3\u20130 over Argentino de Quilmes on Fri, 10 Jul 2026 18:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

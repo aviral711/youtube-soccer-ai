@@ -113,8 +113,7 @@ def load_match(
         :expected_goals,
         :event_description
     )
-    ON CONFLICT (match_id, event_id)
-    DO NOTHING;
+    ON CONFLICT DO NOTHING;
     """)
 
     ## Database insert statement for Match Stats table

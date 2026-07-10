@@ -1,0 +1,157 @@
+{
+  "match": {
+    "match_id": "5215464",
+    "home_team": "Dnyapro Mogilev",
+    "away_team": "FC Minsk",
+    "home_score": 1,
+    "away_score": 2,
+    "country_code": "BLR",
+    "country_name": "Belarus",
+    "competition": "Premier League",
+    "match_date": "2026-07-10 15:30:00",
+    "winner": "FC Minsk",
+    "created_at": "2026-07-10 17:50:07.318026"
+  },
+  "final_score": {
+    "home": 1,
+    "away": 2,
+    "display": "1-2",
+    "winner": "FC Minsk",
+    "outcome": "away_win"
+  },
+  "stats": [],
+  "timeline": [
+    {
+      "clock": "45+3'",
+      "minute": 45,
+      "minute_added": 3,
+      "type": "Goal",
+      "team_side": "HOME",
+      "team": "Dnyapro Mogilev",
+      "player": "Kirill Tsepenkov",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-0",
+      "description": "45+3' Goal — Kirill Tsepenkov (Dnyapro Mogilev). 1-0"
+    },
+    {
+      "clock": "55'",
+      "minute": 55,
+      "minute_added": null,
+      "type": "Card",
+      "team_side": "HOME",
+      "team": "Dnyapro Mogilev",
+      "player": "Nenad Perovic",
+      "assist": null,
+      "card_type": "Red",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-0",
+      "description": "55' Red card — Nenad Perovic (Dnyapro Mogilev)"
+    },
+    {
+      "clock": "84'",
+      "minute": 84,
+      "minute_added": null,
+      "type": "Goal",
+      "team_side": "AWAY",
+      "team": "FC Minsk",
+      "player": "Aleksandr Makas",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "84' Goal — Aleksandr Makas (FC Minsk). 1-1"
+    },
+    {
+      "clock": "90+3'",
+      "minute": 90,
+      "minute_added": 3,
+      "type": "Goal",
+      "team_side": "AWAY",
+      "team": "FC Minsk",
+      "player": "Aleksandr Ksenofontov",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-2",
+      "description": "90+3' Goal — Aleksandr Ksenofontov (FC Minsk). 1-2"
+    }
+  ],
+  "storyline": {
+    "outcome": "away_win",
+    "winner": "FC Minsk",
+    "final_score": "1-2",
+    "opening_goal": {
+      "clock": "45+3'",
+      "type": "Goal",
+      "team": "Dnyapro Mogilev",
+      "player": "Kirill Tsepenkov",
+      "card_type": null,
+      "score_after": "1-0",
+      "description": "45+3' Goal — Kirill Tsepenkov (Dnyapro Mogilev). 1-0"
+    },
+    "goals": [
+      {
+        "clock": "45+3'",
+        "type": "Goal",
+        "team": "Dnyapro Mogilev",
+        "player": "Kirill Tsepenkov",
+        "card_type": null,
+        "score_after": "1-0",
+        "description": "45+3' Goal — Kirill Tsepenkov (Dnyapro Mogilev). 1-0"
+      },
+      {
+        "clock": "84'",
+        "type": "Goal",
+        "team": "FC Minsk",
+        "player": "Aleksandr Makas",
+        "card_type": null,
+        "score_after": "1-1",
+        "description": "84' Goal — Aleksandr Makas (FC Minsk). 1-1"
+      },
+      {
+        "clock": "90+3'",
+        "type": "Goal",
+        "team": "FC Minsk",
+        "player": "Aleksandr Ksenofontov",
+        "card_type": null,
+        "score_after": "1-2",
+        "description": "90+3' Goal — Aleksandr Ksenofontov (FC Minsk). 1-2"
+      }
+    ],
+    "lead_changes": 1,
+    "red_cards": [
+      {
+        "clock": "55'",
+        "type": "Card",
+        "team": "Dnyapro Mogilev",
+        "player": "Nenad Perovic",
+        "card_type": "Red",
+        "score_after": "1-0",
+        "description": "55' Red card — Nenad Perovic (Dnyapro Mogilev)"
+      }
+    ],
+    "tags": [
+      "comeback",
+      "late_winner",
+      "red_card"
+    ]
+  }
+}

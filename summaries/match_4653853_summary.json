@@ -1,0 +1,584 @@
+{
+  "match": {
+    "match_id": "4653853",
+    "home_team": "Spain",
+    "away_team": "Belgium",
+    "home_score": 2,
+    "away_score": 1,
+    "country_code": "INT",
+    "country_name": "International",
+    "competition": "World Cup",
+    "match_date": "2026-07-10 19:00:00",
+    "winner": "Spain",
+    "created_at": "2026-07-10 17:47:59.478969"
+  },
+  "final_score": {
+    "home": 2,
+    "away": 1,
+    "display": "2-1",
+    "winner": "Spain",
+    "outcome": "home_win"
+  },
+  "stats": [
+    {
+      "stat_key": "BallPossesion",
+      "stat_title": "Ball possession",
+      "home": "68",
+      "away": "32"
+    },
+    {
+      "stat_key": "expected_goals",
+      "stat_title": "Expected goals (xG)",
+      "home": "2.04",
+      "away": "0.36"
+    },
+    {
+      "stat_key": "total_shots",
+      "stat_title": "Total shots",
+      "home": "17",
+      "away": "5"
+    },
+    {
+      "stat_key": "ShotsOnTarget",
+      "stat_title": "Shots on target",
+      "home": "8",
+      "away": "2"
+    },
+    {
+      "stat_key": "touches_opp_box",
+      "stat_title": "Touches in opposition box",
+      "home": "40",
+      "away": "11"
+    },
+    {
+      "stat_key": "big_chance",
+      "stat_title": "Big chances",
+      "home": "2",
+      "away": "1"
+    },
+    {
+      "stat_key": "big_chance_missed_title",
+      "stat_title": "Big chances missed",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "stat_key": "accurate_passes",
+      "stat_title": "Accurate passes",
+      "home": "598 (90%)",
+      "away": "244 (78%)"
+    },
+    {
+      "stat_key": "yellow_cards",
+      "stat_title": "Yellow cards",
+      "home": "2",
+      "away": "2"
+    },
+    {
+      "stat_key": "corners",
+      "stat_title": "Corners",
+      "home": "5",
+      "away": "1"
+    },
+    {
+      "stat_key": "ShotsOffTarget",
+      "stat_title": "Shots off target",
+      "home": "4",
+      "away": "1"
+    },
+    {
+      "stat_key": "blocked_shots",
+      "stat_title": "Blocked shots",
+      "home": "5",
+      "away": "2"
+    },
+    {
+      "stat_key": "shots_woodwork",
+      "stat_title": "Hit woodwork",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "stat_key": "shots_inside_box",
+      "stat_title": "Shots inside box",
+      "home": "10",
+      "away": "4"
+    },
+    {
+      "stat_key": "shots_outside_box",
+      "stat_title": "Shots outside box",
+      "home": "7",
+      "away": "1"
+    },
+    {
+      "stat_key": "expected_goals_open_play",
+      "stat_title": "xG open play",
+      "home": "1.73",
+      "away": "0.36"
+    },
+    {
+      "stat_key": "expected_goals_set_play",
+      "stat_title": "xG set play",
+      "home": "0.31",
+      "away": "0.00"
+    },
+    {
+      "stat_key": "expected_goals_non_penalty",
+      "stat_title": "xG non-penalty",
+      "home": "2.04",
+      "away": "0.36"
+    },
+    {
+      "stat_key": "expected_goals_on_target",
+      "stat_title": "xG on target (xGOT)",
+      "home": "2.60",
+      "away": "0.58"
+    },
+    {
+      "stat_key": "passes",
+      "stat_title": "Passes",
+      "home": "665",
+      "away": "314"
+    },
+    {
+      "stat_key": "own_half_passes",
+      "stat_title": "Own half",
+      "home": "225",
+      "away": "142"
+    },
+    {
+      "stat_key": "opposition_half_passes",
+      "stat_title": "Opposition half",
+      "home": "373",
+      "away": "102"
+    },
+    {
+      "stat_key": "long_balls_accurate",
+      "stat_title": "Accurate long balls",
+      "home": "21 (57%)",
+      "away": "20 (44%)"
+    },
+    {
+      "stat_key": "accurate_crosses",
+      "stat_title": "Accurate crosses",
+      "home": "2 (11%)",
+      "away": "2 (20%)"
+    },
+    {
+      "stat_key": "player_throws",
+      "stat_title": "Throws",
+      "home": "22",
+      "away": "15"
+    },
+    {
+      "stat_key": "Offsides",
+      "stat_title": "Offsides",
+      "home": "3",
+      "away": "1"
+    },
+    {
+      "stat_key": "matchstats.headers.tackles",
+      "stat_title": "Tackles",
+      "home": "11",
+      "away": "10"
+    },
+    {
+      "stat_key": "interceptions",
+      "stat_title": "Interceptions",
+      "home": "4",
+      "away": "10"
+    },
+    {
+      "stat_key": "shot_blocks",
+      "stat_title": "Blocks",
+      "home": "2",
+      "away": "5"
+    },
+    {
+      "stat_key": "clearances",
+      "stat_title": "Clearances",
+      "home": "15",
+      "away": "33"
+    },
+    {
+      "stat_key": "keeper_saves",
+      "stat_title": "Keeper saves",
+      "home": "1",
+      "away": "6"
+    },
+    {
+      "stat_key": "duel_won",
+      "stat_title": "Duels won",
+      "home": "42",
+      "away": "40"
+    },
+    {
+      "stat_key": "ground_duels_won",
+      "stat_title": "Ground duels won",
+      "home": "35 (56%)",
+      "away": "28 (44%)"
+    },
+    {
+      "stat_key": "aerials_won",
+      "stat_title": "Aerial duels won",
+      "home": "7 (37%)",
+      "away": "12 (63%)"
+    },
+    {
+      "stat_key": "dribbles_succeeded",
+      "stat_title": "Successful dribbles",
+      "home": "8 (57%)",
+      "away": "6 (55%)"
+    },
+    {
+      "stat_key": "red_cards",
+      "stat_title": "Red cards",
+      "home": "0",
+      "away": "0"
+    },
+    {
+      "stat_key": "fouls",
+      "stat_title": "Fouls committed",
+      "home": "13",
+      "away": "18"
+    }
+  ],
+  "timeline": [
+    {
+      "clock": "30'",
+      "minute": 30,
+      "minute_added": null,
+      "type": "Goal",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": "Fabián Ruiz",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": "RegularPlay",
+      "expected_goals": "0.447479",
+      "score_after": "1-0",
+      "description": "30' Goal — Fabián Ruiz (Spain). 1-0"
+    },
+    {
+      "clock": "41'",
+      "minute": 41,
+      "minute_added": null,
+      "type": "Goal",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": "Charles De Ketelaere",
+      "assist": "Timothy Castagne",
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": "RegularPlay",
+      "expected_goals": "0.139435",
+      "score_after": "1-1",
+      "description": "41' Goal — Charles De Ketelaere (Belgium), assist Timothy Castagne. 1-1"
+    },
+    {
+      "clock": "43'",
+      "minute": 43,
+      "minute_added": null,
+      "type": "Card",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": "Pau Cubarsí",
+      "assist": null,
+      "card_type": "Yellow",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "43' Yellow card — Pau Cubarsí (Spain)"
+    },
+    {
+      "clock": "55'",
+      "minute": 55,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Álex Baena",
+      "player_out": "Ferran Torres",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "55' Substitution (Spain) — Álex Baena on for Ferran Torres"
+    },
+    {
+      "clock": "55'",
+      "minute": 55,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Fabián Ruiz",
+      "player_out": "Pedri",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "55' Substitution (Spain) — Fabián Ruiz on for Pedri"
+    },
+    {
+      "clock": "60'",
+      "minute": 60,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Leandro Trossard",
+      "player_out": "Axel Witsel",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "60' Substitution (Belgium) — Leandro Trossard on for Axel Witsel"
+    },
+    {
+      "clock": "60'",
+      "minute": 60,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Maxim De Cuyper",
+      "player_out": "Joaquin Seys",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "60' Substitution (Belgium) — Maxim De Cuyper on for Joaquin Seys"
+    },
+    {
+      "clock": "60'",
+      "minute": 60,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Hans Vanaken",
+      "player_out": "Romelu Lukaku",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "60' Substitution (Belgium) — Hans Vanaken on for Romelu Lukaku"
+    },
+    {
+      "clock": "71'",
+      "minute": 71,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Thibaut Courtois",
+      "player_out": "Senne Lammens",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "71' Substitution (Belgium) — Thibaut Courtois on for Senne Lammens"
+    },
+    {
+      "clock": "79'",
+      "minute": 79,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Mikel Oyarzabal",
+      "player_out": "Nico Williams",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "79' Substitution (Spain) — Mikel Oyarzabal on for Nico Williams"
+    },
+    {
+      "clock": "85'",
+      "minute": 85,
+      "minute_added": null,
+      "type": "Card",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": "Kevin De Bruyne",
+      "assist": null,
+      "card_type": "Yellow",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "85' Yellow card — Kevin De Bruyne (Belgium)"
+    },
+    {
+      "clock": "86'",
+      "minute": 86,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Kevin De Bruyne",
+      "player_out": "Alexis Saelemaekers",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "86' Substitution (Belgium) — Kevin De Bruyne on for Alexis Saelemaekers"
+    },
+    {
+      "clock": "86'",
+      "minute": 86,
+      "minute_added": 0,
+      "type": "Substitution",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": null,
+      "assist": null,
+      "card_type": null,
+      "player_in": "Dani Olmo",
+      "player_out": "Mikel Merino",
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "86' Substitution (Spain) — Dani Olmo on for Mikel Merino"
+    },
+    {
+      "clock": "88'",
+      "minute": 88,
+      "minute_added": null,
+      "type": "Goal",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": "Mikel Merino",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": "RegularPlay",
+      "expected_goals": "0.692334",
+      "score_after": "2-1",
+      "description": "88' Goal — Mikel Merino (Spain). 2-1"
+    },
+    {
+      "clock": "90+3'",
+      "minute": 90,
+      "minute_added": 3,
+      "type": "Card",
+      "team_side": "HOME",
+      "team": "Spain",
+      "player": "Aymeric Laporte",
+      "assist": null,
+      "card_type": "Yellow",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "2-1",
+      "description": "90+3' Yellow card — Aymeric Laporte (Spain)"
+    },
+    {
+      "clock": "90+5'",
+      "minute": 90,
+      "minute_added": 5,
+      "type": "Card",
+      "team_side": "AWAY",
+      "team": "Belgium",
+      "player": "Axel Witsel",
+      "assist": null,
+      "card_type": "Yellow",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "2-1",
+      "description": "90+5' Yellow card — Axel Witsel (Belgium)"
+    }
+  ],
+  "storyline": {
+    "outcome": "home_win",
+    "winner": "Spain",
+    "final_score": "2-1",
+    "opening_goal": {
+      "clock": "30'",
+      "type": "Goal",
+      "team": "Spain",
+      "player": "Fabián Ruiz",
+      "card_type": null,
+      "score_after": "1-0",
+      "description": "30' Goal — Fabián Ruiz (Spain). 1-0"
+    },
+    "goals": [
+      {
+        "clock": "30'",
+        "type": "Goal",
+        "team": "Spain",
+        "player": "Fabián Ruiz",
+        "card_type": null,
+        "score_after": "1-0",
+        "description": "30' Goal — Fabián Ruiz (Spain). 1-0"
+      },
+      {
+        "clock": "41'",
+        "type": "Goal",
+        "team": "Belgium",
+        "player": "Charles De Ketelaere",
+        "card_type": null,
+        "score_after": "1-1",
+        "description": "41' Goal — Charles De Ketelaere (Belgium), assist Timothy Castagne. 1-1"
+      },
+      {
+        "clock": "88'",
+        "type": "Goal",
+        "team": "Spain",
+        "player": "Mikel Merino",
+        "card_type": null,
+        "score_after": "2-1",
+        "description": "88' Goal — Mikel Merino (Spain). 2-1"
+      }
+    ],
+    "lead_changes": 0,
+    "red_cards": [],
+    "tags": [
+      "late_winner"
+    ]
+  }
+}

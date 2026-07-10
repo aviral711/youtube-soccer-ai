@@ -93,10 +93,18 @@ def extract_event_records(match_id, data_details):
     """Extract event records from the API response."""
     event_list = data_details["content"]["matchFacts"]["events"]["events"]
     event_records = []
+    seen_event_ids = set()
 
-    for event in event_list:
+    for index, event in enumerate(event_list, start=1):
         card_type = event.get("card") if event.get("type") == "Card" else None
         minutes_added = event.get("minutesAddedInput") if event.get("type") == "AddedTime" else None
+
+        raw_event_id = event.get("eventId")
+        if raw_event_id in (None, 0) or raw_event_id in seen_event_ids:
+            event_id = int(f"{match_id}{index:03d}")
+        else:
+            event_id = int(raw_event_id)
+            seen_event_ids.add(event_id)
 
         player_out_id = None
         player_out_name = None
@@ -112,7 +120,7 @@ def extract_event_records(match_id, data_details):
                 player_in_name = swap[1].get("name")
 
         event_records.append({
-            "event_id": event.get("eventId"),
+            "event_id": event_id,
             "match_id": match_id,
             "minute": event.get("time"),
             "minute_added": event.get("overloadTime"),
@@ -170,4 +178,4 @@ def fetch_match_details(match_id):
 
 
 if __name__ == "__main__":
-    fetch_match_details("4667751")
+    fetch_match_details("1000007610")

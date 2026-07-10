@@ -1,0 +1,970 @@
+{
+    "general": {
+        "matchId": "5904573",
+        "matchName": "Maribor-vs-Charlton Athletic_Fri, Jul 10, 2026, 16:00 UTC",
+        "matchRound": null,
+        "teamColors": {
+            "darkMode": {
+                "home": "#6c399b",
+                "away": "#D00820"
+            },
+            "lightMode": {
+                "home": "#481878",
+                "away": "#D00820"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 915708,
+        "leagueName": "Club Friendlies",
+        "leagueRoundName": null,
+        "parentLeagueId": 489,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "Maribor",
+            "id": 8340
+        },
+        "awayTeam": {
+            "name": "Charlton Athletic",
+            "id": 8451
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Maribor",
+                "id": 8340,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8340_small.png",
+                "pageUrl": "/teams/8340/overview/maribor"
+            },
+            {
+                "name": "Charlton Athletic",
+                "id": 8451,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8451_small.png",
+                "pageUrl": "/teams/8451/overview/charlton-athletic"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T16:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 18:04:55",
+                "firstHalfEnded": "10.07.2026 18:51:59",
+                "secondHalfStarted": "10.07.2026 19:09:12",
+                "secondHalfEnded": "10.07.2026 19:58:24",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 19:58:24"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Tshipamba": [
+                    {
+                        "reactKey": "1422692079Goal1245745undefinedtrue",
+                        "timeStr": 79,
+                        "type": "Goal",
+                        "time": 79,
+                        "overloadTime": null,
+                        "eventId": 14226920,
+                        "player": {
+                            "id": 1245745,
+                            "name": "Isaac Tshipamba",
+                            "profileUrl": "/players/1245745/isaac-tshipamba"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1245745/isaac-tshipamba",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Isaac Tshipamba",
+                        "firstName": "Isaac",
+                        "lastName": "Tshipamba",
+                        "fullName": "Isaac Tshipamba",
+                        "playerId": 1245745,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Leaburn": [
+                    {
+                        "reactKey": "1422689750Goal1389994undefinedfalse",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14226897,
+                        "player": {
+                            "id": 1389994,
+                            "name": "Miles Leaburn",
+                            "profileUrl": "/players/1389994/miles-leaburn"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1389994/miles-leaburn",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Miles Leaburn",
+                        "firstName": "Miles",
+                        "lastName": "Leaburn",
+                        "fullName": "Miles Leaburn",
+                        "playerId": 1389994,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5904573,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422689750Goal1389994undefinedfalse",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14226897,
+                        "player": {
+                            "id": 1389994,
+                            "name": "Miles Leaburn",
+                            "profileUrl": "/players/1389994/miles-leaburn"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1389994/miles-leaburn",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Miles Leaburn",
+                        "firstName": "Miles",
+                        "lastName": "Leaburn",
+                        "fullName": "Miles Leaburn",
+                        "playerId": 1389994,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422692079Goal1245745undefinedtrue",
+                        "timeStr": 79,
+                        "type": "Goal",
+                        "time": 79,
+                        "overloadTime": null,
+                        "eventId": 14226920,
+                        "player": {
+                            "id": 1245745,
+                            "name": "Isaac Tshipamba",
+                            "profileUrl": "/players/1245745/isaac-tshipamba"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1245745/isaac-tshipamba",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Isaac Tshipamba",
+                        "firstName": "Isaac",
+                        "lastName": "Tshipamba",
+                        "fullName": "Isaac Tshipamba",
+                        "playerId": 1245745,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Half",
+                    "Goal"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 915708,
+                    "parentLeagueId": 489,
+                    "link": "/leagues/489/overview/club-friendlies",
+                    "leagueName": "Club Friendlies",
+                    "roundName": null,
+                    "round": null
+                },
+                "Stadium": {
+                    "name": "Ljudski vrt",
+                    "city": "Maribor",
+                    "country": "Slovenia",
+                    "lat": 46.562559865,
+                    "long": 15.640545487,
+                    "capacity": 12994,
+                    "surface": "grass"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/856680_xsmall.png",
+                        "linkToMatch": "/matches/maribor-vs-nk-bravo/4rvfzo4u#4834575",
+                        "date": {
+                            "utcTime": "2026-04-26T18:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/856680/overview/nk-bravo",
+                        "tooltipText": {
+                            "utcTime": "2026-04-26T18:15:00.000Z",
+                            "homeTeam": "NK Bravo",
+                            "homeTeamId": 856680,
+                            "homeScore": "3",
+                            "awayTeam": "Maribor",
+                            "awayTeamId": 8340,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "856680",
+                            "name": "NK Bravo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8340",
+                            "name": "Maribor",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/272871_xsmall.png",
+                        "linkToMatch": "/matches/maribor-vs-radomlje/i5x2m3i#4834584",
+                        "date": {
+                            "utcTime": "2026-05-03T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/272871/overview/radomlje",
+                        "tooltipText": {
+                            "utcTime": "2026-05-03T15:30:00.000Z",
+                            "homeTeam": "Radomlje",
+                            "homeTeamId": 272871,
+                            "homeScore": "2",
+                            "awayTeam": "Maribor",
+                            "awayTeamId": 8340,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "272871",
+                            "name": "Radomlje",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8340",
+                            "name": "Maribor",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/7872_xsmall.png",
+                        "linkToMatch": "/matches/olimpija-ljubljana-vs-maribor/2690qu#4834588",
+                        "date": {
+                            "utcTime": "2026-05-09T18:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/7872/overview/olimpija-ljubljana",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T18:15:00.000Z",
+                            "homeTeam": "Maribor",
+                            "homeTeamId": 8340,
+                            "homeScore": "0",
+                            "awayTeam": "Olimpija Ljubljana",
+                            "awayTeamId": 7872,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "8340",
+                            "name": "Maribor",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "7872",
+                            "name": "Olimpija Ljubljana",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2172_xsmall.png",
+                        "linkToMatch": "/matches/mura-vs-maribor/wwiho#4834593",
+                        "date": {
+                            "utcTime": "2026-05-17T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2172/overview/mura",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T13:00:00.000Z",
+                            "homeTeam": "Mura",
+                            "homeTeamId": 2172,
+                            "homeScore": "2",
+                            "awayTeam": "Maribor",
+                            "awayTeamId": 8340,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "2172",
+                            "name": "Mura",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8340",
+                            "name": "Maribor",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1862_xsmall.png",
+                        "linkToMatch": "/matches/aluminij-vs-maribor/uzp03#4834597",
+                        "date": {
+                            "utcTime": "2026-05-23T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1862/overview/aluminij",
+                        "tooltipText": {
+                            "utcTime": "2026-05-23T15:30:00.000Z",
+                            "homeTeam": "Maribor",
+                            "homeTeamId": 8340,
+                            "homeScore": "3",
+                            "awayTeam": "Aluminij",
+                            "awayTeamId": 1862,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "8340",
+                            "name": "Maribor",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1862",
+                            "name": "Aluminij",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10163_xsmall.png",
+                        "linkToMatch": "/matches/charlton-athletic-vs-sheffield-wednesday/2v5ixc#4825546",
+                        "date": {
+                            "utcTime": "2026-04-18T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10163/overview/sheffield-wednesday",
+                        "tooltipText": {
+                            "utcTime": "2026-04-18T14:00:00.000Z",
+                            "homeTeam": "Sheffield Wednesday",
+                            "homeTeamId": 10163,
+                            "homeScore": "1",
+                            "awayTeam": "Charlton Athletic",
+                            "awayTeamId": 8451,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "10163",
+                            "name": "Sheffield Wednesday",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8451",
+                            "name": "Charlton Athletic",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9902_xsmall.png",
+                        "linkToMatch": "/matches/charlton-athletic-vs-ipswich-town/2sa5kn#4825559",
+                        "date": {
+                            "utcTime": "2026-04-22T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9902/overview/ipswich-town",
+                        "tooltipText": {
+                            "utcTime": "2026-04-22T18:45:00.000Z",
+                            "homeTeam": "Charlton Athletic",
+                            "homeTeamId": 8451,
+                            "homeScore": "1",
+                            "awayTeam": "Ipswich Town",
+                            "awayTeamId": 9902,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "8451",
+                            "name": "Charlton Athletic",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9902",
+                            "name": "Ipswich Town",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8667_xsmall.png",
+                        "linkToMatch": "/matches/charlton-athletic-vs-hull-city/2f8nf0#4825563",
+                        "date": {
+                            "utcTime": "2026-04-25T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8667/overview/hull-city",
+                        "tooltipText": {
+                            "utcTime": "2026-04-25T11:30:00.000Z",
+                            "homeTeam": "Charlton Athletic",
+                            "homeTeamId": 8451,
+                            "homeScore": "2",
+                            "awayTeam": "Hull City",
+                            "awayTeamId": 8667,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8451",
+                            "name": "Charlton Athletic",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8667",
+                            "name": "Hull City",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10003_xsmall.png",
+                        "linkToMatch": "/matches/charlton-athletic-vs-swansea-city/2tdyps#4825583",
+                        "date": {
+                            "utcTime": "2026-05-02T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10003/overview/swansea-city",
+                        "tooltipText": {
+                            "utcTime": "2026-05-02T11:30:00.000Z",
+                            "homeTeam": "Swansea City",
+                            "homeTeamId": 10003,
+                            "homeScore": "3",
+                            "awayTeam": "Charlton Athletic",
+                            "awayTeamId": 8451,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "10003",
+                            "name": "Swansea City",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8451",
+                            "name": "Charlton Athletic",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/161813_xsmall.png",
+                        "linkToMatch": "/matches/charlton-athletic-vs-dartford/6npyc33#5887479",
+                        "date": {
+                            "utcTime": "2026-07-03T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/161813/overview/dartford",
+                        "tooltipText": {
+                            "utcTime": "2026-07-03T18:45:00.000Z",
+                            "homeTeam": "Dartford",
+                            "homeTeamId": 161813,
+                            "homeScore": "0",
+                            "awayTeam": "Charlton Athletic",
+                            "awayTeamId": 8451,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "161813",
+                            "name": "Dartford",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8451",
+                            "name": "Charlton Athletic",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5904573",
+                    "MatchId": 5904573,
+                    "HomeTeamId": 8340,
+                    "AwayTeamId": 8451,
+                    "HomeTeam": "Maribor",
+                    "AwayTeam": "Charlton",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "1",
+                                "0",
+                                "4",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Maribor have 1W, 0D, 4L in five matches while Charlton Athletic have 2W, 1D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} away matches.",
+                            "TextTemplateId": "goalstreak_team_away",
+                            "StatValues": [
+                                "away_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Charlton Athletic have scored in their last 6 away matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Maribor have scored 4 goals in their last 3 matches, while Charlton Athletic have scored 4."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {2} matches and {1} in their last {3}.",
+                            "TextTemplateId": "draw_streak_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "8",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Maribor haven't drawn in their last 8 matches and Charlton Athletic in their last 4."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between Maribor and Charlton Athletic on Fri, 10 Jul 2026 16:00:00 GMT?",
+                    "answer": "Maribor vs Charlton Athletic on Fri, 10 Jul 2026 16:00:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 28,
+            "windSpeed": 2,
+            "windDirectionCardinal": "ESE",
+            "iconCode": 30,
+            "relativeHumidity": 45,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 41,
+            "description": "Partly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-10T17:30:00Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": false,
+        "momentum": false
+    },
+    "seo": {
+        "path": "maribor-vs-charlton-athletic",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5904573",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Maribor",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8340.png",
+                "url": "https://www.fotmob.com/teams/8340/overview/maribor",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Charlton Athletic",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8451.png",
+                "url": "https://www.fotmob.com/teams/8451/overview/charlton-athletic",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Maribor vs Charlton Athletic",
+            "description": "Follow Maribor vs Charlton Athletic live on fotmob.com",
+            "startDate": "2026-07-10T16:00:00.000Z",
+            "endDate": "2026-07-10T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Ljudski vrt",
+                "latitude": 46.562559865,
+                "longitude": 15.640545487,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Slovenia",
+                    "addressLocality": "Maribor"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8340.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8451.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5904573",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Maribor",
+                    "url": "https://www.fotmob.com/teams/8340/overview/maribor"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Charlton Athletic",
+                    "url": "https://www.fotmob.com/teams/8451/overview/charlton-athletic"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Maribor - Charlton Athletic",
+                        "item": "https://www.fotmob.com/match/5904573"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Charlton Athletic",
+                        "item": "https://www.fotmob.com/teams/8451/overview/charlton-athletic"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Maribor - Charlton Athletic",
+                        "item": "https://www.fotmob.com/match/5904573"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Maribor",
+                        "item": "https://www.fotmob.com/teams/8340/overview/maribor"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Maribor - Charlton Athletic",
+                        "item": "https://www.fotmob.com/match/5904573"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Maribor and Charlton Athletic on Fri, 10 Jul 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Maribor vs Charlton Athletic on Fri, 10 Jul 2026 16:00:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}

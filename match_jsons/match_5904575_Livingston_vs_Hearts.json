@@ -1,0 +1,2014 @@
+{
+    "general": {
+        "matchId": "5904575",
+        "matchName": "Livingston-vs-Hearts_Fri, Jul 10, 2026, 18:45 UTC",
+        "matchRound": null,
+        "teamColors": {
+            "darkMode": {
+                "home": "#FDD015",
+                "away": "#922e46"
+            },
+            "lightMode": {
+                "home": "#303030",
+                "away": "#691B32"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 915708,
+        "leagueName": "Club Friendlies",
+        "leagueRoundName": null,
+        "parentLeagueId": 489,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "Livingston",
+            "id": 8282
+        },
+        "awayTeam": {
+            "name": "Hearts",
+            "id": 9860
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 18:45 UTC",
+        "matchTimeUTCDate": "2026-07-10T18:45:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Livingston",
+                "id": 8282,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8282_small.png",
+                "pageUrl": "/teams/8282/overview/livingston"
+            },
+            {
+                "name": "Hearts",
+                "id": 9860,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9860_small.png",
+                "pageUrl": "/teams/9860/overview/hearts"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T18:45:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 20:47:06",
+                "firstHalfEnded": "10.07.2026 21:33:00",
+                "secondHalfStarted": "10.07.2026 21:48:24",
+                "secondHalfEnded": "10.07.2026 22:35:00",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 22:35:00"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Palmer": [
+                    {
+                        "reactKey": "1422694623Goal1075794undefinedtrue",
+                        "timeStr": 23,
+                        "type": "Goal",
+                        "time": 23,
+                        "overloadTime": null,
+                        "eventId": 14226946,
+                        "player": {
+                            "id": 1075794,
+                            "name": "Cammy Palmer",
+                            "profileUrl": "/players/1075794/cammy-palmer"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1075794/cammy-palmer",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cammy Palmer",
+                        "firstName": "Cammy",
+                        "lastName": "Palmer",
+                        "fullName": "Cammy Palmer",
+                        "playerId": 1075794,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Sinclair": [
+                    {
+                        "reactKey": "1422696036Goal982651undefinedtrue",
+                        "timeStr": 36,
+                        "type": "Goal",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14226960,
+                        "player": {
+                            "id": 982651,
+                            "name": "Tyrese Sinclair",
+                            "profileUrl": "/players/982651/tyrese-sinclair"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/982651/tyrese-sinclair",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tyrese Sinclair",
+                        "firstName": "Tyrese",
+                        "lastName": "Sinclair",
+                        "fullName": "Tyrese Sinclair",
+                        "playerId": 982651,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Renaud": [
+                    {
+                        "reactKey": "1422697141Goal1081169undefinedfalse",
+                        "timeStr": 41,
+                        "type": "Goal",
+                        "time": 41,
+                        "overloadTime": null,
+                        "eventId": 14226971,
+                        "player": {
+                            "id": 1081169,
+                            "name": "Tom Renaud",
+                            "profileUrl": "/players/1081169/tom-renaud"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1081169/tom-renaud",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tom Renaud",
+                        "firstName": "Tom",
+                        "lastName": "Renaud",
+                        "fullName": "Tom Renaud",
+                        "playerId": 1081169,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5904575,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422694623Goal1075794undefinedtrue",
+                        "timeStr": 23,
+                        "type": "Goal",
+                        "time": 23,
+                        "overloadTime": null,
+                        "eventId": 14226946,
+                        "player": {
+                            "id": 1075794,
+                            "name": "Cammy Palmer",
+                            "profileUrl": "/players/1075794/cammy-palmer"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1075794/cammy-palmer",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Cammy Palmer",
+                        "firstName": "Cammy",
+                        "lastName": "Palmer",
+                        "fullName": "Cammy Palmer",
+                        "playerId": 1075794,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422696036Goal982651undefinedtrue",
+                        "timeStr": 36,
+                        "type": "Goal",
+                        "time": 36,
+                        "overloadTime": null,
+                        "eventId": 14226960,
+                        "player": {
+                            "id": 982651,
+                            "name": "Tyrese Sinclair",
+                            "profileUrl": "/players/982651/tyrese-sinclair"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/982651/tyrese-sinclair",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tyrese Sinclair",
+                        "firstName": "Tyrese",
+                        "lastName": "Sinclair",
+                        "fullName": "Tyrese Sinclair",
+                        "playerId": 982651,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422697141Goal1081169undefinedfalse",
+                        "timeStr": 41,
+                        "type": "Goal",
+                        "time": 41,
+                        "overloadTime": null,
+                        "eventId": 14226971,
+                        "player": {
+                            "id": 1081169,
+                            "name": "Tom Renaud",
+                            "profileUrl": "/players/1081169/tom-renaud"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1081169/tom-renaud",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Tom Renaud",
+                        "firstName": "Tom",
+                        "lastName": "Renaud",
+                        "fullName": "Tom Renaud",
+                        "playerId": 1081169,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T18:45:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 915708,
+                    "parentLeagueId": 489,
+                    "link": "/leagues/489/overview/club-friendlies",
+                    "leagueName": "Club Friendlies",
+                    "roundName": null,
+                    "round": null
+                },
+                "Stadium": {
+                    "name": "Almondvale Stadium",
+                    "city": "Livingston",
+                    "country": "Scotland",
+                    "lat": 55.885959698,
+                    "long": -3.521874547,
+                    "capacity": 9672,
+                    "surface": "artificial turf"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8485_xsmall.png",
+                        "linkToMatch": "/matches/livingston-vs-aberdeen/2bp6jp#5309636",
+                        "date": {
+                            "utcTime": "2026-05-01T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8485/overview/aberdeen",
+                        "tooltipText": {
+                            "utcTime": "2026-05-01T18:45:00.000Z",
+                            "homeTeam": "Livingston",
+                            "homeTeamId": 8282,
+                            "homeScore": "2",
+                            "awayTeam": "Aberdeen",
+                            "awayTeamId": 8485,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "8282",
+                            "name": "Livingston",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8485",
+                            "name": "Aberdeen",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8284_xsmall.png",
+                        "linkToMatch": "/matches/livingston-vs-dundee-fc/29pdgp#5309640",
+                        "date": {
+                            "utcTime": "2026-05-09T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8284/overview/dundee-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T14:00:00.000Z",
+                            "homeTeam": "Dundee FC",
+                            "homeTeamId": 8284,
+                            "homeScore": "3",
+                            "awayTeam": "Livingston",
+                            "awayTeamId": 8282,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "8284",
+                            "name": "Dundee FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8282",
+                            "name": "Livingston",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9938_xsmall.png",
+                        "linkToMatch": "/matches/livingston-vs-dundee-united/2qu0xc#5309643",
+                        "date": {
+                            "utcTime": "2026-05-12T18:45:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9938/overview/dundee-united",
+                        "tooltipText": {
+                            "utcTime": "2026-05-12T18:45:00.000Z",
+                            "homeTeam": "Dundee United",
+                            "homeTeamId": 9938,
+                            "homeScore": "0",
+                            "awayTeam": "Livingston",
+                            "awayTeamId": 8282,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "9938",
+                            "name": "Dundee United",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8282",
+                            "name": "Livingston",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8597_xsmall.png",
+                        "linkToMatch": "/matches/livingston-vs-kilmarnock/2ctkil#5309646",
+                        "date": {
+                            "utcTime": "2026-05-17T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8597/overview/kilmarnock",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T13:00:00.000Z",
+                            "homeTeam": "Livingston",
+                            "homeTeamId": 8282,
+                            "homeScore": "1",
+                            "awayTeam": "Kilmarnock",
+                            "awayTeamId": 8597,
+                            "awayScore": "4"
+                        },
+                        "score": "1 - 4",
+                        "home": {
+                            "id": "8282",
+                            "name": "Livingston",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8597",
+                            "name": "Kilmarnock",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8160_xsmall.png",
+                        "linkToMatch": "/matches/alloa-athletic-vs-livingston/28hibt#5866566",
+                        "date": {
+                            "utcTime": "2026-06-30T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8160/overview/alloa-athletic",
+                        "tooltipText": {
+                            "utcTime": "2026-06-30T18:30:00.000Z",
+                            "homeTeam": "Alloa Athletic",
+                            "homeTeamId": 8160,
+                            "homeScore": "0",
+                            "awayTeam": "Livingston",
+                            "awayTeamId": 8282,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "8160",
+                            "name": "Alloa Athletic",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8282",
+                            "name": "Livingston",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10251_xsmall.png",
+                        "linkToMatch": "/matches/hearts-vs-hibernian/3ceu2k#5309619",
+                        "date": {
+                            "utcTime": "2026-04-26T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10251/overview/hibernian",
+                        "tooltipText": {
+                            "utcTime": "2026-04-26T15:30:00.000Z",
+                            "homeTeam": "Hibernian",
+                            "homeTeamId": 10251,
+                            "homeScore": "1",
+                            "awayTeam": "Hearts",
+                            "awayTeamId": 9860,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "10251",
+                            "name": "Hibernian",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9860",
+                            "name": "Hearts",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_xsmall.png",
+                        "linkToMatch": "/matches/rangers-vs-hearts/2svtlk#5309623",
+                        "date": {
+                            "utcTime": "2026-05-04T16:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8548/overview/rangers",
+                        "tooltipText": {
+                            "utcTime": "2026-05-04T16:30:00.000Z",
+                            "homeTeam": "Hearts",
+                            "homeTeamId": 9860,
+                            "homeScore": "2",
+                            "awayTeam": "Rangers",
+                            "awayTeamId": 8548,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "9860",
+                            "name": "Hearts",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8548",
+                            "name": "Rangers",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9927_xsmall.png",
+                        "linkToMatch": "/matches/hearts-vs-motherwell/38kaqx#5309625",
+                        "date": {
+                            "utcTime": "2026-05-09T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9927/overview/motherwell",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T19:00:00.000Z",
+                            "homeTeam": "Motherwell",
+                            "homeTeamId": 9927,
+                            "homeScore": "1",
+                            "awayTeam": "Hearts",
+                            "awayTeamId": 9860,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "9927",
+                            "name": "Motherwell",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9860",
+                            "name": "Hearts",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8596_xsmall.png",
+                        "linkToMatch": "/matches/falkirk-vs-hearts/2tesa8#5309627",
+                        "date": {
+                            "utcTime": "2026-05-13T19:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8596/overview/falkirk",
+                        "tooltipText": {
+                            "utcTime": "2026-05-13T19:00:00.000Z",
+                            "homeTeam": "Hearts",
+                            "homeTeamId": 9860,
+                            "homeScore": "3",
+                            "awayTeam": "Falkirk",
+                            "awayTeamId": 8596,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "9860",
+                            "name": "Hearts",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8596",
+                            "name": "Falkirk",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9925_xsmall.png",
+                        "linkToMatch": "/matches/hearts-vs-celtic/38jg7m#5309630",
+                        "date": {
+                            "utcTime": "2026-05-16T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9925/overview/celtic",
+                        "tooltipText": {
+                            "utcTime": "2026-05-16T11:30:00.000Z",
+                            "homeTeam": "Celtic",
+                            "homeTeamId": 9925,
+                            "homeScore": "3",
+                            "awayTeam": "Hearts",
+                            "awayTeamId": 9860,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "9925",
+                            "name": "Celtic",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "9860",
+                            "name": "Hearts",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5904575",
+                    "MatchId": 5904575,
+                    "HomeTeamId": 8282,
+                    "AwayTeamId": 9860,
+                    "HomeTeam": "Livingston",
+                    "AwayTeam": "Hearts",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "8",
+                                "5",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Hearts haven't lost to Livingston in their last 8 meetings (5W, 3D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Livingston have scored in their last 5 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Livingston have scored 4 goals in their last 3 matches, while Hearts have scored 5."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "8",
+                                "5",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Hearts haven't lost to Livingston in their last 8 meetings (5W, 3D)."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 9860,
+                    "priority": 9,
+                    "defaultText": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                    "localizedTextId": "h2h_undefeated",
+                    "statValues": [
+                        {
+                            "value": 9860,
+                            "name": "Hearts",
+                            "type": "team"
+                        },
+                        {
+                            "value": 8282,
+                            "name": "Livingston",
+                            "type": "team"
+                        },
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Hearts haven't lost to Livingston in their last 8 meetings (5W, 3D).",
+                    "color": "#691B32"
+                }
+            ],
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between Livingston and Hearts on Fri, 10 Jul 2026 18:45:00 GMT?",
+                    "answer": "Livingston won 2\u20131 over Hearts on Fri, 10 Jul 2026 18:45:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 17,
+            "windSpeed": 4,
+            "windDirectionCardinal": "NE",
+            "iconCode": 30,
+            "relativeHumidity": 83,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 0,
+            "description": "Partly Cloudy",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-10T20:30:01Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": {
+            "summary": [
+                4,
+                8,
+                15
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-04-05T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#4818944",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2026-04-05T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-01-03T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#4818879",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2026-01-03T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-08-30T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#4818777",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-30T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-04-13T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#4221173",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2024-04-13T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-01-02T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#4221086",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2024-01-02T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-11-01T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#4221065",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2023-11-01T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-01-29T13:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3902921",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2023-01-29T13:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-11-12T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3902871",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2022-11-12T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-09-03T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3902851",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2022-09-03T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-03-19T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3608268",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2022-03-19T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-02-12T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3811529",
+                    "league": {
+                        "name": "FA Cup",
+                        "id": "137",
+                        "pageUrl": "/leagues/137/overview/fa-cup"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2022-02-12T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "Pen",
+                            "shortKey": "penalties_short",
+                            "long": "Pen 4 - 3",
+                            "longKey": "afterpenalties",
+                            "penalties": [
+                                "4",
+                                "3"
+                            ]
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-12-05T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3608184",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2021-12-05T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2021-09-25T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3608103",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2021-09-25T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-12-04T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3068798",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2019-12-04T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-10-26T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#3068763",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2019-10-26T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-02-06T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#2784060",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2019-02-06T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-01-20T14:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#2936822",
+                    "league": {
+                        "name": "FA Cup",
+                        "id": "137",
+                        "pageUrl": "/leagues/137/overview/fa-cup"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2019-01-20T14:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-12-14T19:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#2784102",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2018-12-14T19:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-09-22T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#2784145",
+                    "league": {
+                        "name": "Premiership",
+                        "id": "64",
+                        "pageUrl": "/leagues/64/overview/premiership"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2018-09-22T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-07-01T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#2537939",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2017-07-01T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-02-14T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#1726333",
+                    "league": {
+                        "name": "Championship",
+                        "id": "123",
+                        "pageUrl": "/leagues/123/overview/championship"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2015-02-14T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-02-07T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#1726370",
+                    "league": {
+                        "name": "Championship",
+                        "id": "123",
+                        "pageUrl": "/leagues/123/overview/championship"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2015-02-07T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-12-27T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#1726306",
+                    "league": {
+                        "name": "Championship",
+                        "id": "123",
+                        "pageUrl": "/leagues/123/overview/championship"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2014-12-27T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-09-28T15:05:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#1726249",
+                    "league": {
+                        "name": "Championship",
+                        "id": "123",
+                        "pageUrl": "/leagues/123/overview/championship"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2014-09-28T15:05:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-08-20T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#1788265",
+                    "league": {
+                        "name": "Challenge Cup",
+                        "id": "179",
+                        "pageUrl": "/leagues/179/overview/challenge-cup"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2014-08-20T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2012-09-25T18:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#1326342",
+                    "league": {
+                        "name": "Scottish Communities League Cup",
+                        "id": "180",
+                        "pageUrl": "/leagues/180/overview/scottish-communities-league-cup"
+                    },
+                    "home": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    },
+                    "status": {
+                        "utcTime": "2012-09-25T18:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-07-16T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/livingston-vs-hearts/2pzmlx#1064603",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Livingston",
+                        "id": "8282"
+                    },
+                    "status": {
+                        "utcTime": "2011-07-16T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Hearts",
+                        "id": "9860"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "livingston-vs-hearts",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5904575",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Livingston",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8282.png",
+                "url": "https://www.fotmob.com/teams/8282/overview/livingston",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Hearts",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9860.png",
+                "url": "https://www.fotmob.com/teams/9860/overview/hearts",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Livingston vs Hearts",
+            "description": "Follow Livingston vs Hearts live on fotmob.com",
+            "startDate": "2026-07-10T18:45:00.000Z",
+            "endDate": "2026-07-10T20:45:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Almondvale Stadium",
+                "latitude": 55.885959698,
+                "longitude": -3.521874547,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Scotland",
+                    "addressLocality": "Livingston"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8282.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/9860.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5904575",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T18:45:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Livingston",
+                    "url": "https://www.fotmob.com/teams/8282/overview/livingston"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Hearts",
+                    "url": "https://www.fotmob.com/teams/9860/overview/hearts"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Livingston - Hearts",
+                        "item": "https://www.fotmob.com/match/5904575"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Hearts",
+                        "item": "https://www.fotmob.com/teams/9860/overview/hearts"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Livingston - Hearts",
+                        "item": "https://www.fotmob.com/match/5904575"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Livingston",
+                        "item": "https://www.fotmob.com/teams/8282/overview/livingston"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Livingston - Hearts",
+                        "item": "https://www.fotmob.com/match/5904575"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Livingston and Hearts on Fri, 10 Jul 2026 18:45:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Livingston won 2\u20131 over Hearts on Fri, 10 Jul 2026 18:45:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

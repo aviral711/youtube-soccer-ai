@@ -1,0 +1,2609 @@
+{
+    "general": {
+        "matchId": "1000007914",
+        "matchName": "Harju Jalgpallikool-vs-Narva Trans_Fri, Jul 10, 2026, 16:00 UTC",
+        "matchRound": "19",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#1868A8"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#1868A8"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 248,
+        "leagueName": "Estonian Premium liiga",
+        "leagueRoundName": "19",
+        "parentLeagueId": 248,
+        "countryCode": "EST",
+        "homeTeam": {
+            "name": "Harju Jalgpallikool",
+            "id": 673053
+        },
+        "awayTeam": {
+            "name": "Narva Trans",
+            "id": 2252
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 16:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T16:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Harju Jalgpallikool",
+                "id": 673053,
+                "score": 3,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/673053_small.png",
+                "pageUrl": "/teams/673053/overview/harju-jalgpallikool"
+            },
+            {
+                "name": "Narva Trans",
+                "id": 2252,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2252_small.png",
+                "pageUrl": "/teams/2252/overview/narva-trans"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T16:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 18:02:43",
+                "firstHalfEnded": "10.07.2026 18:48:50",
+                "secondHalfStarted": "10.07.2026 19:03:47",
+                "secondHalfEnded": "10.07.2026 19:52:29",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 19:52:29"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "3 - 0",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Palutaja": [
+                    {
+                        "reactKey": "07Goal1575231undefinedtrue",
+                        "timeStr": 7,
+                        "type": "Goal",
+                        "time": 7,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1575231,
+                            "name": "Hugo Palutaja",
+                            "profileUrl": "/players/1575231/hugo-palutaja"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1575231/hugo-palutaja",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hugo Palutaja",
+                        "firstName": "Hugo",
+                        "lastName": "Palutaja",
+                        "fullName": "Hugo Palutaja",
+                        "playerId": 1575231,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Baljabkin": [
+                    {
+                        "reactKey": "031Goal1785222undefinedtrue",
+                        "timeStr": 31,
+                        "type": "Goal",
+                        "time": 31,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1785222,
+                            "name": "Nikita Baljabkin",
+                            "profileUrl": "/players/1785222/nikita-baljabkin"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1785222/nikita-baljabkin",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nikita Baljabkin",
+                        "firstName": "Nikita",
+                        "lastName": "Baljabkin",
+                        "fullName": "Nikita Baljabkin",
+                        "playerId": 1785222,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Eerme": [
+                    {
+                        "reactKey": "090Goal1477353undefinedtrue",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1477353,
+                            "name": "Karel Eerme",
+                            "profileUrl": "/players/1477353/karel-eerme"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1477353/karel-eerme",
+                        "overloadTimeStr": "+3",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Karel Eerme",
+                        "firstName": "Karel",
+                        "lastName": "Eerme",
+                        "fullName": "Karel Eerme",
+                        "playerId": 1477353,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {},
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {
+                "Filatov": [
+                    {
+                        "reactKey": "078Card1561545undefinedfalse",
+                        "timeStr": 78,
+                        "type": "Card",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1561545,
+                            "name": "Aleksander Filatov",
+                            "profileUrl": "/players/1561545/aleksander-filatov"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1561545/aleksander-filatov",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Aleksander Filatov",
+                        "firstName": "Aleksander",
+                        "lastName": "Filatov",
+                        "fullName": "Aleksander Filatov",
+                        "playerId": 1561545,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "lineup",
+        "stats",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 1000007914,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "07Goal1575231undefinedtrue",
+                        "timeStr": 7,
+                        "type": "Goal",
+                        "time": 7,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1575231,
+                            "name": "Hugo Palutaja",
+                            "profileUrl": "/players/1575231/hugo-palutaja"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1575231/hugo-palutaja",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Hugo Palutaja",
+                        "firstName": "Hugo",
+                        "lastName": "Palutaja",
+                        "fullName": "Hugo Palutaja",
+                        "playerId": 1575231,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "031Goal1785222undefinedtrue",
+                        "timeStr": 31,
+                        "type": "Goal",
+                        "time": 31,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1785222,
+                            "name": "Nikita Baljabkin",
+                            "profileUrl": "/players/1785222/nikita-baljabkin"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1785222/nikita-baljabkin",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": true,
+                        "goalDescription": "Own goal",
+                        "goalDescriptionKey": "owngoal",
+                        "suffix": "OG",
+                        "suffixKey": "own_goal_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Nikita Baljabkin",
+                        "firstName": "Nikita",
+                        "lastName": "Baljabkin",
+                        "fullName": "Nikita Baljabkin",
+                        "playerId": 1785222,
+                        "newScore": [
+                            2,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1724251false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Stanislav Agapt\u0161ev",
+                                "id": "1724251",
+                                "profileUrl": "/players/1724251/stanislav-agaptsev"
+                            },
+                            {
+                                "name": "Arnas Besigirskis",
+                                "id": "1785226",
+                                "profileUrl": "/players/1785226/arnas-besigirskis"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN1561545false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Aleksander Filatov",
+                                "id": "1561545",
+                                "profileUrl": "/players/1561545/aleksander-filatov"
+                            },
+                            {
+                                "name": "Viktor Kudriashov",
+                                "id": "1507735",
+                                "profileUrl": "/players/1507735/viktor-kudriashov"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined46SubstitutionNaN932273false",
+                        "timeStr": 46,
+                        "type": "Substitution",
+                        "time": 46,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Ahmad Gero",
+                                "id": "932273",
+                                "profileUrl": "/players/932273/ahmad-gero"
+                            },
+                            {
+                                "name": "Egor Zhuravlev",
+                                "id": "1507734",
+                                "profileUrl": "/players/1507734/egor-zhuravlev"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined61SubstitutionNaN1379845true",
+                        "timeStr": 61,
+                        "type": "Substitution",
+                        "time": 61,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Marten Kelement",
+                                "id": "1379845",
+                                "profileUrl": "/players/1379845/marten-kelement"
+                            },
+                            {
+                                "name": "Imre Kartau",
+                                "id": "1785286",
+                                "profileUrl": "/players/1785286/imre-kartau"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined61SubstitutionNaN1477353true",
+                        "timeStr": 61,
+                        "type": "Substitution",
+                        "time": 61,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Karel Eerme",
+                                "id": "1477353",
+                                "profileUrl": "/players/1477353/karel-eerme"
+                            },
+                            {
+                                "name": "Ramol Sillamaa",
+                                "id": "1343121",
+                                "profileUrl": "/players/1343121/ramol-sillamaa"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined75SubstitutionNaN1927445false",
+                        "timeStr": 75,
+                        "type": "Substitution",
+                        "time": 75,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Imoh Imeh John",
+                                "id": "1927445",
+                                "profileUrl": "/players/1927445/imoh-imeh-john"
+                            },
+                            {
+                                "name": "Murad Veliyev",
+                                "id": "1211789",
+                                "profileUrl": "/players/1211789/murad-veliyev"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "078Card1561545undefinedfalse",
+                        "timeStr": 78,
+                        "type": "Card",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1561545,
+                            "name": "Aleksander Filatov",
+                            "profileUrl": "/players/1561545/aleksander-filatov"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1561545/aleksander-filatov",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Aleksander Filatov",
+                        "firstName": "Aleksander",
+                        "lastName": "Filatov",
+                        "fullName": "Aleksander Filatov",
+                        "playerId": 1561545,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined81SubstitutionNaN1473643true",
+                        "timeStr": 81,
+                        "type": "Substitution",
+                        "time": 81,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Danyil Rudenko",
+                                "id": "1473643",
+                                "profileUrl": "/players/1473643/danyil-rudenko"
+                            },
+                            {
+                                "name": "Idrissa Edenge Bah",
+                                "id": "1922716",
+                                "profileUrl": "/players/1922716/idrissa-edenge-bah"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined81SubstitutionNaN0true",
+                        "timeStr": 81,
+                        "type": "Substitution",
+                        "time": 81,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Kaspar R\u00f5\u00f5mussaar",
+                                "id": "0",
+                                "profileUrl": ""
+                            },
+                            {
+                                "name": "Abdul Binate",
+                                "id": "1655029",
+                                "profileUrl": "/players/1655029/abdul-binate"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "082Card1724251undefinedfalse",
+                        "timeStr": 82,
+                        "type": "Card",
+                        "time": 82,
+                        "overloadTime": null,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1724251,
+                            "name": "Stanislav Agapt\u0161ev",
+                            "profileUrl": "/players/1724251/stanislav-agaptsev"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1724251/stanislav-agaptsev",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Stanislav Agapt\u0161ev",
+                        "firstName": "Stanislav",
+                        "lastName": "Agapt\u0161ev",
+                        "fullName": "Stanislav Agapt\u0161ev",
+                        "playerId": 1724251,
+                        "card": "Yellow",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined88SubstitutionNaN1557054true",
+                        "timeStr": 88,
+                        "type": "Substitution",
+                        "time": 88,
+                        "overloadTime": 0,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Ander-Joosep Kose",
+                                "id": "1557054",
+                                "profileUrl": "/players/1557054/ander-joosep-kose"
+                            },
+                            {
+                                "name": "Joseph Ndakala",
+                                "id": "1924743",
+                                "profileUrl": "/players/1924743/joseph-ndakala"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "undefined90SubstitutionNaN800032false",
+                        "timeStr": "90 + 1",
+                        "type": "Substitution",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "",
+                        "overloadTimeStr": "+1",
+                        "isHome": false,
+                        "injuredPlayerOut": false,
+                        "swap": [
+                            {
+                                "name": "Denis Polyakov",
+                                "id": "800032",
+                                "profileUrl": "/players/800032/denis-polyakov"
+                            },
+                            {
+                                "name": "Stanislav Agapt\u0161ev",
+                                "id": "1724251",
+                                "profileUrl": "/players/1724251/stanislav-agaptsev"
+                            }
+                        ]
+                    },
+                    {
+                        "reactKey": "090Goal1477353undefinedtrue",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 0,
+                        "player": {
+                            "id": 1477353,
+                            "name": "Karel Eerme",
+                            "profileUrl": "/players/1477353/karel-eerme"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1477353/karel-eerme",
+                        "overloadTimeStr": "+3",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Karel Eerme",
+                        "firstName": "Karel",
+                        "lastName": "Eerme",
+                        "fullName": "Karel Eerme",
+                        "playerId": 1477353,
+                        "newScore": [
+                            3,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Substitution",
+                    "Card",
+                    "Red",
+                    "Yellow"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T16:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 248,
+                    "parentLeagueId": 248,
+                    "link": "/leagues/248/overview/estonian-premium-liiga",
+                    "leagueName": "Estonian Premium liiga",
+                    "roundName": "19",
+                    "round": "19"
+                },
+                "Stadium": {
+                    "name": "Laagri kunstmurustaadion",
+                    "city": "Tallinn",
+                    "country": "Estonia",
+                    "lat": 59.350362278,
+                    "long": 24.616541862
+                },
+                "Referee": {
+                    "imgUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/est.png",
+                    "text": "Martti Pukk",
+                    "countryCode": "EST",
+                    "country": "Estonia"
+                },
+                "Attendance": 276
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/2252_xsmall.png",
+                        "linkToMatch": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#1000007888",
+                        "date": {
+                            "utcTime": "2026-05-30T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/2252/overview/narva-trans",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T11:30:00.000Z",
+                            "homeTeam": "Harju Jalgpallikool",
+                            "homeTeamId": 673053,
+                            "homeScore": "3",
+                            "awayTeam": "Narva Trans",
+                            "awayTeamId": 2252,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "673053",
+                            "name": "Harju Jalgpallikool",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "2252",
+                            "name": "Narva Trans",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4146_xsmall.png",
+                        "linkToMatch": "/matches/fc-kuressaare-vs-harju-jalgpallikool/2xc7g8ol#1000007847",
+                        "date": {
+                            "utcTime": "2026-06-13T09:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4146/overview/fc-kuressaare",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T09:30:00.000Z",
+                            "homeTeam": "Harju Jalgpallikool",
+                            "homeTeamId": 673053,
+                            "homeScore": "2",
+                            "awayTeam": "FC Kuressaare",
+                            "awayTeamId": 4146,
+                            "awayScore": "3"
+                        },
+                        "score": "2 - 3",
+                        "home": {
+                            "id": "673053",
+                            "name": "Harju Jalgpallikool",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4146",
+                            "name": "FC Kuressaare",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163540_xsmall.png",
+                        "linkToMatch": "/matches/paide-linnameeskond-vs-harju-jalgpallikool/4grg85ty#1000007901",
+                        "date": {
+                            "utcTime": "2026-06-17T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163540/overview/paide-linnameeskond",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T16:00:00.000Z",
+                            "homeTeam": "Paide Linnameeskond",
+                            "homeTeamId": 163540,
+                            "homeScore": "1",
+                            "awayTeam": "Harju Jalgpallikool",
+                            "awayTeamId": 673053,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "163540",
+                            "name": "Paide Linnameeskond",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "673053",
+                            "name": "Harju Jalgpallikool",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584714_xsmall.png",
+                        "linkToMatch": "/matches/nomme-united-vs-harju-jalgpallikool/a3dj5g2x#1000007902",
+                        "date": {
+                            "utcTime": "2026-06-20T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/584714/overview/nomme-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T11:30:00.000Z",
+                            "homeTeam": "Harju Jalgpallikool",
+                            "homeTeamId": 673053,
+                            "homeScore": "1",
+                            "awayTeam": "Nomme United",
+                            "awayTeamId": 584714,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "673053",
+                            "name": "Harju Jalgpallikool",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "584714",
+                            "name": "Nomme United",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4147_xsmall.png",
+                        "linkToMatch": "/matches/tammeka-vs-harju-jalgpallikool/2xc7ur7p#1000007911",
+                        "date": {
+                            "utcTime": "2026-07-05T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4147/overview/tammeka",
+                        "tooltipText": {
+                            "utcTime": "2026-07-05T16:00:00.000Z",
+                            "homeTeam": "Tammeka",
+                            "homeTeamId": 4147,
+                            "homeScore": "2",
+                            "awayTeam": "Harju Jalgpallikool",
+                            "awayTeamId": 673053,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "4147",
+                            "name": "Tammeka",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "673053",
+                            "name": "Harju Jalgpallikool",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/673053_xsmall.png",
+                        "linkToMatch": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#1000007888",
+                        "date": {
+                            "utcTime": "2026-05-30T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/673053/overview/harju-jalgpallikool",
+                        "tooltipText": {
+                            "utcTime": "2026-05-30T11:30:00.000Z",
+                            "homeTeam": "Harju Jalgpallikool",
+                            "homeTeamId": 673053,
+                            "homeScore": "3",
+                            "awayTeam": "Narva Trans",
+                            "awayTeamId": 2252,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "673053",
+                            "name": "Harju Jalgpallikool",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2252",
+                            "name": "Narva Trans",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/584714_xsmall.png",
+                        "linkToMatch": "/matches/narva-trans-vs-nomme-united/274ydtd3#1000007896",
+                        "date": {
+                            "utcTime": "2026-06-13T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/584714/overview/nomme-united",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T11:30:00.000Z",
+                            "homeTeam": "Narva Trans",
+                            "homeTeamId": 2252,
+                            "homeScore": "1",
+                            "awayTeam": "Nomme United",
+                            "awayTeamId": 584714,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "2252",
+                            "name": "Narva Trans",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "584714",
+                            "name": "Nomme United",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4146_xsmall.png",
+                        "linkToMatch": "/matches/narva-trans-vs-fc-kuressaare/c6u9f#1000007898",
+                        "date": {
+                            "utcTime": "2026-06-16T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4146/overview/fc-kuressaare",
+                        "tooltipText": {
+                            "utcTime": "2026-06-16T16:00:00.000Z",
+                            "homeTeam": "FC Kuressaare",
+                            "homeTeamId": 4146,
+                            "homeScore": "0",
+                            "awayTeam": "Narva Trans",
+                            "awayTeamId": 2252,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "4146",
+                            "name": "FC Kuressaare",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2252",
+                            "name": "Narva Trans",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4147_xsmall.png",
+                        "linkToMatch": "/matches/narva-trans-vs-tammeka/c6z77#1000007904",
+                        "date": {
+                            "utcTime": "2026-06-21T11:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4147/overview/tammeka",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T11:30:00.000Z",
+                            "homeTeam": "Tammeka",
+                            "homeTeamId": 4147,
+                            "homeScore": "1",
+                            "awayTeam": "Narva Trans",
+                            "awayTeamId": 2252,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "4147",
+                            "name": "Tammeka",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "2252",
+                            "name": "Narva Trans",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1588_xsmall.png",
+                        "linkToMatch": "/matches/fci-levadia-vs-narva-trans/4e43w#1000007909",
+                        "date": {
+                            "utcTime": "2026-07-04T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1588/overview/fci-levadia",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T16:00:00.000Z",
+                            "homeTeam": "Narva Trans",
+                            "homeTeamId": 2252,
+                            "homeScore": "1",
+                            "awayTeam": "FCI Levadia",
+                            "awayTeamId": 1588,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "2252",
+                            "name": "Narva Trans",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1588",
+                            "name": "FCI Levadia",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-1000007914",
+                    "MatchId": 1000007914,
+                    "HomeTeamId": 673053,
+                    "AwayTeamId": 2252,
+                    "HomeTeam": "Harju Jalgpallikool",
+                    "AwayTeam": "Narva Trans",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Harju Jalgpallikool have won the previous 4 matches against Narva Trans."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Harju Jalgpallikool have scored in their last 6 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} haven't scored away for {1} matches.",
+                            "TextTemplateId": "goalless_away",
+                            "StatValues": [
+                                "away_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_glove",
+                            "defaultText": "Narva Trans haven't scored away for 6 matches."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Narva Trans haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "countryCode": "EST",
+            "QAData": [
+                {
+                    "question": "Who won between Harju Jalgpallikool and Narva Trans on Fri, 10 Jul 2026 16:00:00 GMT?",
+                    "answer": "Harju Jalgpallikool won 3\u20130 over Narva Trans on Fri, 10 Jul 2026 16:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": {
+            "Periods": {
+                "All": null
+            }
+        },
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 19,
+            "windSpeed": 3,
+            "windDirectionCardinal": "NE",
+            "iconCode": 30,
+            "relativeHumidity": 68,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 48,
+            "description": "Showers in the Vicinity",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-10T17:30:01Z",
+            "localizedKey": "weather_condition_partly_cloudy",
+            "defaultTitle": "Partly Cloudy"
+        },
+        "lineup": {
+            "matchId": 1000007914,
+            "lineupType": "simple",
+            "source": "optaSdapi",
+            "availableFilters": [
+                "season",
+                "match",
+                "age",
+                "country"
+            ],
+            "homeTeam": {
+                "id": 673053,
+                "name": "Harju Jalgpallikool",
+                "starters": [
+                    {
+                        "id": 1655029,
+                        "age": 23,
+                        "optaId": "471056",
+                        "name": "Abdul Binate",
+                        "shirtNumber": "19",
+                        "countryName": "Canada",
+                        "countryCode": "CAN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Abdul",
+                        "lastName": "Binate",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1575231,
+                        "age": 22,
+                        "optaId": "520327",
+                        "name": "Hugo Palutaja",
+                        "shirtNumber": "6",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 188238,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 7
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "Hugo",
+                        "lastName": "Palutaja",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1553153,
+                        "age": 21,
+                        "optaId": "599597",
+                        "name": "Kristjan Kriis",
+                        "shirtNumber": "16",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 290097,
+                        "firstName": "Kristjan",
+                        "lastName": "Kriis",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1735376,
+                        "age": 21,
+                        "optaId": "599590",
+                        "name": "Andreas Kaevats",
+                        "shirtNumber": "3",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 146211,
+                        "firstName": "Andreas",
+                        "lastName": "Kaevats",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1922716,
+                        "age": 20,
+                        "optaId": "733347",
+                        "name": "Idrissa Edenge Bah",
+                        "shirtNumber": "18",
+                        "countryName": "Canada",
+                        "countryCode": "CAN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Idrissa Edenge",
+                        "lastName": "Bah",
+                        "rankings": null
+                    },
+                    {
+                        "id": 937957,
+                        "age": 26,
+                        "optaId": "448975",
+                        "name": "Kaspar Laur",
+                        "shirtNumber": "24",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Kaspar",
+                        "lastName": "Laur",
+                        "rankings": null
+                    },
+                    {
+                        "id": 980781,
+                        "age": 27,
+                        "optaId": "448977",
+                        "name": "Reinhard Reimaa",
+                        "shirtNumber": "7",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Reinhard",
+                        "lastName": "Reimaa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785288,
+                        "age": 18,
+                        "optaId": "689020",
+                        "name": "Jan Martti Vainula",
+                        "shirtNumber": "1",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Jan Martti",
+                        "lastName": "Vainula",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785286,
+                        "age": 20,
+                        "optaId": "605990",
+                        "name": "Imre Kartau",
+                        "shirtNumber": "5",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 61,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Imre",
+                        "lastName": "Kartau",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1343121,
+                        "age": 21,
+                        "optaId": "520324",
+                        "name": "Ramol Sillamaa",
+                        "shirtNumber": "13",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 235191,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 61,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Ramol",
+                        "lastName": "Sillamaa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1924743,
+                        "age": 19,
+                        "optaId": "733349",
+                        "name": "Joseph Ndakala",
+                        "shirtNumber": "53",
+                        "countryName": "Canada",
+                        "countryCode": "CAN",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Joseph",
+                        "lastName": "Ndakala",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1785283,
+                    "age": 39,
+                    "name": "Lauri Nuuma",
+                    "countryName": "Estonia",
+                    "countryCode": "EST",
+                    "firstName": "Lauri",
+                    "lastName": "Nuuma",
+                    "primaryTeamId": 673053,
+                    "primaryTeamName": "Harju Jalgpallikool",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1379845,
+                        "age": 22,
+                        "optaId": "524108",
+                        "name": "Marten Kelement",
+                        "shirtNumber": "17",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 61,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Marten",
+                        "lastName": "Kelement",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1477353,
+                        "age": 22,
+                        "optaId": "599596",
+                        "name": "Karel Eerme",
+                        "shirtNumber": "9",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 253091,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "goal",
+                                    "time": 90
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 61,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ],
+                            "seasonGoals": 1
+                        },
+                        "firstName": "Karel",
+                        "lastName": "Eerme",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1473643,
+                        "age": 22,
+                        "optaId": "599593",
+                        "name": "Danyil Rudenko",
+                        "shirtNumber": "23",
+                        "countryName": "Ukraine",
+                        "countryCode": "UKR",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Danyil",
+                        "lastName": "Rudenko",
+                        "rankings": null
+                    },
+                    {
+                        "id": 0,
+                        "age": 23,
+                        "optaId": "599600",
+                        "name": "Kaspar R\u00f5\u00f5mussaar",
+                        "shirtNumber": "66",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 81,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Kaspar",
+                        "lastName": "R\u00f5\u00f5mussaar",
+                        "shortName": 0,
+                        "rankings": null
+                    },
+                    {
+                        "id": 1557054,
+                        "age": 20,
+                        "optaId": "599591",
+                        "name": "Ander-Joosep Kose",
+                        "shirtNumber": "11",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 88,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Ander-Joosep",
+                        "lastName": "Kose",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785294,
+                        "age": 19,
+                        "optaId": "689023",
+                        "name": "Karl-Erik Ennuste",
+                        "shirtNumber": "47",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Karl-Erik",
+                        "lastName": "Ennuste",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785306,
+                        "age": 18,
+                        "optaId": "733352",
+                        "name": "Markus Kesa",
+                        "shirtNumber": "22",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Markus",
+                        "lastName": "Kesa",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1791830,
+                        "age": 20,
+                        "optaId": "600476",
+                        "name": "Rihard Meesit",
+                        "shirtNumber": "79",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Rihard",
+                        "lastName": "Meesit",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1513911,
+                        "age": 19,
+                        "optaId": "617576",
+                        "name": "Enriko Kajari",
+                        "shirtNumber": "41",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 231468,
+                        "firstName": "Enriko",
+                        "lastName": "Kajari",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1386751,
+                        "age": 24,
+                        "optaId": "520033",
+                        "name": "Andres J\u00e4rve",
+                        "shirtNumber": "4",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Andres",
+                        "lastName": "J\u00e4rve",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1657527,
+                        "age": 20,
+                        "optaId": "650139",
+                        "name": "Stevin Kerge",
+                        "shirtNumber": "32",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Stevin",
+                        "lastName": "Kerge",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 22.2
+            },
+            "awayTeam": {
+                "id": 2252,
+                "name": "Narva Trans",
+                "starters": [
+                    {
+                        "id": 1785226,
+                        "age": 18,
+                        "optaId": "710723",
+                        "name": "Arnas Besigirskis",
+                        "shirtNumber": "88",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Arnas",
+                        "lastName": "Besigirskis",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785222,
+                        "age": 18,
+                        "optaId": "689114",
+                        "name": "Nikita Baljabkin",
+                        "shirtNumber": "47",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "ownGoal",
+                                    "time": 31
+                                }
+                            ]
+                        },
+                        "firstName": "Nikita",
+                        "lastName": "Baljabkin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 857393,
+                        "age": 27,
+                        "optaId": "249687",
+                        "name": "Shalva Burjanadze",
+                        "shirtNumber": "25",
+                        "countryName": "Georgia",
+                        "countryCode": "GEO",
+                        "marketValue": 72501,
+                        "firstName": "Shalva",
+                        "lastName": "Burjanadze",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1396271,
+                        "age": 24,
+                        "optaId": "425686",
+                        "name": "Cristian Campagna",
+                        "shirtNumber": "5",
+                        "countryName": "Canada",
+                        "countryCode": "CAN",
+                        "marketValue": 97619,
+                        "firstName": "Cristian",
+                        "lastName": "Campagna",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1268397,
+                        "age": 21,
+                        "optaId": "543720",
+                        "name": "Daniil Pareiko",
+                        "shirtNumber": "27",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Daniil",
+                        "lastName": "Pareiko",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1206715,
+                        "age": 22,
+                        "optaId": "519894",
+                        "name": "Josu\u00e9 Dok\u00e9",
+                        "shirtNumber": "9",
+                        "countryName": "Togo",
+                        "countryCode": "TOG",
+                        "firstName": "Josu\u00e9",
+                        "lastName": "Dok\u00e9",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1507734,
+                        "age": 20,
+                        "optaId": "571769",
+                        "name": "Egor Zhuravlev",
+                        "shirtNumber": "22",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Egor",
+                        "lastName": "Zhuravlev",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1211789,
+                        "age": 24,
+                        "optaId": "512470",
+                        "name": "Murad Veliyev",
+                        "shirtNumber": "7",
+                        "countryName": "Azerbaijan",
+                        "countryCode": "AZE",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 75,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Murad",
+                        "lastName": "Veliyev",
+                        "rankings": null
+                    },
+                    {
+                        "id": 462868,
+                        "age": 30,
+                        "optaId": "210076",
+                        "name": "German Slein",
+                        "shirtNumber": "6",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "German",
+                        "lastName": "Slein",
+                        "rankings": null
+                    },
+                    {
+                        "id": 651730,
+                        "age": 30,
+                        "optaId": "210292",
+                        "name": "Aleksandr Ivanjusin",
+                        "shirtNumber": "4",
+                        "countryName": "Russia",
+                        "countryCode": "RUS",
+                        "firstName": "Aleksandr",
+                        "lastName": "Ivanjusin",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1507735,
+                        "age": 20,
+                        "optaId": "587102",
+                        "name": "Viktor Kudriashov",
+                        "shirtNumber": "29",
+                        "countryName": "Russia",
+                        "countryCode": "RUS",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Viktor",
+                        "lastName": "Kudriashov",
+                        "rankings": null
+                    }
+                ],
+                "coach": {
+                    "id": 1176238,
+                    "age": 52,
+                    "name": "David Campa\u00f1a Piquer",
+                    "countryName": "Spain",
+                    "countryCode": "ESP",
+                    "firstName": "David Campa\u00f1a",
+                    "lastName": "Piquer",
+                    "primaryTeamId": 2252,
+                    "primaryTeamName": "Narva Trans",
+                    "usualPlayingPositionId": null,
+                    "isCoach": true
+                },
+                "subs": [
+                    {
+                        "id": 1724251,
+                        "age": 20,
+                        "optaId": "582549",
+                        "name": "Stanislav Agapt\u0161ev",
+                        "shirtNumber": "8",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 168785,
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "yellowCard",
+                                    "time": 82
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                },
+                                {
+                                    "time": 90,
+                                    "type": "subOut",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Stanislav",
+                        "lastName": "Agapt\u0161ev",
+                        "rankings": null
+                    },
+                    {
+                        "id": 932273,
+                        "age": 26,
+                        "optaId": "575289",
+                        "name": "Ahmad Gero",
+                        "shirtNumber": "10",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "marketValue": 54667,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Ahmad",
+                        "lastName": "Gero",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1561545,
+                        "age": 22,
+                        "optaId": "600437",
+                        "name": "Aleksander Filatov",
+                        "shirtNumber": "14",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "performance": {
+                            "events": [
+                                {
+                                    "type": "redCard",
+                                    "time": 78
+                                }
+                            ],
+                            "substitutionEvents": [
+                                {
+                                    "time": 46,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Aleksander",
+                        "lastName": "Filatov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1927445,
+                        "age": 19,
+                        "optaId": "734038",
+                        "name": "Imoh Imeh John",
+                        "shirtNumber": "70",
+                        "countryName": "Nigeria",
+                        "countryCode": "NGA",
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 75,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Imoh Imeh",
+                        "lastName": "John",
+                        "rankings": null
+                    },
+                    {
+                        "id": 800032,
+                        "age": 34,
+                        "optaId": "249163",
+                        "name": "Denis Polyakov",
+                        "shirtNumber": "39",
+                        "countryName": "Russia",
+                        "countryCode": "RUS",
+                        "marketValue": 50000,
+                        "performance": {
+                            "substitutionEvents": [
+                                {
+                                    "time": 90,
+                                    "type": "subIn",
+                                    "reason": "unknown"
+                                }
+                            ]
+                        },
+                        "firstName": "Denis",
+                        "lastName": "Polyakov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 199672,
+                        "age": 36,
+                        "optaId": "82781",
+                        "name": "Iri\u00e9 Elys\u00e9e",
+                        "shirtNumber": "19",
+                        "countryName": "C\u00f4te d'Ivoire",
+                        "countryCode": "",
+                        "firstName": "Iri\u00e9",
+                        "lastName": "Elys\u00e9e",
+                        "rankings": null
+                    },
+                    {
+                        "id": 641248,
+                        "age": 30,
+                        "optaId": "209929",
+                        "name": "Eriks Santos",
+                        "shirtNumber": "12",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "marketValue": 50000,
+                        "firstName": "Eriks",
+                        "lastName": "Santos",
+                        "rankings": null
+                    },
+                    {
+                        "id": 948221,
+                        "age": 24,
+                        "optaId": "448950",
+                        "name": "Sergei Kondrattsev",
+                        "shirtNumber": "16",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 112144,
+                        "firstName": "Sergei",
+                        "lastName": "Kondrattsev",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1940089,
+                        "age": 18,
+                        "optaId": "734039",
+                        "name": "Kau\u0101 Miranda da Silva",
+                        "shirtNumber": "28",
+                        "countryName": "Brazil",
+                        "countryCode": "BRA",
+                        "firstName": "Kau\u0101 Miranda",
+                        "lastName": "da Silva",
+                        "rankings": null
+                    },
+                    {
+                        "id": 433941,
+                        "age": 30,
+                        "optaId": "156253",
+                        "name": "Artjom Skinjov",
+                        "shirtNumber": "17",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "marketValue": 50000,
+                        "firstName": "Artjom",
+                        "lastName": "Skinjov",
+                        "rankings": null
+                    },
+                    {
+                        "id": 1785210,
+                        "age": 19,
+                        "optaId": "617644",
+                        "name": "Mark Zahharov",
+                        "shirtNumber": "1",
+                        "countryName": "Estonia",
+                        "countryCode": "EST",
+                        "firstName": "Mark",
+                        "lastName": "Zahharov",
+                        "rankings": null
+                    }
+                ],
+                "averageStarterAge": 23.7
+            }
+        },
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "248",
+            "url": "https://data.fotmob.com/tables.ext.248.fot.gz",
+            "teams": [
+                673053,
+                2252
+            ],
+            "tournamentNameForUrl": "Estonian Premium liiga",
+            "parentLeagueId": 248,
+            "countryCode": "EST"
+        },
+        "h2h": {
+            "summary": [
+                5,
+                0,
+                5
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-11-07T10:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#1000007999",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    },
+                    "status": {
+                        "utcTime": "2026-11-07T10:30:00.000Z",
+                        "started": false,
+                        "cancelled": false,
+                        "finished": false
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-05-30T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#1000007888",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    },
+                    "status": {
+                        "utcTime": "2026-05-30T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-03-07T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#1000007824",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    },
+                    "status": {
+                        "utcTime": "2026-03-07T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-10-25T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4723420",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    },
+                    "status": {
+                        "utcTime": "2025-10-25T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-14T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4723451",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-14T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-27T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4723518",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-27T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-03-29T12:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4723569",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    },
+                    "status": {
+                        "utcTime": "2025-03-29T12:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-09-23T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4102865",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    },
+                    "status": {
+                        "utcTime": "2023-09-23T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-08-18T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4102880",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    },
+                    "status": {
+                        "utcTime": "2023-08-18T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-02T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4102968",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-02T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-04-08T11:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/narva-trans-vs-harju-jalgpallikool/2wr0vrx6#4102948",
+                    "league": {
+                        "name": "Premium liiga",
+                        "id": "248",
+                        "pageUrl": "/leagues/248/overview/premium-liiga"
+                    },
+                    "home": {
+                        "name": "Harju Jalgpallikool",
+                        "id": "673053"
+                    },
+                    "status": {
+                        "utcTime": "2023-04-08T11:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Narva Trans",
+                        "id": "2252"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "harju-jalgpallikool-vs-narva-trans",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/1000007914",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Harju Jalgpallikool",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/673053.png",
+                "url": "https://www.fotmob.com/teams/673053/overview/harju-jalgpallikool",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Narva Trans",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/2252.png",
+                "url": "https://www.fotmob.com/teams/2252/overview/narva-trans",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Harju Jalgpallikool vs Narva Trans",
+            "description": "Follow Harju Jalgpallikool vs Narva Trans live on fotmob.com",
+            "startDate": "2026-07-10T16:00:00.000Z",
+            "endDate": "2026-07-10T18:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Laagri kunstmurustaadion",
+                "latitude": 59.350362278,
+                "longitude": 24.616541862,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Estonia",
+                    "addressLocality": "Tallinn"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/673053.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/2252.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/1000007914",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T16:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Harju Jalgpallikool",
+                    "url": "https://www.fotmob.com/teams/673053/overview/harju-jalgpallikool"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Narva Trans",
+                    "url": "https://www.fotmob.com/teams/2252/overview/narva-trans"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Estonian Premium liiga",
+                        "item": "https://www.fotmob.com/leagues/248/overview/estonian-premium-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Harju Jalgpallikool - Narva Trans",
+                        "item": "https://www.fotmob.com/match/1000007914"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Estonian Premium liiga",
+                        "item": "https://www.fotmob.com/leagues/248/overview/estonian-premium-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Narva Trans",
+                        "item": "https://www.fotmob.com/teams/2252/overview/narva-trans"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Harju Jalgpallikool - Narva Trans",
+                        "item": "https://www.fotmob.com/match/1000007914"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Estonian Premium liiga",
+                        "item": "https://www.fotmob.com/leagues/248/overview/estonian-premium-liiga"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Harju Jalgpallikool",
+                        "item": "https://www.fotmob.com/teams/673053/overview/harju-jalgpallikool"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Harju Jalgpallikool - Narva Trans",
+                        "item": "https://www.fotmob.com/match/1000007914"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Harju Jalgpallikool and Narva Trans on Fri, 10 Jul 2026 16:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Harju Jalgpallikool won 3\u20130 over Narva Trans on Fri, 10 Jul 2026 16:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

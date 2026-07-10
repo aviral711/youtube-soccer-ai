@@ -1,0 +1,1947 @@
+{
+    "general": {
+        "matchId": "5215464",
+        "matchName": "Dnyapro Mogilev-vs-FC Minsk_Fri, Jul 10, 2026, 15:30 UTC",
+        "matchRound": "15",
+        "teamColors": {
+            "darkMode": {
+                "home": "#2060C0",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#2060C0",
+                "away": "#201060"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 923169,
+        "leagueName": "Premier League",
+        "leagueRoundName": "15",
+        "parentLeagueId": 263,
+        "countryCode": "BLR",
+        "homeTeam": {
+            "name": "Dnyapro Mogilev",
+            "id": 10067
+        },
+        "awayTeam": {
+            "name": "FC Minsk",
+            "id": 56865
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 15:30 UTC",
+        "matchTimeUTCDate": "2026-07-10T15:30:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Dnyapro Mogilev",
+                "id": 10067,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10067_small.png",
+                "pageUrl": "/teams/10067/overview/dnyapro-mogilev"
+            },
+            {
+                "name": "FC Minsk",
+                "id": 56865,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/56865_small.png",
+                "pageUrl": "/teams/56865/overview/fc-minsk"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T15:30:00.000Z",
+            "numberOfHomeRedCards": 1,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 17:30:39",
+                "firstHalfEnded": "10.07.2026 18:18:39",
+                "secondHalfStarted": "10.07.2026 18:32:15",
+                "secondHalfEnded": "10.07.2026 19:23:06",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 19:23:06"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Tsepenkov": [
+                    {
+                        "reactKey": "1422687145Goal1190078undefinedtrue",
+                        "timeStr": "45 + 3",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 3,
+                        "eventId": 14226871,
+                        "player": {
+                            "id": 1190078,
+                            "name": "Kirill Tsepenkov",
+                            "profileUrl": "/players/1190078/kirill-tsepenkov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1190078/kirill-tsepenkov",
+                        "overloadTimeStr": "+3",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kirill Tsepenkov",
+                        "firstName": "Kirill",
+                        "lastName": "Tsepenkov",
+                        "fullName": "Kirill Tsepenkov",
+                        "playerId": 1190078,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Makas": [
+                    {
+                        "reactKey": "1422689284Goal435159undefinedfalse",
+                        "timeStr": 84,
+                        "type": "Goal",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 14226892,
+                        "player": {
+                            "id": 435159,
+                            "name": "Aleksandr Makas",
+                            "profileUrl": "/players/435159/aleksandr-makas"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/435159/aleksandr-makas",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aleksandr Makas",
+                        "firstName": "Aleksandr",
+                        "lastName": "Makas",
+                        "fullName": "Aleksandr Makas",
+                        "playerId": 435159,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Ksenofontov": [
+                    {
+                        "reactKey": "1422690290Goal950389undefinedfalse",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 14226902,
+                        "player": {
+                            "id": 950389,
+                            "name": "Aleksandr Ksenofontov",
+                            "profileUrl": "/players/950389/aleksandr-ksenofontov"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/950389/aleksandr-ksenofontov",
+                        "overloadTimeStr": "+3",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aleksandr Ksenofontov",
+                        "firstName": "Aleksandr",
+                        "lastName": "Ksenofontov",
+                        "fullName": "Aleksandr Ksenofontov",
+                        "playerId": 950389,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {
+                "Perovic": [
+                    {
+                        "reactKey": "1422688255Card1785686undefinedtrue",
+                        "timeStr": 55,
+                        "type": "Card",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 14226882,
+                        "player": {
+                            "id": 1785686,
+                            "name": "Nenad Perovic",
+                            "profileUrl": "/players/1785686/nenad-perovic"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1785686/nenad-perovic",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Nenad Perovic",
+                        "firstName": "Nenad",
+                        "lastName": "Perovic",
+                        "fullName": "Nenad Perovic",
+                        "playerId": 1785686,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            },
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5215464,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422687145Goal1190078undefinedtrue",
+                        "timeStr": "45 + 3",
+                        "type": "Goal",
+                        "time": 45,
+                        "overloadTime": 3,
+                        "eventId": 14226871,
+                        "player": {
+                            "id": 1190078,
+                            "name": "Kirill Tsepenkov",
+                            "profileUrl": "/players/1190078/kirill-tsepenkov"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1190078/kirill-tsepenkov",
+                        "overloadTimeStr": "+3",
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kirill Tsepenkov",
+                        "firstName": "Kirill",
+                        "lastName": "Tsepenkov",
+                        "fullName": "Kirill Tsepenkov",
+                        "playerId": 1190078,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422688255Card1785686undefinedtrue",
+                        "timeStr": 55,
+                        "type": "Card",
+                        "time": 55,
+                        "overloadTime": null,
+                        "eventId": 14226882,
+                        "player": {
+                            "id": 1785686,
+                            "name": "Nenad Perovic",
+                            "profileUrl": "/players/1785686/nenad-perovic"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1785686/nenad-perovic",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Nenad Perovic",
+                        "firstName": "Nenad",
+                        "lastName": "Perovic",
+                        "fullName": "Nenad Perovic",
+                        "playerId": 1785686,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1422689284Goal435159undefinedfalse",
+                        "timeStr": 84,
+                        "type": "Goal",
+                        "time": 84,
+                        "overloadTime": null,
+                        "eventId": 14226892,
+                        "player": {
+                            "id": 435159,
+                            "name": "Aleksandr Makas",
+                            "profileUrl": "/players/435159/aleksandr-makas"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/435159/aleksandr-makas",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aleksandr Makas",
+                        "firstName": "Aleksandr",
+                        "lastName": "Makas",
+                        "fullName": "Aleksandr Makas",
+                        "playerId": 435159,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422690290Goal950389undefinedfalse",
+                        "timeStr": "90 + 3",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 3,
+                        "eventId": 14226902,
+                        "player": {
+                            "id": 950389,
+                            "name": "Aleksandr Ksenofontov",
+                            "profileUrl": "/players/950389/aleksandr-ksenofontov"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/950389/aleksandr-ksenofontov",
+                        "overloadTimeStr": "+3",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aleksandr Ksenofontov",
+                        "firstName": "Aleksandr",
+                        "lastName": "Ksenofontov",
+                        "fullName": "Aleksandr Ksenofontov",
+                        "playerId": 950389,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Card",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T15:30:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 923169,
+                    "parentLeagueId": 263,
+                    "link": "/leagues/263/overview/premier-league",
+                    "leagueName": "Premier League",
+                    "roundName": "15",
+                    "round": "15"
+                },
+                "Stadium": {
+                    "name": "Spartak Stadion, Mogilev",
+                    "country": ""
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10063_xsmall.png",
+                        "linkToMatch": "/matches/bate-borisov-vs-dnyapro-mogilev/3cn17q#5215422",
+                        "date": {
+                            "utcTime": "2026-05-31T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10063/overview/bate-borisov",
+                        "tooltipText": {
+                            "utcTime": "2026-05-31T15:00:00.000Z",
+                            "homeTeam": "BATE Borisov",
+                            "homeTeamId": 10063,
+                            "homeScore": "1",
+                            "awayTeam": "Dnyapro Mogilev",
+                            "awayTeamId": 10067,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "10063",
+                            "name": "BATE Borisov",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10067",
+                            "name": "Dnyapro Mogilev",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1142489_xsmall.png",
+                        "linkToMatch": "/matches/dnyapro-mogilev-vs-arsenal-dzerzhinsk/8h4k6rp3#5215432",
+                        "date": {
+                            "utcTime": "2026-06-14T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1142489/overview/arsenal-dzerzhinsk",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T15:00:00.000Z",
+                            "homeTeam": "Dnyapro Mogilev",
+                            "homeTeamId": 10067,
+                            "homeScore": "0",
+                            "awayTeam": "Arsenal Dzerzhinsk",
+                            "awayTeamId": 1142489,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "10067",
+                            "name": "Dnyapro Mogilev",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1142489",
+                            "name": "Arsenal Dzerzhinsk",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10060_xsmall.png",
+                        "linkToMatch": "/matches/gomel-vs-dnyapro-mogilev/3clqmb#5215439",
+                        "date": {
+                            "utcTime": "2026-06-20T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10060/overview/gomel",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T17:30:00.000Z",
+                            "homeTeam": "Gomel",
+                            "homeTeamId": 10060,
+                            "homeScore": "2",
+                            "awayTeam": "Dnyapro Mogilev",
+                            "awayTeamId": 10067,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "10060",
+                            "name": "Gomel",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10067",
+                            "name": "Dnyapro Mogilev",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10061_xsmall.png",
+                        "linkToMatch": "/matches/neman-grodno-vs-dnyapro-mogilev/3cm65f#5215448",
+                        "date": {
+                            "utcTime": "2026-06-28T15:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10061/overview/neman-grodno",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T15:00:00.000Z",
+                            "homeTeam": "Dnyapro Mogilev",
+                            "homeTeamId": 10067,
+                            "homeScore": "2",
+                            "awayTeam": "Neman Grodno",
+                            "awayTeamId": 10061,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "10067",
+                            "name": "Dnyapro Mogilev",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10061",
+                            "name": "Neman Grodno",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10075_xsmall.png",
+                        "linkToMatch": "/matches/dnyapro-mogilev-vs-fk-vitebsk/3cs7o4#5215459",
+                        "date": {
+                            "utcTime": "2026-07-04T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10075/overview/fk-vitebsk",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T13:00:00.000Z",
+                            "homeTeam": "FK Vitebsk",
+                            "homeTeamId": 10075,
+                            "homeScore": "1",
+                            "awayTeam": "Dnyapro Mogilev",
+                            "awayTeamId": 10067,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "10075",
+                            "name": "FK Vitebsk",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "10067",
+                            "name": "Dnyapro Mogilev",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/439329_xsmall.png",
+                        "linkToMatch": "/matches/fc-minsk-vs-isloch/1kjx9ozo#5215424",
+                        "date": {
+                            "utcTime": "2026-05-29T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/439329/overview/isloch",
+                        "tooltipText": {
+                            "utcTime": "2026-05-29T17:30:00.000Z",
+                            "homeTeam": "FC Minsk",
+                            "homeTeamId": 56865,
+                            "homeScore": "1",
+                            "awayTeam": "Isloch",
+                            "awayTeamId": 439329,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "56865",
+                            "name": "FC Minsk",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "439329",
+                            "name": "Isloch",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/197937_xsmall.png",
+                        "linkToMatch": "/matches/fc-minsk-vs-baranovichi/ewv5wj0#5215429",
+                        "date": {
+                            "utcTime": "2026-06-13T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/197937/overview/baranovichi",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T12:00:00.000Z",
+                            "homeTeam": "Baranovichi",
+                            "homeTeamId": 197937,
+                            "homeScore": "2",
+                            "awayTeam": "FC Minsk",
+                            "awayTeamId": 56865,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "197937",
+                            "name": "Baranovichi",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "56865",
+                            "name": "FC Minsk",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/661598_xsmall.png",
+                        "linkToMatch": "/matches/fc-minsk-vs-maxline-vitebsk/3akffm72#5215440",
+                        "date": {
+                            "utcTime": "2026-06-21T13:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/661598/overview/maxline-vitebsk",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T13:00:00.000Z",
+                            "homeTeam": "FC Minsk",
+                            "homeTeamId": 56865,
+                            "homeScore": "2",
+                            "awayTeam": "Maxline Vitebsk",
+                            "awayTeamId": 661598,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "56865",
+                            "name": "FC Minsk",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "661598",
+                            "name": "Maxline Vitebsk",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10065_xsmall.png",
+                        "linkToMatch": "/matches/dynamo-brest-vs-fc-minsk/111kw1o#5215449",
+                        "date": {
+                            "utcTime": "2026-06-27T15:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10065/overview/dynamo-brest",
+                        "tooltipText": {
+                            "utcTime": "2026-06-27T15:30:00.000Z",
+                            "homeTeam": "Dynamo Brest",
+                            "homeTeamId": 10065,
+                            "homeScore": "0",
+                            "awayTeam": "FC Minsk",
+                            "awayTeamId": 56865,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "10065",
+                            "name": "Dynamo Brest",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "56865",
+                            "name": "FC Minsk",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10058_xsmall.png",
+                        "linkToMatch": "/matches/dinamo-minsk-vs-fc-minsk/111auk3#5215455",
+                        "date": {
+                            "utcTime": "2026-07-02T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10058/overview/dinamo-minsk",
+                        "tooltipText": {
+                            "utcTime": "2026-07-02T17:00:00.000Z",
+                            "homeTeam": "FC Minsk",
+                            "homeTeamId": 56865,
+                            "homeScore": "0",
+                            "awayTeam": "Dinamo Minsk",
+                            "awayTeamId": 10058,
+                            "awayScore": "3"
+                        },
+                        "score": "0 - 3",
+                        "home": {
+                            "id": "56865",
+                            "name": "FC Minsk",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10058",
+                            "name": "Dinamo Minsk",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5215464",
+                    "MatchId": 5215464,
+                    "HomeTeamId": 10067,
+                    "AwayTeamId": 56865,
+                    "HomeTeam": "Dnyapro Mogilev",
+                    "AwayTeam": "FC Minsk",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} and {1} have drawn their last {2} matches against each other.",
+                            "TextTemplateId": "h2h_draw_streak_v2",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Dnyapro Mogilev and FC Minsk have drawn their last 2 matches against each other."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Dnyapro Mogilev have an average of 0.67 goals in their last three matches and FC Minsk have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Dnyapro Mogilev have an average of 0.67 goals in their last three matches and FC Minsk have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "FC Minsk haven't won a match in 6 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 10067,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 3 goals in their last 5 matches",
+                    "color": "#2060C0"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 56865,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 4 goals in their last 5 matches",
+                    "color": "#201060"
+                }
+            ],
+            "countryCode": "BLR",
+            "QAData": [
+                {
+                    "question": "Who won between Dnyapro Mogilev and FC Minsk on Fri, 10 Jul 2026 15:30:00 GMT?",
+                    "answer": "FC Minsk won 2\u20131 over Dnyapro Mogilev on Fri, 10 Jul 2026 15:30:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "923169",
+            "url": "https://data.fotmob.com/tables.ext.923169.fot.gz",
+            "teams": [
+                10067,
+                56865
+            ],
+            "tournamentNameForUrl": "Premier League",
+            "parentLeagueId": 263,
+            "countryCode": "BLR"
+        },
+        "h2h": {
+            "summary": [
+                6,
+                8,
+                9
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-11-28T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#5215585",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2026-11-28T16:00:00.000Z",
+                        "started": false,
+                        "cancelled": false,
+                        "finished": false
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-09-29T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#4432871",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2024-09-29T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-10T18:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#4432768",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-10T18:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-10-30T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#3837948",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2022-10-30T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-07-04T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#3837933",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2022-07-04T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-08-23T16:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#2991274",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2019-08-23T16:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2019-04-19T15:45:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#2991158",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2019-04-19T15:45:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-09-29T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#2728527",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2018-09-29T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-05-20T14:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#2728415",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2018-05-20T14:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-09-30T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#2458616",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2017-09-30T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-05-20T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#2458495",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2017-05-20T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-11-08T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1823681",
+                    "league": {
+                        "name": "Premier League Relegation Group",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league-relegation-group"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2014-11-08T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-09-28T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1823666",
+                    "league": {
+                        "name": "Premier League Relegation Group",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league-relegation-group"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2014-09-28T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-07-12T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1665790",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2014-07-12T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-05-04T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1665724",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2014-05-04T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-11-30T10:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1578912",
+                    "league": {
+                        "name": "Premier League Relegation Group",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league-relegation-group"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2013-11-30T10:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-10-19T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1578915",
+                    "league": {
+                        "name": "Premier League Relegation Group",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league-relegation-group"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2013-10-19T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-08-04T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1414470",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2013-08-04T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-05-11T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1414397",
+                    "league": {
+                        "name": "Premier League",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-league"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2013-05-11T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-01-26T10:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#1402187",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2013-01-26T10:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-11-05T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#975061",
+                    "league": {
+                        "name": "Premier Division",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-division"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2011-11-05T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-05-27T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#974823",
+                    "league": {
+                        "name": "Premier Division",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-division"
+                    },
+                    "home": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    },
+                    "status": {
+                        "utcTime": "2011-05-27T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2011-04-02T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#974455",
+                    "league": {
+                        "name": "Premier Division",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-division"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2011-04-02T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-09-12T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/dnyapro-mogilev-vs-fc-minsk/111nrc3#817670",
+                    "league": {
+                        "name": "Premier Division",
+                        "id": "263",
+                        "pageUrl": "/leagues/263/overview/premier-division"
+                    },
+                    "home": {
+                        "name": "Dnyapro Mogilev",
+                        "id": "10067"
+                    },
+                    "status": {
+                        "utcTime": "2010-09-12T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "FC Minsk",
+                        "id": "56865"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "dnyapro-mogilev-vs-fc-minsk",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5215464",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Dnyapro Mogilev",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10067.png",
+                "url": "https://www.fotmob.com/teams/10067/overview/dnyapro-mogilev",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "FC Minsk",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/56865.png",
+                "url": "https://www.fotmob.com/teams/56865/overview/fc-minsk",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Dnyapro Mogilev vs FC Minsk",
+            "description": "Follow Dnyapro Mogilev vs FC Minsk live on fotmob.com",
+            "startDate": "2026-07-10T15:30:00.000Z",
+            "endDate": "2026-07-10T17:30:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Spartak Stadion, Mogilev",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/10067.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/56865.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5215464",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T15:30:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Dnyapro Mogilev",
+                    "url": "https://www.fotmob.com/teams/10067/overview/dnyapro-mogilev"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "FC Minsk",
+                    "url": "https://www.fotmob.com/teams/56865/overview/fc-minsk"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/263/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Dnyapro Mogilev - FC Minsk",
+                        "item": "https://www.fotmob.com/match/5215464"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/263/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "FC Minsk",
+                        "item": "https://www.fotmob.com/teams/56865/overview/fc-minsk"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Dnyapro Mogilev - FC Minsk",
+                        "item": "https://www.fotmob.com/match/5215464"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Premier League",
+                        "item": "https://www.fotmob.com/leagues/263/overview/premier-league"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Dnyapro Mogilev",
+                        "item": "https://www.fotmob.com/teams/10067/overview/dnyapro-mogilev"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Dnyapro Mogilev - FC Minsk",
+                        "item": "https://www.fotmob.com/match/5215464"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Dnyapro Mogilev and FC Minsk on Fri, 10 Jul 2026 15:30:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "FC Minsk won 2\u20131 over Dnyapro Mogilev on Fri, 10 Jul 2026 15:30:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

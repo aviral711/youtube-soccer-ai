@@ -9,6 +9,7 @@ import argparse
 
 from database import engine, text
 from fetch_matches import fetch_match_details
+from generate_summary import generate as generate_summary
 from common_utils import (
     build_daily_matches_url,
     fetch_from_api,
@@ -77,6 +78,15 @@ def load_match_if_new(match):
         f"{match['home_team']} vs {match['away_team']}"
     )
     fetch_match_details(match_id)
+
+    # Generate the AI-ready summary + highlights JSON for the freshly loaded
+    # match. Isolated so a summary failure can't undo/abort the load itself.
+    try:
+        generate_summary(match_id)
+        logging.info(f"Generated summary for Match {match_id}")
+    except Exception:
+        logging.exception(f"Failed generating summary for Match {match_id}")
+
     return True
 
 

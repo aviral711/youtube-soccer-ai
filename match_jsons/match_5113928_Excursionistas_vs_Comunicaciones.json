@@ -1,0 +1,1359 @@
+{
+    "general": {
+        "matchId": "5113928",
+        "matchName": "Excursionistas-vs-Comunicaciones_Fri, Jul 10, 2026, 18:00 UTC",
+        "matchRound": "24",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 916561,
+        "leagueName": "Primera B Metropolitana",
+        "leagueRoundName": "24",
+        "parentLeagueId": 9213,
+        "countryCode": "ARG",
+        "homeTeam": {
+            "name": "Excursionistas",
+            "id": 298633
+        },
+        "awayTeam": {
+            "name": "Comunicaciones",
+            "id": 213536
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 18:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T18:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Excursionistas",
+                "id": 298633,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/298633_small.png",
+                "pageUrl": "/teams/298633/overview/excursionistas"
+            },
+            {
+                "name": "Comunicaciones",
+                "id": 213536,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213536_small.png",
+                "pageUrl": "/teams/213536/overview/comunicaciones"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T18:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 20:02:59",
+                "firstHalfEnded": "10.07.2026 20:48:51",
+                "secondHalfStarted": "10.07.2026 21:05:49",
+                "secondHalfEnded": "10.07.2026 21:58:24",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 21:58:24"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 2",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Avalos": [
+                    {
+                        "reactKey": "1422693627Goal571618undefinedtrue",
+                        "timeStr": 27,
+                        "type": "Goal",
+                        "time": 27,
+                        "overloadTime": null,
+                        "eventId": 14226936,
+                        "player": {
+                            "id": 571618,
+                            "name": "Alejandro Avalos",
+                            "profileUrl": "/players/571618/alejandro-avalos"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/571618/alejandro-avalos",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alejandro Avalos",
+                        "firstName": "Alejandro",
+                        "lastName": "Avalos",
+                        "fullName": "Alejandro Avalos",
+                        "playerId": 571618,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Ibanez": [
+                    {
+                        "reactKey": "1422693832Goal670354undefinedfalse",
+                        "timeStr": 32,
+                        "type": "Goal",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 14226938,
+                        "player": {
+                            "id": 670354,
+                            "name": "Joaquin Ibanez",
+                            "profileUrl": "/players/670354/joaquin-ibanez"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/670354/joaquin-ibanez",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Joaquin Ibanez",
+                        "firstName": "Joaquin",
+                        "lastName": "Ibanez",
+                        "fullName": "Joaquin Ibanez",
+                        "playerId": 670354,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Carruega": [
+                    {
+                        "reactKey": "1422702190Goal851925undefinedfalse",
+                        "timeStr": "90 + 5",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "eventId": 14227021,
+                        "player": {
+                            "id": 851925,
+                            "name": "Ignacio Carruega",
+                            "profileUrl": "/players/851925/ignacio-carruega"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/851925/ignacio-carruega",
+                        "overloadTimeStr": "+5",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ignacio Carruega",
+                        "firstName": "Ignacio",
+                        "lastName": "Carruega",
+                        "fullName": "Ignacio Carruega",
+                        "playerId": 851925,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5113928,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422693627Goal571618undefinedtrue",
+                        "timeStr": 27,
+                        "type": "Goal",
+                        "time": 27,
+                        "overloadTime": null,
+                        "eventId": 14226936,
+                        "player": {
+                            "id": 571618,
+                            "name": "Alejandro Avalos",
+                            "profileUrl": "/players/571618/alejandro-avalos"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/571618/alejandro-avalos",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Alejandro Avalos",
+                        "firstName": "Alejandro",
+                        "lastName": "Avalos",
+                        "fullName": "Alejandro Avalos",
+                        "playerId": 571618,
+                        "newScore": [
+                            1,
+                            0
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422693832Goal670354undefinedfalse",
+                        "timeStr": 32,
+                        "type": "Goal",
+                        "time": 32,
+                        "overloadTime": null,
+                        "eventId": 14226938,
+                        "player": {
+                            "id": 670354,
+                            "name": "Joaquin Ibanez",
+                            "profileUrl": "/players/670354/joaquin-ibanez"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "profileUrl": "/players/670354/joaquin-ibanez",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Joaquin Ibanez",
+                        "firstName": "Joaquin",
+                        "lastName": "Ibanez",
+                        "fullName": "Joaquin Ibanez",
+                        "playerId": 670354,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422702190Goal851925undefinedfalse",
+                        "timeStr": "90 + 5",
+                        "type": "Goal",
+                        "time": 90,
+                        "overloadTime": 5,
+                        "eventId": 14227021,
+                        "player": {
+                            "id": 851925,
+                            "name": "Ignacio Carruega",
+                            "profileUrl": "/players/851925/ignacio-carruega"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/851925/ignacio-carruega",
+                        "overloadTimeStr": "+5",
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Ignacio Carruega",
+                        "firstName": "Ignacio",
+                        "lastName": "Carruega",
+                        "fullName": "Ignacio Carruega",
+                        "playerId": 851925,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T18:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 916561,
+                    "parentLeagueId": 9213,
+                    "link": "/leagues/9213/overview/primera-b-metropolitana",
+                    "leagueName": "Primera B Metropolitana",
+                    "roundName": "24",
+                    "round": "24"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581825_xsmall.png",
+                        "linkToMatch": "/matches/excursionistas-vs-san-martin-burzaco/4y29ihaw#5113874",
+                        "date": {
+                            "utcTime": "2026-06-06T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581825/overview/san-martin-burzaco",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T18:30:00.000Z",
+                            "homeTeam": "Excursionistas",
+                            "homeTeamId": 298633,
+                            "homeScore": "2",
+                            "awayTeam": "San Martin Burzaco",
+                            "awayTeamId": 581825,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "298633",
+                            "name": "Excursionistas",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "581825",
+                            "name": "San Martin Burzaco",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213533_xsmall.png",
+                        "linkToMatch": "/matches/sportivo-italiano-vs-excursionistas/1o93tpda#5113890",
+                        "date": {
+                            "utcTime": "2026-06-13T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213533/overview/sportivo-italiano",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T18:30:00.000Z",
+                            "homeTeam": "Sportivo Italiano",
+                            "homeTeamId": 213533,
+                            "homeScore": "0",
+                            "awayTeam": "Excursionistas",
+                            "awayTeamId": 298633,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "213533",
+                            "name": "Sportivo Italiano",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "298633",
+                            "name": "Excursionistas",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/837624_xsmall.png",
+                        "linkToMatch": "/matches/excursionistas-vs-casd-camioneros/88k2oczd#5113896",
+                        "date": {
+                            "utcTime": "2026-06-20T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/837624/overview/casd-camioneros",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T18:30:00.000Z",
+                            "homeTeam": "Excursionistas",
+                            "homeTeamId": 298633,
+                            "homeScore": "1",
+                            "awayTeam": "CASD Camioneros",
+                            "awayTeamId": 837624,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "298633",
+                            "name": "Excursionistas",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "837624",
+                            "name": "CASD Camioneros",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/178272_xsmall.png",
+                        "linkToMatch": "/matches/deportivo-merlo-vs-excursionistas/1g8pseme#5113907",
+                        "date": {
+                            "utcTime": "2026-06-27T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/178272/overview/deportivo-merlo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-27T18:00:00.000Z",
+                            "homeTeam": "Excursionistas",
+                            "homeTeamId": 298633,
+                            "homeScore": "5",
+                            "awayTeam": "Deportivo Merlo",
+                            "awayTeamId": 178272,
+                            "awayScore": "0"
+                        },
+                        "score": "5 - 0",
+                        "home": {
+                            "id": "298633",
+                            "name": "Excursionistas",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "178272",
+                            "name": "Deportivo Merlo",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581802_xsmall.png",
+                        "linkToMatch": "/matches/excursionistas-vs-dock-sud/4y1xgg2g#5113920",
+                        "date": {
+                            "utcTime": "2026-07-04T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581802/overview/dock-sud",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T18:00:00.000Z",
+                            "homeTeam": "Dock Sud",
+                            "homeTeamId": 581802,
+                            "homeScore": "3",
+                            "awayTeam": "Excursionistas",
+                            "awayTeamId": 298633,
+                            "awayScore": "1"
+                        },
+                        "score": "3 - 1",
+                        "home": {
+                            "id": "581802",
+                            "name": "Dock Sud",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "298633",
+                            "name": "Excursionistas",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213532_xsmall.png",
+                        "linkToMatch": "/matches/brown-de-adrogue-vs-comunicaciones/15w6j612#5113872",
+                        "date": {
+                            "utcTime": "2026-06-06T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213532/overview/brown-de-adrogue",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T18:00:00.000Z",
+                            "homeTeam": "Brown de Adrogue",
+                            "homeTeamId": 213532,
+                            "homeScore": "1",
+                            "awayTeam": "Comunicaciones",
+                            "awayTeamId": 213536,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "213532",
+                            "name": "Brown de Adrogue",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "213536",
+                            "name": "Comunicaciones",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581808_xsmall.png",
+                        "linkToMatch": "/matches/comunicaciones-vs-laferrere/41at4hi0#5113882",
+                        "date": {
+                            "utcTime": "2026-06-13T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581808/overview/laferrere",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T18:30:00.000Z",
+                            "homeTeam": "Comunicaciones",
+                            "homeTeamId": 213536,
+                            "homeScore": "3",
+                            "awayTeam": "Laferrere",
+                            "awayTeamId": 581808,
+                            "awayScore": "3"
+                        },
+                        "score": "3 - 3",
+                        "home": {
+                            "id": "213536",
+                            "name": "Comunicaciones",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "581808",
+                            "name": "Laferrere",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581805_xsmall.png",
+                        "linkToMatch": "/matches/comunicaciones-vs-ca-talleres-remedios-de-escalada/41arpcfc#5113900",
+                        "date": {
+                            "utcTime": "2026-06-21T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581805/overview/ca-talleres-remedios-de-escalada",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T17:30:00.000Z",
+                            "homeTeam": "CA Talleres Remedios de Escalada",
+                            "homeTeamId": 581805,
+                            "homeScore": "0",
+                            "awayTeam": "Comunicaciones",
+                            "awayTeamId": 213536,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "581805",
+                            "name": "CA Talleres Remedios de Escalada",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "213536",
+                            "name": "Comunicaciones",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581809_xsmall.png",
+                        "linkToMatch": "/matches/comunicaciones-vs-argentino-de-merlo/41atlj6y#5113903",
+                        "date": {
+                            "utcTime": "2026-06-28T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581809/overview/argentino-de-merlo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T18:00:00.000Z",
+                            "homeTeam": "Argentino de Merlo",
+                            "homeTeamId": 581809,
+                            "homeScore": "3",
+                            "awayTeam": "Comunicaciones",
+                            "awayTeamId": 213536,
+                            "awayScore": "2"
+                        },
+                        "score": "3 - 2",
+                        "home": {
+                            "id": "581809",
+                            "name": "Argentino de Merlo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "213536",
+                            "name": "Comunicaciones",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10098_xsmall.png",
+                        "linkToMatch": "/matches/arsenal-sarandi-vs-comunicaciones/bhk645n#5113915",
+                        "date": {
+                            "utcTime": "2026-07-04T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10098/overview/arsenal-sarandi",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T18:00:00.000Z",
+                            "homeTeam": "Comunicaciones",
+                            "homeTeamId": 213536,
+                            "homeScore": "1",
+                            "awayTeam": "Arsenal Sarandi",
+                            "awayTeamId": 10098,
+                            "awayScore": "2"
+                        },
+                        "score": "1 - 2",
+                        "home": {
+                            "id": "213536",
+                            "name": "Comunicaciones",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10098",
+                            "name": "Arsenal Sarandi",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5113928",
+                    "MatchId": 5113928,
+                    "HomeTeamId": 298633,
+                    "AwayTeamId": 213536,
+                    "HomeTeam": "Excursionistas",
+                    "AwayTeam": "Comunicaciones",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                            "TextTemplateId": "h2h_undefeated",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "4",
+                                "3",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Excursionistas haven't lost to Comunicaciones in their last 4 meetings (3W, 1D)."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Excursionistas have scored in their last 4 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "7",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Excursionistas have scored 7 goals in their last 3 matches, while Comunicaciones have scored 3."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Comunicaciones haven't won a match in 4 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 298633,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 10,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 10 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 298633,
+                    "priority": 4,
+                    "defaultText": "Average {0} goals per match",
+                    "localizedTextId": "insights_average_goals_per_match",
+                    "statValues": [
+                        {
+                            "value": 1.5,
+                            "name": null,
+                            "type": "double"
+                        }
+                    ],
+                    "text": "Average 1.5 goals per match",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 213536,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "player",
+                    "playerId": 1934012,
+                    "teamId": 213536,
+                    "priority": 10,
+                    "defaultText": "{0} is the competition's top scorer ({1})",
+                    "localizedTextId": "insights_player_goals_scored",
+                    "statValues": [
+                        {
+                            "value": 1934012,
+                            "name": "Jeremias Heidenreich",
+                            "type": "player"
+                        },
+                        {
+                            "value": 13,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Jeremias Heidenreich is the competition's top scorer (13)",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "ARG",
+            "QAData": [
+                {
+                    "question": "Who won between Excursionistas and Comunicaciones on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "answer": "Comunicaciones won 2\u20131 over Excursionistas on Fri, 10 Jul 2026 18:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "916561",
+            "url": "https://data.fotmob.com/tables.ext.916561.fot.gz",
+            "teams": [
+                298633,
+                213536
+            ],
+            "tournamentNameForUrl": "Primera B Metropolitana",
+            "parentLeagueId": 9213,
+            "countryCode": "ARG"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                1,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-02-28T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/comunicaciones-vs-excursionistas/1o94qmxy#5113695",
+                    "league": {
+                        "name": "Primera B Metropolitana",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    "home": {
+                        "name": "Comunicaciones",
+                        "id": "213536"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-28T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Excursionistas",
+                        "id": "298633"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-10-06T23:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/comunicaciones-vs-excursionistas/1o94qmxy#4823266",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Excursionistas",
+                        "id": "298633"
+                    },
+                    "status": {
+                        "utcTime": "2025-10-06T23:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Comunicaciones",
+                        "id": "213536"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-05-21T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/comunicaciones-vs-excursionistas/1o94qmxy#4704652",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Comunicaciones",
+                        "id": "213536"
+                    },
+                    "status": {
+                        "utcTime": "2025-05-21T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Excursionistas",
+                        "id": "298633"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-06-22T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/comunicaciones-vs-excursionistas/1o94qmxy#4408835",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Comunicaciones",
+                        "id": "213536"
+                    },
+                    "status": {
+                        "utcTime": "2024-06-22T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Excursionistas",
+                        "id": "298633"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-02-02T23:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/comunicaciones-vs-excursionistas/1o94qmxy#4396321",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Excursionistas",
+                        "id": "298633"
+                    },
+                    "status": {
+                        "utcTime": "2024-02-02T23:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Comunicaciones",
+                        "id": "213536"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-04-02T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/comunicaciones-vs-excursionistas/1o94qmxy#2364328",
+                    "league": {
+                        "name": "Primera B Metropolitana",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    "home": {
+                        "name": "Comunicaciones",
+                        "id": "213536"
+                    },
+                    "status": {
+                        "utcTime": "2017-04-02T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Excursionistas",
+                        "id": "298633"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-09-20T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/comunicaciones-vs-excursionistas/1o94qmxy#2364157",
+                    "league": {
+                        "name": "Primera B Metropolitana",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    "home": {
+                        "name": "Excursionistas",
+                        "id": "298633"
+                    },
+                    "status": {
+                        "utcTime": "2016-09-20T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Comunicaciones",
+                        "id": "213536"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "excursionistas-vs-comunicaciones",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5113928",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Excursionistas",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/298633.png",
+                "url": "https://www.fotmob.com/teams/298633/overview/excursionistas",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Comunicaciones",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213536.png",
+                "url": "https://www.fotmob.com/teams/213536/overview/comunicaciones",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Excursionistas vs Comunicaciones",
+            "description": "Follow Excursionistas vs Comunicaciones live on fotmob.com",
+            "startDate": "2026-07-10T18:00:00.000Z",
+            "endDate": "2026-07-10T20:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/298633.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/213536.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5113928",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T18:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Excursionistas",
+                    "url": "https://www.fotmob.com/teams/298633/overview/excursionistas"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Comunicaciones",
+                    "url": "https://www.fotmob.com/teams/213536/overview/comunicaciones"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Excursionistas - Comunicaciones",
+                        "item": "https://www.fotmob.com/match/5113928"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Comunicaciones",
+                        "item": "https://www.fotmob.com/teams/213536/overview/comunicaciones"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Excursionistas - Comunicaciones",
+                        "item": "https://www.fotmob.com/match/5113928"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Excursionistas",
+                        "item": "https://www.fotmob.com/teams/298633/overview/excursionistas"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Excursionistas - Comunicaciones",
+                        "item": "https://www.fotmob.com/match/5113928"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Excursionistas and Comunicaciones on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Comunicaciones won 2\u20131 over Excursionistas on Fri, 10 Jul 2026 18:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1250 @@
+{
+    "general": {
+        "matchId": "5113930",
+        "matchName": "CS Deportivo Liniers-vs-Sportivo Italiano_Fri, Jul 10, 2026, 18:00 UTC",
+        "matchRound": "24",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 916561,
+        "leagueName": "Primera B Metropolitana",
+        "leagueRoundName": "24",
+        "parentLeagueId": 9213,
+        "countryCode": "ARG",
+        "homeTeam": {
+            "name": "CS Deportivo Liniers",
+            "id": 581822
+        },
+        "awayTeam": {
+            "name": "Sportivo Italiano",
+            "id": 213533
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 18:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T18:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "CS Deportivo Liniers",
+                "id": 581822,
+                "score": 0,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581822_small.png",
+                "pageUrl": "/teams/581822/overview/cs-deportivo-liniers"
+            },
+            {
+                "name": "Sportivo Italiano",
+                "id": 213533,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213533_small.png",
+                "pageUrl": "/teams/213533/overview/sportivo-italiano"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T18:00:00.000Z",
+            "numberOfHomeRedCards": 1,
+            "numberOfAwayRedCards": 1,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 20:03:28",
+                "firstHalfEnded": "10.07.2026 20:48:51",
+                "secondHalfStarted": "10.07.2026 21:05:49",
+                "secondHalfEnded": "10.07.2026 21:57:19",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 21:57:19"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "0 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {},
+            "awayTeamGoals": {
+                "Guerra": [
+                    {
+                        "reactKey": "1422693726Goal1499625undefinedfalse",
+                        "timeStr": 26,
+                        "type": "Goal",
+                        "time": 26,
+                        "overloadTime": null,
+                        "eventId": 14226937,
+                        "player": {
+                            "id": 1499625,
+                            "name": "Axel Guerra",
+                            "profileUrl": "/players/1499625/axel-guerra"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1499625/axel-guerra",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Axel Guerra",
+                        "firstName": "Axel",
+                        "lastName": "Guerra",
+                        "fullName": "Axel Guerra",
+                        "playerId": 1499625,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {
+                "Lugarzo": [
+                    {
+                        "reactKey": "1422701790Card800001undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14227017,
+                        "player": {
+                            "id": 800001,
+                            "name": "Leandro Lugarzo",
+                            "profileUrl": "/players/800001/leandro-lugarzo"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/800001/leandro-lugarzo",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "nameStr": "Leandro Lugarzo",
+                        "firstName": "Leandro",
+                        "lastName": "Lugarzo",
+                        "fullName": "Leandro Lugarzo",
+                        "playerId": 800001,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            },
+            "awayTeamRedCards": {
+                "Molina": [
+                    {
+                        "reactKey": "1422698375Card623893undefinedfalse",
+                        "timeStr": 75,
+                        "type": "Card",
+                        "time": 75,
+                        "overloadTime": null,
+                        "eventId": 14226983,
+                        "player": {
+                            "id": 623893,
+                            "name": "Javier Molina",
+                            "profileUrl": "/players/623893/javier-molina"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/623893/javier-molina",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Javier Molina",
+                        "firstName": "Javier",
+                        "lastName": "Molina",
+                        "fullName": "Javier Molina",
+                        "playerId": 623893,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            }
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5113930,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422693726Goal1499625undefinedfalse",
+                        "timeStr": 26,
+                        "type": "Goal",
+                        "time": 26,
+                        "overloadTime": null,
+                        "eventId": 14226937,
+                        "player": {
+                            "id": 1499625,
+                            "name": "Axel Guerra",
+                            "profileUrl": "/players/1499625/axel-guerra"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1499625/axel-guerra",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Axel Guerra",
+                        "firstName": "Axel",
+                        "lastName": "Guerra",
+                        "fullName": "Axel Guerra",
+                        "playerId": 1499625,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422698375Card623893undefinedfalse",
+                        "timeStr": 75,
+                        "type": "Card",
+                        "time": 75,
+                        "overloadTime": null,
+                        "eventId": 14226983,
+                        "player": {
+                            "id": 623893,
+                            "name": "Javier Molina",
+                            "profileUrl": "/players/623893/javier-molina"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/623893/javier-molina",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "nameStr": "Javier Molina",
+                        "firstName": "Javier",
+                        "lastName": "Molina",
+                        "fullName": "Javier Molina",
+                        "playerId": 623893,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "1422701790Card800001undefinedtrue",
+                        "timeStr": "90 + 1",
+                        "type": "Card",
+                        "time": 90,
+                        "overloadTime": 1,
+                        "eventId": 14227017,
+                        "player": {
+                            "id": 800001,
+                            "name": "Leandro Lugarzo",
+                            "profileUrl": "/players/800001/leandro-lugarzo"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/800001/leandro-lugarzo",
+                        "overloadTimeStr": "+1",
+                        "isHome": true,
+                        "nameStr": "Leandro Lugarzo",
+                        "firstName": "Leandro",
+                        "lastName": "Lugarzo",
+                        "fullName": "Leandro Lugarzo",
+                        "playerId": 800001,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Card",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T18:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 916561,
+                    "parentLeagueId": 9213,
+                    "link": "/leagues/9213/overview/primera-b-metropolitana",
+                    "leagueName": "Primera B Metropolitana",
+                    "roundName": "24",
+                    "round": "24"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/425968_xsmall.png",
+                        "linkToMatch": "/matches/cd-uai-urquiza-vs-cs-deportivo-liniers/6hafrlfb#5113879",
+                        "date": {
+                            "utcTime": "2026-06-08T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/425968/overview/cd-uai-urquiza",
+                        "tooltipText": {
+                            "utcTime": "2026-06-08T18:30:00.000Z",
+                            "homeTeam": "CD UAI Urquiza",
+                            "homeTeamId": 425968,
+                            "homeScore": "2",
+                            "awayTeam": "CS Deportivo Liniers",
+                            "awayTeamId": 581822,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "425968",
+                            "name": "CD UAI Urquiza",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581822",
+                            "name": "CS Deportivo Liniers",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1018433_xsmall.png",
+                        "linkToMatch": "/matches/cs-deportivo-liniers-vs-real-pilar/gc7mpf7i#5113888",
+                        "date": {
+                            "utcTime": "2026-06-14T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1018433/overview/real-pilar",
+                        "tooltipText": {
+                            "utcTime": "2026-06-14T18:30:00.000Z",
+                            "homeTeam": "CS Deportivo Liniers",
+                            "homeTeamId": 581822,
+                            "homeScore": "0",
+                            "awayTeam": "Real Pilar",
+                            "awayTeamId": 1018433,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "581822",
+                            "name": "CS Deportivo Liniers",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1018433",
+                            "name": "Real Pilar",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581820_xsmall.png",
+                        "linkToMatch": "/matches/ituzaingo-vs-cs-deportivo-liniers/8n0vogi5#5113897",
+                        "date": {
+                            "utcTime": "2026-06-19T22:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581820/overview/ituzaingo",
+                        "tooltipText": {
+                            "utcTime": "2026-06-19T22:00:00.000Z",
+                            "homeTeam": "Ituzaingo",
+                            "homeTeamId": 581820,
+                            "homeScore": "1",
+                            "awayTeam": "CS Deportivo Liniers",
+                            "awayTeamId": 581822,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "581820",
+                            "name": "Ituzaingo",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581822",
+                            "name": "CS Deportivo Liniers",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/213526_xsmall.png",
+                        "linkToMatch": "/matches/villa-san-carlos-vs-cs-deportivo-liniers/41av0oa8#5113909",
+                        "date": {
+                            "utcTime": "2026-06-28T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/213526/overview/villa-san-carlos",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T16:00:00.000Z",
+                            "homeTeam": "CS Deportivo Liniers",
+                            "homeTeamId": 581822,
+                            "homeScore": "1",
+                            "awayTeam": "Villa San Carlos",
+                            "awayTeamId": 213526,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "581822",
+                            "name": "CS Deportivo Liniers",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "213526",
+                            "name": "Villa San Carlos",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/581825_xsmall.png",
+                        "linkToMatch": "/matches/cs-deportivo-liniers-vs-san-martin-burzaco/8n0z55vl#5113923",
+                        "date": {
+                            "utcTime": "2026-07-05T18:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/581825/overview/san-martin-burzaco",
+                        "tooltipText": {
+                            "utcTime": "2026-07-05T18:00:00.000Z",
+                            "homeTeam": "San Martin Burzaco",
+                            "homeTeamId": 581825,
+                            "homeScore": "1",
+                            "awayTeam": "CS Deportivo Liniers",
+                            "awayTeamId": 581822,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "581825",
+                            "name": "San Martin Burzaco",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "581822",
+                            "name": "CS Deportivo Liniers",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10098_xsmall.png",
+                        "linkToMatch": "/matches/arsenal-sarandi-vs-sportivo-italiano/bhjrqhh#5113871",
+                        "date": {
+                            "utcTime": "2026-06-06T17:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10098/overview/arsenal-sarandi",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T17:30:00.000Z",
+                            "homeTeam": "Arsenal Sarandi",
+                            "homeTeamId": 10098,
+                            "homeScore": "1",
+                            "awayTeam": "Sportivo Italiano",
+                            "awayTeamId": 213533,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "10098",
+                            "name": "Arsenal Sarandi",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "213533",
+                            "name": "Sportivo Italiano",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/298633_xsmall.png",
+                        "linkToMatch": "/matches/sportivo-italiano-vs-excursionistas/1o93tpda#5113890",
+                        "date": {
+                            "utcTime": "2026-06-13T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/298633/overview/excursionistas",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T18:30:00.000Z",
+                            "homeTeam": "Sportivo Italiano",
+                            "homeTeamId": 213533,
+                            "homeScore": "0",
+                            "awayTeam": "Excursionistas",
+                            "awayTeamId": 298633,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "213533",
+                            "name": "Sportivo Italiano",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "298633",
+                            "name": "Excursionistas",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/298630_xsmall.png",
+                        "linkToMatch": "/matches/sportivo-italiano-vs-villa-dalmine/1o92wrss#5113902",
+                        "date": {
+                            "utcTime": "2026-06-20T18:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/298630/overview/villa-dalmine",
+                        "tooltipText": {
+                            "utcTime": "2026-06-20T18:30:00.000Z",
+                            "homeTeam": "Villa Dalmine",
+                            "homeTeamId": 298630,
+                            "homeScore": "2",
+                            "awayTeam": "Sportivo Italiano",
+                            "awayTeamId": 213533,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "298630",
+                            "name": "Villa Dalmine",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "213533",
+                            "name": "Sportivo Italiano",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/425968_xsmall.png",
+                        "linkToMatch": "/matches/sportivo-italiano-vs-cd-uai-urquiza/2lxr0f2j#5113912",
+                        "date": {
+                            "utcTime": "2026-06-28T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/425968/overview/cd-uai-urquiza",
+                        "tooltipText": {
+                            "utcTime": "2026-06-28T16:00:00.000Z",
+                            "homeTeam": "CD UAI Urquiza",
+                            "homeTeamId": 425968,
+                            "homeScore": "0",
+                            "awayTeam": "Sportivo Italiano",
+                            "awayTeamId": 213533,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "425968",
+                            "name": "CD UAI Urquiza",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "213533",
+                            "name": "Sportivo Italiano",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/1018433_xsmall.png",
+                        "linkToMatch": "/matches/sportivo-italiano-vs-real-pilar/9omc5yfi#5113924",
+                        "date": {
+                            "utcTime": "2026-07-05T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/1018433/overview/real-pilar",
+                        "tooltipText": {
+                            "utcTime": "2026-07-05T16:00:00.000Z",
+                            "homeTeam": "Sportivo Italiano",
+                            "homeTeamId": 213533,
+                            "homeScore": "1",
+                            "awayTeam": "Real Pilar",
+                            "awayTeamId": 1018433,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "213533",
+                            "name": "Sportivo Italiano",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "1018433",
+                            "name": "Real Pilar",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5113930",
+                    "MatchId": 5113930,
+                    "HomeTeamId": 581822,
+                    "AwayTeamId": 213533,
+                    "HomeTeam": "CS Deportivo Liniers",
+                    "AwayTeam": "Sportivo Italiano",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have won the previous {2} matches against {1}.",
+                            "TextTemplateId": "h2h_winstreak",
+                            "StatValues": [
+                                "away_team",
+                                "home_team",
+                                "3"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Sportivo Italiano have won the previous 3 matches against CS Deportivo Liniers."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "CS Deportivo Liniers have an average of 1 goals in their last three matches and Sportivo Italiano have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "1",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "CS Deportivo Liniers have an average of 1 goals in their last three matches and Sportivo Italiano have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "home_team",
+                                "5"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "CS Deportivo Liniers haven't won a match in 5 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 581822,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 4,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 4 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 581822,
+                    "priority": 8,
+                    "defaultText": "Haven't won a match in {0} attempts",
+                    "localizedTextId": "insights_not_won_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't won a match in 5 attempts",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 213533,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 5 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 213533,
+                    "priority": 8,
+                    "defaultText": "{0} have won the previous {2} matches against {1}.",
+                    "localizedTextId": "h2h_winstreak",
+                    "statValues": [
+                        {
+                            "value": 213533,
+                            "name": "Sportivo Italiano",
+                            "type": "team"
+                        },
+                        {
+                            "value": 581822,
+                            "name": "CS Deportivo Liniers",
+                            "type": "team"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Sportivo Italiano have won the previous 3 matches against CS Deportivo Liniers.",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "ARG",
+            "QAData": [
+                {
+                    "question": "Who won between CS Deportivo Liniers and Sportivo Italiano on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "answer": "Sportivo Italiano won 1\u20130 over CS Deportivo Liniers on Fri, 10 Jul 2026 18:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "916561",
+            "url": "https://data.fotmob.com/tables.ext.916561.fot.gz",
+            "teams": [
+                581822,
+                213533
+            ],
+            "tournamentNameForUrl": "Primera B Metropolitana",
+            "parentLeagueId": 9213,
+            "countryCode": "ARG"
+        },
+        "h2h": {
+            "summary": [
+                1,
+                1,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-02-27T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/sportivo-italiano-vs-cs-deportivo-liniers/41ayc060#5113704",
+                    "league": {
+                        "name": "Primera B Metropolitana",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    "home": {
+                        "name": "Sportivo Italiano",
+                        "id": "213533"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-27T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "CS Deportivo Liniers",
+                        "id": "581822"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-11-02T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/sportivo-italiano-vs-cs-deportivo-liniers/41ayc060#4823296",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "CS Deportivo Liniers",
+                        "id": "581822"
+                    },
+                    "status": {
+                        "utcTime": "2025-11-02T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sportivo Italiano",
+                        "id": "213533"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-07T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/sportivo-italiano-vs-cs-deportivo-liniers/41ayc060#4704682",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "Sportivo Italiano",
+                        "id": "213533"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-07T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "CS Deportivo Liniers",
+                        "id": "581822"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-09-22T16:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/sportivo-italiano-vs-cs-deportivo-liniers/41ayc060#4408949",
+                    "league": {
+                        "name": "Primera B Metropolitana Clausura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-clausura"
+                    },
+                    "home": {
+                        "name": "Sportivo Italiano",
+                        "id": "213533"
+                    },
+                    "status": {
+                        "utcTime": "2024-09-22T16:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "CS Deportivo Liniers",
+                        "id": "581822"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-05T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/sportivo-italiano-vs-cs-deportivo-liniers/41ayc060#4408761",
+                    "league": {
+                        "name": "Primera B Metropolitana Apertura",
+                        "id": "9213",
+                        "pageUrl": "/leagues/9213/overview/primera-b-metropolitana-apertura"
+                    },
+                    "home": {
+                        "name": "CS Deportivo Liniers",
+                        "id": "581822"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-05T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Sportivo Italiano",
+                        "id": "213533"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "cs-deportivo-liniers-vs-sportivo-italiano",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5113930",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "CS Deportivo Liniers",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/581822.png",
+                "url": "https://www.fotmob.com/teams/581822/overview/cs-deportivo-liniers",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Sportivo Italiano",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/213533.png",
+                "url": "https://www.fotmob.com/teams/213533/overview/sportivo-italiano",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "CS Deportivo Liniers vs Sportivo Italiano",
+            "description": "Follow CS Deportivo Liniers vs Sportivo Italiano live on fotmob.com",
+            "startDate": "2026-07-10T18:00:00.000Z",
+            "endDate": "2026-07-10T20:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/581822.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/213533.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5113930",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T18:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "CS Deportivo Liniers",
+                    "url": "https://www.fotmob.com/teams/581822/overview/cs-deportivo-liniers"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Sportivo Italiano",
+                    "url": "https://www.fotmob.com/teams/213533/overview/sportivo-italiano"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "CS Deportivo Liniers - Sportivo Italiano",
+                        "item": "https://www.fotmob.com/match/5113930"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Sportivo Italiano",
+                        "item": "https://www.fotmob.com/teams/213533/overview/sportivo-italiano"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "CS Deportivo Liniers - Sportivo Italiano",
+                        "item": "https://www.fotmob.com/match/5113930"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Primera B Metropolitana",
+                        "item": "https://www.fotmob.com/leagues/9213/overview/primera-b-metropolitana"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "CS Deportivo Liniers",
+                        "item": "https://www.fotmob.com/teams/581822/overview/cs-deportivo-liniers"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "CS Deportivo Liniers - Sportivo Italiano",
+                        "item": "https://www.fotmob.com/match/5113930"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between CS Deportivo Liniers and Sportivo Italiano on Fri, 10 Jul 2026 18:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Sportivo Italiano won 1\u20130 over CS Deportivo Liniers on Fri, 10 Jul 2026 18:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

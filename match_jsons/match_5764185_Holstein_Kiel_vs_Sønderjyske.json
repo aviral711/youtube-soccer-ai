@@ -1,0 +1,1402 @@
+{
+    "general": {
+        "matchId": "5764185",
+        "matchName": "Holstein Kiel-vs-S\u00f8nderjyske_Fri, Jul 10, 2026, 10:00 UTC",
+        "matchRound": null,
+        "teamColors": {
+            "darkMode": {
+                "home": "#1a5889",
+                "away": "#6CACE4"
+            },
+            "lightMode": {
+                "home": "#085080",
+                "away": "#6CACE4"
+            },
+            "fontDarkMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 915708,
+        "leagueName": "Club Friendlies",
+        "leagueRoundName": null,
+        "parentLeagueId": 489,
+        "countryCode": "INT-2",
+        "homeTeam": {
+            "name": "Holstein Kiel",
+            "id": 8150
+        },
+        "awayTeam": {
+            "name": "S\u00f8nderjyske",
+            "id": 8487
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 10:00 UTC",
+        "matchTimeUTCDate": "2026-07-10T10:00:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Holstein Kiel",
+                "id": 8150,
+                "score": 2,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8150_small.png",
+                "pageUrl": "/teams/8150/overview/holstein-kiel"
+            },
+            {
+                "name": "S\u00f8nderjyske",
+                "id": 8487,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8487_small.png",
+                "pageUrl": "/teams/8487/overview/sonderjyske"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T10:00:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 12:04:13",
+                "firstHalfEnded": "10.07.2026 12:49:45",
+                "secondHalfStarted": "10.07.2026 13:07:11",
+                "secondHalfEnded": "10.07.2026 13:55:52",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 13:55:52"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "2 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Kapr\u00e1lik": [
+                    {
+                        "reactKey": "1422677742Goal1159556undefinedtrue",
+                        "timeStr": 42,
+                        "type": "Goal",
+                        "time": 42,
+                        "overloadTime": null,
+                        "eventId": 14226777,
+                        "player": {
+                            "id": 1159556,
+                            "name": "Adri\u00e1n Kapr\u00e1lik",
+                            "profileUrl": "/players/1159556/adrian-kapralik"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1159556/adrian-kapralik",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Adri\u00e1n Kapr\u00e1lik",
+                        "firstName": "Adri\u00e1n",
+                        "lastName": "Kapr\u00e1lik",
+                        "fullName": "Adri\u00e1n Kapr\u00e1lik",
+                        "playerId": 1159556,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Davidsen": [
+                    {
+                        "reactKey": "1422679268Goal1437580undefinedtrue",
+                        "timeStr": 68,
+                        "type": "Goal",
+                        "time": 68,
+                        "overloadTime": null,
+                        "eventId": 14226792,
+                        "player": {
+                            "id": 1437580,
+                            "name": "Kasper Davidsen",
+                            "profileUrl": "/players/1437580/kasper-davidsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1437580/kasper-davidsen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kasper Davidsen",
+                        "firstName": "Kasper",
+                        "lastName": "Davidsen",
+                        "fullName": "Kasper Davidsen",
+                        "playerId": 1437580,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Hoppe": [
+                    {
+                        "reactKey": "142267572Goal1202104undefinedfalse",
+                        "timeStr": 2,
+                        "type": "Goal",
+                        "time": 2,
+                        "overloadTime": null,
+                        "eventId": 14226757,
+                        "player": {
+                            "id": 1202104,
+                            "name": "Matthew Hoppe",
+                            "profileUrl": "/players/1202104/matthew-hoppe"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1202104/matthew-hoppe",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Matthew Hoppe",
+                        "firstName": "Matthew",
+                        "lastName": "Hoppe",
+                        "fullName": "Matthew Hoppe",
+                        "playerId": 1202104,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "head to head",
+        "injured"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5764185,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142267572Goal1202104undefinedfalse",
+                        "timeStr": 2,
+                        "type": "Goal",
+                        "time": 2,
+                        "overloadTime": null,
+                        "eventId": 14226757,
+                        "player": {
+                            "id": 1202104,
+                            "name": "Matthew Hoppe",
+                            "profileUrl": "/players/1202104/matthew-hoppe"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1202104/matthew-hoppe",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Matthew Hoppe",
+                        "firstName": "Matthew",
+                        "lastName": "Hoppe",
+                        "fullName": "Matthew Hoppe",
+                        "playerId": 1202104,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422677742Goal1159556undefinedtrue",
+                        "timeStr": 42,
+                        "type": "Goal",
+                        "time": 42,
+                        "overloadTime": null,
+                        "eventId": 14226777,
+                        "player": {
+                            "id": 1159556,
+                            "name": "Adri\u00e1n Kapr\u00e1lik",
+                            "profileUrl": "/players/1159556/adrian-kapralik"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1159556/adrian-kapralik",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Adri\u00e1n Kapr\u00e1lik",
+                        "firstName": "Adri\u00e1n",
+                        "lastName": "Kapr\u00e1lik",
+                        "fullName": "Adri\u00e1n Kapr\u00e1lik",
+                        "playerId": 1159556,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422679268Goal1437580undefinedtrue",
+                        "timeStr": 68,
+                        "type": "Goal",
+                        "time": 68,
+                        "overloadTime": null,
+                        "eventId": 14226792,
+                        "player": {
+                            "id": 1437580,
+                            "name": "Kasper Davidsen",
+                            "profileUrl": "/players/1437580/kasper-davidsen"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1437580/kasper-davidsen",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Kasper Davidsen",
+                        "firstName": "Kasper",
+                        "lastName": "Davidsen",
+                        "fullName": "Kasper Davidsen",
+                        "playerId": 1437580,
+                        "newScore": [
+                            2,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half",
+                    "Injuries"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T10:00:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 915708,
+                    "parentLeagueId": 489,
+                    "link": "/leagues/489/overview/club-friendlies",
+                    "leagueName": "Club Friendlies",
+                    "roundName": null,
+                    "round": null
+                },
+                "Stadium": {
+                    "name": "CITTI FUSSBALL PARK Arena",
+                    "city": "Kiel",
+                    "country": "Germany",
+                    "lat": 54.361985865,
+                    "long": 10.093216896,
+                    "capacity": 3000,
+                    "surface": "grass"
+                },
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8350_xsmall.png",
+                        "linkToMatch": "/matches/holstein-kiel-vs-kaiserslautern/291zj4#4829919",
+                        "date": {
+                            "utcTime": "2026-04-17T16:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8350/overview/kaiserslautern",
+                        "tooltipText": {
+                            "utcTime": "2026-04-17T16:30:00.000Z",
+                            "homeTeam": "Holstein Kiel",
+                            "homeTeamId": 8150,
+                            "homeScore": "3",
+                            "awayTeam": "Kaiserslautern",
+                            "awayTeamId": 8350,
+                            "awayScore": "0"
+                        },
+                        "score": "3 - 0",
+                        "home": {
+                            "id": "8150",
+                            "name": "Holstein Kiel",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8350",
+                            "name": "Kaiserslautern",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_xsmall.png",
+                        "linkToMatch": "/matches/holstein-kiel-vs-hertha-bsc/27d4bx#4829926",
+                        "date": {
+                            "utcTime": "2026-04-25T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8177/overview/hertha-bsc",
+                        "tooltipText": {
+                            "utcTime": "2026-04-25T11:00:00.000Z",
+                            "homeTeam": "Hertha BSC",
+                            "homeTeamId": 8177,
+                            "homeScore": "0",
+                            "awayTeam": "Holstein Kiel",
+                            "awayTeamId": 8150,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "8177",
+                            "name": "Hertha BSC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8150",
+                            "name": "Holstein Kiel",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9776_xsmall.png",
+                        "linkToMatch": "/matches/holstein-kiel-vs-eintracht-braunschweig/2no4sl#4829936",
+                        "date": {
+                            "utcTime": "2026-05-02T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9776/overview/eintracht-braunschweig",
+                        "tooltipText": {
+                            "utcTime": "2026-05-02T11:00:00.000Z",
+                            "homeTeam": "Holstein Kiel",
+                            "homeTeamId": 8150,
+                            "homeScore": "2",
+                            "awayTeam": "Eintracht Braunschweig",
+                            "awayTeamId": 9776,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "8150",
+                            "name": "Holstein Kiel",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "9776",
+                            "name": "Eintracht Braunschweig",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8188_xsmall.png",
+                        "linkToMatch": "/matches/holstein-kiel-vs-magdeburg/27gyyv#4829945",
+                        "date": {
+                            "utcTime": "2026-05-09T11:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8188/overview/magdeburg",
+                        "tooltipText": {
+                            "utcTime": "2026-05-09T11:00:00.000Z",
+                            "homeTeam": "Holstein Kiel",
+                            "homeTeamId": 8150,
+                            "homeScore": "1",
+                            "awayTeam": "Magdeburg",
+                            "awayTeamId": 8188,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "8150",
+                            "name": "Holstein Kiel",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8188",
+                            "name": "Magdeburg",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8480_xsmall.png",
+                        "linkToMatch": "/matches/holstein-kiel-vs-dynamo-dresden/2ac5al#4829958",
+                        "date": {
+                            "utcTime": "2026-05-17T13:30:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8480/overview/dynamo-dresden",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T13:30:00.000Z",
+                            "homeTeam": "Dynamo Dresden",
+                            "homeTeamId": 8480,
+                            "homeScore": "2",
+                            "awayTeam": "Holstein Kiel",
+                            "awayTeamId": 8150,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8480",
+                            "name": "Dynamo Dresden",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8150",
+                            "name": "Holstein Kiel",
+                            "isOurTeam": true
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8071_xsmall.png",
+                        "linkToMatch": "/matches/agf-vs-sonderjyske/29mjds#5222372",
+                        "date": {
+                            "utcTime": "2026-05-03T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8071/overview/agf",
+                        "tooltipText": {
+                            "utcTime": "2026-05-03T16:00:00.000Z",
+                            "homeTeam": "AGF",
+                            "homeTeamId": 8071,
+                            "homeScore": "2",
+                            "awayTeam": "S\u00f8nderjyske",
+                            "awayTeamId": 8487,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "8071",
+                            "name": "AGF",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8487",
+                            "name": "S\u00f8nderjyske",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/9939_xsmall.png",
+                        "linkToMatch": "/matches/sonderjyske-vs-viborg/2t2xgi#5222376",
+                        "date": {
+                            "utcTime": "2026-05-08T17:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/9939/overview/viborg",
+                        "tooltipText": {
+                            "utcTime": "2026-05-08T17:00:00.000Z",
+                            "homeTeam": "Viborg",
+                            "homeTeamId": 9939,
+                            "homeScore": "0",
+                            "awayTeam": "S\u00f8nderjyske",
+                            "awayTeamId": 8487,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "9939",
+                            "name": "Viborg",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8487",
+                            "name": "S\u00f8nderjyske",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/10202_xsmall.png",
+                        "linkToMatch": "/matches/sonderjyske-vs-nordsjaelland/2vzico#5222378",
+                        "date": {
+                            "utcTime": "2026-05-17T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/10202/overview/nordsjaelland",
+                        "tooltipText": {
+                            "utcTime": "2026-05-17T16:00:00.000Z",
+                            "homeTeam": "S\u00f8nderjyske",
+                            "homeTeamId": 8487,
+                            "homeScore": "1",
+                            "awayTeam": "Nordsj\u00e6lland",
+                            "awayTeamId": 10202,
+                            "awayScore": "4"
+                        },
+                        "score": "1 - 4",
+                        "home": {
+                            "id": "8487",
+                            "name": "S\u00f8nderjyske",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "10202",
+                            "name": "Nordsj\u00e6lland",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8410_xsmall.png",
+                        "linkToMatch": "/matches/randers-fc-vs-sonderjyske/2d02zs#5748086",
+                        "date": {
+                            "utcTime": "2026-06-26T09:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8410/overview/randers-fc",
+                        "tooltipText": {
+                            "utcTime": "2026-06-26T09:00:00.000Z",
+                            "homeTeam": "Randers FC",
+                            "homeTeamId": 8410,
+                            "homeScore": "2",
+                            "awayTeam": "S\u00f8nderjyske",
+                            "awayTeamId": 8487,
+                            "awayScore": "4"
+                        },
+                        "score": "2 - 4",
+                        "home": {
+                            "id": "8410",
+                            "name": "Randers FC",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8487",
+                            "name": "S\u00f8nderjyske",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8478_xsmall.png",
+                        "linkToMatch": "/matches/viking-vs-sonderjyske/2dordi#5764184",
+                        "date": {
+                            "utcTime": "2026-07-03T12:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/8478/overview/viking",
+                        "tooltipText": {
+                            "utcTime": "2026-07-03T12:00:00.000Z",
+                            "homeTeam": "S\u00f8nderjyske",
+                            "homeTeamId": 8487,
+                            "homeScore": "1",
+                            "awayTeam": "Viking",
+                            "awayTeamId": 8478,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "8487",
+                            "name": "S\u00f8nderjyske",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "8478",
+                            "name": "Viking",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5764185",
+                    "MatchId": 5764185,
+                    "HomeTeamId": 8150,
+                    "AwayTeamId": 8487,
+                    "HomeTeam": "Holstein Kiel",
+                    "AwayTeam": "S\u00f8nderjyske",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "3",
+                                "0",
+                                "2",
+                                "away_team",
+                                "2",
+                                "1",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Holstein Kiel have 3W, 0D, 2L in five matches while S\u00f8nderjyske have 2W, 1D, 2L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} matches and {2} have scored in their last {3} matches.",
+                            "TextTemplateId": "goalstreak_team_both",
+                            "StatValues": [
+                                "home_team",
+                                "6",
+                                "away_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Holstein Kiel have scored in their last 6 matches and S\u00f8nderjyske have scored in their last 7 matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "4",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Holstein Kiel have scored 4 goals in their last 3 matches, while S\u00f8nderjyske have scored 6."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't drawn in their last {1} matches.",
+                            "TextTemplateId": "draw_streak_team",
+                            "StatValues": [
+                                "home_team",
+                                "6"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Holstein Kiel haven't drawn in their last 6 matches."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8487,
+                    "priority": 9,
+                    "defaultText": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                    "localizedTextId": "h2h_undefeated",
+                    "statValues": [
+                        {
+                            "value": 8487,
+                            "name": "S\u00f8nderjyske",
+                            "type": "team"
+                        },
+                        {
+                            "value": 8150,
+                            "name": "Holstein Kiel",
+                            "type": "team"
+                        },
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "S\u00f8nderjyske haven't lost to Holstein Kiel in their last 8 meetings (3W, 5D).",
+                    "color": "#6CACE4"
+                }
+            ],
+            "countryCode": "INT-2",
+            "QAData": [
+                {
+                    "question": "Who won between Holstein Kiel and S\u00f8nderjyske on Fri, 10 Jul 2026 10:00:00 GMT?",
+                    "answer": "Holstein Kiel won 2\u20131 over S\u00f8nderjyske on Fri, 10 Jul 2026 10:00:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "weather": {
+            "temperature": 24,
+            "windSpeed": 4,
+            "windDirectionCardinal": "NNE",
+            "iconCode": 32,
+            "relativeHumidity": 57,
+            "precipitation": 0,
+            "snow": 0,
+            "cloudCover": 24,
+            "description": "Sunny",
+            "apiUsed": "current",
+            "lastUpdated": "2026-07-10T11:30:01Z",
+            "localizedKey": "weather_condition_sunny",
+            "defaultTitle": "Sunny"
+        },
+        "lineup": {
+            "matchId": 5764185,
+            "lineupType": "unavailable",
+            "source": "enetpulse",
+            "availableFilters": [],
+            "homeTeam": {
+                "id": 8150,
+                "name": "Holstein Kiel",
+                "formation": "",
+                "starters": [],
+                "unavailable": [
+                    {
+                        "id": 673377,
+                        "age": 31,
+                        "name": "Patrick Erras",
+                        "countryName": "Germany",
+                        "countryCode": "GER",
+                        "marketValue": 127794,
+                        "unavailability": {
+                            "injuryId": 9,
+                            "type": "injury",
+                            "expectedReturn": "Unknown"
+                        },
+                        "firstName": "Patrick",
+                        "lastName": "Erras"
+                    }
+                ]
+            },
+            "awayTeam": {
+                "id": 8487,
+                "name": "S\u00f8nderjyske",
+                "formation": "",
+                "starters": []
+            }
+        },
+        "hasPlayoff": false,
+        "table": false,
+        "h2h": {
+            "summary": [
+                0,
+                5,
+                3
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2024-07-12T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#4513026",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-12T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-01-19T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#2428379",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    },
+                    "status": {
+                        "utcTime": "2017-01-19T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2016-07-08T16:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#2250286",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    },
+                    "status": {
+                        "utcTime": "2016-07-08T16:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-07-11T12:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#1981085",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    },
+                    "status": {
+                        "utcTime": "2015-07-11T12:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2015-01-23T13:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#1895451",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    },
+                    "status": {
+                        "utcTime": "2015-01-23T13:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2014-06-27T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#1722418",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    },
+                    "status": {
+                        "utcTime": "2014-06-27T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2013-07-06T11:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#1478843",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    },
+                    "status": {
+                        "utcTime": "2013-07-06T11:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2010-07-13T15:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/holstein-kiel-vs-sonderjyske/2aen56#845391",
+                    "league": {
+                        "name": "Club Friendlies",
+                        "id": "489",
+                        "pageUrl": "/leagues/489/overview/club-friendlies"
+                    },
+                    "home": {
+                        "name": "Holstein Kiel",
+                        "id": "8150"
+                    },
+                    "status": {
+                        "utcTime": "2010-07-13T15:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 4",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "S\u00f8nderjyske",
+                        "id": "8487"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "holstein-kiel-vs-sonderjyske",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5764185",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Holstein Kiel",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8150.png",
+                "url": "https://www.fotmob.com/teams/8150/overview/holstein-kiel",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "S\u00f8nderjyske",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8487.png",
+                "url": "https://www.fotmob.com/teams/8487/overview/sonderjyske",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Holstein Kiel vs S\u00f8nderjyske",
+            "description": "Follow Holstein Kiel vs S\u00f8nderjyske live on fotmob.com",
+            "startDate": "2026-07-10T10:00:00.000Z",
+            "endDate": "2026-07-10T12:00:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "CITTI FUSSBALL PARK Arena",
+                "latitude": 54.361985865,
+                "longitude": 10.093216896,
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Germany",
+                    "addressLocality": "Kiel"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8150.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8487.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5764185",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T10:00:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Holstein Kiel",
+                    "url": "https://www.fotmob.com/teams/8150/overview/holstein-kiel"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "S\u00f8nderjyske",
+                    "url": "https://www.fotmob.com/teams/8487/overview/sonderjyske"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Holstein Kiel - S\u00f8nderjyske",
+                        "item": "https://www.fotmob.com/match/5764185"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "S\u00f8nderjyske",
+                        "item": "https://www.fotmob.com/teams/8487/overview/sonderjyske"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Holstein Kiel - S\u00f8nderjyske",
+                        "item": "https://www.fotmob.com/match/5764185"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "Club Friendlies",
+                        "item": "https://www.fotmob.com/leagues/489/overview/club-friendlies"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Holstein Kiel",
+                        "item": "https://www.fotmob.com/teams/8150/overview/holstein-kiel"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Holstein Kiel - S\u00f8nderjyske",
+                        "item": "https://www.fotmob.com/match/5764185"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Holstein Kiel and S\u00f8nderjyske on Fri, 10 Jul 2026 10:00:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Holstein Kiel won 2\u20131 over S\u00f8nderjyske on Fri, 10 Jul 2026 10:00:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

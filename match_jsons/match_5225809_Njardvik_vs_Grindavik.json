@@ -1,0 +1,1891 @@
+{
+    "general": {
+        "matchId": "5225809",
+        "matchName": "Njardvik-vs-Grindavik_Fri, Jul 10, 2026, 19:15 UTC",
+        "matchRound": "13",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#002898"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#002898"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 216,
+        "leagueName": "1. Deild",
+        "leagueRoundName": "13",
+        "parentLeagueId": 216,
+        "countryCode": "ISL",
+        "homeTeam": {
+            "name": "Njardvik",
+            "id": 4495
+        },
+        "awayTeam": {
+            "name": "Grindavik",
+            "id": 8298
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 19:15 UTC",
+        "matchTimeUTCDate": "2026-07-10T19:15:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "Njardvik",
+                "id": 4495,
+                "score": 5,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4495_small.png",
+                "pageUrl": "/teams/4495/overview/njardvik"
+            },
+            {
+                "name": "Grindavik",
+                "id": 8298,
+                "score": 4,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/8298_small.png",
+                "pageUrl": "/teams/8298/overview/grindavik"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T19:15:00.000Z",
+            "numberOfHomeRedCards": 0,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 21:17:56",
+                "firstHalfEnded": "10.07.2026 22:03:46",
+                "secondHalfStarted": "10.07.2026 22:18:13",
+                "secondHalfEnded": "10.07.2026 23:10:23",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 23:10:23"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "5 - 4",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Einarsson": [
+                    {
+                        "reactKey": "1422697312Goal1269510undefinedtrue",
+                        "timeStr": 12,
+                        "type": "Goal",
+                        "time": 12,
+                        "overloadTime": null,
+                        "eventId": 14226973,
+                        "player": {
+                            "id": 1269510,
+                            "name": "Aron Einarsson",
+                            "profileUrl": "/players/1269510/aron-einarsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1269510/aron-einarsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aron Einarsson",
+                        "firstName": "Aron",
+                        "lastName": "Einarsson",
+                        "fullName": "Aron Einarsson",
+                        "playerId": 1269510,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Fernandes": [
+                    {
+                        "reactKey": "1422699826Goal800395undefinedtrue",
+                        "timeStr": 26,
+                        "type": "Goal",
+                        "time": 26,
+                        "overloadTime": null,
+                        "eventId": 14226998,
+                        "player": {
+                            "id": 800395,
+                            "name": "Leandro Fernandes",
+                            "profileUrl": "/players/800395/leandro-fernandes"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/800395/leandro-fernandes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leandro Fernandes",
+                        "firstName": "Leandro",
+                        "lastName": "Fernandes",
+                        "fullName": "Leandro Fernandes",
+                        "playerId": 800395,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422702037Goal800395undefinedtrue",
+                        "timeStr": 37,
+                        "type": "Goal",
+                        "time": 37,
+                        "overloadTime": null,
+                        "eventId": 14227020,
+                        "player": {
+                            "id": 800395,
+                            "name": "Leandro Fernandes",
+                            "profileUrl": "/players/800395/leandro-fernandes"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/800395/leandro-fernandes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leandro Fernandes",
+                        "firstName": "Leandro",
+                        "lastName": "Fernandes",
+                        "fullName": "Leandro Fernandes",
+                        "playerId": 800395,
+                        "newScore": [
+                            3,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Markusson": [
+                    {
+                        "reactKey": "1422706550Goal841454undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14227065,
+                        "player": {
+                            "id": 841454,
+                            "name": "Sigurjon Mar Markusson",
+                            "profileUrl": "/players/841454/sigurjon-mar-markusson"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 3,
+                        "profileUrl": "/players/841454/sigurjon-mar-markusson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sigurjon Mar Markusson",
+                        "firstName": "Sigurjon Mar",
+                        "lastName": "Markusson",
+                        "fullName": "Sigurjon Mar Markusson",
+                        "playerId": 841454,
+                        "newScore": [
+                            4,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Sigurbj\u00f6rnsson": [
+                    {
+                        "reactKey": "1422712577Goal172404undefinedtrue",
+                        "timeStr": 77,
+                        "type": "Goal",
+                        "time": 77,
+                        "overloadTime": null,
+                        "eventId": 14227125,
+                        "player": {
+                            "id": 172404,
+                            "name": "Eidur Aron Sigurbj\u00f6rnsson",
+                            "profileUrl": "/players/172404/eidur-aron-sigurbjornsson"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 4,
+                        "profileUrl": "/players/172404/eidur-aron-sigurbjornsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Eidur Aron Sigurbj\u00f6rnsson",
+                        "firstName": "Eidur Aron",
+                        "lastName": "Sigurbj\u00f6rnsson",
+                        "fullName": "Eidur Aron Sigurbj\u00f6rnsson",
+                        "playerId": 172404,
+                        "newScore": [
+                            5,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Fridriksson": [
+                    {
+                        "reactKey": "142269585Goal1258389undefinedfalse",
+                        "timeStr": 5,
+                        "type": "Goal",
+                        "time": 5,
+                        "overloadTime": null,
+                        "eventId": 14226958,
+                        "player": {
+                            "id": 1258389,
+                            "name": "Stefan Jon Fridriksson",
+                            "profileUrl": "/players/1258389/stefan-jon-fridriksson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1258389/stefan-jon-fridriksson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Stefan Jon Fridriksson",
+                        "firstName": "Stefan Jon",
+                        "lastName": "Fridriksson",
+                        "fullName": "Stefan Jon Fridriksson",
+                        "playerId": 1258389,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Eysteinsson": [
+                    {
+                        "reactKey": "1422697916Goal1680063undefinedfalse",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14226979,
+                        "player": {
+                            "id": 1680063,
+                            "name": "Runar Ingi Eysteinsson",
+                            "profileUrl": "/players/1680063/runar-ingi-eysteinsson"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1680063/runar-ingi-eysteinsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Runar Ingi Eysteinsson",
+                        "firstName": "Runar Ingi",
+                        "lastName": "Eysteinsson",
+                        "fullName": "Runar Ingi Eysteinsson",
+                        "playerId": 1680063,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ],
+                "Gunnleifsson": [
+                    {
+                        "reactKey": "1422702343Goal1748618undefinedfalse",
+                        "timeStr": 43,
+                        "type": "Goal",
+                        "time": 43,
+                        "overloadTime": null,
+                        "eventId": 14227023,
+                        "player": {
+                            "id": 1748618,
+                            "name": "Gunnleifur Orri Gunnleifsson",
+                            "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gunnleifur Orri Gunnleifsson",
+                        "firstName": "Gunnleifur Orri",
+                        "lastName": "Gunnleifsson",
+                        "fullName": "Gunnleifur Orri Gunnleifsson",
+                        "playerId": 1748618,
+                        "newScore": [
+                            3,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422708964Goal1748618undefinedfalse",
+                        "timeStr": 64,
+                        "type": "Goal",
+                        "time": 64,
+                        "overloadTime": null,
+                        "eventId": 14227089,
+                        "player": {
+                            "id": 1748618,
+                            "name": "Gunnleifur Orri Gunnleifsson",
+                            "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gunnleifur Orri Gunnleifsson",
+                        "firstName": "Gunnleifur Orri",
+                        "lastName": "Gunnleifsson",
+                        "fullName": "Gunnleifur Orri Gunnleifsson",
+                        "playerId": 1748618,
+                        "newScore": [
+                            4,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {},
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5225809,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "142269585Goal1258389undefinedfalse",
+                        "timeStr": 5,
+                        "type": "Goal",
+                        "time": 5,
+                        "overloadTime": null,
+                        "eventId": 14226958,
+                        "player": {
+                            "id": 1258389,
+                            "name": "Stefan Jon Fridriksson",
+                            "profileUrl": "/players/1258389/stefan-jon-fridriksson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1258389/stefan-jon-fridriksson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Stefan Jon Fridriksson",
+                        "firstName": "Stefan Jon",
+                        "lastName": "Fridriksson",
+                        "fullName": "Stefan Jon Fridriksson",
+                        "playerId": 1258389,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422697312Goal1269510undefinedtrue",
+                        "timeStr": 12,
+                        "type": "Goal",
+                        "time": 12,
+                        "overloadTime": null,
+                        "eventId": 14226973,
+                        "player": {
+                            "id": 1269510,
+                            "name": "Aron Einarsson",
+                            "profileUrl": "/players/1269510/aron-einarsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1269510/aron-einarsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Aron Einarsson",
+                        "firstName": "Aron",
+                        "lastName": "Einarsson",
+                        "fullName": "Aron Einarsson",
+                        "playerId": 1269510,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422697916Goal1680063undefinedfalse",
+                        "timeStr": 16,
+                        "type": "Goal",
+                        "time": 16,
+                        "overloadTime": null,
+                        "eventId": 14226979,
+                        "player": {
+                            "id": 1680063,
+                            "name": "Runar Ingi Eysteinsson",
+                            "profileUrl": "/players/1680063/runar-ingi-eysteinsson"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1680063/runar-ingi-eysteinsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Runar Ingi Eysteinsson",
+                        "firstName": "Runar Ingi",
+                        "lastName": "Eysteinsson",
+                        "fullName": "Runar Ingi Eysteinsson",
+                        "playerId": 1680063,
+                        "newScore": [
+                            1,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422699826Goal800395undefinedtrue",
+                        "timeStr": 26,
+                        "type": "Goal",
+                        "time": 26,
+                        "overloadTime": null,
+                        "eventId": 14226998,
+                        "player": {
+                            "id": 800395,
+                            "name": "Leandro Fernandes",
+                            "profileUrl": "/players/800395/leandro-fernandes"
+                        },
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "profileUrl": "/players/800395/leandro-fernandes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leandro Fernandes",
+                        "firstName": "Leandro",
+                        "lastName": "Fernandes",
+                        "fullName": "Leandro Fernandes",
+                        "playerId": 800395,
+                        "newScore": [
+                            2,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422702037Goal800395undefinedtrue",
+                        "timeStr": 37,
+                        "type": "Goal",
+                        "time": 37,
+                        "overloadTime": null,
+                        "eventId": 14227020,
+                        "player": {
+                            "id": 800395,
+                            "name": "Leandro Fernandes",
+                            "profileUrl": "/players/800395/leandro-fernandes"
+                        },
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "profileUrl": "/players/800395/leandro-fernandes",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Leandro Fernandes",
+                        "firstName": "Leandro",
+                        "lastName": "Fernandes",
+                        "fullName": "Leandro Fernandes",
+                        "playerId": 800395,
+                        "newScore": [
+                            3,
+                            2
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422702343Goal1748618undefinedfalse",
+                        "timeStr": 43,
+                        "type": "Goal",
+                        "time": 43,
+                        "overloadTime": null,
+                        "eventId": 14227023,
+                        "player": {
+                            "id": 1748618,
+                            "name": "Gunnleifur Orri Gunnleifsson",
+                            "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gunnleifur Orri Gunnleifsson",
+                        "firstName": "Gunnleifur Orri",
+                        "lastName": "Gunnleifsson",
+                        "fullName": "Gunnleifur Orri Gunnleifsson",
+                        "playerId": 1748618,
+                        "newScore": [
+                            3,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 3,
+                        "awayScore": 3,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422706550Goal841454undefinedtrue",
+                        "timeStr": 50,
+                        "type": "Goal",
+                        "time": 50,
+                        "overloadTime": null,
+                        "eventId": 14227065,
+                        "player": {
+                            "id": 841454,
+                            "name": "Sigurjon Mar Markusson",
+                            "profileUrl": "/players/841454/sigurjon-mar-markusson"
+                        },
+                        "homeScore": 3,
+                        "awayScore": 3,
+                        "profileUrl": "/players/841454/sigurjon-mar-markusson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Sigurjon Mar Markusson",
+                        "firstName": "Sigurjon Mar",
+                        "lastName": "Markusson",
+                        "fullName": "Sigurjon Mar Markusson",
+                        "playerId": 841454,
+                        "newScore": [
+                            4,
+                            3
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422708964Goal1748618undefinedfalse",
+                        "timeStr": 64,
+                        "type": "Goal",
+                        "time": 64,
+                        "overloadTime": null,
+                        "eventId": 14227089,
+                        "player": {
+                            "id": 1748618,
+                            "name": "Gunnleifur Orri Gunnleifsson",
+                            "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 3,
+                        "profileUrl": "/players/1748618/gunnleifur-orri-gunnleifsson",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Gunnleifur Orri Gunnleifsson",
+                        "firstName": "Gunnleifur Orri",
+                        "lastName": "Gunnleifsson",
+                        "fullName": "Gunnleifur Orri Gunnleifsson",
+                        "playerId": 1748618,
+                        "newScore": [
+                            4,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422712577Goal172404undefinedtrue",
+                        "timeStr": 77,
+                        "type": "Goal",
+                        "time": 77,
+                        "overloadTime": null,
+                        "eventId": 14227125,
+                        "player": {
+                            "id": 172404,
+                            "name": "Eidur Aron Sigurbj\u00f6rnsson",
+                            "profileUrl": "/players/172404/eidur-aron-sigurbjornsson"
+                        },
+                        "homeScore": 4,
+                        "awayScore": 4,
+                        "profileUrl": "/players/172404/eidur-aron-sigurbjornsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Eidur Aron Sigurbj\u00f6rnsson",
+                        "firstName": "Eidur Aron",
+                        "lastName": "Sigurbj\u00f6rnsson",
+                        "fullName": "Eidur Aron Sigurbj\u00f6rnsson",
+                        "playerId": 172404,
+                        "newScore": [
+                            5,
+                            4
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 5,
+                        "awayScore": 4,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Goal",
+                    "Half"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T19:15:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 216,
+                    "parentLeagueId": 216,
+                    "link": "/leagues/216/overview/1-deild",
+                    "leagueName": "1. Deild",
+                    "roundName": "13",
+                    "round": "13"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163250_xsmall.png",
+                        "linkToMatch": "/matches/njardvik-vs-ir-reykjavik/6gohils#5225776",
+                        "date": {
+                            "utcTime": "2026-06-05T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163250/overview/ir-reykjavik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-05T19:15:00.000Z",
+                            "homeTeam": "Njardvik",
+                            "homeTeamId": 4495,
+                            "homeScore": "5",
+                            "awayTeam": "IR Reykjavik",
+                            "awayTeamId": 163250,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "4495",
+                            "name": "Njardvik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "163250",
+                            "name": "IR Reykjavik",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4514_xsmall.png",
+                        "linkToMatch": "/matches/njardvik-vs-volsungur/o5zhn#5225786",
+                        "date": {
+                            "utcTime": "2026-06-13T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4514/overview/volsungur",
+                        "tooltipText": {
+                            "utcTime": "2026-06-13T14:00:00.000Z",
+                            "homeTeam": "V\u00f6lsungur",
+                            "homeTeamId": 4514,
+                            "homeScore": "2",
+                            "awayTeam": "Njardvik",
+                            "awayTeamId": 4495,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "4514",
+                            "name": "V\u00f6lsungur",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4495",
+                            "name": "Njardvik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6683_xsmall.png",
+                        "linkToMatch": "/matches/njardvik-vs-leiknir-reykjavik/117ale#5225790",
+                        "date": {
+                            "utcTime": "2026-06-19T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6683/overview/leiknir-reykjavik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-19T19:15:00.000Z",
+                            "homeTeam": "Njardvik",
+                            "homeTeamId": 4495,
+                            "homeScore": "1",
+                            "awayTeam": "Leiknir Reykjavik",
+                            "awayTeamId": 6683,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "4495",
+                            "name": "Njardvik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6683",
+                            "name": "Leiknir Reykjavik",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163251_xsmall.png",
+                        "linkToMatch": "/matches/njardvik-vs-afturelding/6gol41e#5225794",
+                        "date": {
+                            "utcTime": "2026-06-26T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163251/overview/afturelding",
+                        "tooltipText": {
+                            "utcTime": "2026-06-26T19:15:00.000Z",
+                            "homeTeam": "Afturelding",
+                            "homeTeamId": 163251,
+                            "homeScore": "2",
+                            "awayTeam": "Njardvik",
+                            "awayTeamId": 4495,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "163251",
+                            "name": "Afturelding",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4495",
+                            "name": "Njardvik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4661_xsmall.png",
+                        "linkToMatch": "/matches/njardvik-vs-throttur-reykjavik/oylun#5225803",
+                        "date": {
+                            "utcTime": "2026-07-03T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4661/overview/throttur-reykjavik",
+                        "tooltipText": {
+                            "utcTime": "2026-07-03T19:15:00.000Z",
+                            "homeTeam": "Njardvik",
+                            "homeTeamId": 4495,
+                            "homeScore": "1",
+                            "awayTeam": "Throttur Reykjavik",
+                            "awayTeamId": 4661,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "4495",
+                            "name": "Njardvik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4661_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-grindavik/1e01ei#5225774",
+                        "date": {
+                            "utcTime": "2026-06-01T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4661/overview/throttur-reykjavik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-01T19:15:00.000Z",
+                            "homeTeam": "Throttur Reykjavik",
+                            "homeTeamId": 4661,
+                            "homeScore": "2",
+                            "awayTeam": "Grindavik",
+                            "awayTeamId": 8298,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8298",
+                            "name": "Grindavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6434_xsmall.png",
+                        "linkToMatch": "/matches/fylkir-vs-grindavik/1sm7i0#5225782",
+                        "date": {
+                            "utcTime": "2026-06-17T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6434/overview/fylkir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T14:00:00.000Z",
+                            "homeTeam": "Grindavik",
+                            "homeTeamId": 8298,
+                            "homeScore": "0",
+                            "awayTeam": "Fylkir",
+                            "awayTeamId": 6434,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "8298",
+                            "name": "Grindavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "6434",
+                            "name": "Fylkir",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4516_xsmall.png",
+                        "linkToMatch": "/matches/hk-kopavogs-vs-grindavik/1cvzkj#5225789",
+                        "date": {
+                            "utcTime": "2026-06-21T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4516/overview/hk-kopavogs",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T19:15:00.000Z",
+                            "homeTeam": "HK Kopavogs",
+                            "homeTeamId": 4516,
+                            "homeScore": "2",
+                            "awayTeam": "Grindavik",
+                            "awayTeamId": 8298,
+                            "awayScore": "2"
+                        },
+                        "score": "2 - 2",
+                        "home": {
+                            "id": "4516",
+                            "name": "HK Kopavogs",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "8298",
+                            "name": "Grindavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/559291_xsmall.png",
+                        "linkToMatch": "/matches/grindavik-vs-aegir/21zy8gq1#5225796",
+                        "date": {
+                            "utcTime": "2026-06-26T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/559291/overview/aegir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-26T19:15:00.000Z",
+                            "homeTeam": "Grindavik",
+                            "homeTeamId": 8298,
+                            "homeScore": "0",
+                            "awayTeam": "\u00c6gir",
+                            "awayTeamId": 559291,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "8298",
+                            "name": "Grindavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "559291",
+                            "name": "\u00c6gir",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/750462_xsmall.png",
+                        "linkToMatch": "/matches/grindavik-vs-vestri/3o8no60u#5225804",
+                        "date": {
+                            "utcTime": "2026-07-04T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/750462/overview/vestri",
+                        "tooltipText": {
+                            "utcTime": "2026-07-04T14:00:00.000Z",
+                            "homeTeam": "Grindavik",
+                            "homeTeamId": 8298,
+                            "homeScore": "0",
+                            "awayTeam": "Vestri",
+                            "awayTeamId": 750462,
+                            "awayScore": "0"
+                        },
+                        "score": "0 - 0",
+                        "home": {
+                            "id": "8298",
+                            "name": "Grindavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "750462",
+                            "name": "Vestri",
+                            "isOurTeam": false
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5225809",
+                    "MatchId": 5225809,
+                    "HomeTeamId": 4495,
+                    "AwayTeamId": 8298,
+                    "HomeTeam": "Njardvik",
+                    "AwayTeam": "Grindavik",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} and {1} have drawn their last {2} matches against each other.",
+                            "TextTemplateId": "h2h_draw_streak_v2",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "2"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "Njardvik and Grindavik have drawn their last 2 matches against each other."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored in their last {1} home matches.",
+                            "TextTemplateId": "goalstreak_team_home",
+                            "StatValues": [
+                                "home_team",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Njardvik have scored in their last 4 home matches."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have an average of {2} goals in their last three matches and {1} have an average of {3}.",
+                            "TextTemplateId": "average_goals_last3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "0.67",
+                                "0.67"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "Njardvik have an average of 0.67 goals in their last three matches and Grindavik have an average of 0.67."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} haven't won a match in {1} attempts.",
+                            "TextTemplateId": "not_won_team",
+                            "StatValues": [
+                                "away_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_stat_down",
+                            "defaultText": "Grindavik haven't won a match in 7 attempts."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4495,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4495,
+                    "priority": 10,
+                    "defaultText": "Have kept the most clean sheets in the competition ({0})",
+                    "localizedTextId": "insights_clean_sheets",
+                    "statValues": [
+                        {
+                            "value": 6,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have kept the most clean sheets in the competition (6)",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4495,
+                    "priority": 9,
+                    "defaultText": "{0} haven't lost to {1} in their last {2} meetings ({3}W, {4}D).",
+                    "localizedTextId": "h2h_undefeated",
+                    "statValues": [
+                        {
+                            "value": 4495,
+                            "name": "Njardvik",
+                            "type": "team"
+                        },
+                        {
+                            "value": 8298,
+                            "name": "Grindavik",
+                            "type": "team"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 3,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Njardvik haven't lost to Grindavik in their last 5 meetings (2W, 3D).",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8298,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 2 goals in their last 5 matches",
+                    "color": "#002898"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8298,
+                    "priority": 9,
+                    "defaultText": "Haven't scored in their last {0} matches",
+                    "localizedTextId": "insights_goalless_team",
+                    "statValues": [
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't scored in their last 2 matches",
+                    "color": "#002898"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 8298,
+                    "priority": 8,
+                    "defaultText": "Haven't won a match in {0} attempts",
+                    "localizedTextId": "insights_not_won_team",
+                    "statValues": [
+                        {
+                            "value": 7,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't won a match in 7 attempts",
+                    "color": "#002898"
+                }
+            ],
+            "countryCode": "ISL",
+            "QAData": [
+                {
+                    "question": "Who won between Njardvik and Grindavik on Fri, 10 Jul 2026 19:15:00 GMT?",
+                    "answer": "Njardvik won 5\u20134 over Grindavik on Fri, 10 Jul 2026 19:15:00 GMT."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "216",
+            "url": "https://data.fotmob.com/tables.ext.216.fot.gz",
+            "teams": [
+                4495,
+                8298
+            ],
+            "tournamentNameForUrl": "1. Deild",
+            "parentLeagueId": 216,
+            "countryCode": "ISL"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                3,
+                2
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-05-01T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#5225739",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    },
+                    "status": {
+                        "utcTime": "2026-05-01T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2026-02-13T18:30:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#5093646",
+                    "league": {
+                        "name": "League Cup Grp. 3",
+                        "id": "10076",
+                        "pageUrl": "/leagues/10076/overview/league-cup-grp-3"
+                    },
+                    "home": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    },
+                    "status": {
+                        "utcTime": "2026-02-13T18:30:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-09-13T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#4711738",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    },
+                    "status": {
+                        "utcTime": "2025-09-13T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-07-03T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#4711670",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    },
+                    "status": {
+                        "utcTime": "2025-07-03T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 5",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-09-14T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#4389704",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    },
+                    "status": {
+                        "utcTime": "2024-09-14T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-07-04T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#4389650",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    },
+                    "status": {
+                        "utcTime": "2024-07-04T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "0 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-07-29T14:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#4084332",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    },
+                    "status": {
+                        "utcTime": "2023-07-29T14:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2023-05-22T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/njardvik-vs-grindavik/1cq83j#4084240",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Grindavik",
+                        "id": "8298"
+                    },
+                    "status": {
+                        "utcTime": "2023-05-22T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Njardvik",
+                        "id": "4495"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "njardvik-vs-grindavik",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5225809",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Njardvik",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4495.png",
+                "url": "https://www.fotmob.com/teams/4495/overview/njardvik",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Grindavik",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8298.png",
+                "url": "https://www.fotmob.com/teams/8298/overview/grindavik",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "Njardvik vs Grindavik",
+            "description": "Follow Njardvik vs Grindavik live on fotmob.com",
+            "startDate": "2026-07-10T19:15:00.000Z",
+            "endDate": "2026-07-10T21:15:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4495.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/8298.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5225809",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T19:15:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "Njardvik",
+                    "url": "https://www.fotmob.com/teams/4495/overview/njardvik"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Grindavik",
+                    "url": "https://www.fotmob.com/teams/8298/overview/grindavik"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Njardvik - Grindavik",
+                        "item": "https://www.fotmob.com/match/5225809"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Grindavik",
+                        "item": "https://www.fotmob.com/teams/8298/overview/grindavik"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Njardvik - Grindavik",
+                        "item": "https://www.fotmob.com/match/5225809"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Njardvik",
+                        "item": "https://www.fotmob.com/teams/4495/overview/njardvik"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "Njardvik - Grindavik",
+                        "item": "https://www.fotmob.com/match/5225809"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between Njardvik and Grindavik on Fri, 10 Jul 2026 19:15:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "Njardvik won 5\u20134 over Grindavik on Fri, 10 Jul 2026 19:15:00 GMT."
+                    }
+                }
+            ]
+        }
+    }
+}

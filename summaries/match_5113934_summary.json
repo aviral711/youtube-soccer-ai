@@ -1,0 +1,155 @@
+{
+  "match": {
+    "match_id": "5113934",
+    "home_team": "Villa Dalmine",
+    "away_team": "Dock Sud",
+    "home_score": 2,
+    "away_score": 1,
+    "country_code": "ARG",
+    "country_name": "Argentina",
+    "competition": "Primera B Metropolitana",
+    "match_date": "2026-07-10 18:00:00",
+    "winner": "Villa Dalmine",
+    "created_at": "2026-07-10 17:51:01.437230"
+  },
+  "final_score": {
+    "home": 2,
+    "away": 1,
+    "display": "2-1",
+    "winner": "Villa Dalmine",
+    "outcome": "home_win"
+  },
+  "stats": [],
+  "timeline": [
+    {
+      "clock": "2'",
+      "minute": 2,
+      "minute_added": null,
+      "type": "Goal",
+      "team_side": "HOME",
+      "team": "Villa Dalmine",
+      "player": "Cristian Torres",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-0",
+      "description": "2' Goal — Cristian Torres (Villa Dalmine). 1-0"
+    },
+    {
+      "clock": "45+2'",
+      "minute": 45,
+      "minute_added": 2,
+      "type": "Goal",
+      "team_side": "AWAY",
+      "team": "Dock Sud",
+      "player": "Iván Alvarez",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "1-1",
+      "description": "45+2' Goal — Iván Alvarez (Dock Sud). 1-1"
+    },
+    {
+      "clock": "62'",
+      "minute": 62,
+      "minute_added": null,
+      "type": "Goal",
+      "team_side": "HOME",
+      "team": "Villa Dalmine",
+      "player": "Santiago Prim",
+      "assist": null,
+      "card_type": null,
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "2-1",
+      "description": "62' Goal — Santiago Prim (Villa Dalmine). 2-1"
+    },
+    {
+      "clock": "84'",
+      "minute": 84,
+      "minute_added": null,
+      "type": "Card",
+      "team_side": "AWAY",
+      "team": "Dock Sud",
+      "player": "<TBD>",
+      "assist": null,
+      "card_type": "Red",
+      "player_in": null,
+      "player_out": null,
+      "is_own_goal": false,
+      "situation": null,
+      "expected_goals": null,
+      "score_after": "2-1",
+      "description": "84' Red card — <TBD> (Dock Sud)"
+    }
+  ],
+  "storyline": {
+    "outcome": "home_win",
+    "winner": "Villa Dalmine",
+    "final_score": "2-1",
+    "opening_goal": {
+      "clock": "2'",
+      "type": "Goal",
+      "team": "Villa Dalmine",
+      "player": "Cristian Torres",
+      "card_type": null,
+      "score_after": "1-0",
+      "description": "2' Goal — Cristian Torres (Villa Dalmine). 1-0"
+    },
+    "goals": [
+      {
+        "clock": "2'",
+        "type": "Goal",
+        "team": "Villa Dalmine",
+        "player": "Cristian Torres",
+        "card_type": null,
+        "score_after": "1-0",
+        "description": "2' Goal — Cristian Torres (Villa Dalmine). 1-0"
+      },
+      {
+        "clock": "45+2'",
+        "type": "Goal",
+        "team": "Dock Sud",
+        "player": "Iván Alvarez",
+        "card_type": null,
+        "score_after": "1-1",
+        "description": "45+2' Goal — Iván Alvarez (Dock Sud). 1-1"
+      },
+      {
+        "clock": "62'",
+        "type": "Goal",
+        "team": "Villa Dalmine",
+        "player": "Santiago Prim",
+        "card_type": null,
+        "score_after": "2-1",
+        "description": "62' Goal — Santiago Prim (Villa Dalmine). 2-1"
+      }
+    ],
+    "lead_changes": 0,
+    "red_cards": [
+      {
+        "clock": "84'",
+        "type": "Card",
+        "team": "Dock Sud",
+        "player": "<TBD>",
+        "card_type": "Red",
+        "score_after": "2-1",
+        "description": "84' Red card — <TBD> (Dock Sud)"
+      }
+    ],
+    "tags": [
+      "red_card"
+    ]
+  }
+}

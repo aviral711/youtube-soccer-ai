@@ -1,0 +1,1520 @@
+{
+    "general": {
+        "matchId": "5225807",
+        "matchName": "IR Reykjavik-vs-Throttur Reykjavik_Fri, Jul 10, 2026, 19:15 UTC",
+        "matchRound": "13",
+        "teamColors": {
+            "darkMode": {
+                "home": "#DDDDDD",
+                "away": "#333333"
+            },
+            "lightMode": {
+                "home": "#333333",
+                "away": "#333333"
+            },
+            "fontDarkMode": {
+                "home": "rgba(29, 29, 29, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            },
+            "fontLightMode": {
+                "home": "rgba(255, 255, 255, 1.0)",
+                "away": "rgba(255, 255, 255, 1.0)"
+            }
+        },
+        "leagueId": 216,
+        "leagueName": "1. Deild",
+        "leagueRoundName": "13",
+        "parentLeagueId": 216,
+        "countryCode": "ISL",
+        "homeTeam": {
+            "name": "IR Reykjavik",
+            "id": 163250
+        },
+        "awayTeam": {
+            "name": "Throttur Reykjavik",
+            "id": 4661
+        },
+        "coverageLevel": "lower",
+        "matchTimeUTC": "Fri, Jul 10, 2026, 19:15 UTC",
+        "matchTimeUTCDate": "2026-07-10T19:15:00.000Z",
+        "started": true,
+        "finished": true,
+        "gender": "male"
+    },
+    "header": {
+        "teams": [
+            {
+                "name": "IR Reykjavik",
+                "id": 163250,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163250_small.png",
+                "pageUrl": "/teams/163250/overview/ir-reykjavik"
+            },
+            {
+                "name": "Throttur Reykjavik",
+                "id": 4661,
+                "score": 1,
+                "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4661_small.png",
+                "pageUrl": "/teams/4661/overview/throttur-reykjavik"
+            }
+        ],
+        "status": {
+            "utcTime": "2026-07-10T19:15:00.000Z",
+            "numberOfHomeRedCards": 1,
+            "numberOfAwayRedCards": 0,
+            "halfs": {
+                "firstHalfStarted": "10.07.2026 21:15:55",
+                "firstHalfEnded": "10.07.2026 22:02:33",
+                "secondHalfStarted": "10.07.2026 22:18:13",
+                "secondHalfEnded": "10.07.2026 23:05:22",
+                "firstExtraHalfStarted": "",
+                "secondExtraHalfStarted": "",
+                "gameEnded": "10.07.2026 23:05:22"
+            },
+            "finished": true,
+            "started": true,
+            "cancelled": false,
+            "awarded": false,
+            "scoreStr": "1 - 1",
+            "reason": {
+                "short": "FT",
+                "shortKey": "fulltime_short",
+                "long": "Full-Time",
+                "longKey": "finished"
+            },
+            "whoLostOnPenalties": null,
+            "whoLostOnAggregated": ""
+        },
+        "events": {
+            "homeTeamGoals": {
+                "Sigurhjartarson": [
+                    {
+                        "reactKey": "1422712978Goal1779115undefinedtrue",
+                        "timeStr": 78,
+                        "type": "Goal",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 14227129,
+                        "player": {
+                            "id": 1779115,
+                            "name": "Emil Sigurhjartarson",
+                            "profileUrl": "/players/1779115/emil-sigurhjartarson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1779115/emil-sigurhjartarson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Emil Sigurhjartarson",
+                        "firstName": "Emil",
+                        "lastName": "Sigurhjartarson",
+                        "fullName": "Emil Sigurhjartarson",
+                        "playerId": 1779115,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "awayTeamGoals": {
+                "Bl\u00f6ndal": [
+                    {
+                        "reactKey": "1422705849Goal1285295undefinedfalse",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14227058,
+                        "player": {
+                            "id": 1285295,
+                            "name": "Eirikur Bl\u00f6ndal",
+                            "profileUrl": "/players/1285295/eirikur-blondal"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1285295/eirikur-blondal",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Eirikur Bl\u00f6ndal",
+                        "firstName": "Eirikur",
+                        "lastName": "Bl\u00f6ndal",
+                        "fullName": "Eirikur Bl\u00f6ndal",
+                        "playerId": 1285295,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    }
+                ]
+            },
+            "homeTeamRedCards": {
+                "Sigurdsson": [
+                    {
+                        "reactKey": "1422698921Card1780713undefinedtrue",
+                        "timeStr": 21,
+                        "type": "Card",
+                        "time": 21,
+                        "overloadTime": null,
+                        "eventId": 14226989,
+                        "player": {
+                            "id": 1780713,
+                            "name": "Jon Arnar Sigurdsson",
+                            "profileUrl": "/players/1780713/jon-arnar-sigurdsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1780713/jon-arnar-sigurdsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Jon Arnar Sigurdsson",
+                        "firstName": "Jon Arnar",
+                        "lastName": "Sigurdsson",
+                        "fullName": "Jon Arnar Sigurdsson",
+                        "playerId": 1780713,
+                        "card": "Red",
+                        "cardDescription": null
+                    }
+                ]
+            },
+            "awayTeamRedCards": {}
+        }
+    },
+    "nav": [
+        "matchfacts",
+        "table",
+        "head to head"
+    ],
+    "ongoing": false,
+    "hasPendingVAR": false,
+    "content": {
+        "matchFacts": {
+            "matchId": 5225807,
+            "highlights": null,
+            "playerOfTheMatch": {},
+            "events": {
+                "ongoing": false,
+                "events": [
+                    {
+                        "reactKey": "1422698921Card1780713undefinedtrue",
+                        "timeStr": 21,
+                        "type": "Card",
+                        "time": 21,
+                        "overloadTime": null,
+                        "eventId": 14226989,
+                        "player": {
+                            "id": 1780713,
+                            "name": "Jon Arnar Sigurdsson",
+                            "profileUrl": "/players/1780713/jon-arnar-sigurdsson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1780713/jon-arnar-sigurdsson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "nameStr": "Jon Arnar Sigurdsson",
+                        "firstName": "Jon Arnar",
+                        "lastName": "Sigurdsson",
+                        "fullName": "Jon Arnar Sigurdsson",
+                        "playerId": 1780713,
+                        "card": "Red",
+                        "cardDescription": null
+                    },
+                    {
+                        "reactKey": "undefined45HalfNaNundefinedundefined",
+                        "timeStr": 45,
+                        "type": "Half",
+                        "time": 45,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "halfStrShort": "HT",
+                        "halfStrKey": "halftime_short"
+                    },
+                    {
+                        "reactKey": "1422705849Goal1285295undefinedfalse",
+                        "timeStr": 49,
+                        "type": "Goal",
+                        "time": 49,
+                        "overloadTime": null,
+                        "eventId": 14227058,
+                        "player": {
+                            "id": 1285295,
+                            "name": "Eirikur Bl\u00f6ndal",
+                            "profileUrl": "/players/1285295/eirikur-blondal"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "profileUrl": "/players/1285295/eirikur-blondal",
+                        "overloadTimeStr": false,
+                        "isHome": false,
+                        "ownGoal": null,
+                        "goalDescription": null,
+                        "goalDescriptionKey": null,
+                        "suffix": null,
+                        "suffixKey": null,
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Eirikur Bl\u00f6ndal",
+                        "firstName": "Eirikur",
+                        "lastName": "Bl\u00f6ndal",
+                        "fullName": "Eirikur Bl\u00f6ndal",
+                        "playerId": 1285295,
+                        "newScore": [
+                            0,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "1422712978Goal1779115undefinedtrue",
+                        "timeStr": 78,
+                        "type": "Goal",
+                        "time": 78,
+                        "overloadTime": null,
+                        "eventId": 14227129,
+                        "player": {
+                            "id": 1779115,
+                            "name": "Emil Sigurhjartarson",
+                            "profileUrl": "/players/1779115/emil-sigurhjartarson"
+                        },
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "profileUrl": "/players/1779115/emil-sigurhjartarson",
+                        "overloadTimeStr": false,
+                        "isHome": true,
+                        "ownGoal": null,
+                        "goalDescription": "Penalty",
+                        "goalDescriptionKey": "penalty",
+                        "suffix": "Pen",
+                        "suffixKey": "penalties_short",
+                        "isPenaltyShootoutEvent": false,
+                        "nameStr": "Emil Sigurhjartarson",
+                        "firstName": "Emil",
+                        "lastName": "Sigurhjartarson",
+                        "fullName": "Emil Sigurhjartarson",
+                        "playerId": 1779115,
+                        "newScore": [
+                            1,
+                            1
+                        ],
+                        "penShootoutScore": null,
+                        "shotmapEvent": null,
+                        "assistStr": null,
+                        "assistProfileUrl": null
+                    },
+                    {
+                        "reactKey": "undefined90HalfNaNundefinedundefined",
+                        "timeStr": 90,
+                        "type": "Half",
+                        "time": 90,
+                        "overloadTime": null,
+                        "player": {
+                            "id": null,
+                            "profileUrl": ""
+                        },
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "halfStrShort": "FT",
+                        "halfStrKey": "fulltime_short"
+                    }
+                ],
+                "eventTypes": [
+                    "Card",
+                    "Half",
+                    "Goal",
+                    "Red"
+                ],
+                "penaltyShootoutEvents": null
+            },
+            "infoBox": {
+                "legInfo": null,
+                "Match Date": {
+                    "utcTime": "2026-07-10T19:15:00.000Z",
+                    "isDateCorrect": true
+                },
+                "Tournament": {
+                    "id": 216,
+                    "parentLeagueId": 216,
+                    "link": "/leagues/216/overview/1-deild",
+                    "leagueName": "1. Deild",
+                    "roundName": "13",
+                    "round": "13"
+                },
+                "Stadium": null,
+                "Referee": {
+                    "text": "",
+                    "countryCode": "",
+                    "country": ""
+                },
+                "Attendance": null
+            },
+            "teamForm": [
+                [
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4495_xsmall.png",
+                        "linkToMatch": "/matches/njardvik-vs-ir-reykjavik/6gohils#5225776",
+                        "date": {
+                            "utcTime": "2026-06-05T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4495/overview/njardvik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-05T19:15:00.000Z",
+                            "homeTeam": "Njardvik",
+                            "homeTeamId": 4495,
+                            "homeScore": "5",
+                            "awayTeam": "IR Reykjavik",
+                            "awayTeamId": 163250,
+                            "awayScore": "1"
+                        },
+                        "score": "5 - 1",
+                        "home": {
+                            "id": "4495",
+                            "name": "Njardvik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "163250",
+                            "name": "IR Reykjavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/175111_xsmall.png",
+                        "linkToMatch": "/matches/ir-reykjavik-vs-grotta/qapuqws#5225783",
+                        "date": {
+                            "utcTime": "2026-06-17T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/175111/overview/grotta",
+                        "tooltipText": {
+                            "utcTime": "2026-06-17T14:00:00.000Z",
+                            "homeTeam": "IR Reykjavik",
+                            "homeTeamId": 163250,
+                            "homeScore": "2",
+                            "awayTeam": "Grotta",
+                            "awayTeamId": 175111,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "163250",
+                            "name": "IR Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "175111",
+                            "name": "Grotta",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4514_xsmall.png",
+                        "linkToMatch": "/matches/volsungur-vs-ir-reykjavik/6gqdtzo#5225791",
+                        "date": {
+                            "utcTime": "2026-06-21T16:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4514/overview/volsungur",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T16:00:00.000Z",
+                            "homeTeam": "IR Reykjavik",
+                            "homeTeamId": 163250,
+                            "homeScore": "4",
+                            "awayTeam": "V\u00f6lsungur",
+                            "awayTeamId": 4514,
+                            "awayScore": "4"
+                        },
+                        "score": "4 - 4",
+                        "home": {
+                            "id": "163250",
+                            "name": "IR Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4514",
+                            "name": "V\u00f6lsungur",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6683_xsmall.png",
+                        "linkToMatch": "/matches/leiknir-reykjavik-vs-ir-reykjavik/6msfj86#5225797",
+                        "date": {
+                            "utcTime": "2026-06-26T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6683/overview/leiknir-reykjavik",
+                        "tooltipText": {
+                            "utcTime": "2026-06-26T19:15:00.000Z",
+                            "homeTeam": "Leiknir Reykjavik",
+                            "homeTeamId": 6683,
+                            "homeScore": "2",
+                            "awayTeam": "IR Reykjavik",
+                            "awayTeamId": 163250,
+                            "awayScore": "1"
+                        },
+                        "score": "2 - 1",
+                        "home": {
+                            "id": "6683",
+                            "name": "Leiknir Reykjavik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "163250",
+                            "name": "IR Reykjavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/163251_xsmall.png",
+                        "linkToMatch": "/matches/ir-reykjavik-vs-afturelding/ohii34i#5225802",
+                        "date": {
+                            "utcTime": "2026-07-03T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/163251/overview/afturelding",
+                        "tooltipText": {
+                            "utcTime": "2026-07-03T19:15:00.000Z",
+                            "homeTeam": "IR Reykjavik",
+                            "homeTeamId": 163250,
+                            "homeScore": "0",
+                            "awayTeam": "Afturelding",
+                            "awayTeamId": 163251,
+                            "awayScore": "1"
+                        },
+                        "score": "0 - 1",
+                        "home": {
+                            "id": "163250",
+                            "name": "IR Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "163251",
+                            "name": "Afturelding",
+                            "isOurTeam": false
+                        }
+                    }
+                ],
+                [
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/6434_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-fylkir/10nh5i#5225778",
+                        "date": {
+                            "utcTime": "2026-06-06T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/6434/overview/fylkir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-06T14:00:00.000Z",
+                            "homeTeam": "Fylkir",
+                            "homeTeamId": 6434,
+                            "homeScore": "1",
+                            "awayTeam": "Throttur Reykjavik",
+                            "awayTeamId": 4661,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "6434",
+                            "name": "Fylkir",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4516_xsmall.png",
+                        "linkToMatch": "/matches/hk-kopavogs-vs-throttur-reykjavik/p2qe2#5225784",
+                        "date": {
+                            "utcTime": "2026-06-12T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4516/overview/hk-kopavogs",
+                        "tooltipText": {
+                            "utcTime": "2026-06-12T19:15:00.000Z",
+                            "homeTeam": "Throttur Reykjavik",
+                            "homeTeamId": 4661,
+                            "homeScore": "2",
+                            "awayTeam": "HK Kopavogs",
+                            "awayTeamId": 4516,
+                            "awayScore": "0"
+                        },
+                        "score": "2 - 0",
+                        "home": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "4516",
+                            "name": "HK Kopavogs",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": 1,
+                        "resultString": "W",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/559291_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-aegir/211xgfcj#5225793",
+                        "date": {
+                            "utcTime": "2026-06-21T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/559291/overview/aegir",
+                        "tooltipText": {
+                            "utcTime": "2026-06-21T19:15:00.000Z",
+                            "homeTeam": "\u00c6gir",
+                            "homeTeamId": 559291,
+                            "homeScore": "1",
+                            "awayTeam": "Throttur Reykjavik",
+                            "awayTeamId": 4661,
+                            "awayScore": "3"
+                        },
+                        "score": "1 - 3",
+                        "home": {
+                            "id": "559291",
+                            "name": "\u00c6gir",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        }
+                    },
+                    {
+                        "result": 0,
+                        "resultString": "D",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/750462_xsmall.png",
+                        "linkToMatch": "/matches/throttur-reykjavik-vs-vestri/3mz51rsc#5225798",
+                        "date": {
+                            "utcTime": "2026-06-27T14:00:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/750462/overview/vestri",
+                        "tooltipText": {
+                            "utcTime": "2026-06-27T14:00:00.000Z",
+                            "homeTeam": "Throttur Reykjavik",
+                            "homeTeamId": 4661,
+                            "homeScore": "1",
+                            "awayTeam": "Vestri",
+                            "awayTeamId": 750462,
+                            "awayScore": "1"
+                        },
+                        "score": "1 - 1",
+                        "home": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        },
+                        "away": {
+                            "id": "750462",
+                            "name": "Vestri",
+                            "isOurTeam": false
+                        }
+                    },
+                    {
+                        "result": -1,
+                        "resultString": "L",
+                        "imageUrl": "https://images.fotmob.com/image_resources/logo/teamlogo/4495_xsmall.png",
+                        "linkToMatch": "/matches/njardvik-vs-throttur-reykjavik/oylun#5225803",
+                        "date": {
+                            "utcTime": "2026-07-03T19:15:00.000Z"
+                        },
+                        "teamPageUrl": "/teams/4495/overview/njardvik",
+                        "tooltipText": {
+                            "utcTime": "2026-07-03T19:15:00.000Z",
+                            "homeTeam": "Njardvik",
+                            "homeTeamId": 4495,
+                            "homeScore": "1",
+                            "awayTeam": "Throttur Reykjavik",
+                            "awayTeamId": 4661,
+                            "awayScore": "0"
+                        },
+                        "score": "1 - 0",
+                        "home": {
+                            "id": "4495",
+                            "name": "Njardvik",
+                            "isOurTeam": false
+                        },
+                        "away": {
+                            "id": "4661",
+                            "name": "Throttur Reykjavik",
+                            "isOurTeam": true
+                        }
+                    }
+                ]
+            ],
+            "poll": {
+                "oddspoll": {
+                    "PollName": "oddspoll-match-5225807",
+                    "MatchId": 5225807,
+                    "HomeTeamId": 163250,
+                    "AwayTeamId": 4661,
+                    "HomeTeam": "IR Reykjavik",
+                    "AwayTeam": "Throttur Reykjavik",
+                    "Facts": [
+                        {
+                            "OddsType": "1x2",
+                            "DefaultLabel": "Who will win?",
+                            "TextLabelId": "who_will_win",
+                            "DefaultTemplate": "{0} have {1}W, {2}D, {3}L in five matches while {4} have {5}W, {6}D, {7}L.",
+                            "TextTemplateId": "team_form_both",
+                            "StatValues": [
+                                "home_team",
+                                "1",
+                                "1",
+                                "3",
+                                "away_team",
+                                "3",
+                                "1",
+                                "1"
+                            ],
+                            "DefaultLabels": [
+                                "1",
+                                "x",
+                                "2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1",
+                                "label_x",
+                                "label_2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "IR Reykjavik have 1W, 1D, 3L in five matches while Throttur Reykjavik have 3W, 1D, 1L."
+                        },
+                        {
+                            "OddsType": "bts",
+                            "DefaultLabel": "Will both teams score?",
+                            "TextLabelId": "both_score",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "5",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "IR Reykjavik have scored 5 goals in their last 3 matches, while Throttur Reykjavik have scored 4."
+                        },
+                        {
+                            "OddsType": "ou",
+                            "DefaultLabel": "Will there be more than 2.5 goals?",
+                            "TextLabelId": "over_under",
+                            "DefaultTemplate": "{0} have scored {3} goals in their last {2} matches, while {1} have scored {4}.",
+                            "TextTemplateId": "goals_total_last_3_both",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "3",
+                                "5",
+                                "4"
+                            ],
+                            "DefaultLabels": [
+                                "yes",
+                                "no"
+                            ],
+                            "LabelTemplates": [
+                                "label_yes",
+                                "label_no"
+                            ],
+                            "Icon": "poll_goal",
+                            "defaultText": "IR Reykjavik have scored 5 goals in their last 3 matches, while Throttur Reykjavik have scored 4."
+                        },
+                        {
+                            "OddsType": "dc",
+                            "DefaultLabel": "Double chance",
+                            "TextLabelId": "double_chance",
+                            "DefaultTemplate": "{0} and {1} have not drawn any of their last {2} matches against each other.",
+                            "TextTemplateId": "h2h_no_draws_v2",
+                            "StatValues": [
+                                "home_team",
+                                "away_team",
+                                "7"
+                            ],
+                            "DefaultLabels": [
+                                "1x",
+                                "12",
+                                "x2"
+                            ],
+                            "LabelTemplates": [
+                                "label_1x",
+                                "label_12",
+                                "label_x2"
+                            ],
+                            "Icon": "poll_teams",
+                            "defaultText": "IR Reykjavik and Throttur Reykjavik have not drawn any of their last 7 matches against each other."
+                        }
+                    ]
+                },
+                "renderToTop": false
+            },
+            "topPlayers": {
+                "homeTopPlayers": [],
+                "awayTopPlayers": []
+            },
+            "insights": [
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 163250,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 8,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 8 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 163250,
+                    "priority": 8,
+                    "defaultText": "Haven't kept a clean sheet in {0} matches",
+                    "localizedTextId": "insights_not_clean_sheet",
+                    "statValues": [
+                        {
+                            "value": 24,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Haven't kept a clean sheet in 24 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4661,
+                    "priority": 1338,
+                    "defaultText": "Have scored {0} goals in their last {1} matches",
+                    "localizedTextId": "insights_goals_team",
+                    "statValues": [
+                        {
+                            "value": 9,
+                            "name": null,
+                            "type": "integer"
+                        },
+                        {
+                            "value": 5,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Have scored 9 goals in their last 5 matches",
+                    "color": "#333333"
+                },
+                {
+                    "type": "team",
+                    "playerId": null,
+                    "teamId": 4661,
+                    "priority": 8,
+                    "defaultText": "{0} have won the previous {2} matches against {1}.",
+                    "localizedTextId": "h2h_winstreak",
+                    "statValues": [
+                        {
+                            "value": 4661,
+                            "name": "Throttur Reykjavik",
+                            "type": "team"
+                        },
+                        {
+                            "value": 163250,
+                            "name": "IR Reykjavik",
+                            "type": "team"
+                        },
+                        {
+                            "value": 2,
+                            "name": null,
+                            "type": "integer"
+                        }
+                    ],
+                    "text": "Throttur Reykjavik have won the previous 2 matches against IR Reykjavik.",
+                    "color": "#333333"
+                }
+            ],
+            "countryCode": "ISL",
+            "QAData": [
+                {
+                    "question": "Who won between IR Reykjavik and Throttur Reykjavik on Fri, 10 Jul 2026 19:15:00 GMT?",
+                    "answer": "IR Reykjavik vs Throttur Reykjavik on Fri, 10 Jul 2026 19:15:00 GMT ended in a 1\u20131 tie."
+                }
+            ]
+        },
+        "liveticker": false,
+        "superlive": {
+            "superLiveUrl": null,
+            "showSuperLive": false
+        },
+        "buzz": null,
+        "stats": null,
+        "playerStats": null,
+        "shotmap": {
+            "shots": [],
+            "Periods": {
+                "All": []
+            }
+        },
+        "lineup": null,
+        "hasPlayoff": false,
+        "table": {
+            "leagueId": "216",
+            "url": "https://data.fotmob.com/tables.ext.216.fot.gz",
+            "teams": [
+                163250,
+                4661
+            ],
+            "tournamentNameForUrl": "1. Deild",
+            "parentLeagueId": 216,
+            "countryCode": "ISL"
+        },
+        "h2h": {
+            "summary": [
+                3,
+                0,
+                9
+            ],
+            "matches": [
+                {
+                    "time": {
+                        "utcTime": "2026-05-01T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#5225743",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2026-05-01T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-08-13T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#4711710",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2025-08-13T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "3 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2025-06-04T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#4711640",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    },
+                    "status": {
+                        "utcTime": "2025-06-04T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-08-09T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#4389712",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    },
+                    "status": {
+                        "utcTime": "2024-08-09T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-05-31T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#4389600",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2024-05-31T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "5 - 0",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2024-02-11T20:00:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#4374712",
+                    "league": {
+                        "name": "League Cup Grp. 2",
+                        "id": "10076",
+                        "pageUrl": "/leagues/10076/overview/league-cup-grp-2"
+                    },
+                    "home": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    },
+                    "status": {
+                        "utcTime": "2024-02-11T20:00:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "4 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-07-27T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#3795575",
+                    "league": {
+                        "name": "2. Deild",
+                        "id": "10226",
+                        "pageUrl": "/leagues/10226/overview/2-deild"
+                    },
+                    "home": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    },
+                    "status": {
+                        "utcTime": "2022-07-27T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2022-05-20T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#3795512",
+                    "league": {
+                        "name": "2. Deild",
+                        "id": "10226",
+                        "pageUrl": "/leagues/10226/overview/2-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2022-05-20T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-08-01T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#2691503",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2018-08-01T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "6 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2018-05-18T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#2691468",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    },
+                    "status": {
+                        "utcTime": "2018-05-18T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 3",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-07-21T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#2449320",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    },
+                    "status": {
+                        "utcTime": "2017-07-21T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "2 - 1",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    }
+                },
+                {
+                    "time": {
+                        "utcTime": "2017-05-12T19:15:00.000Z"
+                    },
+                    "matchUrl": "/matches/throttur-reykjavik-vs-ir-reykjavik/6h52na9#2449251",
+                    "league": {
+                        "name": "1. Deild",
+                        "id": "216",
+                        "pageUrl": "/leagues/216/overview/1-deild"
+                    },
+                    "home": {
+                        "name": "IR Reykjavik",
+                        "id": "163250"
+                    },
+                    "status": {
+                        "utcTime": "2017-05-12T19:15:00.000Z",
+                        "finished": true,
+                        "started": true,
+                        "cancelled": false,
+                        "awarded": false,
+                        "scoreStr": "1 - 2",
+                        "reason": {
+                            "short": "FT",
+                            "shortKey": "fulltime_short",
+                            "long": "Full-Time",
+                            "longKey": "finished"
+                        }
+                    },
+                    "finished": false,
+                    "away": {
+                        "name": "Throttur Reykjavik",
+                        "id": "4661"
+                    }
+                }
+            ]
+        },
+        "momentum": false
+    },
+    "seo": {
+        "path": "ir-reykjavik-vs-throttur-reykjavik",
+        "eventJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "SportsEvent",
+            "@id": "https://www.fotmob.com/match/5225807",
+            "sport": "Football/Soccer",
+            "homeTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "IR Reykjavik",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/163250.png",
+                "url": "https://www.fotmob.com/teams/163250/overview/ir-reykjavik",
+                "location": null,
+                "memberOf": null
+            },
+            "awayTeam": {
+                "@context": "https://schema.org",
+                "@type": "SportsTeam",
+                "name": "Throttur Reykjavik",
+                "sport": "Football/Soccer",
+                "logo": "https://images.fotmob.com/image_resources/logo/teamlogo/4661.png",
+                "url": "https://www.fotmob.com/teams/4661/overview/throttur-reykjavik",
+                "location": null,
+                "memberOf": null
+            },
+            "name": "IR Reykjavik vs Throttur Reykjavik",
+            "description": "Follow IR Reykjavik vs Throttur Reykjavik live on fotmob.com",
+            "startDate": "2026-07-10T19:15:00.000Z",
+            "endDate": "2026-07-10T21:15:00.000Z",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "location": {
+                "@type": "Place",
+                "name": "Unknown stadium name",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressCountry": "Unknown country",
+                    "addressLocality": "Unknown city"
+                }
+            },
+            "image": [
+                "https://images.fotmob.com/image_resources/logo/teamlogo/163250.png",
+                "https://images.fotmob.com/image_resources/logo/teamlogo/4661.png"
+            ],
+            "organizer": {
+                "@type": "Organization",
+                "name": "FotMob",
+                "url": "https://www.fotmob.com",
+                "logo": "https://www.fotmob.com/img/fotmob_icon_2017.png"
+            },
+            "offers": {
+                "@type": "Offer",
+                "url": "https://www.fotmob.com/match/5225807",
+                "availability": "https://schema.org/InStock",
+                "price": "0",
+                "priceCurrency": "USD",
+                "validFrom": "2026-07-10T19:15:00.000Z"
+            },
+            "performer": [
+                {
+                    "@type": "SportsTeam",
+                    "name": "IR Reykjavik",
+                    "url": "https://www.fotmob.com/teams/163250/overview/ir-reykjavik"
+                },
+                {
+                    "@type": "SportsTeam",
+                    "name": "Throttur Reykjavik",
+                    "url": "https://www.fotmob.com/teams/4661/overview/throttur-reykjavik"
+                }
+            ]
+        },
+        "breadcrumbJSONLD": [
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "IR Reykjavik - Throttur Reykjavik",
+                        "item": "https://www.fotmob.com/match/5225807"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "Throttur Reykjavik",
+                        "item": "https://www.fotmob.com/teams/4661/overview/throttur-reykjavik"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "IR Reykjavik - Throttur Reykjavik",
+                        "item": "https://www.fotmob.com/match/5225807"
+                    }
+                ]
+            },
+            {
+                "@context": "https://schema.org",
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.fotmob.com"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "name": "1. Deild",
+                        "item": "https://www.fotmob.com/leagues/216/overview/1-deild"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 3,
+                        "name": "IR Reykjavik",
+                        "item": "https://www.fotmob.com/teams/163250/overview/ir-reykjavik"
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 4,
+                        "name": "IR Reykjavik - Throttur Reykjavik",
+                        "item": "https://www.fotmob.com/match/5225807"
+                    }
+                ]
+            }
+        ],
+        "faqJSONLD": {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {
+                    "@type": "Question",
+                    "name": "Who won between IR Reykjavik and Throttur Reykjavik on Fri, 10 Jul 2026 19:15:00 GMT?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "IR Reykjavik vs Throttur Reykjavik on Fri, 10 Jul 2026 19:15:00 GMT ended in a 1\u20131 tie."
+                    }
+                }
+            ]
+        }
+    }
+}
