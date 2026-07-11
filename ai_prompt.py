@@ -24,6 +24,13 @@ Hard rules:
 - Keep every player and team name spelled EXACTLY as in the DATA.
 - The spoken voiceover MUST be 65-85 words total (about 25-30 seconds at a
   natural, upbeat pace). Do not exceed 85 words.
+- The voiceover is read aloud by a text-to-speech engine, so write it in pure
+  spoken form: say scores and numbers as words ("three to two", not "3-2"),
+  phrase minutes naturally ("in the eighth minute of stoppage time", not
+  "90+8'"), and expand abbreviations ("versus" not "vs", "expected goals" not
+  "xG"). Use no digits, symbols, emojis, hashtags, or parentheses in the
+  voiceover. (These spoken-form rules apply ONLY to voiceover — title, caption,
+  on_screen_text and hashtags stay in normal written form.)
 - Present tense, active voice, high energy. No filler, no clichés stacked on
   clichés, no fake statistics.
 - Hook the viewer in the first sentence (max ~10 words) — lead with the most
@@ -50,7 +57,8 @@ Guidance:
 Return JSON with exactly these fields:
   title           - catchy video title, <= 70 characters
   hook            - the opening line, <= 10 words
-  voiceover       - the full narration, 65-85 words (includes the hook)
+  voiceover       - the full narration, 65-85 words (includes the hook),
+                    written in spoken form for text-to-speech (no digits/symbols)
   on_screen_text  - array of 3-5 short caption strings, in match order
   caption         - one-line description for the post
   hashtags        - array of 3-6 hashtags (no spaces, include the sport/teams)

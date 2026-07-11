@@ -14,6 +14,7 @@
 # Stages (each isolated so one failing doesn't abort the whole run):
 #   1. ingest+summaries : daily_match_loader — FotMob -> Postgres -> summaries/
 #   2. scripts          : generate_script    — summaries/ -> Gemini -> scripts/
+#   3. voiceover        : generate_voiceover — scripts/ -> Gemini TTS -> audio/
 #
 # Every stage is idempotent, so a failed or interrupted run is fixed simply by
 # the next run picking up whatever is still outstanding.
@@ -31,6 +32,7 @@ import argparse
 # (it calls logging.basicConfig at import), so orchestrator logs land there too.
 import daily_match_loader
 import generate_script
+import generate_voiceover
 
 
 def announce(message):
@@ -71,6 +73,16 @@ def scripts_stage(limit=None, sleep=0.0):
     return generate_script.run(targets, sleep=sleep)
 
 
+def voiceover_stage(limit=None, sleep=0.0):
+    """Stage 3: synthesize voiceover audio for every script lacking one."""
+    pending = generate_voiceover.pending_ids()
+    targets = pending[:limit] if limit is not None else pending
+    announce(
+        f"[pipeline] {len(pending)} voiceover(s) pending; processing {len(targets)}"
+    )
+    return generate_voiceover.run(targets, sleep=sleep)
+
+
 def parse_args():
     parser = argparse.ArgumentParser(
         description="Run the full daily match -> summary -> script pipeline."
@@ -86,6 +98,10 @@ def parse_args():
     parser.add_argument(
         "--skip-scripts", action="store_true",
         help="Skip stage 2 (don't call Gemini); only ingest + summarize.",
+    )
+    parser.add_argument(
+        "--skip-voiceover", action="store_true",
+        help="Skip stage 3 (don't synthesize audio).",
     )
     parser.add_argument(
         "--limit", type=int, default=None,
@@ -123,6 +139,18 @@ def main():
             )
     else:
         announce("[pipeline] skipping stage: scripts")
+
+    if not args.skip_voiceover:
+        results["voiceover"], stats = run_stage(
+            "voiceover", lambda: voiceover_stage(limit=args.limit, sleep=args.sleep)
+        )
+        if stats:
+            announce(
+                f"[pipeline] voiceover: generated={stats['generated']} "
+                f"skipped={stats['skipped']} failed={stats['failed']}"
+            )
+    else:
+        announce("[pipeline] skipping stage: voiceover")
 
     announce(f"[pipeline] run complete ({results})")
     announce("#" * 60)

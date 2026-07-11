@@ -10,9 +10,11 @@
 # Get a key from Google AI Studio: https://aistudio.google.com/app/apikey
 
 import os
+import re
 import json
 import time
 import random
+import functools
 import argparse
 
 from dotenv import load_dotenv
@@ -44,6 +46,25 @@ RETRY_BASE_DELAY = float(os.environ.get("GEMINI_RETRY_BASE_DELAY", "2.0"))
 RETRY_MAX_DELAY = float(os.environ.get("GEMINI_RETRY_MAX_DELAY", "30.0"))
 # HTTP status codes worth retrying: 429 rate limit + transient server errors.
 RETRYABLE_STATUS = {429, 500, 502, 503, 504}
+
+# Text-to-speech (voiceover) settings. gemini-3.1-flash-tts-preview is the
+# latest dedicated TTS model; "Puck" is an upbeat prebuilt voice that suits
+# hype-y sports recaps. TTS_STYLE is a natural-language delivery direction
+# prepended to the narration. All env-overridable.
+TTS_MODEL = os.environ.get("GEMINI_TTS_MODEL", "gemini-3.1-flash-tts-preview")
+TTS_VOICE = os.environ.get("GEMINI_TTS_VOICE", "Puck")
+TTS_STYLE = os.environ.get(
+    "GEMINI_TTS_STYLE",
+    "Narrate this soccer recap like a high-energy sports highlights announcer: "
+    "fast, punchy pacing, rising excitement into the decisive moment. Pronounce "
+    "player and team names in their correct native pronunciation.",
+)
+
+# Optional lexicon that maps exact names to a phonetic respelling, applied to the
+# SPOKEN text only (real names stay intact in the script/on-screen fields). This
+# is how you deterministically fix a name the TTS mispronounces: add an entry and
+# re-run. Keys starting with "_" are ignored (use for notes).
+PRONUNCIATION_FILE = os.environ.get("GEMINI_PRONUNCIATIONS", "pronunciations.json")
 
 
 class VideoScript(BaseModel):
@@ -94,14 +115,14 @@ def _is_retryable(exc):
     return isinstance(exc, (ConnectionError, TimeoutError))
 
 
-def _generate_with_retry(client, prompt, config):
+def _generate_with_retry(client, model, prompt, config):
     """Call generate_content, retrying transient errors with exponential
     backoff + jitter. Permanent errors (bad request, auth, model 404) raise
     immediately."""
     for attempt in range(MAX_RETRIES + 1):
         try:
             return client.models.generate_content(
-                model=MODEL_NAME, contents=prompt, config=config
+                model=model, contents=prompt, config=config
             )
         except Exception as exc:
             if attempt >= MAX_RETRIES or not _is_retryable(exc):
@@ -128,11 +149,114 @@ def generate_script(match_summary, client=None):
     client = client or get_client()
     prompt = build_prompt(match_summary)
 
-    response = _generate_with_retry(client, prompt, generation_config())
+    response = _generate_with_retry(client, MODEL_NAME, prompt, generation_config())
     # response.text is the JSON string; response.parsed is the validated model.
     if getattr(response, "parsed", None) is not None:
         return response.parsed.model_dump()
     return json.loads(response.text)
+
+
+def generate_json(prompt, response_schema=None, model=None, client=None,
+                  system_instruction=None):
+    """Generic structured-JSON generation with retry (no scriptwriter persona).
+
+    Returns the parsed object (dict) when a pydantic response_schema is given,
+    otherwise the JSON-decoded response text.
+    """
+    client = client or get_client()
+    config = types.GenerateContentConfig(
+        system_instruction=system_instruction,
+        temperature=TEMPERATURE,
+        response_mime_type="application/json",
+        response_schema=response_schema,
+    )
+    response = _generate_with_retry(client, model or MODEL_NAME, prompt, config)
+    parsed = getattr(response, "parsed", None)
+    if parsed is not None:
+        return parsed.model_dump() if hasattr(parsed, "model_dump") else parsed
+    return json.loads(response.text)
+
+
+def _parse_pcm_params(mime_type):
+    """Pull (rate, channels, sample_width_bytes) from a PCM mime type such as
+    'audio/L16;codec=pcm;rate=24000' or 'audio/l16; rate=24000; channels=1'."""
+    rate, channels, sample_width = 24000, 1, 2
+    if mime_type:
+        m = re.search(r"rate=(\d+)", mime_type)
+        if m:
+            rate = int(m.group(1))
+        m = re.search(r"channels=(\d+)", mime_type)
+        if m:
+            channels = int(m.group(1))
+        m = re.search(r"[lL](\d+)", mime_type)  # L16 -> 16-bit -> 2 bytes
+        if m:
+            sample_width = max(1, int(m.group(1)) // 8)
+    return rate, channels, sample_width
+
+
+@functools.lru_cache(maxsize=1)
+def _load_pronunciations():
+    """Load the name->respelling lexicon (cached). Returns {} if absent/invalid."""
+    if not os.path.exists(PRONUNCIATION_FILE):
+        return {}
+    try:
+        with open(PRONUNCIATION_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return {}
+    if not isinstance(data, dict):
+        return {}
+    return {str(k): str(v) for k, v in data.items() if not str(k).startswith("_")}
+
+
+def load_pronunciations():
+    """Public accessor for the current pronunciation lexicon (name -> respelling)."""
+    return _load_pronunciations()
+
+
+def apply_pronunciations(text, lexicon=None):
+    """Replace lexicon names in the spoken text with their phonetic respelling.
+
+    Longest names first (so multi-word names win), matched on word boundaries so
+    a short name isn't found inside a longer one.
+    """
+    lex = _load_pronunciations() if lexicon is None else lexicon
+    if not lex or not text:
+        return text
+    keys = sorted(lex, key=len, reverse=True)
+    pattern = re.compile(
+        "|".join(rf"(?<!\w){re.escape(k)}(?!\w)" for k in keys)
+    )
+    return pattern.sub(lambda m: lex[m.group(0)], text)
+
+
+def synthesize_speech(text, client=None):
+    """Synthesize narration audio for a piece of text via Gemini TTS.
+
+    Returns a dict: {data: raw PCM bytes, rate, channels, sample_width} — ready
+    to be written to a WAV container by the caller.
+    """
+    client = client or get_client()
+    config = types.GenerateContentConfig(
+        response_modalities=["AUDIO"],
+        speech_config=types.SpeechConfig(
+            voice_config=types.VoiceConfig(
+                prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name=TTS_VOICE)
+            )
+        ),
+    )
+    spoken = apply_pronunciations(text)
+    prompt = f"{TTS_STYLE}\n\n{spoken}" if TTS_STYLE else spoken
+
+    response = _generate_with_retry(client, TTS_MODEL, prompt, config)
+    inline = response.candidates[0].content.parts[0].inline_data
+    rate, channels, sample_width = _parse_pcm_params(inline.mime_type)
+    return {
+        "data": inline.data,
+        "rate": rate,
+        "channels": channels,
+        "sample_width": sample_width,
+    }
 
 
 def parse_args():
