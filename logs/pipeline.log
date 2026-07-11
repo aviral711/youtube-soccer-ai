@@ -1089,3 +1089,29 @@
 2026-07-10 17:51:40,181 | INFO | Successfully Loaded Match 5139960
 2026-07-10 17:51:40,181 | INFO | Daily Match Loader Completed
 2026-07-10 17:51:40,181 | INFO | ============================================================
+2026-07-10 22:22:12,482 | INFO | ############################################################
+2026-07-10 22:22:12,484 | INFO | [pipeline] run starting (date=yesterday)
+2026-07-10 22:22:12,485 | INFO | [pipeline] skipping stage: ingest+summaries
+2026-07-10 22:22:12,485 | INFO | [pipeline] skipping stage: scripts
+2026-07-10 22:22:12,486 | INFO | [pipeline] run complete ({})
+2026-07-10 22:22:12,486 | INFO | ############################################################
+2026-07-10 22:22:35,831 | INFO | ############################################################
+2026-07-10 22:22:35,832 | INFO | [pipeline] run starting (date=yesterday)
+2026-07-10 22:22:35,833 | INFO | [pipeline] skipping stage: ingest+summaries
+2026-07-10 22:22:35,834 | INFO | [pipeline] START stage: scripts
+2026-07-10 22:22:35,845 | INFO | [pipeline] 0 match(es) pending a script
+2026-07-10 22:22:35,846 | INFO | [pipeline] DONE  stage: scripts (0.0s)
+2026-07-10 22:22:35,847 | INFO | [pipeline] scripts: generated=0 skipped=0 failed=0
+2026-07-10 22:22:35,847 | INFO | [pipeline] run complete ({'scripts': True})
+2026-07-10 22:22:35,847 | INFO | ############################################################
+2026-07-10 22:24:33,475 | INFO | ############################################################
+2026-07-10 22:24:33,476 | INFO | [pipeline] run starting (date=yesterday)
+2026-07-10 22:24:33,476 | INFO | [pipeline] skipping stage: ingest+summaries
+2026-07-10 22:24:33,476 | INFO | [pipeline] START stage: scripts
+2026-07-10 22:24:33,478 | INFO | [pipeline] 43 script(s) pending; processing 1
+2026-07-10 22:24:35,361 | INFO | AFC is enabled with max remote calls: 10.
+2026-07-10 22:24:46,711 | INFO | HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-07-10 22:24:46,730 | INFO | [pipeline] DONE  stage: scripts (13.3s)
+2026-07-10 22:24:46,731 | INFO | [pipeline] scripts: generated=1 skipped=0 failed=0
+2026-07-10 22:24:46,731 | INFO | [pipeline] run complete ({'scripts': True})
+2026-07-10 22:24:46,731 | INFO | ############################################################
